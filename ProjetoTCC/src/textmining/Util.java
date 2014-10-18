@@ -66,8 +66,8 @@ public class Util {
   public static File STOPWORDS_FILE = makeStopWordFile();
 
   private static File makeStopWordFile() {
-    File stops = new File("C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\dir\\stopwords\\stopwords_portugues");
-    File stops_stemmed = new File("C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\stopwords_portugues_stemmed");
+    File stops = new File("C:\\ArquivosTCC\\stopwords\\stopwords_portugues");
+    File stops_stemmed = new File("C:\\ArquivosTCC\\stopwords_portugues_stemmed");
     
     if(stops.exists() && !stops.isDirectory()){
     	return stops;

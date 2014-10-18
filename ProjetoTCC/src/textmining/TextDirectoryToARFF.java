@@ -27,10 +27,10 @@ public class TextDirectoryToARFF implements Serializable {
 	private Instances m_Data = null;
 	private Instances m_FilteredData = null;
 
-	private static String TRAINING_CLASS = "C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\dir\\class\\training-class";
-	private static String TRAINING_CLASSLIST = "C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\dir\\class\\training-classlist";
-	private static String TRAINING = "C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\dir\\training";
-	private static String ARFF_PATH = "C:\\Users\\Álvaro\\workspace\\ProjetoTCC\\src\\data\\dir\\arff";
+	private static String TRAINING_CLASS = "C:\\ArquivosTCC\\class\\training-class";
+	private static String TRAINING_CLASSLIST = "C:\\ArquivosTCC\\class\\training-classlist";
+	private static String TRAINING = "C:\\ArquivosTCC\\training";
+	private static String ARFF_PATH = "C:\\ArquivosTCC\\arff";
 	
 	/* The filter used to generate the word counts. */
 	private Filter m_Filter = null;
