@@ -1,0 +1,191 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.43.36.1 with SMTP id sy1csp104514icb;
+        Tue, 10 Jun 2014 07:40:39 -0700 (PDT)
+X-Received: by 10.50.55.66 with SMTP id q2mr35501151igp.11.1402411238907;
+        Tue, 10 Jun 2014 07:40:38 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@hotelbono.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.50.16.163 with POP3 id h3mf2392378igd.7;
+        Tue, 10 Jun 2014 07:40:38 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Tue, 10 Jun 2014 14:37:19 +0000
+Received-SPF: pass (domain of hotelbono.com designates 46.105.154.39 as permitted sender)
+X-YMailISG: 5GQjfh4WLDvr5O666VZ9MsGH_fNHnXrEVYHkaO6KhdS4nR61
+ xumQw33aXsHevaS4Lif_Z97Hyje2rIhkshS8Vej6AezTDrXcMAbqyXvYYrf6
+ feuv8IRgWUG6X8T6qZD.jn1Dk13yajSI9BnULYo6arHN7lPPC5iA66aeH4eK
+ yjhMUqdj6xGrgukbv6IwFCvfOMgpzsD7J9PiQG3iNloL1gmVHBPAoy0JOaGV
+ JZxyeiUpXColSTCufCjk4OmoUcQjwAnjqQrHvt2QSUvKfZUBChXvHVriZRnA
+ 2V2DCDcfImXvNbVBr9jjkEtsZPKwGFAVAmyHdbiv.wFCCEMod.1WXWlwbU.t
+ cezVZNfVlTptDDFihnQkZyFn7mqQIAep5H25NVTzRQKcqx87tO_ppxxnBJgv
+ Eooi8sXFOptnEoBD1JGH3kYzL9QXXLFkNLK._WX2jwW7VRIJCO5nRmmHgNj_
+ 3EWh4ziyGc2rDnOWsFC1YDWwT4EZB0fSwH_SriV5NLiJ1bltbTvBMSOnWgCm
+ saOpJt85LbB8lWU8sLtDvdY1lkGuuFpJCQQIhp_NHOH528nGl3HyYs1gyXjn
+ vlVGC6dePLI1Eq.DIhZlYNIMdvcB6pwDeK5i8e6Qj7pIZZghdUH9u4BEBItI
+ Rh6VvULly_D3fplDmH8MDpdqpLTzmyjn9WCayPQvAFJxXCB.gB7JNEnrj_JW
+ gTJKrPopng_adw7nJKcXYG8KNYCpkT.5Witsw9ndHziY7KaoWlw3Shf8AdyX
+ VinOfTIwIQaDVUXw4add4isGlQfaCC_FuH_P82k_uNv_X44fR1xnMr_h32Tf
+ z.E0ARB1U7Z42W3xlb9umYXx.lKevrh6PLYtmD4a3fPZaB4O34QAqzEeR7fO
+ H0K41mmKEfHmlr5SzJnoR82h3Uv8eTgM4MjUdyLxIO2J37VL2Gj829FcE98_
+ bm36W7jtfS.qvaI1zgPMW4dGh5oPmN8lN56q1fTb8Csibranhc3KUJ_FXsHl
+ nb1M67PBztjVPA.K.kp0BdCltQTz4Qk9M4jQ_T1McAnO_1pt10QT8E6NLK.i
+ lI7XQ1C9PNmcL1BUnyYWq6t6KvmWNLpJPXaInD_DZVCojxdzKblk_FiVOeqZ
+ cC1j0hJGHMyLRWX4ngNQcAnOzRvAMmwuuNYWMLxBGQxtnOA1IMI1hP_IR9P7
+ FEDnx3dzwSJn2uhZlDQo.Ou1y_szWndTrUi7UXYCqdfvGRBTE7gulpYDAQGR
+ 97DCQ54z.pwfWtosq28UqjH266grDQCQcdKpmOfrcykTMFuojQTCodyYVenW
+ K4EAq0Pr9.hlev7Cka6RkWDBB2_Fv3IRV9..vLs16AwmchCCqZ7BLSayWfOh
+ 5V3qP01jcBUp52d.23uR1.t.alKXyQvdMTpnwUZU4IXUxwPIKC_dsRHJBS2q
+ n8JTZAgEFVhxGWqSX7POfvuumANx_Sz7feo_9bX85Gzlsg1eSXrKzXS9nPXP
+ wI0EDoH8Bobv.hKE51jY4AMMf3CvONum87aHhzB9DokgJ7wvTCzaaakxrrpi
+ vzpM5ASk9pSqCa8lUaqDhRFkpbJblOG6oeKYv28UF1aEt3QUA6lITdSKCDga
+ CD783Q.SvbX3JQR5WccMWGWeoa3Jb.G4kMl4GJTYz4Bx40CaYZpLpx.ugjjE
+ L0bMP9hs5sYa6p1e8Z0oJ06ybLixOAkTAgEYiCXiuQAU9Tr55d03SVw-
+X-Originating-IP: [46.105.154.39]
+Authentication-Results: mta1568.mail.bf1.yahoo.com  from=hotelbono.com; domainkeys=neutral (no sig);  from=hotelbono.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mailr12-39.aldaniti.net) (46.105.154.39)
+  by mta1568.mail.bf1.yahoo.com with SMTP; Tue, 10 Jun 2014 14:37:19 +0000
+Date: Tue, 10 Jun 2014 16:37:18 +0200
+DKIM-Filter: OpenDKIM Filter v2.8.4 mailr12-39.aldaniti.net 43D114819CD
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=hotelbono.com;
+	s=smtp; t=1402411038;
+	bh=LAfhha5CYRuOWLkFvcQ76iMnjWHXvN264RI937wKnSA=;
+	h=List-Unsubscribe:To:From:Reply-to:Subject;
+	b=utZzf0RRVkvnkOILcHeZrgzbvV7xCaVrbmQ5qLi5oiI9YZYx3BFphXAi3JQYJmrTz
+	 V9aVYlqgHIKS71sZgZZyzCQIkoi6mk+dWGbS5WHO0pwD4EcKjamUCKbX10IffF1J9e
+	 5gPhTyA0uMq/x3MVt++2uKeXwdqMbEOs+XZm65tE=
+List-Unsubscribe: <http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOiIyMTk3MDEiLCJjb2QiOjM5OTQ2NTksImNhdCI6bnVsbCwicGsiOiI5Njg3MzYzIiwidW5zdWJzY3JpYmVfc2VwIjoiazl4IiwiY3J5cHRlZF9lbWFpbCI6ImtqdFo1Q2tiZXFPZ0EiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=>
+To: ajuver@yahoo.com.br
+From: "Decolar.com" <promo@hotelbono.com>
+Reply-to: info@hotelbono.com
+Subject: =?UTF-8?Q?=C3=81lvaro,_encontre_as_melhores_ofertas_para_os_Estados_Unido?=
+ =?UTF-8?Q?s?=
+Sender: promo@hotelbono.com
+Message-ID: <ZmFsY29uOzQ2LjEwNS4xNTQuMzk7YWp1dmVyQHlhaG9vLmNvbS5icjs2OzIxOTcwMTs1Mzk3MTgwNDBiN2Qx@hotelbono.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0733c9428fc80d43d953488029c92afa"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+
+--b1_0733c9428fc80d43d953488029c92afa
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Visualizar online
+http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA1LCJjYXQiOiI4IiwiY250IjoiQlJBIiwiZW1haWwiOiJhanV2ZXJAeWFob28uY29tLmJyIiwibGlzdCI6Imxpc3RfMTc5ODYzIiwiZ2VuIjoiTSIsImNwcyI6IjkwNTUwMTUwIiwiYmR0IjoiMTk4Mi0wMi0wNSJ9
+Considera este email como ? 
+Lixo Electrônico http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA2LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcnlwdGVkX2VtYWlsIjoia2p0WjVDa2JlcU9nQSIsImxpc3QiOiJsaXN0XzE3OTg2MyIsImVtYWlsIjoiYWp1dmVyQHlhaG9vLmNvbS5iciIsImdlbiI6Ik0iLCJjcHMiOiI5MDU1MDE1MCIsImJkdCI6IjE5ODItMDItMDUifQ== 
+Lixo Electrônico http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA3LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcnlwdGVkX2VtYWlsIjoia2p0WjVDa2JlcU9nQSIsImxpc3QiOiJsaXN0XzE3OTg2MyIsImVtYWlsIjoiYWp1dmVyQHlhaG9vLmNvbS5iciIsImdlbiI6Ik0iLCJjcHMiOiI5MDU1MDE1MCIsImJkdCI6IjE5ODItMDItMDUifQ==
+
+Álvaro Oferecemos-lhe esta oferta por ter se inscrito em algum dos nossos concursos exclusivos.
+ajuver@yahoo.com.br, este é o email que foi fornecido na hora do seu registro,
+com isso queremos lembrar que estamos comprometidos com todas as leis 
+quanto a proteção de dados.
+Desejamos que esta publicidade seja totalmente do seu agrado.
+
+****----****
+
+Álvaro, encontre as melhores ofertas para os Estados Unidos em Decolar.com
+
+****----****
+
+http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA4LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=
+
+****----****
+
+Viajes Tuttocard SL, lhe envia este email por ter se registrado em algum dos nossos sorteios de viagens (Viagem dos seus sonhos, Viagem ao Caribe, Viagem Cancún,...) <br>
+Caso tenha alguma dúvida ou reclamação relativas a esta publicidade contate  conosco
+
+ http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA5LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=
+Se não quer mais receber nossa publicidade, por favor siga este link Visualizar online 
+http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTEwLCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJwayI6Ijk2ODczNjMiLCJ1bnN1YnNjcmliZV9zZXAiOiJrOXgiLCJjcnlwdGVkX2VtYWlsIjoia2p0WjVDa2JlcU9nQSIsImxpc3QiOiJsaXN0XzE3OTg2MyIsImVtYWlsIjoiYWp1dmVyQHlhaG9vLmNvbS5iciIsImdlbiI6Ik0iLCJjcHMiOiI5MDU1MDE1MCIsImJkdCI6IjE5ODItMDItMDUifQ==
+
+
+--b1_0733c9428fc80d43d953488029c92afa
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style></style>
+
+</head>
+<body>
+<img src="http://organul.com/fv.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjoyMTk3MDEsImNhdCI6IjgiLCJjbnQiOiJCUkEiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" width="1" height="1" /><table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" align="center">
+     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#0078d0">
+      <tr>
+        <td height="50" width="20%"></td>
+        <td align="center" height="50" width="200" valign="middle" bgcolor="#005ea3"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NDk1LCJjYXQiOiI4IiwiY250IjoiQlJBIiwiZW1haWwiOiJhanV2ZXJAeWFob28uY29tLmJyIiwibGlzdCI6Imxpc3RfMTc5ODYzIiwiZ2VuIjoiTSIsImNwcyI6IjkwNTUwMTUwIiwiYmR0IjoiMTk4Mi0wMi0wNSJ9" style="font-family:Arial, Helvetica, sans-serif; color:#FFF; display:block; text-decoration:none; font-size:14px; width:200px; height:35px; padding-top:15px">Visualizar online</a></td>
+	<td width="1" bgcolor="#FFFFFF"></td>
+        
+        <td align="center" height="50" width="200" valign="middle" bgcolor="#EF5151"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NDk2LCJjYXQiOiI4IiwiY250IjoiQlJBIiwiZW1haWwiOiJhanV2ZXJAeWFob28uY29tLmJyIiwiY3J5cHRlZF9lbWFpbCI6ImtqdFo1Q2tiZXFPZ0EiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" style="font-family:Arial, Helvetica, sans-serif; color:#FFF; display:block; text-decoration:none; font-size:14px; width:200px; height:35px; padding-top:15px">Lixo Electrônico</a></td>
+        <td height="50"  width="20%"></td>
+      </tr>
+	 </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="10" height="10"></td>
+    <td align="right" style="color:#666; border-bottom:1px solid #e9e9e9; font-size:11px; font-family:Arial, Helvetica, sans-serif; padding-right:10px; padding-top:10px; padding-bottom:5px;"><b>Publicidade </b></td>
+    <td width="10" height="10"></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#356d9c" align="center" style="color:#ccc; font-size:14px; font-family:Arial, Helvetica, sans-serif"></td>
+  </tr>
+  <tr>
+    <td width="10"></td>
+    <td  align="center">
+    <img src="http://organul.com/fcv.php?url=nb2hi4b2f4xwq5bonbxxizlmmjxw43zomnxw2l3wfzygq4b7mnxwipjrg44tgmjvezygwpkpkrmtitt2juze25zfgncckm2enm4xqjtwge6u6vcbgfhfiqlyjzkecjjtirvts6bgoyzd2tkunm2e22jqo5gwsmdxjziskm2eeuzui2zzpathmmz5knaskm2eeuzui2zzpathayljom6ueurgmnqxipjzezrgipjwezyhepknkrrtktl2iuyq===="  width="1" height="1" />
+    <img src="http://pixel.mathtag.com/data/img?mt_id=437936&mt_dcid=HTBNOTY4NzM2Mw==k9x&v1=&v2=&v3=&s1=&s2=&s3=" width="1" height="1" /><img src="http://track.adform.net/Serving/TrackPoint/?pm=198663&lid=5120905&itm={'sv2':'HTBNOTY4NzM2Mw==k9x'}" width="1" height="1" alt="" />
+      <br />
+
+
+<table width="100" border="0" cellspacing="0" cellpadding="0"><tr><th align="left" valign="top" scope="col"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NDk3LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/18635.jpg" width="835" height="197" /></a></th>
+  </tr><tr><th align="left" valign="top" scope="row"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><th align="left" valign="top" scope="col"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NDk4LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/29990.jpg" width="538" height="291" border="0" /></a></th>
+        <th align="left" valign="top" scope="col"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NDk5LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/32177.jpg" width="297" height="291" border="0" /></a></th>
+      </tr></table></th>
+  </tr><tr><th align="left" valign="top" scope="row"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><th align="left" valign="top" scope="col"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTAwLCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/44606.jpg" width="416" height="252" border="0" /></a></th>
+        <th align="left" valign="top" scope="col"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTAxLCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/55668.jpg" width="419" height="252" border="0" /></a></th>
+      </tr></table></th>
+  </tr><tr><th align="left" valign="top" scope="row"><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTAyLCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" target="_blank"><img src="http://organul.com/ffiles/6/219701/vertodas4317.jpg" width="835" height="49" /></a></th>
+  </tr></table>
+
+      <br />
+    </td>
+    <td width="10"></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="10" height="10"></td>
+          <td align="left" style="border-top:1px solid #e9e9e9;border-bottom:1px solid #e9e9e9;"><img src="http://organul.com/ffiles/6/219701/logoizqwhite9945.jpg" width="142" height="41" style="display:block" /></td>
+          <td align="justify" bgcolor="#FFF" style="border-top:1px solid #e9e9e9; border-bottom:1px solid #e9e9e9; border-left:1px solid #e9e9e9"><p style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#666;text-decoration:none; padding-top:15px; padding-bottom:15px; padding-left:15px; max-width:600px">Viajes Tuttocard SL, lhe envia este email por ter se registrado em algum dos nossos sorteios de viagens (Viagem dos seus sonhos, Viagem ao Caribe, Viagem Cancún,...) <br> <a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTAzLCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJsaXN0IjoibGlzdF8xNzk4NjMiLCJlbWFpbCI6ImFqdXZlckB5YWhvby5jb20uYnIiLCJnZW4iOiJNIiwiY3BzIjoiOTA1NTAxNTAiLCJiZHQiOiIxOTgyLTAyLTA1In0=" style="font-family: Arial, Helvetica, sans-serif;font-size: 11px;color:
+#459FDB;text-decoration:none;">Caso tenha alguma dúvida ou reclamação relativas a esta publicidade contate  conosco</a></p>      </td>
+          <td width="10" height="10"></td>
+        </tr>
+        <tr>
+          <td colspan="4" width="500" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#356d9c;text-decoration: none; padding-top:15px; padding-bottom:15px;"><span style="font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #459FDB;text-decoration: none;">  </span><a href="http://organul.com/frd.php?c=eyJpZENsaSI6IjYiLCJpZENhbXAiOjIxOTcwMSwiY29kIjozOTk0NTA0LCJjYXQiOiI4IiwiY250IjoiQlJBIiwicGtfYyI6Ik9UWTROek0yTXclM0QlM0RrOXgiLCJjcF9jIjoiT1RBMU5UQXhOVEElM0RrOXgiLCJmZWNoYV9uYWNfYyI6Ik1UazRNaTB3TWkwd05RJTNEJTNEazl4Iiwic2V4b19jIjoiU0ElM0QlM0RrOXgiLCJwayI6Ijk2ODczNjMiLCJ1bnN1YnNjcmliZV9zZXAiOiJrOXgiLCJjcnlwdGVkX2VtYWlsIjoia2p0WjVDa2JlcU9nQSIsImxpc3QiOiJsaXN0XzE3OTg2MyIsImVtYWlsIjoiYWp1dmVyQHlhaG9vLmNvbS5iciIsImdlbiI6Ik0iLCJjcHMiOiI5MDU1MDE1MCIsImJkdCI6IjE5ODItMDItMDUifQ==" style="font-family: Arial, Helvetica, sans-serif;font-size: 11px;color:#264d6e;text-decoration:none;">Se não quer mais receber nossa publicidade, por favor siga este
+link</a></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+--b1_0733c9428fc80d43d953488029c92afa--
+
+

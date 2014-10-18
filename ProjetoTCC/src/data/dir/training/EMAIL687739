@@ -1,0 +1,286 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp288753icm;
+        Wed, 18 Jun 2014 17:03:51 -0700 (PDT)
+X-Received: by 10.43.84.67 with SMTP id aj3mr1818649icc.38.1403136230123;
+        Wed, 18 Jun 2014 17:03:50 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@email.microsoft.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.207.164 with POP3 id lx4mf519697iec.5;
+        Wed, 18 Jun 2014 17:03:50 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.175; Wed, 18 Jun 2014 23:52:52 +0000
+Received-SPF: pass (domain of email.microsoft.com designates 65.55.52.232 as permitted sender)
+X-YMailISG: gG.k.dMWLDvAoTNYosTcfGlTI_sIzAy0VqXO8HEBW3azh7Fg
+ 26vG6G_HAsHDx4xpzJ7SPHw.2akCAhQSu.DEsaoU4ZrpRIWYk3cH79XCVxKN
+ lmcyNnM7yVV9W2UQHEpr3INyFOW9.V5c3AP1XbiExfwkMoJalmH55El.evtG
+ V5qr4rWraRsryIgGKsOSIi7w0TTIDz60___TiGpMYUVAkRC6J4y7vocTe39.
+ gSmNLjQsswWrVs_Tou9IY8p7EmNnz8yQ4RuUPFwhJgbmTCH73un3KbT7PCRS
+ aBGuocbDFBSjtEfApbilO_GTOC3aWQ2kOOpXoUmaUcK4Vs.l0pAfSXUz_xPO
+ astFS3ijmOks_uCutnN4RCdbe4xu4VE7Nzj.lbuH5vrgnVKn4NFhoip2BeYC
+ S_KpijTNwVCVQbz4i_u6oU6TqHuuEeafObuFL7R0uDGv4Z1D5f6gMqA_0VTr
+ MOQ5cfa1A.faKslia91yhlHRBvDm78D8BJL7FksLpfCZwwdwsh4qpbJC_n5G
+ g_Hx6mTZ9wUKEmWf.A.VyKEltUv7RO63Vwov3mrsmHnQ7Iq_Rhwhk45julD8
+ MYftAnFrra7lDPaaRrngQOi5G0kNj5vwDFObALg.Z1dgdLrWJra5zdZtLhhv
+ RFsoOjgtbTP2Hi5ajIPrpAg99L9U5Jd8W4_M1_eapVwGEyS4SRB1yL63QOzw
+ 9ey5BUO5SzjFzxRsUFUp0T3gYeFKqcxmSE0vLdTzi3Qh.UojVMokPFEJfFKE
+ xF6p.USHs30ssawyO404JcpabhkBBAi49Og2sH149FO3nxkgqq9KBeLx_Cbc
+ J1Iib6ySNxe4IghtuHzIFHdmytdvisdweoSBQc3MsDoCI2IWqvKQAtVQV3cR
+ RoRhuUxPP_fT9rgzZJLpQf2bK_l7mREoYLyJkPc.YJd.yXIJKi8wh1VRopdG
+ 6.463Rt6MQVs5jpHwIlbdvgnXMJkrcWBWQoyLrAGFQK2fF6akp03S8UMhpUq
+ OC3Mz0BcENKBe3MVZ4NYoSN_dRFwmYxsrtI7SaHAhY1exuHyw.6nzdgmqs5M
+ EDlDjggZRBsJNy6bVCTLc7P.GwL02VFfwnjh8hdrZICqpcglGEy4PVUZGzfJ
+ yzFOakSdZtQtKasYAPLnfylPOn9cgJD1JYefcYSWhh_HL.WvvYpyybKjORdp
+ eRN7RHvXqupyxV6oeftEUs.9ZubYROv8hmifxPiFdvyWHwAsfXua9_2k060S
+ isbbPM8NQxPOpJh.fqhd.v.emtc8DpNs_V1bOOwpWaH79.7sYRqeSkkfnQw1
+ GjEVRIxMHX.WA1X99Ag9tb5EvzGOZUBx6R2Cm.Mow8ZBjUoAxgsNn.3SH_hO
+ 9rrPXkHZTOUH89mGSSwpoKuj00gTwaA7OhYhuhuqwsMTZ3EraTHb4zlHK2GL
+ Wz5vhWlA4QfhOggEeR91UhpfoM0FHaNHi7.Mzt2c8Irv.GAL8yLNAJ1w2879
+ U1ylDYHqamh2JmEqgH.AqUg0QLhq5hC5bku_l_h7hVp6sddSXM4XT7Gj9F8.
+ tIMmP.jc5KdvJ0_md4MGuUj_CgRLmOipp8s8UthfbpG_9ENCavSv1bjUMPTB
+ cdBNwDULHUeqtw--
+X-Originating-IP: [65.55.52.232]
+Authentication-Results: mta1537.mail.ne1.yahoo.com  from=; domainkeys=neutral (no sig);  from=email.microsoft.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtpi.msn.com) (65.55.52.232)
+  by mta1537.mail.ne1.yahoo.com with SMTPS; Wed, 18 Jun 2014 23:52:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=email.microsoft.com; s=s1024; t=1403135548; h=From:Subject:Date
+	:Message-ID:To:MIME-Version:Content-Type; bh=3hqRvsL1tPReMf1vUhL6HZhzuEA7
+	3XfeT5q10RJuhsE=; b=BCCTkX3T4UVZa55k1Z/XuT5uPcW13AgL28mcAeUyHu8hxJtvmKTvM
+	BtdbI4WmAwwlHT074uwKJNLB1QiVNOGeqIyJ6QGATsJUhRUSOEYuKfs/6zs0f+cOsFUot0Kco
+	U2mbJxZfdw17Rkr0c8bDp9OT6raY/b6F7szlVc2PgOfWM=;
+DKIM-Signature: v=1; a=rsa-sha1; d=microsoft.discoverbing.com; s=ciprod; c=relaxed/relaxed; l=12025; i=@*.microsoft.discoverbing.com; t=1403135548; x=1434671548; q=dns/txt; h=Date:From:To:Message-ID:Subject; bh=GiiVCpEhKoFkXDPNVWvxvwAsYgE=; b=afcsA9y/zpjzlgSU/3CNzYzZa7W0mL08CR8mQkyvpJUIom0d8lJ+OPLVs6uP5K5dSxVZMrzUWPvYcIA1bzsyEHi1xhRBZl7UoY6+Pg6iAmG7LT7CYwB8gX/wdhUOsH2Fnmi77O8cZW7++k1MCyI8vjB1rHMLsMmXPQJ438JvKYI=
+Date: Wed, 18 Jun 2014 16:52:28 -0700
+From: Outlook.com <servicenotification@email.microsoft.com>
+To: <ajuver@yahoo.com.br>
+Message-ID: <em.89b4f62.20140618164551.2.357.2808312.14015402@email.microsoft.com>
+Subject: =?UTF-8?Q?As_altera=C3=A7=C3=B5es_de_pol=C3=ADticas_do_Yahoo_e_?=
+ =?UTF-8?Q?AOL_est=C3=A3o_afetando_a_entrega_de_emails?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-----146b1655ae3_206f"
+X-Mailer: 7.2.2.3.25; msn
+X-rpcampaign: msft362109
+X-Message-Routing: c/XoHtglriWDWexyluL8o6aUtBdXRwk++L0HkmQC26t8YPX3RbRTBZJl22CC2LN8lO4hNTdhHqhbtG8Es5mtdeUyA2LEDN5JaOs36Py7LNvAEITnU0bO6AMCzFg==
+X-DKIM-Signer: DkimX (v1.11.111)
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+-------146b1655ae3_206f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Outlook.com
+
+*********************************************************************
+
+As altera=C3=A7=C3=B5es de pol=C3=ADticas do Yahoo e AOL est=C3=A3o afetand=
+o a entrega=20
+de emails
+
+*********************************************************************
+
+Prezado cliente do Outlook.com,
+
+Voc=C3=AA definiu um endere=C3=A7o de envio para ser enviado "em nome de" u=
+m=20
+endere=C3=A7o Yahoo ou AOL e pode ter encontrado dificuldades na hora de=20
+enviar emails.
+
+O Outlook.com oferece suporte ao protocolo DMARC ("Domain-based=20
+Message Authentication, Reporting & Conformance"), que protege voc=C3=AA=20
+ao dificultar para os scammers a falsifica=C3=A7=C3=A3o de endere=C3=A7os d=
+e email.=20
+Recentemente, o Yahoo e AOL alteraram as pol=C3=ADticas do DMARC. Isso=20
+poder=C3=A1 causar a rejei=C3=A7=C3=A3o dos emails de envio da conta Outloo=
+k.com=20
+nos provedores de email dos destinat=C3=A1rios.
+
+Recomendamos que voc=C3=AA configure o envio SMTP. Essa =C3=A9 a forma mais=
+=20
+segura de enviar emails de endere=C3=A7os Yahoo e AOL pelo Outlook.com.=20
+Al=C3=A9m disso, =C3=A9 f=C3=A1cil de configurar.=20
+
+*********************************************************************
+
+ Configurando o envio SMTP
+
+    1.=09Clique no =C3=ADcone Op=C3=A7=C3=B5es
+    2.  Clique em Op=C3=A7=C3=B5es
+    3.=09Clique em Suas contas de email
+    4.=09Clique em Detalhes, ao lado de cada conta Yahoo ou AOL
+    5.=09Clique em Atualizar as Configura=C3=A7=C3=B5es SMTP
+    6.=09Insira a senha da conta Yahoo e AOL de sua escolha
+    7.=09Clique em Pr=C3=B3ximo
+
+Quando estiverem configurados, os emails enviados com o endere=C3=A7o de=20
+envio do seu endere=C3=A7o de email Yahoo ou AOL ser=C3=A3o entregues de fo=
+rma=20
+mais segura.
+
+*********************************************************************
+
+Atenciosamente,
+Equipe do Outlook.com
+
+*********************************************************************
+[Microsoft]
+http://email.microsoft.com/Key-14015402.D.12VQ.C.KK.FJFYBx
+
+A Microsoft respeita a sua privacidade. Para obter mais=20
+informa=C3=A7=C3=B5es, leia a nossa [Politica de Privacidade].
+http://email.microsoft.com/Key-14015402.D.12VQ.D.KK.FJF9vl
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052=20
+
+
+.
+
+-------146b1655ae3_206f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    
+    <td width="600"><table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="600"><table width="600" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="24" height="72" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+                <td width="143"><table width="143" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="143" height="24" style="line-height:0px; font-size:0px;">
+					  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td width="143" height="48" valign="top" style="line-height:0px; font-size:0px;">
+					  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/logo-outlookdotcom.jpg" alt="Outlook" width="176" height="33" border="0"></td>
+                    </tr>
+                  </table></td>
+                <td width="134" height="72" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+                <td width="275" height="72"><table width="275" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="275" height="36" style="line-height:0px; font-size:0px;">
+					  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td width="275" height="36" valign="top" align="right"><font face="Segoe UI, Arial, Helvetica" color="#FFFFFF" style="font-size:12px; line-height:18px;">Traga o seu email</font></td>
+                    </tr>
+                  </table></td>
+                <td width="24" height="72" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td width="600"><table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#0072c6" align="center">
+              <tr>
+                <td width="24" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+                <td width="552" height="240" valign="top"><table width="552" height="240" border="0" cellspacing="0" cellpadding="0" align="center">
+                          <tr>
+                            <td width="552" height="240" valign="center" align="left"><font face="Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, Arial" color="#FFFFFF" style="font-size:30px; line-height:32px;">As altera&#231;&#245;es de pol&#237;ticas do Yahoo e AOL est&#227;o afetando a entrega de emails.</font></td>
+                          </tr>
+                  </table></td>
+                <td width="24" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  
+  <tr>
+    <td width="600"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+          <td width="24" style="line-height:0px; font-size:0px;">
+		  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+          <td width="552"><table width="552" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td width="552" height="48" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+              <tr>
+                <td width="552" align="left">
+                	<font face="Segoe UI, Arial, Helvetica" color="#454545" style="font-size:12px; line-height:18px;"> Prezado cliente do Outlook.com,<br>
+                		<p>Voc&#234; definiu um endere&#231;o <b>de envio</b> para ser enviado "em nome de" um endere&#231;o Yahoo ou AOL e pode ter encontrado dificuldades na hora de enviar emails.</p> 
+                		<p>O Outlook.com oferece suporte ao protocolo DMARC ("Domain-based Message Authentication, Reporting & Conformance"), que protege voc&#234; ao dificultar para os scammers a falsifica&#231;&#227;o de endere&#231;os de email. Recentemente, o Yahoo e AOL alteraram as pol&#237;ticas do DMARC. Isso poder&#225; causar a rejei&#231;&#227;o dos emails <b>de envio</b> da conta Outlook.com nos provedores de email dos destinat&#225;rios.</p>
+                		<p>Recomendamos que voc&#234; configure o <b>envio SMTP</b>. Essa &#233; a forma mais segura de enviar emails de endere&#231;os Yahoo e AOL pelo Outlook.com. Al&#233;m disso, &#233; f&#225;cil de configurar. </p>
+                		<p style="color:#0072c6; padding-right:0px; font-size:20px">
+                		Configurando o envio SMTP
+                		</p>
+                		<ol>
+                        <li>Clique no &#237;cone Op&#231;&#245;es&nbsp;<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-05_OL_AOL_DMARC_SN/images/en-us/options.jpg" width="16" height="17" alt="options" border="0"></li>
+                        <li>Clique em <b>Op&#231;&#245;es</b></li>
+						<li>Clique em <b>Suas contas de email</b></li>
+						<li>Clique em <b>Detalhes</b>, ao lado de cada conta Yahoo ou AOL</li>
+						<li>Clique em <b>Atualizar as Configura&#231;&#245;es SMTP</b></li>
+						<li>Insira a senha da conta Yahoo e AOL de sua escolha</li>
+						<li>Clique em <b>Pr&#243;ximo</b></li>
+						</ol>	
+						<p>Quando estiverem configurados, os emails enviados com o endere&#231;o <b>de envio</b> do seu endere&#231;o de email Yahoo ou AOL ser&#227;o entregues de forma mais segura.</p> </font>
+                </td>
+              </tr>
+              <tr>
+                <td width="552" height="42" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+              <tr>
+                <td width="552" align="left"><font face="Segoe UI, Arial, Helvetica" color="#0072c6" style="font-size:16px; line-height:16px;">Atenciosamente,</font></td>
+              </tr>
+              <tr>
+                <td width="552" align="left"><font face="Segoe UI, Arial, Helvetica" color="#0072c6" style="font-size:16px; line-height:16px;">Equipe do Outlook.com</font></td>
+              </tr>
+              <tr>
+                <td width="552" height="50" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+            </table></td>
+          <td width="24" style="line-height:0px; font-size:0px;">
+		  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  
+  <tr>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 568px; clear: both; font-size: 9px; font-family: Verdana; color: #999999; padding: 10px 0px 24px 20px" align="center">
+				<tr>
+					<td style="text-align: right;">
+<a target="_blank" href=http://email.microsoft.com/Key-14015402.D.12VQ.F.KK.FJGGk0 ><img alt="" border="0" src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2013_footers/images/en-us/microsoft_logo_gray_tr.png"></a>
+				</tr>
+				<tr>
+					<td style="text-align: left; padding: 15px 0px 0px 0px; font-size:9px;">
+					A Microsoft respeita a sua privacidade.  Para obter mais informa&#231;&#245;es, leia a nossa <a href=http://email.microsoft.com/Key-14015402.D.12VQ.G.KK.FJGVfQ  target="_blank" style="color:#898989; text-decoration:underline; font-size:9px; font-family:Segoe UI, Arial, Sans-Serif;">Politica de Privacidade</a>.
+					<br><br>
+				<p><span class="appleLinks">Microsoft Corporation<br> One Microsoft Way<br> Redmond, WA 98052</span></p>
+					</td>
+				</tr>
+				
+			</table>
+  </tr>
+              <tr>
+                <td width="561" height="10" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+              <tr>
+                <td width="561" height="15" style="line-height:0px; font-size:0px;">
+				<img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+              </tr>
+            </table></td>
+          <td width="15" style="line-height:0px; font-size:0px;">
+		  <img src="https://sc.imp.live.com/content/dam/imp/surfaces/email/fy14/2014-03_OL_Conversation_History/images/en-us/space.gif" width="1" height="1" alt="espa&#231;o" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<BR><img src="https://pixel.monitor1.returnpath.net/pixel.gif?r=324b3cf0804faea1d4017c0a41cf67b17187f8f3&c=362109" width="1" height="1"><BR><BR><img src="http://email.microsoft.com/blankpixel.gif/Key-14015402.D.12VQ.z.KK.nJGC18N"/><BR><BR><!-- Message-Id: &lt;em.89b4f62.20140618164551.2.357.2808312.14015402@email.microsoft.com&gt; --><BR></body>
+</html>
+
+-------146b1655ae3_206f--

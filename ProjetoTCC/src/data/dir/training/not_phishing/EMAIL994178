@@ -1,0 +1,458 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp237193icc;
+        Mon, 6 Oct 2014 16:25:15 -0700 (PDT)
+X-Received: by 10.50.103.42 with SMTP id ft10mr26712534igb.40.1412637915061;
+        Mon, 06 Oct 2014 16:25:15 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+1488436.9848308.37263@icpbounce.com designates 216.27.86.152 as permitted sender) smtp.mail=bounces+1488436.9848308.37263@icpbounce.com;
+       dkim=neutral (body hash did not verify) header.i=@
+Received-SPF: pass (google.com: domain of bounces+1488436.9848308.37263@icpbounce.com designates 216.27.86.152 as permitted sender) client-ip=216.27.86.152;
+Received: by 10.64.225.172 with POP3 id rl12mf4318719iec.26;
+        Mon, 06 Oct 2014 16:25:14 -0700 (PDT)
+X-Gmail-Fetch-Info: alvaro.juver@totvs.com.br 3 mail.totvs.com.br 995 alvaro.juver
+Received: from ICARUS.sp01.local (172.16.90.105) by ORPHEUS.poa01.local
+ (10.51.0.14) with Microsoft SMTP Server (TLS) id 14.3.181.6; Mon, 6 Oct 2014
+ 19:29:52 -0300
+Received: from as4-totvs.totvs.com.br (172.16.90.202) by mail.totvs.com.br
+ (172.16.90.105) with Microsoft SMTP Server (TLS) id 14.3.210.2; Mon, 6 Oct
+ 2014 19:29:52 -0300
+Received: from localhost (localhost [127.0.0.1])	by as4-totvs.totvs.com.br
+ (Postfix) with ESMTP id A0BDAE62D3	for <alvaro.juver@totvs.com.br>; Mon,  6
+ Oct 2014 19:30:18 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at totvs.com.br
+Authentication-Results: as4-totvs.totvs.com.br (amavisd-new);
+	dkim=pass (1024-bit key) header.d=icontactmail1.com
+Received: from as4-totvs.totvs.com.br ([127.0.0.1])	by localhost
+ (as4-totvs.totvs.com.br [127.0.0.1]) (amavisd-new, port 10024)	with LMTP id
+ IyJyxZNOpjYc for <alvaro.juver@totvs.com.br>;	Mon,  6 Oct 2014 19:30:14 -0300
+ (BRT)
+Received: from drone095.ral.icpbounce.com (drone095.ral.icpbounce.com
+ [216.27.86.152])	by as4-totvs.totvs.com.br (Postfix) with ESMTP id 9790CE62DA
+	for <alvaro.juver@totvs.com.br>; Mon,  6 Oct 2014 19:30:13 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=icontactmail1.com;
+ h=Mime-Version:From:To:Date:Reply-To:Subject:List-Unsubscribe:Feedback-ID:Content-Type:Message-ID;
+ bh=MK5d1dfi5869uDP6GexSEcY29kZo9c4mMaYmdgJQlRg=;
+ b=WLH5PrdXFDGy6Y6FSDuw91HdWcMEKxFVQAUMBH5CS3MRmWNMAwA9XuNkvJnuSsPbihCqj8Rzfx8A
+   A1tniJmEqzXsVrQk4Pe3JiVeeJ/HrxJQVhIasuOUYxsWrxT5hWk7/Ly0pGU3xJmNMS4f0+WUWRVr
+   bsyGKi5cc4bAYkLt1n4=
+From: Cleyton Leite <Cleyton.Leite@bigdatanhadoopstudy.com>
+To: <alvaro.juver@totvs.com.br>
+Date: Mon, 6 Oct 2014 18:30:07 -0400
+Reply-To: <Cleyton.Leite@bigdatanhadoopstudy.com>
+Subject: Big Data Analysis using Hadoop
+Errors-To: bounces+1488436.9848308.37263@icpbounce.com
+List-Unsubscribe: <https://app.icontact.com/icp/listunsubscribe.php?r=9848308&l=4979&s=OLD7&m=37263&c=1488436>, <mailto:bounces+1488436.9848308.37263@icpbounce.com>
+X-List-Unsubscribe: <https://app.icontact.com/icp/listunsubscribe.php?r=9848308&l=4979&s=OLD7&m=37263&c=1488436>
+X-Unsubscribe-Web: <https://app.icontact.com/icp/listunsubscribe.php?r=9848308&l=4979&s=OLD7&m=37263&c=1488436>
+Feedback-ID: 1488436_4979_37263:1488436_4979:1488436:icontact
+X-ICPINFO:
+X-Return-Path-Hint: bounces+1488436.9848308.37263@icpbounce.com
+Content-Type: multipart/alternative;
+	boundary="cdf82e78-582d-4a55-9037-dacf81ae37d3"
+Message-ID: <0.1.7.23A.1CFE1B515224B2E.0@drone095.ral.icpbounce.com>
+Return-Path: bounces+1488436.9848308.37263@icpbounce.com
+X-MS-Exchange-Organization-SCL: 6
+X-MS-Exchange-Organization-PCL: 2
+X-MS-Exchange-Organization-Antispam-Report: DV:3.3.13503.473;OrigIP:172.16.90.202
+X-MS-Exchange-Organization-AuthSource: icarus.sp01.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--cdf82e78-582d-4a55-9037-dacf81ae37d3
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Certified Hadoop(2.0) Development & BI Training=0A=0ADear Alvaro,=0A=0AGreetings from KnowledgeHut!!=0A=0AWe are glad to announce our upcom=
+ing program on 3 days [1]Big Data & Hadoop(2.0)=0ADevelopment training work=
+shop at Brazil in the following citiy.=0A=0ASao Paulo: 22nd - 24th Oct 2014=
+=0A=0AWhat is Big Data?=0A* Everyday, we create 2.5 quintillion bytes of da=
+ta =E2=80=94 so much that 90% of the=0Adata in the world today has been cre=
+ated in the last two years alone.=0A* Gartner defines Big Data as high volu=
+me, velocity and variety information=0Aassets that demand cost-effective, i=
+nnovative forms of information processing=0Afor enhanced insight and decisi=
+on making.=0A* According to IBM, 80% of data captured today are unstructure=
+d, from sensors=0Aused to gather climate information, posts to social media=
+ sites, digital=0Apictures and videos, purchase transaction records, and ce=
+ll phone GPS signals,=0Ato name a few. All of this unstructured data is Big=
+ Data.=0A=0AWhat does Hadoop solve?=0A* Organizations are discovering that =
+important predictions can be made by=0Asorting through and analysing Big Da=
+ta.=0A* However, since 80% of this data is "unstructured", it must be forma=
+tted (or=0Astructured) in a way that makes it suitable for data mining and =
+subsequent=0Aanalysis.=0A* Hadoop is the core platform for structuring Big =
+Data, and solves the problem=0Aof making it useful for analytics purposes.K=
+nowledgehut builds on Apache=0AHadoop's scalability and reliability. Knowle=
+dgehut enhances basic Hadoop by=0Aadding data integration services, managem=
+ent and monitoring services as well as=0Aquerying and analysis services. Kn=
+owledgehut makes it easy to query and analyse=0Adata across hundreds of com=
+modity Compute+Store cluster nodes and petabytes of=0Adata in an easy and l=
+ogical manner.=0A=0AWhat participants will learn?=0A* The attendees will le=
+arn below topics through lectures and hands-on=0Aexercises=0A* Understand B=
+ig Data & Hadoop Ecosystem=0A* Hadoop Distributed File System =E2=80=93 HDF=
+S=0A* Installing your own Hadoop cluster.=0A* Running Pig and Hive Scripts =
+for large scale data analysis=0A* Running distributed programs on a Hadoop =
+Cluster=0A* Running Hadoop on a Cloud/clustered environment=0A* Understand =
+NoSQL Databases and how they seamlessly scale=0A* Hands on with Hadoop and =
+MongoDB=0A* Best practices for Hadoop and NoSQL development=0A=0AFor more d=
+etails: [2]Bigdatanhadoopstudy=0A=0ARegistration & Price Details:=0AStandar=
+d Price: BRL 3499 || Early Bird Price: BRL 1700=0AEarly Bird Date: 12th Oct=
+ 2014=0A=0APlease contact us for more information on: Group waivers, In-hou=
+se Training,=0AMentoring, Consulting and Corporate nominations.=0A=0AKindly=
+ revert or call us for any clarifications you may have. You could reach us=
+=0Aon +1-613-707-0763 / +1-469-442-0620 OR leave a message. Awaiting your r=
+esponse=0Ain this regard.=0A=0AThank you & Have a fabulous day!=0A=0ARegard=
+s,=0ACleyton Leite=0ABusiness Associate || Contact No: +1-613-707-0763 / +1=
+-469-442-0620=0AEmail: Cleyton.Leite@bigdatanhadoopstudy.com=0A____________=
+____________________________________________________________________=0A____=
+___________________________________________________________________________=
+_=0A________=0AWe sincerely apologize if you find this email an intrusion o=
+f your privacy or a=0Asource of inconvenience to you.=0A___________________=
+_____________________________________________________________=0A___________=
+_____________________________________________________________________=0A___=
+_____=0A=0AReferences=0A=0A1. http://www.knowledgehut.com/training/hadoop-d=
+evelopment-training-saopaulo/556/2635=0A2. http://www.knowledgehut.com/trai=
+ning/hadoop-development-training-saopaulo/556/2635=0A=0AThis message was se=
+nt to alvaro.juver@totvs.com.br from:
+Cleyton Leite | Cleyton.Leite@bigdatanhadoopstudy.com | KnowledgeHut LLC | One Commerce Centre
+1201 Orange St. #600 | Wilmington, DE 19899=0A=0AUnsubscribe:=0Ahttp://app.icontact.com/icp/mmail-mprofile.pl?r=3D9848308&l=3D4979&s=3DOLD7&m=3D37263&c=3D1488436=0A=0A=0A
+
+--cdf82e78-582d-4a55-9037-dacf81ae37d3
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta content=3D"IE=3Dedge, chrome=3D1" http-equiv=3D"X-UA-Compatible"><style=
+ type=3D"text/css">@media only screen and (max-width: 620px) {
+	      [id=3DtopMessageWrapper] img {
+	        height: auto !important;
+	        max-width: 100%;
+	        width: auto;
+	      }
+          [id=3DtopMessageWrapper],
+          [id=3DtopMessageWrapperMainTable] {
+            width: 100% !important;
+			table-layout: fixed;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+          }
+      }@media only screen and (max-width: 450px) {
+          [id=3DtopMessageWrapper] {
+            padding: 0 10px;
+          }
+          td[class=3DresponsiveColumn] {
+            width: 100% !important;
+            height: auto !important;
+            display:block;
+            padding: 0;
+            clear:both;
+            height:auto;
+          }
+      }</style></head><body style=3D"margin: 0; padding: 0;"><table cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" bgcolor=3D"#ffffff" style=3D"ba=
+ckground-color:#ffffff"><tbody><tr><td align=3D"center" style=3D"text-align=
+:left"><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D"to=
+pMessageWrapper" style=3D"background-color: #ffffff; color: #000000; font-f=
+amily: 'Trebuchet MS'; font-size: 11px; width: 600px; margin: 0 auto;" bgco=
+lor=3D"#ffffff" width=3D"600"><tbody><tr><td>
+	<!-- BASIC DERIVATION: OneSection --><table id=3D"topMessageWrapperMainTab=
+le" border=3D"0" width=3D"600" cellpadding=3D"0" cellspacing=3D"0"><tbody><=
+tr><td class=3D"responsiveColumn" style=3D"color: #000000; font-family: 'Tr=
+ebuchet MS'; font-size: 11px;">
+					<table border=3D"0" height=3D"100%" width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0"><tbody><tr><td style=3D"padding-top: 10px; padding-left: 1=
+0px; padding-right: 10px; padding-bottom: 10px; color: #000000; font-family=
+: 'Trebuchet MS'; font-size: 11px;" valign=3D"top">=20
+									=20
+									=20
+									=20
+								<div style=3D"border-color: #c2d9e7;" class=3D""><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" style=3D"word-wrap: break-word; tab=
+le-layout: fixed;"><tbody><tr><td style=3D"color: #000000; font-family: 'Tr=
+ebuchet MS'; font-size: 11px;">=0A=
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><span style=3D"color: #84ab03;"><strong>Certified Hadoop(2.0=
+) Development &amp; BI Training</strong></span></span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">Dear <span style=3D"font-size: 12px;"><span style=3D"font-fa=
+mily: verdana,geneva,sans-serif;">Alvaro</span></span>,</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">Greetings from <strong>KnowledgeHut!!</strong></span></span>=
+=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">We are glad to announce our upcoming program on 3 days <stro=
+ng><a href=3D"http://click.icptrack.com/icp/relay.php?r=3D9848308&amp;msgid=
+=3D37263&amp;act=3DOLD7&amp;c=3D1488436&amp;destination=3Dhttp%3A%2F%2Fwww.=
+knowledgehut.com%2Ftraining%2Fhadoop-development-training-saopaulo%2F556%2F=
+2635" style=3D"color: #0000FF!important;">Big Data &amp; Hadoop(2.0) Develo=
+pment</a></strong> training workshop at <strong>Brazil</strong><span style=
+=3D"color: #000000;"> in the following citiy.</span></span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><strong><span style=3D"color: #84ab03;"><span style=3D"color=
+: #84ab03;">Sao Paulo:</span> <span style=3D"color: #000000;">22nd - 24th O=
+ct 2014</span></span></strong></span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><span style=3D"color: #84ab03;"><strong>What is Big Data?</s=
+trong></span></span></span><br><ul><li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Everyday, we create 2.5 quintillion bytes of data =E2=80=
+=94 so much that 90% of the data in the world today has been created in the=
+ last two years alone.</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Gartner defines Big Data as high volume, velocity and vari=
+ety information assets that demand cost-effective, innovative forms of info=
+rmation processing for enhanced insight and decision making.</span></span>=
+=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">According to IBM, 80% of data captured today are unstructu=
+red, from sensors used to gather climate information, posts to social media=
+ sites, digital pictures and videos, purchase transaction records, and cell=
+ phone GPS signals, to name a few. All of this unstructured data is Big Dat=
+a. </span></span>=0A=
+</li>
+	</ul></div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><strong><span style=3D"color: #84ab03;">What does Hadoop sol=
+ve?</span></strong></span></span><br><ul><li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Organizations are discovering that important predictions c=
+an be made by sorting through and analysing Big Data.</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">However, since 80% of this data is &quot;unstructured&quot=
+;, it must be formatted (or structured) in a way that makes it suitable for=
+ data mining and subsequent analysis.</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Hadoop is the core platform for structuring Big Data, and =
+solves the problem of making it useful for analytics purposes.Knowledgehut =
+builds on Apache Hadoop's scalability and reliability. Knowledgehut enhance=
+s basic Hadoop by adding data integration services, management and monitori=
+ng services as well as querying and analysis services. Knowledgehut makes i=
+t easy to query and analyse data across hundreds of commodity Compute&#43;S=
+tore cluster nodes and petabytes of data in an easy and logical manner. </s=
+pan></span>=0A=
+</li>
+	</ul></div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><strong><span style=3D"color: #84ab03;">What participants wi=
+ll learn?</span></strong></span></span><br><ul><li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">The attendees will learn below topics through lectures and=
+ hands-on exercises</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Understand Big Data &amp; Hadoop Ecosystem</span></span>=
+=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Hadoop Distributed File System =E2=80=93 HDFS</span></span=
+>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Installing your own Hadoop cluster.</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Running Pig and Hive Scripts for large scale data analysis=
+</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Running distributed programs on a Hadoop Cluster</span></s=
+pan>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Running Hadoop on a Cloud/clustered environment</span></sp=
+an>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Understand NoSQL Databases and how they seamlessly scale</=
+span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Hands on with Hadoop and MongoDB</span></span>=0A=
+</li>
+		<li>
+			<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,gen=
+eva,sans-serif;">Best practices for Hadoop and NoSQL development </span></s=
+pan>=0A=
+</li>
+	</ul></div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">For more details: <strong><a href=3D"http://click.icptrack.c=
+om/icp/relay.php?r=3D9848308&amp;msgid=3D37263&amp;act=3DOLD7&amp;c=3D14884=
+36&amp;destination=3Dhttp%3A%2F%2Fwww.knowledgehut.com%2Ftraining%2Fhadoop-=
+development-training-saopaulo%2F556%2F2635" style=3D"color: #0000FF!importa=
+nt;"><span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,g=
+eneva,sans-serif;">Bigdatanhadoopstudy</span></span></a></strong></span></s=
+pan>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><span style=3D"color: #84ab03;"><strong>Registration &amp; P=
+rice Details:</strong></span><br><strong>Standard Price:</strong> BRL 3499 =
+|| <strong>Early Bird Price:</strong> BRL 1700<br><strong>Early Bird Date:<=
+/strong> <span>12th Oct 2014</span></span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><strong>Please contact us for more information on:</strong> =
+Group waivers, In-house Training, Mentoring, Consulting and Corporate nomin=
+ations.</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">Kindly revert or call us for any clarifications you may have=
+. You could reach us on <strong>&#43;<span style=3D"font-size: 12px;"><span=
+ style=3D"font-family: verdana,geneva,sans-serif;"><span>1-613-707-0763 /</=
+span> &#43;1-469-442-0620</span></span></strong> OR leave a message. Awaiti=
+ng your response in this regard.</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">Thank you &amp; Have a fabulous day!</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">&nbsp;</span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">Regards,<br>
+	Cleyton Leite<br>
+	Business Associate || <strong>Contact No:</strong> <span style=3D"font-siz=
+e: 12px;"><span style=3D"font-family: verdana,geneva,sans-serif;"><span>&#4=
+3;1-613-707-0763 /</span> &#43;1-469-442-0620</span></span></span></span>=
+=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;"><strong>Email:</strong> Cleyton.Leite@bigdatanhadoopstudy.co=
+m<br>
+	__________________________________________________________________________=
+___________________________________________________________________________=
+___________________<br><span style=3D"color: #6f6f6f;">We sincerely apologi=
+ze if you find this email an intrusion of your privacy or a source of incon=
+venience to you. </span></span></span>=0A=
+</div>
+<div style=3D"text-align: left;">
+	<span style=3D"font-size: 12px;"><span style=3D"font-family: verdana,genev=
+a,sans-serif;">____________________________________________________________=
+___________________________________________________________________________=
+_________________________________</span></span>=0A=
+</div>
+</td></tr></tbody></table></div>=0A=
+</td>
+							</tr></tbody></table></td>
+			</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table=
+>=0A=
+=0A=
+<br><br><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"10=
+0%">=0A=
+ <tr>=0A=
+ <td width=3D"100%" bgcolor=3D"#ffffff">=0A=
+ <p style=3D"font-family:arial,helvetica,sans-serif; font-size:12px; line-h=
+eight:20px; color:#5e5e5e; margin: 0px 0px 5px;">This message was sent to a=
+lvaro.juver@totvs.com.br from:</p>=0A=
+ <p style=3D"font-family:arial,helvetica,sans-serif; font-size:12px; line-h=
+eight:20px; color:#5e5e5e; margin: 0px 0px 5px;">Cleyton Leite | Cleyton.Le=
+ite@bigdatanhadoopstudy.com | KnowledgeHut LLC | One Commerce Centre
+1201 Orange St. #600 | Wilmington, DE 19899</p>=0A=
+ </td>=0A=
+ <td width=3D"2%" bgcolor=3D"#ffffff">=0A=
+ <p style=3D"font-family:arial,helvetica,sans-serif; font-size:9px; line-he=
+ight:13px; color:#5e5e5e;">Email Marketing by=0A=
+ <a href=3D"http://www.icontact.com/a.pl/144186" target=3D"_blank"><img src=
+=3D"http://app.icontact.com/images/icontact_tryFree.gif" alt=3D"iContact - =
+Try It Free!" border=3D"0"></a></p>=0A=
+ </td>=0A=
+ </tr>=0A=
+</table>=0A=
+=0A=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+	<tr>=0A=
+		<td bgcolor=3D"#FFFFFF" style=3D"font-size:12px;">=0A=
+						 	<a href=3D"http://app.icontact.com/icp/mmail-mprofile.pl?r=3D984830=
+8&amp;l=3D4979&amp;s=3DOLD7&amp;m=3D37263&amp;c=3D1488436" style=3D"font-fa=
+mily: Arial, Helvetica, san-serif; font-size: 12px; line-height: 20px; colo=
+r: #115880; font-weight: bold; text-decoration: none;">=0A=
+					Unsubscribe=0A=
+				</a>=0A=
+					</td>=0A=
+	</tr>=0A=
+=0A=
+</table>=0A=
+=0A=
+	<img src=3D"http://click.icptrack.com/icp/track.php?msgid=3D37263&amp;act=
+=3DOLD7&amp;r=3D9848308&amp;c=3D1488436" width=3D"1" height=3D"1">=0A=
+</body>=0A=
+</html>
+
+--cdf82e78-582d-4a55-9037-dacf81ae37d3--

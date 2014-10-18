@@ -1,0 +1,90 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp156427icc;
+        Mon, 8 Sep 2014 15:32:07 -0700 (PDT)
+X-Received: by 10.60.82.170 with SMTP id j10mr35376996oey.37.1410215526946;
+        Mon, 08 Sep 2014 15:32:06 -0700 (PDT)
+Return-Path: <retorno@fourinews.com.br>
+Received: from mail2.fourinews.com.br (server2.fourinews.com.br. [108.174.198.216])
+        by mx.google.com with ESMTP id rq3si16059489oeb.30.2014.09.08.15.32.06
+        for <ajuver@gmail.com>;
+        Mon, 08 Sep 2014 15:32:06 -0700 (PDT)
+Received-SPF: pass (google.com: domain of retorno@fourinews.com.br designates 108.174.198.216 as permitted sender) client-ip=108.174.198.216;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of retorno@fourinews.com.br designates 108.174.198.216 as permitted sender) smtp.mail=retorno@fourinews.com.br;
+       dkim=neutral (body hash did not verify) header.i=@
+Received: by mail.fourinews.com.br (Postfix, from userid 0)
+	id 7A8215B47C; Mon,  8 Sep 2014 19:32:06 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fourinews.com.br;
+	s=dkim; t=1410215526;
+	bh=nMrUqYDXlxW5m96omqcp70SnHuMeFg6efPruudw6jKw=;
+	h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=OlN+/DF+k+zM4xaYBiG/960JabU9p4gmo7O/MvSBWR9zqCiPAWoF+mTlshFDRc48y
+	 bhxcu+rBZ43B5ElnSaRxW6q4Hdbfs/9Y4Q7w9d95Na1kqbr89XXGd8nVJ5iazE9nz7
+	 ibmIj+vr9O+VhP9RytC+d4edw129lKpX247psScU=
+To: ajuver@gmail.com
+Subject: Seu VW zero km a partir de 319 mensais
+X-PHP-Originating-Script: 0:email.php
+Message-ID: <7577034979ce1b7679986b4e3f2356d5@fourinews.com.br>
+Date: Mon, 08 Sep 2014 19:17:25 -0300
+From: "=?UTF-8?B?Q29uc8OzcmNpbyBOYWNpb25hbCBWb2xrc3dhZ2VuIC0gY29uc3VsdGUgYXF1aSBzZW0gY29tcHJvbWlzc28=?=" <retorno@fourinews.com.br>
+Reply-To: retorno@fourinews.com.br
+MIME-Version: 1.0
+X-Mailer-LID: 79
+X-Mailer-RecptId: 4185371
+X-Mailer-SID: 692
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_91b47970f39e1d04695794a83c5cd8c5"
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--b1_91b47970f39e1d04695794a83c5cd8c5
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de e-mail não pode ler este e-mail.
+Para visualizá-lo on-line, por favor, clique aqui:
+http://fourinews.com.br/mkt/display.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&S=692&L=79&N=80
+
+
+Para parar de receber nossos
+Emails:http://fourinews.com.br/mkt/unsubscribe.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&L=79&N=692
+
+--b1_91b47970f39e1d04695794a83c5cd8c5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><title>Cons&oacute;rcio Volkswagem</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css"><!--
+body,td,th {
+	font-family: arial;
+	font-size: 11px;
+	color: #999;
+}
+body {
+	background-color: #F7F7F7;
+}
+ .topo {
+	font-size: 13px;
+	color: #000;
+}
+--></style>
+<!-- Save for Web Slices (Cons&oacute;rcio Volkswaguem.psd) -->
+<div align="center">Caso n&atilde;o consiga visualizar <a
+href="http://fourinews.com.br/mkt/link.php?M=4185371&N=692&L=556&F=H">clique
+aqui</a></div>
+<div align="center"><a
+href="http://fourinews.com.br/mkt/link.php?M=4185371&N=692&L=555&F=H"
+target="_blank"><img
+src="http://wtdinews.com.br/clientes/volkswagen/imagens/index.jpg"
+width="600" height="728" border="0" /><br /></a><a
+href="http://fourinews.com.br/mkt/unsubscribe.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&L=79&N=692">Clique
+aqui para deixar de receber estes e-mails</a></div>
+<!-- End Save for Web Slices --><img
+src="http://fourinews.com.br/mkt/open.php?M=4185371&L=79&N=692&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_91b47970f39e1d04695794a83c5cd8c5--
+

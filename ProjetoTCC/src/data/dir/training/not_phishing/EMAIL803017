@@ -1,0 +1,646 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.110.200 with SMTP id r8csp163804icp;
+        Tue, 3 Jun 2014 07:27:16 -0700 (PDT)
+X-Received: by 10.50.25.3 with SMTP id y3mr7981246igf.47.1401805635992;
+        Tue, 03 Jun 2014 07:27:15 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 98.139.244.173 does not designate permitted sender hosts) smtp.mail=98.139.244.173
+Received-SPF: none (google.com: 98.139.244.173 does not designate permitted sender hosts) client-ip=98.139.244.173;
+Received: by 10.50.151.138 with POP3 id uq10mf137546igb.13;
+        Tue, 03 Jun 2014 07:27:15 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Tue, 03 Jun 2014 13:36:34 +0000
+Received-SPF: pass (domain of b.disparadoremm.com designates 66.55.82.170 as permitted sender)
+X-YMailISG: buK9hJUWLDvX8nxwx4ufP1dYjLZZuXC9y86AY0hnqMtmg8Km
+ BUTSt1QUvhnKz4qjIqFDFHv0dBt2UXRadTTsDnGJN8b9siDW6us8lsy2coFB
+ o4Uf63LsT8sRrlQ1ir13zUghIcYtg1mBM2IhzVxH_9RvC..FDedFvYtAuBsO
+ 8EA7Q8_82Dn3iKOx.jKm4AGeFHpW37BCQzJKpBbeVpTp9IpQLy._gIp9aZ1Z
+ M.9Tc0o74j1wMNYgf.AB9SVXqdTWGFBXHg3p2e.uQ5vz5DclSsZNQyGKJaUw
+ JgzTGVXw2FTbBjjvV_hMai1SQWO.DuelJFNevIh8QQ14ySZ7PonODCoZmSEu
+ xW2QOf0v0mDA6S2atCLgWyHv_4xj4oeQ6Bmgmdr4jgZh50SpH4Aaamc7uooM
+ r6WcKYyob3ysUgl9l2iRUtbG2dCERUmW9oPJcIgsDpGxUffJbzLQaR_PambX
+ yfRiMv1G0Sm53S4JFc4dwrQ3IAJ0OzKzYjSPNVXhje.Btsw.AAsdZfHdwrXb
+ TdsBFYvfrJtx13C3fGPLNClB3JWZCuiY5m1sRnrM2Rr93xzFHbPfq2ETEUpY
+ KkMtJmqttH5adyrzUYxThWJzxlZXo4Fvs9B.ZJ495bnuh7ZZISNwi9sQNMDF
+ 9jBbAhfraL.axO7KF_DVJiYCtnsKiywNZp.eUQ6fk_kA9CNS_rFsMrbFJV7i
+ nVHnbbOtYI790JMkWtpwFNBK07pScqvg0lAIrJ6kin8Nz.MM.PueRpFjjqXi
+ Dw9bKIMN4AkyaJlzg7uMypX6mAElRlh1L4Hf6w48R6OmtD7l3U88cMok8iUN
+ P1z7TeOnGO9uEkCHVaH2VYa_k599FFLRlEQPABr1QGvM1R3rujW82._fVQtg
+ 4m.mkBml3ZaV35D84QkSTa3gKPNYOVlbIKYtIuY9Qrl27iwHcqcc.oBLgJbc
+ xh459uhHVu2lQULVcpnrkT2wgV1tJXXAQSEhGfbsT7.cDmpJb3LK3HOrPFik
+ Z2oh11UZQVeQuPtYzAMuBuLjQDpJFQ5WXd7QnY43O.LG2dab.zHewRfXyRLM
+ ZWXkkiVJ.abJiWyMyHUkDJxaM142f0AZmoCci4pcTDIto7X4Ja.zUMqwc9Rz
+ yzZv2Yk_D9WiWQ6.1lTre.3N64.6MG7aPoqR6KEEUzdWDVr02SIkDOjh1xAu
+ y7b35Jl1yphScDotAMtWwWjxtgm2guhDJAuyRpTa.KBK6JZb8poi72O6JvgP
+ LkQpfXnHXyZzZWC5dZ8spmCRZzQFZMvBnp8yJtnoNoiMeOxHIXSg9enKCwtz
+ hKJ3lUJDzTiA9R30ONLgglCztJE5O5xbU.QsaUqxLKvFnwsrzoTFGIQvs53Z
+ xydOkcBfs3KXDYgci6ThwA99wW8hK5t1uLT9JxLCzbVNln4hH.djfgHpIQ.i
+ x944REZkVQ30nWBMd_nlpoiJd4UO5cA0mzvo9m4knpHjUXTDMpZvkik113un
+ V0D79exw4CziP108ajP8TZj.RzPsqWMfmM.Oq7KKtqKPn_JgEpDSxHRhoZPp
+ paZoSF1Mo.Ul8hfn
+X-Originating-IP: [66.55.82.170]
+Authentication-Results: mta1667.mail.gq1.yahoo.com  from=datelli.com.br; domainkeys=neutral (no sig);  from=datelli.com.br; dkim=neutral (no sig)
+Received: from 98.139.244.173 (98.139.244.173) by 98.139.220.124(98.139.220.124); Tue, 03 Jun 2014 13:36:36 +0000
+Received: from 127.0.0.1  (EHLO s212.enviaemm.com) (66.55.82.170)
+  by mta1667.mail.gq1.yahoo.com with SMTP; Tue, 03 Jun 2014 13:35:59 +0000
+Received: from t212.enviaemm.com (localhost.localdomain [127.0.0.1])
+	by s212.enviaemm.com (Postfix) with ESMTP id 60F8323B83
+	for <ajuver@yahoo.com.br>; Tue,  3 Jun 2014 10:17:15 -0300 (BRT)
+Date: Tue, 3 Jun 2014 10:17:15 -0300
+To: ajuver@yahoo.com.br
+From: Datelli <news@datelli.com.br>
+Sender: Datelli <news@datelli.com.br>
+Reply-To: news@datelli.com.br
+Subject: Especial para Namorados
+Message-ID: <qgw.iaW5e.X50_B@t212.enviaemm.com>
+X-Priority: 3
+Precedence: bulk
+List-Unsubscribe: <http://campanha.datelli.com.br/a/d.php?a=iaW5e&v=LEZdEs&e=qgw>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3cedc02046c8e7f39f4f4b03c52d7357"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+
+--b1_3cedc02046c8e7f39f4f4b03c52d7357
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+    Para garantir o recebimento desta mensagem, adicione news@datelli.com.br ao seu catálogo de endereços.      visualizar no navegador  |  cancele o recebimento                     Denunciar abuso           <BR>                                          HOME     FEMININO     MASCULINO     INFANTIL     OFERTAS                                        FRETE GRÁTIS em pedidos acima de R$400                       Sapatilha bico fino  R$219.00      COMPRAR                                Bota Montaria  R$439.00    
+ COMPRAR                                Bolsa  R$589.00      COMPRAR                                    bota masculina  $299.00      COMPRAR                                tenis masculino  R$199.00      COMPRAR                                carteira  $49.00      COMPRAR                             15% no boleto em todo o site     <BR>Oferta por tempo limitado.  VER COLEÇÂO                                    Anabelas...                apartir de R$ 119,00         Mais Produtos                               
+     bolsas                Apartir de R$ 60,00         Mais Produtos                                  Datelli  A Marca  Seja um Franqueado  Nossas Lojas       Fale Conosco  Fone: +55 51 3028.0862  Email: falecom@datelli.com.br  Website: datelli.com.br       Redes Sociais:                     Love &hearts; Datelli Blog                  Copyright © 2014 -  Datelli®. Todos direitos reservados. e-Mkt Produzido por iMessage      <BR> <BR>   Para garantir o recebimento desta mensagem em sua caixa de entrada,
+adicione news@datelli.com.br ao seu catálogo de endereços.<BR>Problemas com a mensagem? visualize no navegador.          caso você deseje remover seu cadastro de nossa lista, cancele o recebimento.            Denunciar abuso           
+
+
+--b1_3cedc02046c8e7f39f4f4b03c52d7357
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<html><head><style type="text/css">
+/*Hotmail and Yahoo specific code*/ 
+.ReadMsgBody { width: 100%;}
+.ExternalClass { width: 100%;}
+.yshortcuts { color: #ffffff;}
+.yshortcuts a span { color: #ffffff; border-bottom: none !important; background: none !important;}
+/*Hotmail and Yahoo specific code*/
+body {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100% !important;
+}
+p{ margin:0px !important; padding:0px !important;}
+
+/*-----MOBILE RESPONSIVE------*/
+ @media only screen and (max-width: 599px) {
+body { width: auto !important;}
+table[class="main"]{ max-width:600px !important; width: 100% !important;}
+img[class="banner"]{ max-width:600px !important; width: 100% !important; height: auto; display: block; margin:0 auto;}
+img[class="img1"]{ max-width:100% !important; width: 100% !important; height:auto; display: block; margin:0 auto;}
+td[class="hide2"]{ width:5px !important; display:none;}
+}
+ @media only screen and (max-width: 479px) {
+body { width: auto !important;}
+table[class="main"]{ max-width:600px !important; width: 100% !important;}
+td[class="phone"]{max-width:165px !important; width: 100% !important; margin:0 auto !important; display:block; text-align:center !important;}
+td[class="box1"]{ max-width:100% !important; width: 100% !important; margin:0 auto !important; display:block;}
+td[class="box2"]{ max-width:100% !important; width: 100% !important; margin:25px auto !important; margin-bottom:inherit !important; display:block;}
+td[class="manu1"]{ max-width:100% !important; width: 100% !important; margin:0 auto !important; display:block; margin-top:inherit !important; text-align:center; padding-bottom:2px !important;}
+td[class="manu2"]{ max-width:100% !important; width: 100% !important; margin:12px auto !important; margin-bottom:inherit !important; display:block; text-align:center; border-top:1px solid #dddddd; padding-top:12px !important;}
+td[class="hide"]{ width:0px !important; display:none;}
+td[class="hide2"]{ width:0px !important; display:none;}
+td[class="footer1"]{ max-width:100% !important; width: 100% !important; margin:0 auto !important; text-align:center !important; display:block;}
+td[class="footer2"]{ max-width:100% !important; width: 100% !important; text-align:center !important; margin:20px auto !important; margin-bottom:inherit !important; display:block;  border-top:1px solid #dddddd; padding-top:20px;}
+td[class="footer03"]{ text-align:center !important; margin:0 auto !important;}
+td[class="social"]{ max-width:150px !important; width:100%; display:block; text-align:center !important; margin:0 auto !important;}
+td[class="text1"]{ font-size:22px !important;}
+}
+ @media only screen and (max-width: 299px) {
+td[class="text1"]{ font-size:15px !important;}
+ }
+/*-----FECHA MOBILE RESPONSIVE------*/		</style></head><body bgcolor="#eeeeee" style="margin:0px;"><table cellspacing="0" cellpadding="5" border="1" bordercolor="#CCCCCC" style="border-style:solid; border-color:#cccccc; border-width:1px 0px;" width="100%">
+                            <tr bgcolor="#f5f5f5">
+                                <td colspan="2" align="left" height="11" style="border-style:solid; border-color:#ffffff; border-width:2px 0 0 0;">
+                                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">
+                                        Para garantir o recebimento desta mensagem, adicione <strong>news@datelli.com.br</strong> ao seu cat&aacute;logo de endere&ccedil;os.
+                                    </font>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f5f5f5">
+                                <td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                        <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://campanha.datelli.com.br/a/o.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;">visualizar no navegador</a>  |  <a href="http://campanha.datelli.com.br/a/d.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;">cancele o recebimento</a>            </font>        </td><td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0; text-align:right">
+                                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://campanha.datelli.com.br/a/da.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;">Denunciar abuso</a>
+                                    </font>
+                                </td>
+                            </tr>       
+                        </table><br />
+		<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="100%"><!--============== HEADER ===============--><tbody><tr><td bgcolor="#ffffff" style="border-bottom:2px solid #dddddd;" valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+										&nbsp;</td>
+									<td valign="top">
+										<table align="center" border="0" cellpadding="0" cellspacing="0" class="main" width="600"><tbody><tr><td height="12">
+														&nbsp;</td>
+												</tr><tr><td>
+														&nbsp;</td>
+												</tr><tr><td height="12">
+														&nbsp;</td>
+												</tr></tbody></table></td>
+									<td width="5">
+										&nbsp;</td>
+								</tr></tbody></table></td>
+				</tr><!--============== FECHA HEADER ===============--><tr><td valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+										&nbsp;</td>
+									<td valign="top">
+										<table align="center" border="0" cellpadding="0" cellspacing="0" class="main" width="600"><tbody><tr><td height="25">
+														&nbsp;</td>
+												</tr><tr><!--==============LOGO INICIA AQUI===============--><td align="center">
+														<a href="http://campanha.datelli.com.br/a/c.php?l=-iC9&e=qgw&a=iaW5e&v=njlQ-" target="_blank"><img alt="logo" border="0" height="45" src="http://www.datellinews.com.br/2/images/logo.png" style="display:block;" width="176"></a></td>
+													<!--==============LOGO TERMINA AQUI===============-->
+												</tr><tr><td height="25">
+														&nbsp;</td>
+												</tr><tr><!--==============MENU INICIA AQUI===============--><td bgcolor="#ffffff" style="border-bottom:2px solid #dddddd;" valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="18">
+																		&nbsp;</td>
+																</tr><tr><td align="center" valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="hide" width="20">
+																						&nbsp;</td>
+																					<td class="manu1" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#2a2b2b; text-align:center; text-transform:uppercase;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCZ&e=qgw&a=iaW5e&v=-q3kQG" style="color:#2a2b2b; text-decoration:none;" target="_blank">HOME</a></td>
+																					<td class="hide2" width="25">
+																						&nbsp;</td>
+																					<td class="manu2" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#2a2b2b; text-align:center; text-transform:uppercase;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCJ&e=qgw&a=iaW5e&v=-JK9TZ" style="color:#2a2b2b; text-decoration:none;" target="_blank">FEMININO</a></td>
+																					<td class="hide2" width="25">
+																						&nbsp;</td>
+																					<td class="manu2" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#2a2b2b; text-align:center; text-transform:uppercase;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iC2&e=qgw&a=iaW5e&v=kLMTH" style="color:#2a2b2b; text-decoration:none;" target="_blank">MASCULINO</a></td>
+																					<td class="hide2" width="25">
+																						&nbsp;</td>
+																					<td class="manu2" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#2a2b2b; text-align:center; text-transform:uppercase;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCb&e=qgw&a=iaW5e&v=T1qxY8" style="color:#2a2b2b; text-decoration:none;" target="_blank">INFANTIL</a></td>
+																					<td class="hide2" width="25">
+																						&nbsp;</td>
+																					<td class="manu2" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#2a2b2b; text-align:center; text-transform:uppercase;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCK&e=qgw&a=iaW5e&v=LXBHYB" style="color:#2a2b2b; text-decoration:none;" target="_blank">OFERTAS</a></td>
+																					<td class="hide" width="20">
+																						&nbsp;</td>
+																				</tr></tbody></table></td>
+																</tr><tr><td height="18">
+																		&nbsp;</td>
+																</tr></tbody></table></td>
+													<!--==============MENU TERMINA AQUI===============-->
+												</tr><tr><td height="25">
+														&nbsp;</td>
+												</tr><tr><!--============== BANNER 1 ===============--><td bgcolor="#ffffff" style="border-bottom:2px solid #dddddd;" valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="20">
+																		&nbsp;</td>
+																</tr><tr><td>
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="20">
+																						&nbsp;</td>
+																					<td align="center">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iC9&e=qgw&a=iaW5e&v=njlQ-" target="_blank"><img alt="banner" border="0" class="banner" height="282" src="http://www.datellinews.com.br/2/images/banner.jpg" style="display:block;" width="560"></a></td>
+																					<td width="20">
+																						&nbsp;</td>
+																				</tr></tbody></table></td>
+																</tr><tr><td height="20">
+																		&nbsp;</td>
+																</tr></tbody></table></td>
+													<!--==============FECHA BANNER 1===============-->
+												</tr><!--============== AREA 1 ===============--><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25">
+																		&nbsp;</td>
+																</tr><tr><td bgcolor="#ffffff" style="border-bottom:2px solid #dddddd;" valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" bgcolor="#e6a523" height="60" width="75">
+																						<img alt="" height="25" src="http://www.datellinews.com.br/2/images/car.png" style="display:block;" width="44"></td>
+																					<td class="text1" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:22px; line-height:32px; color:#2a2b2b; text-align:center; padding-left:10px; padding-right:10px; padding-top:10px; padding-bottom:10px;">
+																						<em><strong>FRETE GR&Aacute;TIS</strong></em> em pedidos acima de R$400</td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><!--==============FECHA AREA 1===============--><!--============== AREA 2 ===============--><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25">
+																		&nbsp;</td>
+																</tr><tr><td>
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#ffffff" class="box1" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iCe&e=qgw&a=iaW5e&v=LWGvxe" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_esquerda.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCe&e=qgw&a=iaW5e&v=LWGvxe" style="color:#1e272e; text-decoration:none;" target="_blank">Sapatilha bico fino</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>R$219.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iCe&e=qgw&a=iaW5e&v=LWGvxe" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																					<td class="hide" width="21">
+																						&nbsp;</td>
+																					<td bgcolor="#ffffff" class="box2" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iCC&e=qgw&a=iaW5e&v=TAXsx6" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_centro.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCC&e=qgw&a=iaW5e&v=TAXsx6" style="color:#1e272e; text-decoration:none;" target="_blank">Bota Montaria</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>R$439.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iCr&e=qgw&a=iaW5e&v=ySkfa" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																					<td class="hide" width="21">
+																						&nbsp;</td>
+																					<td bgcolor="#ffffff" class="box2" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iCM&e=qgw&a=iaW5e&v=-8Qlfu" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_direita.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCM&e=qgw&a=iaW5e&v=-8Qlfu" style="color:#1e272e; text-decoration:none;" target="_blank">Bolsa</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>R$589.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iCM&e=qgw&a=iaW5e&v=-8Qlfu" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><!--============== FECHA AREA 2 ===============--><!--============== AREA 3 ===============--><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25">
+																		&nbsp;</td>
+																</tr><tr><td valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#ffffff" class="box1" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iCx&e=qgw&a=iaW5e&v=-g0R03" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_esquerda2.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCx&e=qgw&a=iaW5e&v=-g0R03" style="color:#1e272e; text-decoration:none;" target="_blank">bota masculina</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>$299.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iCx&e=qgw&a=iaW5e&v=-g0R03" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																					<td class="hide" width="21">
+																						&nbsp;</td>
+																					<td bgcolor="#ffffff" class="box2" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iC_&e=qgw&a=iaW5e&v=3bJ0P" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_centro2.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iC_&e=qgw&a=iaW5e&v=3bJ0P" style="color:#1e272e; text-decoration:none;" target="_blank">tenis masculino</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>R$199.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iC_&e=qgw&a=iaW5e&v=3bJ0P" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																					<td class="hide" width="21">
+																						&nbsp;</td>
+																					<td bgcolor="#ffffff" class="box2" style="border-bottom:2px solid #dddddd;" valign="top" width="186">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+																										&nbsp;</td>
+																									<td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="5">
+																														&nbsp;</td>
+																												</tr><tr><td align="center">
+																														<a href="http://campanha.datelli.com.br/a/c.php?l=-iC6&e=qgw&a=iaW5e&v=wRuRk" target="_blank"><img alt="" border="0" class="img1" height="220" src="http://www.datellinews.com.br/2/images/banner_176_direita2.jpg" style="display:block;" width="176"></a></td>
+																												</tr><tr><td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iC6&e=qgw&a=iaW5e&v=wRuRk" style="color:#1e272e; text-decoration:none;" target="_blank">carteira</a></td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:20px; line-height:26px; color:#e6a523; text-align:center; padding-bottom:12px; padding-top:6px;">
+																																		<em><strong>$49.00</strong></em></td>
+																																</tr><tr><td valign="top">
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="7">
+																																						&nbsp;</td>
+																																					<td bgcolor="#1e272e" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#ffffff; text-align:center; text-transform:uppercase; padding-bottom:5px; padding-top:5px; padding-left:5px; padding-right:5px;">
+																																						<strong><a href="http://campanha.datelli.com.br/a/c.php?l=-iC6&e=qgw&a=iaW5e&v=wRuRk" style="color:#FFFFFF; text-decoration:none;" target="_blank">COMPRAR</a></strong></td>
+																																					<td width="7">
+																																						&nbsp;</td>
+																																				</tr></tbody></table></td>
+																																</tr></tbody></table></td>
+																												</tr><tr><td height="15">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																									<td width="5">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><!--============== FECHA AREA 3 ===============--><!--============== AREA 4 ===============--><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25">
+																		&nbsp;</td>
+																</tr><tr><td bgcolor="#ffffff" style="border-bottom:2px solid #dddddd;" valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="20">
+																						&nbsp;</td>
+																					<td valign="top">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="35">
+																										&nbsp;</td>
+																								</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:30px; line-height:36px; color:#1e272e; text-align:center; text-transform:uppercase;">
+																										15% no boleto em todo o site</td>
+																								</tr><tr><td height="5">
+																										&nbsp;</td>
+																								</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:30px; color:#1e272e; text-align:center;">
+																										<br>
+																										Oferta por tempo limitado.</td>
+																								</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#e6a523; text-align:center; text-transform:uppercase; padding-top:5px;">
+																										<a href="http://campanha.datelli.com.br/a/c.php?l=-iCm&e=qgw&a=iaW5e&v=-zu-R1" style="color:#e6a523; text-decoration:underline;" target="_blank">VER COLE&Ccedil;&Acirc;O</a></td>
+																								</tr><tr><td height="40">
+																										&nbsp;</td>
+																								</tr></tbody></table></td>
+																					<td width="20">
+																						&nbsp;</td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><!--============== FECHA AREA 4===============--><!--============== AREA 5 ===============--><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="25">
+																		&nbsp;</td>
+																</tr><tr><td valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#ffffff" class="box1" style="border-bottom:2px solid #dddddd;" valign="top" width="289">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#1e272e">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="18">
+																														&nbsp;</td>
+																													<td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#ffffff; padding-bottom:15px; padding-top:15px; text-transform:uppercase;">
+																														&nbsp;</td>
+																													<td width="18">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																								</tr><tr><td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="18">
+																														&nbsp;</td>
+																													<td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#e6a523; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCc&e=qgw&a=iaW5e&v=LDh5mK" style="color:#e6a523; text-decoration:none;" target="_blank">Anabelas...</a></td>
+																																</tr><tr><td height="12">
+																																		&nbsp;</td>
+																																</tr><tr><td align="center">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCc&e=qgw&a=iaW5e&v=LDh5mK" target="_blank"><img alt="" border="0" class="img1" height="110" src="http://www.datellinews.com.br/2/images/banner_235_esquerda.jpg" style="display:block;" width="253"></a></td>
+																																</tr><tr><td height="12">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#4d4d4e;">
+																																		&nbsp;</td>
+																																</tr><tr><td height="8">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#e6a523; text-transform:uppercase;">
+																																		apartir de R$ 119,00</td>
+																																</tr><tr><td height="15" style="border-bottom:1px solid #e0e0e0;">
+																																		&nbsp;</td>
+																																</tr><tr><td height="13">
+																																		&nbsp;</td>
+																																</tr><tr><td>
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:18px; color:#4d4d4e; text-align:right; padding-right:5px;">
+																																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCK&e=qgw&a=iaW5e&v=LXBHYB" style="color:#4d4d4e; text-decoration:none;" target="_blank">Mais Produtos</a></td>
+																																					<td align="right" width="16">
+																																						<img alt="" border="0" height="16" src="http://www.datellinews.com.br/2/images/icon.jpg" style="display:block;" width="16"></td>
+																																				</tr></tbody></table></td>
+																																</tr><tr><td height="15">
+																																		&nbsp;</td>
+																																</tr></tbody></table></td>
+																													<td width="18">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																								</tr></tbody></table></td>
+																					<td class="hide" width="22">
+																						&nbsp;</td>
+																					<td bgcolor="#ffffff" class="box2" style="border-bottom:2px solid #dddddd;" valign="top" width="289">
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#1e272e">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="18">
+																														&nbsp;</td>
+																													<td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#ffffff; padding-bottom:15px; padding-top:15px; text-transform:uppercase;">
+																														&nbsp;</td>
+																													<td width="18">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																								</tr><tr><td valign="top">
+																										<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="18">
+																														&nbsp;</td>
+																													<td valign="top">
+																														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="10">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#e6a523; text-transform:uppercase;">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCw&e=qgw&a=iaW5e&v=TK54mw" style="color:#e6a523; text-decoration:none;" target="_blank">bolsas</a></td>
+																																</tr><tr><td height="12">
+																																		&nbsp;</td>
+																																</tr><tr><td align="center">
+																																		<a href="http://campanha.datelli.com.br/a/c.php?l=-iCw&e=qgw&a=iaW5e&v=TK54mw" target="_blank"><img alt="" border="0" class="img1" height="110" src="http://www.datellinews.com.br/2/images/banner_235_direita.jpg" style="display:block;" width="253"></a></td>
+																																</tr><tr><td height="12">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#4d4d4e;">
+																																		&nbsp;</td>
+																																</tr><tr><td height="8">
+																																		&nbsp;</td>
+																																</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:15px; line-height:24px; color:#e6a523; text-transform:uppercase;">
+																																		Apartir de R$ 60,00</td>
+																																</tr><tr><td height="15" style="border-bottom:1px solid #e0e0e0;">
+																																		&nbsp;</td>
+																																</tr><tr><td height="13">
+																																		&nbsp;</td>
+																																</tr><tr><td>
+																																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:18px; color:#4d4d4e; text-align:right; padding-right:5px;">
+																																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCK&e=qgw&a=iaW5e&v=LXBHYB" style="color:#4d4d4e; text-decoration:none;" target="_blank">Mais Produtos</a></td>
+																																					<td align="right" width="16">
+																																						<img alt="" border="0" height="16" src="http://www.datellinews.com.br/2/images/icon.jpg" style="display:block;" width="16"></td>
+																																				</tr></tbody></table></td>
+																																</tr><tr><td height="15">
+																																		&nbsp;</td>
+																																</tr></tbody></table></td>
+																													<td width="18">
+																														&nbsp;</td>
+																												</tr></tbody></table></td>
+																								</tr></tbody></table></td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><!--============== FECHA AREA 5 ===============--><!--============== RODAP&Eacute; ===============--><tr><td height="25">
+														&nbsp;</td>
+												</tr></tbody></table></td>
+									<td width="5">
+										&nbsp;</td>
+								</tr></tbody></table></td>
+				</tr><tr><td bgcolor="#ffffff" style="border-top:2px solid #dddddd;" valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+										&nbsp;</td>
+									<td>
+										<table align="center" border="0" cellpadding="0" cellspacing="0" class="main" width="600"><tbody><tr><td height="25">
+														&nbsp;</td>
+												</tr><tr><td valign="top">
+														<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="footer1" valign="top" width="140">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#1e272e; padding-bottom:5px; ">
+																						<strong>Datelli</strong></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:24px; color:#1e272e; padding-bottom:4px;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCX&e=qgw&a=iaW5e&v=TPNhpA" style="color:#1e272e; text-decoration:none;" target="_blank">A Marca</a></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:24px; color:#1e272e; padding-bottom:4px;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCh&e=qgw&a=iaW5e&v=LsfPpn" style="color:#1e272e; text-decoration:none;" target="_blank">Seja um Franqueado</a></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:12px; line-height:22px; color:#1e272e;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCY&e=qgw&a=iaW5e&v=4JR72" style="color:#1e272e; text-decoration:none;" target="_blank">Nossas Lojas</a></td>
+																				</tr></tbody></table></td>
+																	<td class="hide" width="30">
+																		&nbsp;</td>
+																	<td class="footer2" valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#152840; padding-bottom:5px; ">
+																						<strong>Fale Conosco</strong></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:13px; line-height:24px; color:#1e272e;  padding-bottom:4px;">
+																						Fone: <b>+55 51 3028.0862</b></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:13px; line-height:24px; color:#1e272e; padding-bottom:4px;">
+																						Email:&nbsp;<a href="http://campanha.datelli.com.br/a/c.php?l=-iCp&e=qgw&a=iaW5e&v=LQETQd" style="color:#1e272e; text-decoration:none;"><b>falecom@datelli.com.br</b></a></td>
+																				</tr><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:13px; line-height:24px; color:#1e272e;">
+																						Website:&nbsp;<a href="http://campanha.datelli.com.br/a/c.php?l=-iCZ&e=qgw&a=iaW5e&v=-q3kQG" style="color:#1e272e; text-decoration:none;" target="_blank"><b>datelli.com.br</b></a></td>
+																				</tr></tbody></table></td>
+																	<td class="hide" width="30">
+																		&nbsp;</td>
+																	<td class="footer2" valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="footer03" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:14px; line-height:22px; color:#152840; padding-bottom:14px; text-align:right;">
+																						<strong>Redes Sociais:</strong></td>
+																				</tr><!--============== SOCIAL LOGOS ===============--><tr><td align="right" class="social" valign="top">
+																						<table border="0" cellpadding="0" cellspacing="0" width="150"><tbody><tr><td>
+																										<a href="http://campanha.datelli.com.br/a/c.php?l=-iC4&e=qgw&a=iaW5e&v=Tv92TV" target="_blank"><img alt="facebook" border="0" height="30" src="http://www.datellinews.com.br/2/images/facebook.jpg" style="display:block;" width="30"></a></td>
+																									<td width="10">
+																										&nbsp;</td>
+																									<td>
+																										<a href="http://campanha.datelli.com.br/a/c.php?l=-iCa&e=qgw&a=iaW5e&v=Lhl3Ty" target="_blank"><img alt="twitter" border="0" height="30" src="http://www.datellinews.com.br/2/images/twitter.jpg" style="display:block;" width="30"></a></td>
+																									<td width="10">
+																										&nbsp;</td>
+																									<td>
+																										<a href="http://campanha.datelli.com.br/a/c.php?l=-iCB&e=qgw&a=iaW5e&v=ivXYj" target="_blank"><img alt="youtube" border="0" height="30" src="http://www.datellinews.com.br/2/images/youtube.jpg" style="display:block;" width="30"></a></td>
+																									<td width="10">
+																										&nbsp;</td>
+																									<td>
+																										<a href="http://campanha.datelli.com.br/a/c.php?l=-iC8&e=qgw&a=iaW5e&v=-fIGxM" target="_blank"><img alt="google" border="0" height="30" src="http://www.datellinews.com.br/2/images/pinterest.jpg" style="display:block;" width="30"></a></td>
+																								</tr></tbody></table></td>
+																				</tr><!--============== FECHA SOCIAL LOGOS ===============--><tr><td class="footer03" style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:13px; line-height:24px; color:#1e272e; padding-top:15px; text-align:right;">
+																						<a href="http://campanha.datelli.com.br/a/c.php?l=-iCj&e=qgw&a=iaW5e&v=LNkjfS" style="color:#018bbb; text-decoration:none;" target="_blank"><b>Love &hearts; Datelli</b></a> Blog&nbsp;</td>
+																				</tr></tbody></table></td>
+																</tr></tbody></table></td>
+												</tr><tr><td height="25">
+														&nbsp;</td>
+												</tr></tbody></table></td>
+									<td width="5">
+										&nbsp;</td>
+								</tr></tbody></table></td>
+				</tr><tr><td bgcolor="#dbdbdb" valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="5">
+										&nbsp;</td>
+									<td>
+										<table align="center" border="0" cellpadding="0" cellspacing="0" class="main" width="600"><tbody><tr><td style="font-family: Arial, Helvetica, sans-serif, Trebuchet MS; font-size:10px; line-height:22px; color:#1e272e; padding-bottom:10px; padding-top:10px; text-align:center;">
+														Copyright &copy; 2014 - <b> Datelli&reg;</b>. Todos direitos reservados. e-Mkt Produzido por <a href="http://campanha.datelli.com.br/a/c.php?l=-iCl&e=qgw&a=iaW5e&v=-D_vWC" style="color:#010101; text-decoration:none;" target="_blank"><b>iMessage</b></a></td>
+												</tr></tbody></table></td>
+									<td width="5">
+										&nbsp;</td>
+								</tr></tbody></table></td>
+				</tr></tbody></table><p>
+			&nbsp;</p>
+	
+<br /><table cellspacing="0" cellpadding="5" border="1" bordercolor="#CCCCCC" style="border-style:solid; border-color:#cccccc;border-width:1px 0px;" width="100%"><tr bgcolor="#f5f5f5">
+                                    <td colspan="2" align="left" height="11" style="border-style:solid; border-color:#ffffff; border-width:2px 0 0 0;">
+                                        <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">
+                                            Para garantir o recebimento desta mensagem em sua caixa de entrada, adicione <strong>news@datelli.com.br</strong> ao seu cat&aacute;logo de endere&ccedil;os.<br /><br />Problemas com a mensagem? <a href="http://campanha.datelli.com.br/a/o.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;"><strong>visualize no navegador</strong></a>.     </font>
+                                    </td>
+                                    </tr>
+                                    <tr bgcolor="#f5f5f5">
+                                        <td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">caso voc&ecirc; deseje remover seu cadastro de nossa lista, <a href="http://campanha.datelli.com.br/a/d.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;"><strong>cancele o recebimento</strong></a>.         </font>
+                                        </td>
+                                        <td align="right" style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://campanha.datelli.com.br/a/da.php?e=qgw&a=iaW5e&v=LEZdEs" target="_blank" style="color:#666;">Denunciar abuso</a>         </font>
+                                        </td>
+                                    </tr></table><img src="http://campanha.datelli.com.br/a/v.php?e=qgw&a=iaW5e&v=_Rz1i"></body></html>
+
+
+
+--b1_3cedc02046c8e7f39f4f4b03c52d7357--
+
+

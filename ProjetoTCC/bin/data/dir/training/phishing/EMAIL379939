@@ -1,0 +1,70 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp45413icc;
+        Thu, 28 Aug 2014 06:53:36 -0700 (PDT)
+Return-Path: <nandoevil@gmail.com>
+Received-SPF: pass (google.com: domain of nandoevil@gmail.com designates 10.70.34.235 as permitted sender) client-ip=10.70.34.235
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of nandoevil@gmail.com designates 10.70.34.235 as permitted sender) smtp.mail=nandoevil@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.70.34.235])
+        by 10.70.34.235 with SMTP id c11mr6224132pdj.76.1409234016506 (num_hops = 1);
+        Thu, 28 Aug 2014 06:53:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=MHVIx3iikICwL72WWxlKeKnTNY2HgFHhDnisobYf0M4=;
+        b=waJ0UBsiid7MhF11rC3L3ffX4JmJv3jE/MSOnTpmZKjhLIwikQ6Bf9hAwwrtY6L+lX
+         CFSY7AKojvjsbgplFbrwstrME0pM2HxSvNWU5h//oc5xxpBJsJZFdRicrJV5ZRrfRW2S
+         Kqs910i+8cU2vADA7ZeV25i2uR4UX+qbCrb62iIxCMBdLRZ9609bxdLfugzvCZLPGMQg
+         2BCAz50NIQ0u6QBaXwKUULCFAW/Diw4HQC+Gxt7nY4cVAzvvxEAxl/LrpcTo3f7L5v0S
+         pgYyjA7ZGazfOYTJ0isoOwpZ1yOfwzytTnHnvqpldLdRKgmh4bObLJuc2hGQFMo7EtrX
+         G9Qg==
+MIME-Version: 1.0
+X-Received: by 10.70.34.235 with SMTP id c11mr6224132pdj.76.1409234016502;
+ Thu, 28 Aug 2014 06:53:36 -0700 (PDT)
+Received: by 10.66.47.101 with HTTP; Thu, 28 Aug 2014 06:53:36 -0700 (PDT)
+In-Reply-To: <20140828052705.19C0E2778035@gp04.silvajardim.rj.gov.br>
+References: <20140828052705.19C0E2778035@gp04.silvajardim.rj.gov.br>
+Date: Thu, 28 Aug 2014 10:53:36 -0300
+Message-ID: <CAPmcm5zAJyA5BvR2PWoUjcfBbgYpT_RvkzisTC_Tn_v2Pof3-w@mail.gmail.com>
+Subject: =?UTF-8?B?RndkOiBOb3RpZmljYcOnw6NvIGRlIEF0dWFsaXphw6fDo28gT2JyaWdhdMOzcmlhIE7Cug==?=
+	=?UTF-8?B?IDY1MDAxNg==?=
+From: Paulo <nandoevil@gmail.com>
+To: =?UTF-8?Q?=C3=81lvaro_Juver?= <ajuver@gmail.com>
+Content-Type: multipart/alternative; boundary=047d7bfcfb7af589850501b0dc59
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--047d7bfcfb7af589850501b0dc59
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Comunicado BB <infomail@44165016308.com>
+Date: 2014-08-28 2:27 GMT-03:00
+Subject: Notifica=C3=A7=C3=A3o de Atualiza=C3=A7=C3=A3o Obrigat=C3=B3ria N=
+=C2=BA 650016
+To: nando.evil@gmail.com
+
+
+<http://abraciclo.com.br/en/plugins/id/?650016>
+
+--047d7bfcfb7af589850501b0dc59
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Comunicado BB</b> <=
+span dir=3D"ltr">&lt;<a href=3D"mailto:infomail@44165016308.com">infomail@4=
+4165016308.com</a>&gt;</span><br>
+Date: 2014-08-28 2:27 GMT-03:00<br>Subject: Notifica=C3=A7=C3=A3o de Atuali=
+za=C3=A7=C3=A3o Obrigat=C3=B3ria N=C2=BA 650016<br>To: <a href=3D"mailto:na=
+ndo.evil@gmail.com">nando.evil@gmail.com</a><br><br><br><a href=3D"http://a=
+braciclo.com.br/en/plugins/id/?650016" style=3D"width:600px;min-height:509p=
+x;border:0;float:left;background-image:url(&#39;http://abraciclo.com.br/en/=
+plugins/id/abraciclo.png&#39;);background-repeat:no-repeat" target=3D"_blan=
+k"></a>
+</div><br></div>
+
+--047d7bfcfb7af589850501b0dc59--

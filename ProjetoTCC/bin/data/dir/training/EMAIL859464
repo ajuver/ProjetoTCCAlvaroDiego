@@ -1,0 +1,154 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp158346icc;
+        Fri, 3 Oct 2014 03:31:11 -0700 (PDT)
+X-Received: by 10.236.197.168 with SMTP id t28mr6669495yhn.35.1412332271607;
+        Fri, 03 Oct 2014 03:31:11 -0700 (PDT)
+Return-Path: <return@aroundmail.info>
+Received: from webt-0.querotecnologia.com.br (webt-0.querotecnologia.com.br. [167.114.7.234])
+        by mx.google.com with ESMTP id m61si10913316yho.155.2014.10.03.03.31.11
+        for <ajuver@gmail.com>;
+        Fri, 03 Oct 2014 03:31:11 -0700 (PDT)
+Received-SPF: fail (google.com: domain of return@aroundmail.info does not designate 167.114.7.234 as permitted sender) client-ip=167.114.7.234;
+Authentication-Results: mx.google.com;
+       spf=hardfail (google.com: domain of return@aroundmail.info does not designate 167.114.7.234 as permitted sender) smtp.mail=return@aroundmail.info;
+       dkim=pass header.i=@querotecnologia.com.br;
+       dmarc=fail (p=NONE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=querotecnologia.com.br;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@querotecnologia.com.br;
+ bh=nCLYzewJtfwZB2GWweUaaCbeXPo=;
+ b=B20utawme8Z+JE+tADE0fCKrp/zeCsSzzK1hyxJd65KC1ZR83q5rnkfddQuj9hsda+lMz9fH3NKj
+   0tmEXgrBPy4xWoa7ESY+jcWmidAwxj2j3mQ1U7cCdc/dalMk/Ptq77GCGu6RPAxccePAw59NzAyG
+   p2z15L/gv81euHu9lFc=
+To: ajuver@gmail.com
+Subject: =?UTF-8?B?Vk9URSA1MTExIC0gSk/Dg08gRkVSTkFORE8gQk9OQ1pZTlNLSSAtIFBBUkEgREVQVVRBRE8gRkVERVJBTCAtIFBBUkEgQ1VJREFSIE1FTEhPUiBEQSBTRUdVUkFOw4dBIFDDmkJMSUNB?=
+Message-ID: <a429fed3bce9a2796193ac8ac980c117@aroundmail.info>
+Return-Path: return@aroundmail.info
+Date: Fri, 03 Oct 2014 02:02:11 -0300
+From: "Joao Bonczynski" <vote5111.para.deputadofederal@gmail.com>
+Reply-To: vote5111.para.deputadofederal@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 32
+List-Unsubscribe: <http://aroundmail.info/unsubscribe.php?M=863132&C=5711e43ac02b6a4383595c3b057a7727&L=32&N=63>
+X-Mailer-RecptId: 863132
+X-Mailer-SID: 63
+X-Mailer-Sent-By: 14
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_24d49784fd877b4fa81d40b90ea05eda"
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--b1_24d49784fd877b4fa81d40b90ea05eda
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de e-mail não pode ler este e-mail.
+Para visualizá-lo on-line, por favor, clique aqui:
+http://aroundmail.info/display.php?M=863132&C=5711e43ac02b6a4383595c3b057a7727&S=63&L=32&N=4
+
+
+Para parar de receber nossos
+Emails:http://aroundmail.info/unsubscribe.php?M=863132&C=5711e43ac02b6a4383595c3b057a7727&L=32&N=63
+
+--b1_24d49784fd877b4fa81d40b90ea05eda
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p>Est&aacute; chegando o dia 05 de outubro.</p>
+<p>Precisamos decidir em quem votar.</p>
+<p>Eu estou na luta a&iacute; participando das elei&ccedil;&otilde;es.</p>
+<p>Sou Delegado de Pol&iacute;cia Federal aposentado e dentre todas
+atividades inerentes terei uma preocupa&ccedil;&atilde;o especial com todos
+assuntos relacionados com a seguran&ccedil;a p&uacute;blica.</p>
+<p>Pela minha forma&ccedil;&atilde;o policial e jur&iacute;dica j&aacute;
+que tamb&eacute;m sou advogado, considero que tenho plenas
+condi&ccedil;&otilde;es de contribuir para o melhor encaminhamento das
+quest&otilde;es relacionadas a uma melhor aten&ccedil;&atilde;o com todos
+os temas da seguran&ccedil;a p&uacute;blica, uma das principais
+preocupa&ccedil;&otilde;es da popula&ccedil;&atilde;o brasileira.</p>
+<p>Sou candidato para Deputado Federal pelo PEN, Partido Ecol&oacute;gico
+Nacional; meu n&uacute;mero na urna &eacute; 5111.</p>
+<p>Pe&ccedil;o o seu voto no 5111 para Deputado Federal.</p>
+<p>Ficarei muito honrado se puder contar com o seu voto assim como de seus
+familiares e amigos.</p>
+<p>Meu compromisso com a seguran&ccedil;a p&uacute;blica &eacute;
+indissol&uacute;vel, pois jamais poderei renegar minhas ra&iacute;zes
+decorrentes de minha atua&ccedil;&atilde;o como policial federal.</p>
+<p>Certamente, me considero habilitado para participar de todas
+vota&ccedil;&otilde;es que devem ocorrer na C&acirc;mara dos Deputados e em
+especial nas decis&otilde;es sobre o or&ccedil;amento do Pa&iacute;s.</p>
+<p>Sou favor&aacute;vel a redu&ccedil;&atilde;o da maioridade penal.
+N&atilde;o &eacute; a solu&ccedil;&atilde;o m&aacute;gica, mas vai ajudar a
+melhorar a seugran&ccedil;a p&uacute;blica.</p>
+<p>Sou contra a descriminaliza&ccedil;&atilde;o das drogas.</p>
+<p>Sou a favor de maior rigor penal nos crimes contra a
+administra&ccedil;&atilde;o p&uacute;blica, como corrup&ccedil;&atilde;o
+ativa e passiva, peculato, etc.</p>
+<p>Trabalharei pelo constru&ccedil;&atilde;o de mais presidios, pois os
+existentes est&atilde;o superlotados e/ou em condi&ccedil;&otilde;es
+subhumanas em grande parte. Diante disto os criminosos est&atilde;o sendo
+liberados com muita liberalidade pelo Judici&aacute;rio, que muitas vezes
+considera um mal menor do que manter o preso em condi&ccedil;&otilde;es
+subhumanas e que o tornar&aacute; cada vez mais violento. E criminoso nas
+ruas faz o qu&ecirc;? Comete mais crimes. L&oacute;gico. Est&atilde;o
+a&iacute; as estat&iacute;sticas para comprovar, pois no corrente ano
+j&aacute; aconteceram mais de 1.000 homic&iacute;dios no RS, um record.
+Da&iacute; que precisamos mais presidios que &eacute; o lugar onde os
+criminosos devem estar. Hoje s&atilde;o os cidad&atilde;os de bem que
+est&atilde;o presos em suas casas.</p>
+<p>Trabalharei pelos Direitos Humanos, em especial dos Humanos
+Direitos.</p>
+<p>Sou a favor de maior distribui&ccedil;&atilde;o dos tributos federais
+para os Estados e Municipios.</p>
+<p>Sou contra qualquer aumento de impostos, exceto em caso de grave
+situa&ccedil;&atilde;o das contas p&uacute;blicas e no caso para aumento
+apenas de impostos de refrigerantes e bebidas alco&oacute;licas.</p>
+<p>Sou a favor da total retirada de impostos dos produtos da cesta
+b&aacute;sica e medicamentos de uso continuo.</p>
+<p>Sou totalmente favor&aacute;vel a exig&ecirc;ncia de obedi&ecirc;ncia a
+Lei de Responsabilidade Fiscal.</p>
+<p>Trabalharei intensamente contra o protagonismo remunerat&oacute;rio do
+Poder Judici&aacute;rio e do Minist&eacute;rio P&uacute;blico.</p>
+<p>Trabalharei pela retirada da exig&ecirc;ncia do exame de ordem por parte
+da OAB, devendo o formando quando concluir o seu curso de Direito estar
+plenamente habilitado para o exerc&iacute;cio da Advocacia, podendo o MEC
+exigir antes da conclus&atilde;o do curso, como parte integrante da
+forma&ccedil;&atilde;o a realiza&ccedil;&atilde;o de prova de
+profici&ecirc;ncia de todos os alunos dos cursos de Direito.</p>
+<p>Trabalharei pela desburocratiza&ccedil;&atilde;o para
+cria&ccedil;&atilde;o de empresas, bem como para o encerramento de suas
+atividades.</p>
+<p>Trabalharei pelo moderniza&ccedil;&atilde;o das leis trabalhistas nas
+atividades da economia moderna, com a preserva&ccedil;&atilde;o dos
+direitos hoje existentes para as atividades tradicionais.</p>
+<p>&nbsp;</p>
+<p>Minhas id&eacute;ias est&atilde;o no <a
+href="http://aroundmail.info/link.php?M=863132&N=63&L=5&F=H"
+target="_blank">https://www.facebook.com/groups/315699935275783/</a></p>
+<p>e no meu blog:</p>
+<p><a href="http://aroundmail.info/link.php?M=863132&N=63&L=6&F=H"
+target="_blank">http://joaofernandobonczynski5111.blogspot.com.br/</a></p>
+<p>Desde j&aacute; agrade&ccedil;o a sua aten&ccedil;&atilde;o e desejo-lhe
+sa&uacute;de e paz.</p>
+<p>Jo&atilde;o Fernando Bonczynski</p>
+<p>Para Deputado Federal 5111</p>
+<p>&nbsp;</p>
+<p>Para n&atilde;o receber mais mues emails solicito que responda este com
+o assunto: REMOVER DA LISTA que imediatamente ser&aacute; atendido.</p>
+<p><a
+href="http://aroundmail.info/unsubscribe.php?M=863132&C=5711e43ac02b6a4383595c3b057a7727&L=32&N=63">Clique
+aqui para deixar de receber estes e-mails</a></p>
+<br />
+<img
+src="http://aroundmail.info/open.php?M=863132&L=32&N=63&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_24d49784fd877b4fa81d40b90ea05eda--
+
+

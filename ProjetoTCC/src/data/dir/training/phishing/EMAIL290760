@@ -1,0 +1,180 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp93641icm;
+        Mon, 23 Jun 2014 09:17:09 -0700 (PDT)
+X-Received: by 10.42.64.141 with SMTP id g13mr23462571ici.17.1403540229068;
+        Mon, 23 Jun 2014 09:17:09 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf2826201ieb.36;
+        Mon, 23 Jun 2014 09:17:08 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Mon, 23 Jun 2014 16:05:35 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.213.181 as permitted sender)
+X-YMailISG: VdrLVbkWLDvczNGQhPkz54770TCk770RSjP__UoD6dCtFd44
+ tVHTkylUtVMI41_RYReOe2TUBUaQWSgAP_j8sQfcJjOjCiPUX2FoPUdAuOxM
+ VZAZt0mbtehaopmG56F9QGE.JambmUKMpVIIa1yKNGOqTE_f3Nd5l3KsWEK9
+ kmumm5FT6VwBWopIbM1vmW2gvfjD3tK5KuA6kUH0RX5l3GGarhRkFBCmscmz
+ 8JxHdAEiOhdY17dvZzmi5H9HochqPlJteRASj0.2l1yvPw0HcruhWZBsjqmf
+ uFKOYi5e7NdsqN.UnrimAU2FjEbykbaLIQm0XLLcJ4PgSY2lUPObjjYdkqMw
+ IsS7KNIXcVGZ2dSsgE9FmcQIopF4AyfD5Vqduj4v9MR48DYo2Gzxx3Z.5lCX
+ dAOXkjqVJzHzdFodbOcO3d7onKzi_zaCYj3XlVYBdtcVBmpCW_fFmwUSQX_X
+ cr8BRz.lbUhVm5xABya5q4JYxuNclDFjaemM3gs6A6NYYvIL1KPu3toDrKnx
+ t0Ko0AFH3ke18ZkHQXp3iYDWxQL8OqbycubVZU2MOZSl7T2zihrkKm6.ejk7
+ Vhv5p5Zqc2UwHrV31.JMkJXAOw9OvDgXibp35eFTNWOHA9yXq5IgWCZ5fHsA
+ HGkGRNb0PesJ6SZ6X6HFkZAZ37BDpT7Mb1aUh4Bu_UYGSM4CkCvrnrkEQOXH
+ efgnlGoifMvs86_gO6Ulzgi9ZQNceshz6FZXA3eMvD.cVuIFriXFSmbdLe5t
+ cnfSkyvp.c1Qu7b9fe0BdqiCnKNmxnY6Ox8TSktd44xxogXXMDF0vtlUgp7b
+ 5moVbNjkLz1AKQLlgZJWei8cqV4NIVwDVjmKc5brTaCTUzua2neruSJC5G74
+ o3RKL4.OtyS5UO7z_qCuqon5jxkeIkpHPoUEx2IC_0HGUt3tsl6xwBVuk0kP
+ WUQszRJpfBsaAtwm.yDPdNevDjxNpKc.NsyzhC9Fqc_Es3Vu9xxEJnMBs5zN
+ H_B6cEDjh47XYXqtpHMrcqJqlaxQKvpvJ3fn3iWxIjmBujfaRzOaXnXjyrjX
+ Zo5IN7vuZo.K8e2H.btOkgkOHws1o0Jf864tr9lRvMJCcAZTGhigeZ4B9mMS
+ OhZMYtIM2fZB8kcZ7CmeKGaJIqbrzsYo3uKsJqG1ePfe5V1yE_kLp5MKk8_Z
+ VIH1HdK8RaA9rdI7tlN_L9hifOCeJC3KG.4ePDJdEd2Su68cOHbyw63fy68f
+ DCxcWwqV2pPEuuX8V8XyxlHf66TLBf1QiUDG.5eP57pI2ISuJlxTvRO_JBvt
+ q1YAeD.0GsirsNXNLwmLLKI4TNaMa_bE6uE91x6NrELbA.kebheLQ_XkB4s1
+ 6UoZInzxXIeK8AAkKj2cYNsqDb8UJ4o4I8yk5KbQML8UsW2Bjfbt4oxNDZfU
+ XYEFUUnxoegl
+X-Originating-IP: [209.85.213.181]
+Authentication-Results: mta1365.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-ig0-f181.google.com) (209.85.213.181)
+  by mta1365.mail.bf1.yahoo.com with SMTPS; Mon, 23 Jun 2014 16:05:35 +0000
+Received: by mail-ig0-f181.google.com with SMTP id h15so3218835igd.8
+        for <ajuver@yahoo.com.br>; Mon, 23 Jun 2014 09:05:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=A/Hw1C3nKbgWmV0gJLj3QlXJ1anxCMM/smiy+8v1yho=;
+        b=vZR3dJW+GnnPxUaMX1kO9s1UxAwR1woOTbbyULCjO0KhEsW3OztFu8yuhnsnIW10BA
+         DUpuSOsmGIJexn3iz+RmjxP7P13wZ64KO3lRS8VzJ8YXKdJZSZbBag+QQaMOPxn0TlXh
+         BL/IGhxrO6CY9VPxQJmSGBRb3BDyt3mcskwt6wbSlKYY++U8NpUGFqt9NMjxPb91Vmvn
+         KDeEvl2X+6qVW074qXnuIMJN6n8TdXTuUo//rr6hZp7I8kUzBe+7xMuGq90p2Mtg9LqM
+         uPe7gzQIlqn/MUSa//AxMa75DC5nQiHWKhhCGSppp7DfMj0GBpBuCaevRQ+lt/1sy6Gy
+         NAJA==
+X-Received: by 10.50.66.208 with SMTP id h16mr28095964igt.19.1403539535107;
+ Mon, 23 Jun 2014 09:05:35 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.64.208.36 with HTTP; Mon, 23 Jun 2014 09:04:55 -0700 (PDT)
+In-Reply-To: <20140619183136.98EB9501E29@web1.cbm.sc.gov.br>
+References: <20140619183136.98EB9501E29@web1.cbm.sc.gov.br>
+From: Tasmay Inacio <tasmay@gmail.com>
+Date: Mon, 23 Jun 2014 13:04:55 -0300
+Message-ID: <CABvjCGtFCBzwN2cScpbTcw91KB6UfD5geerqnSeixqjdwgZzdQ@mail.gmail.com>
+Subject: =?UTF-8?Q?Fwd=3A_URGENTE=3A_Banco_Bradesco_=2D_Recadastramento_das_c?=
+	=?UTF-8?Q?haves_de_SEGURAN=C3=87A=2E?=
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=047d7bdca4fe6b1c8004fc830319
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--047d7bdca4fe6b1c8004fc830319
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Segue!!
+
+Abra=C3=A7=C3=A3o!
+
+Tasmay In=C3=A1cio
+
+PUCRS - Sistemas de Informa=C3=A7=C3=A3o
+(51) 9453 2757
+tasmay@gmail.com
+
+
+
+---------- Mensagem encaminhada ----------
+De: Bradesco <envio@cbm.sc.gov.br>
+Data: 19 de junho de 2014 15:31
+Assunto: URGENTE: Banco Bradesco - Recadastramento das chaves de SEGURAN=C3=
+=87A.
+Para: tasmay@gmail.com
+
+
+Prezado (a) Cliente,
+
+Informamos que o per=C3=ADodo de uso das suas chaves de seguran=C3=A7a Brad=
+esco
+expiraram, para continuar utilizando o mesmo cart=C3=A3o de chaves e os ser=
+vi=C3=A7os
+Bradesco tais como Caixas Eletr=C3=B4nicos, Fone f=C3=A1cil e Internet Bank=
+ing ser=C3=A1
+necess=C3=A1rio realizar o recadastramento.
+
+Caso o recadastramento nao seja efetuado, as chaves de seguran=C3=A7a serao
+desativadas e seu acesso em todos os canais Bradesco ser=C3=A3o bloqueados.
+O recadastramento =C3=A9 simples e r=C3=A1pido, basta clicar no botao entra=
+r, acessar
+sua conta e seguir as instru=C3=A7oes que irao aparecer dentro de sua conta=
+.
+
+O uso do Cartao Chave de Seguran=C3=A7a Bradesco =C3=A9 indispens=C3=A1vel =
+para evitar
+fraudes e garantir sua seguran=C3=A7a e comodidade. Eletr=C3=B4nicos e
+Internet-Banking
+ser=C3=A3o suspensos e seu Cart=C3=A3o
+
+Clique no botao abaixo e recadastre-se em nosso sistema.
+
+--047d7bdca4fe6b1c8004fc830319
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><br></div><div>Segue!!</div><div><br></div><div>Abra=
+=C3=A7=C3=A3o!</div><br clear=3D"all"><div><span style=3D"font-family:comic=
+ sans ms,sans-serif">Tasmay In=C3=A1cio</span><br style=3D"font-family:comi=
+c sans ms,sans-serif">
+
+<br style=3D"font-family:comic sans ms,sans-serif"><span style=3D"font-fami=
+ly:comic sans ms,sans-serif">PUCRS - Sistemas de Informa=C3=A7=C3=A3o</span=
+><br style=3D"font-family:comic sans ms,sans-serif"><span style=3D"font-fam=
+ily:comic sans ms,sans-serif">(51) 9453 2757</span><br style=3D"font-family=
+:comic sans ms,sans-serif">
+
+<span style=3D"font-family:comic sans ms,sans-serif"><a href=3D"mailto:tasm=
+ay@gmail.com" target=3D"_blank">tasmay@gmail.com</a></span><br><br><img alt=
+=3D""></div>
+<br><br><div class=3D"gmail_quote">---------- Mensagem encaminhada --------=
+--<br>De: <b class=3D"gmail_sendername">Bradesco</b> <span dir=3D"ltr">&lt;=
+<a href=3D"mailto:envio@cbm.sc.gov.br">envio@cbm.sc.gov.br</a>&gt;</span><b=
+r>Data: 19 de junho de 2014 15:31<br>
+
+Assunto: URGENTE: Banco Bradesco - Recadastramento das chaves de SEGURAN=C3=
+=87A.<br>Para: <a href=3D"mailto:tasmay@gmail.com">tasmay@gmail.com</a><br>=
+<br><br>
+<center>Prezado (a) Cliente,
+<p>
+Informamos que o per=C3=ADodo de uso das suas chaves de seguran=C3=A7a Brad=
+esco<br> expiraram, para continuar utilizando o mesmo cart=C3=A3o de chaves=
+ e os servi=C3=A7os<br> Bradesco tais como Caixas Eletr=C3=B4nicos, Fone f=
+=C3=A1cil e Internet Banking ser=C3=A1<br>
+
+ necess=C3=A1rio realizar o recadastramento.
+</p><p>
+
+Caso o recadastramento nao seja efetuado, as chaves de seguran=C3=A7a serao=
+<br> desativadas e seu acesso em todos os canais Bradesco ser=C3=A3o bloque=
+ados.<br> O recadastramento =C3=A9 simples e r=C3=A1pido, basta clicar no b=
+otao entrar, acessar<br>
+
+ sua conta e seguir as instru=C3=A7oes que irao aparecer dentro de sua cont=
+a.</p><p>
+
+
+O uso do Cartao Chave de Seguran=C3=A7a Bradesco =C3=A9 indispens=C3=A1vel =
+para evitar<br> fraudes e garantir sua seguran=C3=A7a e comodidade. Eletr=
+=C3=B4nicos e Internet-Banking<br> ser=C3=A3o suspensos e seu Cart=C3=A3o</=
+p><p>=20
+
+Clique no botao abaixo e recadastre-se em nosso sistema.</p><p>
+</p><center><a><input name=3D"avanca" type=3D"submit" value=3D"Clique aqui =
+e depois clique em Continuar e Fa=C3=A7a o recadastramento.">
+
+
+
+</a></center><p></p><p></p><p></p><p></p><p></p></center></div><br></div>
+
+--047d7bdca4fe6b1c8004fc830319--

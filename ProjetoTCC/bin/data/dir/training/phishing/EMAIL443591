@@ -1,0 +1,57 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp348744icc;
+        Wed, 10 Sep 2014 03:23:26 -0700 (PDT)
+X-Received: by 10.152.87.139 with SMTP id ay11mr40806737lab.38.1410344605406;
+        Wed, 10 Sep 2014 03:23:25 -0700 (PDT)
+Return-Path: <gloria@emporioshop.com.br>
+Received: from server.emporioshop.com.br (server.emporioshop.com.br. [93.104.215.22])
+        by mx.google.com with ESMTPS id a7si9585466lae.59.2014.09.10.03.23.24
+        for <ajuver@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 10 Sep 2014 03:23:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of gloria@emporioshop.com.br designates 93.104.215.22 as permitted sender) client-ip=93.104.215.22;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of gloria@emporioshop.com.br designates 93.104.215.22 as permitted sender) smtp.mail=gloria@emporioshop.com.br;
+       dkim=pass header.i=@emporioshop.com.br
+Message-Id: <5410269d.0713980a.38a4.ffff9134SMTPIN_ADDED_MISSING@mx.google.com>
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=emporioshop.com.br; s=default;
+	h=Content-Type:MIME-Version:Date:Subject:To:From; bh=i057c33NDAmXggJ2b4pndLyY4XsxJhgYMHPYhzXUgQk=;
+	b=YU+7ykJQrwikMDdswie0KiVMKx7hiCpYD4UeOqYP/6bbzZvZn4ms6gmk7GfXAcxgejRmilUio7PYRMTJ5J3rJf4Oh0HorQrzYKNIwb7fr0JwiBnXNPoWNMhu9Z2BbrRdAZT5DtVAd/WEW6hcSmXrAduLQSiH19S5lZdz/COvPD8=;
+Received: from [177.158.1.39] (port=65498 helo=dfrv.net)
+	by server.emporioshop.com.br with esmtpa (Exim 4.82)
+	(envelope-from <gloria@emporioshop.com.br>)
+	id 1XRbnA-0001aq-GI
+	for ajuver@gmail.com; Wed, 10 Sep 2014 03:54:13 -0300
+From: "financeiro.i" <financeiro.i@oi.com.br>
+To: "ajuver" <ajuver@gmail.com>
+Subject: FW:deposito
+Date: Tue, 09 Sep 14 22:52:24 Hora oficial do Brasil
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary= "----=_NextPart_000_00CC_EEBDC3A3.2026E6DA"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2462.0000 
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.emporioshop.com.br
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - emporioshop.com.br
+X-Get-Message-Sender-Via: server.emporioshop.com.br: authenticated_id: emporios/sender_address_domain
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+------=_NextPart_000_00CC_EEBDC3A3.2026E6DA
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCg0KICANCiAgPG1ldGEgY29udGVudD0idGV4dC9odG1sOyBjaGFy
+c2V0PUlTTy04ODU5LTEiIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlwZSI+DQoNCiAgDQogIDx0
+aXRsZT48L3RpdGxlPg0KPC9oZWFkPg0KDQoNCjxib2R5Pg0KDQo8YSBocmVmPSJodHRwczov
+L2JpdGx5LmNvbS8xeEVXb0g5Ij48aW1nIHN0eWxlPSJib3JkZXI6IDBweCBzb2xpZCA7IHdp
+ZHRoOiA4ODBweDsgaGVpZ2h0OiAzNzNweDsiIGFsdD0iIiBzcmM9Imh0dHBzOi8vMmd6NGx3
+LmJuMTMwMy5saXZlZmlsZXN0b3JlLmNvbS95MnByWnJ6VEZkU3N3RTljU2cxZzFHSWJaT2Zn
+NFNXTmozTVJIVVhubGRPODgzOENwRWVZdG9rSkZoZUl0Tm82QVZ0aGpncUhIMjZCMF85alIx
+aFdOblo1T0VManlBZnc1U1l5dTR1dDhGYldGSS9jb21wZGVkZXBvc2l0by5wbmc/cHNpZD0x
+Ij48L2E+DQo8L2JvZHk+DQo8L2h0bWw+ICAgIA==
+------=_NextPart_000_00CC_EEBDC3A3.2026E6DA--

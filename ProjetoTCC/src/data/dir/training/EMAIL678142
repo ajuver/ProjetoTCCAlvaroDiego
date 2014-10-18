@@ -1,0 +1,297 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp679757icc;
+        Tue, 2 Sep 2014 06:27:14 -0700 (PDT)
+X-Received: by 10.70.131.40 with SMTP id oj8mr27279632pdb.47.1409664434169;
+        Tue, 02 Sep 2014 06:27:14 -0700 (PDT)
+Return-Path: <comercial.3879F6.994A83C@multi113.postfix.bmsend.com>
+Received: from multi113.postfix.bmsend.com (multi113.postfix.bmsend.com. [207.8.96.123])
+        by mx.google.com with ESMTP id ks3si6187651pdb.26.2014.09.02.06.27.13
+        for <ajuver@gmail.com>;
+        Tue, 02 Sep 2014 06:27:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of comercial.3879F6.994A83C@multi113.postfix.bmsend.com designates 207.8.96.123 as permitted sender) client-ip=207.8.96.123;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of comercial.3879F6.994A83C@multi113.postfix.bmsend.com designates 207.8.96.123 as permitted sender) smtp.mail=comercial.3879F6.994A83C@multi113.postfix.bmsend.com;
+       dkim=pass header.i=@multi113.postfix.bmsend.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=
+	multi113.postfix.bmsend.com; h=reply-to:list-unsubscribe:from
+	:sender:to:subject:date:mime-version:content-type:message-id; s=
+	bmdeda; bh=JNkooCBPJtaWFp+9qz40btBwL54=; b=cLPmVKKXt4LfQr+oaSWCq
+	6UXxOAFCYm6B/s/5Mi8k/MDSZn1YJDdd+KGhsrku9OIYeylSSAzU/cz85nKRT/7E
+	lOpY+o7wr/4hTWBYGAvwflOEdtUek1MaI7I7SyW00su7nus/OedHfpJgdDr/ZUiZ
+	kR3JZQ9Wwjn4m564hMcx40=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=multi113.postfix.bmsend.com;
+	 h=reply-to:list-unsubscribe:from:sender:to:subject:date
+	:mime-version:content-type:message-id; q=dns; s=bmdeda; b=mq+7aw
+	lqMTqKsPckfMqdS/O+cu3VkY/UHBpQedwBrC3kFyMUn4jiIjE6aNXg04aOMtrYOQ
+	uf1mjkUUjNFuylZNIcjOACef7McVXvpLCpFMMfelgpKgjUKcM3/pi7p7rm/OANSv
+	NuFh6fq2kiKR5/3FT0Hr4ZaKVYt46868xPABo=
+Reply-To: comercial@negociomaior.com.br
+X-Identify: <3701238_160737340@benchmarkemail.com>
+X-senderinfo: "Isabel Castro" <comercial@multi113.postfix.bmsend.com> 
+X-campaignid: 3701238
+RemoveEmail: unsubscribe.asp?g=0&c=3701238&l=160737340&e=ajuver@gmail.com&ver=2&SentFromServer=207.8.96.123
+SentFromServer: 207.8.96.123
+List-Unsubscribe: <mailto:unsubscribe@bmesrv.com?subject=unsubscribe>,<http://www.benchmarkemail.com/c/u?9tSN8Jgb1CYNpaqjkEwN9yU5OB%2BD4MoUY6DZgn8kfyctTN1aJQTd7UyPBhzqZXIgBJcAT8xErqg%3D>
+From: "Isabel Castro" <comercial@negociomaior.com.br>
+Sender: "Isabel Castro" <comercial@multi113.postfix.bmsend.com>
+To: "ajuver@gmail.com" <ajuver@gmail.com>
+Subject: =?UTF-8?B?TsOjbyBlc3F1ZWNpIGUgdm9jZQ==?=
+Date: Tue, 2 Sep 2014 09:26:07 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_2697132122254013267500"
+Message-Id: <3hnTZB6GMCz26qc7@multi101.postfix.bmsend.com>
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+------=_NextPart_2697132122254013267500
+Content-type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+bom dia!=0A=0Anesta quarta-feira dia 03 de setembro, come=C3=A7a o =C2=A0=
+=0A=0Amemoriza=C3=A7=C3=A3o e concentra=C3=A7=C3=A3o=0A=0Acom o professor=
+ renato alves, eu n=C3=A3o esqueci e voc=C3=AA=3F=0A=0Atenho certeza que =
+a partir deste curso ningu=C3=A9m vai esquecer de mais nada, e olhe que a=
+l=C3=A9m do mundo dos neg=C3=B3cios, onde a gente est=C3=A1 sempre precis=
+ando, principalmente na frente do cliente,de lembrar algum e a nossa mem=C3=
+=B3ria sempre falha=0Aneste curso o renato vai criar detalhes importantes=
+ que v=C3=A3o fazer voc=C3=AA=0A=0An=C3=80o esquecer mais nada=0Afa=C3=87=
+a j=C3=81 sua inscri=C3=87=C3=83o=0A=0A[1] www=2Eamplabrasil=2Ecom=2Ebrou=
+ 51 33981003=0A=0Aeste curso =C3=A9 importante tamb=C3=A9m pra quem vai p=
+articipar de=0A=0Aconcursos ou vestibulares=0Avoc=C3=AA vai apresender a =
+se concentrar para os estudos, com t=C3=A9cnicas altamente comprovadas, n=
+a pr=C3=A1tica=0Acurso de memoriza=C3=87=C3=83o e concentra=C3=87=C3=83o=C2=
+=A0=0A=0Adias 03 e 04 de setembro na federasul=0A=0Ainscri=C3=87=C3=95es:=
+ 51 33981003 ou [2] www=2Eamplabrasil=2Ecom=2Ebr=0A=0An=C3=83o perca!=0A=0A=
+realiza=C3=A7=C3=A3o: ampla brasil eventos=0A References:=0A=0A1=2E u=3D3=
+c9fd7c=0A2=2E u=3D3c9fd7c
+
+Ver este email no navegador:=20
+
+http://clt=2Ebmetrack=2Ecom/c/v=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=3D=
+yyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+Voc=C3=AA recebeu esse email por causa da sua rela=C3=A7=C3=A3o com Ampla=
+ Brasil=2E Por favor, reconfirme aqui o seu interesse em receber os nosso=
+s e-mails,  ou, caso n=C3=A3o queira mais receb=C3=AA-los, remova a sua i=
+nscri=C3=A7=C3=A3o aqui
+http://clt=2Ebmetrack=2Ecom/c/u=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=3D=
+yyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+
+
+Essa mensagem foi enviada para ajuver@gmail=2Ecom por comercial@negocioma=
+ior=2Ecom=2Ebr
+
+pode modificar/atualizar a sua inscri=C3=A7=C3=A3o atrav=C3=A9s do seguin=
+te link
+Remover Inscri  o de todas as listas de envio
+
+http://clt=2Ebmetrack=2Ecom/c/su=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=
+=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+Gest=C3=A3o de Inscri=C3=A7=C3=A3o
+
+http://clt=2Ebmetrack=2Ecom/c/s=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=3D=
+yyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+Reencaminhar Email
+
+http://clt=2Ebmetrack=2Ecom/c/f=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=3D=
+yyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+Relatar Abuso
+
+http://clt=2Ebmetrack=2Ecom/Abuse=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&emai=
+l=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B
+
+E-mail Marketing
+BenchmarkEmail=2Ecom
+ [http://clt=2Ebmetrack=2Ecom]
+
+Avenida Prot=C3=A1sio Alves
+Tr=C3=AAs Figueiras, Porto Alegre, Rio Grande do Sul  91=2E310-000, Brazi=
+l
+
+
+------=_NextPart_2697132122254013267500
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D3701238&l=3D160737340&e=3Dajuver@gmail=2Eco=
+m&ver=3D2&SentFromServer=3D207=2E8=2E96=2E123
+ -->
+<!DOCTYPE html><html><body>
+
+<br />
+<br />
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Bom dia!
+<br />
+<br /></span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Nesta quarta-feira dia 03 de setembro, come&#=
+231;a o &#160;
+<br /><span
+ style=3D"font-size: 24px; color: #ff0000;">Memoriza&#231;&#227;o e Conce=
+ntra&#231;&#227;o </span>
+<br />com o Professor Renato Alves, eu n&#227;o esqueci e voc&#234;=3F</s=
+pan></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Tenho certeza que a partir deste curso ningu&=
+#233;m vai esquecer de mais nada, e olhe que al&#233;m do mundo dos neg&#=
+243;cios, onde a gente est&#225; sempre precisando, principalmente na fre=
+nte do cliente,de lembrar algum e a nossa mem&#243;ria sempre falha=2E</s=
+pan></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Neste curso O Renato vai criar detalhes impor=
+tantes que v&#227;o fazer voc&#234;=20
+<br /><span
+ style=3D"font-size: 24px; color: #ff0000;">N&#192;O ESQUECER MAIS NADA=2E=
+</span></span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">fA&#199;A J&#193; SUA INSCRI&#199;&#195;O</sp=
+an></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;"><a
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/l=3Fu=3D3C9FD7C&e=3D514E6B&c=3D6A9=
+0E&t=3D0&l=3D994A83C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1" target=3D=
+=5Fblank>WWW=2EAMPLABRASIL=2ECOM=2EBR</a> ou 51 33981003</span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Este curso &#233; importante tamb&#233;m pra =
+quem vai participar de=20
+<br /><span
+ style=3D"font-size: 24px; color: #ff0000;">CONCURSOS ou VESTIBULARES=2E<=
+/span>
+<br />Voc&#234; vai apresender a se concentrar para os estudos, com t&#23=
+3;cnicas altamente comprovadas, na pr&#225;tica=2E
+<br /></span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 24px; color: #ff0000;">CURSO DE MEMORIZA&#199;&#195;=
+O E CONCENTRA&#199;&#195;O&#160;
+<br /></span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Dias 03 e 04 de setembro na federasul</span><=
+/div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">INSCRI&#199;&#213;ES: 51 33981003 ou <a
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/l=3Fu=3D3C9FD7C&e=3D514E6B&c=3D6A9=
+0E&t=3D0&l=3D994A83C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1" target=3D=
+=5Fblank>www=2Eamplabrasil=2Ecom=2Ebr</a></span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">N&#195;O PERCA!</span></div>
+<div
+ style=3D"text-align: center;"><span
+ style=3D"font-size: 18px;">Realiza&#231;&#227;o: Ampla Brasil Eventos</s=
+pan></div>
+<!-- Online Path -->
+<div align=3D"center"  class=3D"bmeheader">
+<div
+ style=3D"font-family:Arial, Verdana; font-size: 12px" class=3D"bmeheader=
+" align=3D"center">
+<table class=3D"container-table" width=3D"600" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0"><tr><td align=3D"center" valign=3D"top" class=3D"pr=
+eheader-table"><div
+ style=3D"font-size:11px; color:#666666; font-family:Arial, Helvetica, sa=
+ns-serif; padding-bottom:5px;" align=3D"center" class=3Dbmeheadertext>
+<a target=3D=5Fnew
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/v=3Fe=3D514E6B&c=3D6A90E&l=3D994A8=
+3C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">Ver este =
+email no navegador</a>
+
+<br />Voc&#234; recebeu esse email por causa da sua rela&#231;&#227;o com=
+ Ampla Brasil=2E Por favor, <a target=3D"=5Fnew"
+ style=3D"color:#0000ff;"
+ href=3D"
+
+http://clt=2Ebmetrack=2Ecom/c/opt=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&emai=
+l=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">reconfirme aqui<=
+/a> o seu interesse em receber os nossos e-mails,  ou, caso n&#227;o quei=
+ra mais receb&#234;-los, <a target=3D"=5Fnew"
+ style=3D"color:#0000ff;"
+ href=3D"
+
+http://clt=2Ebmetrack=2Ecom/c/u=3Fe=3D514E6B&c=3D6A90E&l=3D994A83C&email=3D=
+yyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">remova a sua inscri&=
+#231;&#227;o aqui</a>=2E
+</div></td></tr>
+</table></div></div>
+<!-- /Online Path -->
+
+<!-- Footer Path -->
+<div align=3D"center"  class=3Dbmefooter><div class=3D"container-table"
+ style=3D"text-align: left; padding-top:10px;color: #666666;font-family: =
+Arial,Helvetica,sans-serif; font-size: 11px;" align=3Dcenter>
+
+<table class=3D"container-table" width=3D"600" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0" align=3D"center">
+<tr><td align=3Dleft width=3D"79%"
+ style=3D"color: #666666;font-family: Arial,Helvetica,sans-serif; font-si=
+ze: 11px;" class=3D"mobile-footer bmefootertext">
+Essa mensagem foi enviada para ajuver@gmail=2Ecom por comercial@negocioma=
+ior=2Ecom=2Ebr
+<div
+ style=3D"padding-top: 10px; font-size: 11px;" class=3Dbmefootertext><a c=
+lass=3Dbmefootertext=20
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/su=3Fe=3D514E6B&c=3D6A90E&l=3D994A=
+83C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">Remover =
+Inscri=C3=A7=C3=A3o</a>   | <a class=3Dbmefootertext=20
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/s=3Fe=3D514E6B&c=3D6A90E&l=3D994A8=
+3C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">Gest=C3=A3=
+o de Inscri=C3=A7=C3=A3o</a>   |  <a class=3Dbmefootertext=20
+ href=3D"http://clt=2Ebmetrack=2Ecom/c/f=3Fe=3D514E6B&c=3D6A90E&l=3D994A8=
+3C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">Reencamin=
+har Email</a>  |  <a class=3Dbmefootertext=20
+ href=3D"http://clt=2Ebmetrack=2Ecom/Abuse=3Fe=3D514E6B&c=3D6A90E&l=3D994=
+A83C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B">Relatar=
+ Abuso</a>
+<br /></div>
+<br/></td><td width=3D"21%" align=3D"center"><div
+ style=3D"color:#607d95; font-family:Tahoma, arial; font-size:11px;" alig=
+n=3D"left"></div><a
+ href=3D"http://www=2Ebenchmarkemail=2Ecom/Register=3Futm=5Fsource=3Dcus-=
+foot&utm=5Fmedium=3Demail&utm=5Fcampaign=3Dft-logo-footer&e=3D514E6B&c=3D=
+6A90E&l=3D994A83C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08=
+607B" target=3D""><img
+ style=3D"display:block;" border=3D"0"
+ src=3D"https://www=2Ebenchmarkemail=2Ecom/mail=5Flogo=5Fnew=2Egif" /></a=
+>
+<br/></td></tr>
+</table></div></div><div align=3D"center"  class=3Dbmefooter>
+<div
+ style=3D"text-align:left;">
+
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center" class=3D"container-table"><tr><td
+ style=3D"font-size: 11px; font-family: Arial,Helvetica,sans-serif; color=
+: #666666;" class=3D"mobile-footer bmefootertext">
+Avenida Prot&#225;sio Alves
+Tr&#234;s Figueiras, Porto Alegre, Rio Grande do Sul  91=2E310-000, Brazi=
+l</td></tr><tr><td>
+<br /></td></tr>
+</table></div></div><!-- /Footer Path -->
+<img
+ src=3D'http://clt=2Ebmetrack=2Ecom/c/o=3Fe=3D514E6B&c=3D6A90E&l=3D994A83=
+C&email=3DyyD9GtVkiDAWiMOFunNoXDciHg%2FVbFy1&relid=3DCF08607B'>
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D3701238&l=3D160737340&e=3Dajuver@gmail=2Eco=
+m&ver=3D2&SentFromServer=3D207=2E8=2E96=2E123
+ -->
+
+<!-- campaignid: 3701238 -->
+
+------=_NextPart_2697132122254013267500--
+

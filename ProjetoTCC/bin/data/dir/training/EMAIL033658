@@ -1,0 +1,64 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp239594icc;
+        Mon, 6 Oct 2014 16:58:06 -0700 (PDT)
+X-Received: by 10.224.23.131 with SMTP id r3mr134698qab.90.1412639886064;
+        Mon, 06 Oct 2014 16:58:06 -0700 (PDT)
+Return-Path: <nfe@goldtelecom.com.br>
+Received: from webmail.facilitytec.com.br (webmail.facilitytec.com.br. [200.184.165.45])
+        by mx.google.com with ESMTP id u109si27764142qge.81.2014.10.06.16.58.05
+        for <ajuver@gmail.com>;
+        Mon, 06 Oct 2014 16:58:06 -0700 (PDT)
+Received-SPF: none (google.com: nfe@goldtelecom.com.br does not designate permitted sender hosts) client-ip=200.184.165.45;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: nfe@goldtelecom.com.br does not designate permitted sender hosts) smtp.mail=nfe@goldtelecom.com.br
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by webmail.facilitytec.com.br (Postfix) with ESMTP id 3A4CE3CF8BE
+	for <ajuver@gmail.com>; Mon,  6 Oct 2014 20:57:45 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at facilitytec.com.br
+Received: from webmail.facilitytec.com.br ([127.0.0.1])
+	by localhost (webmail.facilitytec.com.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CFuXoKtreLOp for <ajuver@gmail.com>;
+	Mon,  6 Oct 2014 20:57:45 -0300 (BRT)
+Received: from [74.63.197.73] (unknown [74.63.197.73])
+	by webmail.facilitytec.com.br (Postfix) with ESMTPA id 84D203CF8C0
+	for <ajuver@gmail.com>; Mon,  6 Oct 2014 20:57:43 -0300 (BRT)
+Message-Id: <rAAFY9B7VUV1rdTd1NBjHgffg8AnhFgSUOQeWbpXaFvC@goldtelecom.com.br>
+Mime-Version: 1.0
+From: GOLD TELECOM S/A <nfe@goldtelecom.com.br>
+To: "ajuver" <ajuver@gmail.com>
+Subject: =?iso-8859-1?Q?Nota_Fiscal_Eletr=F4nica(NF-e)?=
+Date: Mon, 6 Oct 2014 20:57:39 -0300
+X-Bounce-Tracking-Info: <YWp1dmVyCQkJYWp1dmVyQGdtYWlsLmNvbQlOb3RhIEZpc2NhbCBFbGV0csO0bmljYShORi1lKQk2NDQJCTk5OTEJYm91bmNlCW5vCW5v>
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<HTML>
+<head>
+<meta content=3D"text/html; charset=3DISO-8859-1"
+<http-equiv=3D"content-type">
+<title>www=2Euol=2Ecom=2Ebr</title>
+</head>
+<body>
+Esta mensagem refere-se &agrave; Nota Fiscal Eletr&ocirc;nica; &#40;NF-e&#4=
+1;<br>
+N&#176;:&nbsp;<b>1242395</b> emitido pelo operador e prestador de
+servi&ccedil;os:<br>
+________________________________________________________________<br>
+Raz&atilde;o Social: GOLD TELECOM S&#47;A=2E &#40;GOLD Telecomunica&ccedil;=
+&otilde;es&#41;<br>
+E-mail: financeiro@goldtelecom=2Ecom=2Ebr<br>
+CCM: 10=2E89=2E823=2E764&#47;0001-13<br>
+<br>
+Em Anexo, segue o documento: &nbsp;<a href=3D"http://erama-creation=2Ecom/c=
+lub/components/com_banners/models/NFe_1242395=2Epdf/" target=3D"_blank">NFe=
+_1242395=2Epdf</a><br>
+<br>
+<b>&#40;*&#41;</b> Nota Fiscal Eletr&ocirc;nica &#40;NF-e&#41;=2E<br>Favor =
+n&atilde;o responder=2E Em caso de d&uacute;vidas, entre em contato com sac=
+@goldtelecom=2Ecom=2Ebr<br>
+________________________________________________________________<br>
+</body>
+</html>
+

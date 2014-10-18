@@ -1,0 +1,87 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp238162icc;
+        Fri, 3 Oct 2014 14:22:11 -0700 (PDT)
+X-Received: by 10.140.102.235 with SMTP id w98mr9235392qge.35.1412371331227;
+        Fri, 03 Oct 2014 14:22:11 -0700 (PDT)
+Return-Path: <38615@kalilsehbeneto.entregadordenoticias.net>
+Received: from hm8307-allin-247.locaweb.com.br (hm8307-allin-247.locaweb.com.br. [179.188.5.247])
+        by mx.google.com with ESMTP id b3si14333881qga.71.2014.10.03.14.22.10
+        for <ajuver@gmail.com>;
+        Fri, 03 Oct 2014 14:22:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 38615@kalilsehbeneto.entregadordenoticias.net designates 179.188.5.247 as permitted sender) client-ip=179.188.5.247;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 38615@kalilsehbeneto.entregadordenoticias.net designates 179.188.5.247 as permitted sender) smtp.mail=38615@kalilsehbeneto.entregadordenoticias.net;
+       dkim=pass header.i=@entregadordenoticias.net;
+       dmarc=fail (p=NONE dis=NONE) header.from=gmail.com
+Message-Id: <542f1383.032a8c0a.361c.3686SMTPIN_ADDED_MISSING@mx.google.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=lw20140124; d=entregadordenoticias.net;
+ h=Date:From:Reply-To:To:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+ bh=CQN1LmpipBjpQlgVCKrMbv6uYCI=;
+ b=WvszTE4wd+ow5GJYfpyV9NhbJKkR92OjFnQc1huC3Vrz2C35KK3SBIFMyWTlyG46C9GqH/jybtPr
+   fdZtDDwpCX6d82Pe4LJTTqSrAZM7+HF15aJ8wdQzEvctmApxauMzTAoR4tfqwUF/19Tcexwx7onr
+   RHkVA4aAKKB2ArGRFdA=
+Received: from localhost (186.202.135.197) by hm8307-allin-247.locaweb.com.br id h5s9jc16ad4q for <ajuver@gmail.com>; Fri, 3 Oct 2014 18:20:44 -0300 (envelope-from <38615@kalilsehbeneto.entregadordenoticias.net>)
+Date: Fri, 3 Oct 2014 18:20:44 -0300
+From: =?UTF-8?B?S2FsaWwgU2VoYmU=?= <kalilsehbe12345@gmail.com>
+Reply-To: kalilsehbe12345@gmail.com
+To: ajuver@gmail.com
+Subject: #PenseEsporte #VoteKalil12345
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_542f133c4c114_45d521a8bbc162468";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: bulk
+x-message-id: 8
+x-account-id: 38615
+x-contact-id: 35258
+x-locaweb-id: jOiQBQ8Imcls50alHMqCrDvNDcL6AEqN48vOAowRKcj27QKjXkZWcwXKA1CHUQcRGNq6q2SNNVHatNBTYjmNGbM7--k-w8PdAhfIzGhZ7_iCp1_7TGBqEZqXC0zEvLXmJSfBz07Q093l2lUEX-demE4sD9WdPfU8F5kWUAcZZYdAI1hPV0wJcbzenUVmHC-M
+x-locaweb-id2: M2QzZjU1NTQ0NjJkMzgzZjQyM2Y1MzMyNDY3MzYxNTc3NzY3NTUzMjU2NmY1OTZkNTUzZDNmM2QzYzZiNjE2YzY5NmM3MzY1Njg2MjY1MzEzMjMzMzQzNTQwNjc2ZDYxNjk2YzJlNjM2ZjZkM2U=
+List-Unsubscribe: <http://emailmarketing.locaweb.com.br/accounts/38615/unsubscribes/8/35258?emkt_c=1412367389>
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+
+----==_mimepart_542f133c4c114_45d521a8bbc162468
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Caso n=C3=A3o consiga visualizar este e-mail adequadamente acesse este li=
+nk
+
+=C2=A0
+Se voc=C3=AA n=C3=A3o deseja mais receber nossos e-mails, cancele sua ins=
+cri=C3=A7=C3=A3o atrav=C3=A9s do link %{link}=
+
+----==_mimepart_542f133c4c114_45d521a8bbc162468
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www=
+.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <body><p><span style=3D"font-size:14px;">Caso n=C3=A3o consiga visualiz=
+ar este e-mail adequadamente <a class=3D"emkt_opening_link" href=3D"http:=
+//emailmarketing.locaweb.com.br/accounts/38615/messages/8?email=3Dajuver@gmail.com=
+&amp;c=3D1412370981&amp;contact_id=3D35258">acesse este link</a></span></p=
+>&#13;
+&#13;
+<p>&nbsp;</p>&#13;
+&#13;
+<p><img alt=3D"#VoteKalil12345" height=3D"1010" src=3D"http://assets.mktn=
+aweb.com/accounts/2014/10/02/38615/pictures/1/original_12345_KALIL.png?14=
+12286623" style=3D"font-size: 13px; line-height: 1.6em;" width=3D"772" />=
+</p>&#13;
+<p><i style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; fo=
+nt-size: 13px; line-height: normal; text-align: center;"><font size=3D"1"=
+>Caso n=C3=A3o queira mais receber nossos emails por favor&nbsp;<a href=3D=
+"http://emailmarketing.locaweb.com.br/accounts/38615/unsubscribes/8/35258?=
+emkt_c=3D1412367389">clique aqui</a></font></i></p>&#13;
+<img src=3D"http://emailmarketing.locaweb.com.br/accounts/38615/messages/=
+8/openings/35258" width=3D"1" height=3D"1" border=3D"0" alt=3D"" /></body>=
+
+</html>
+
+----==_mimepart_542f133c4c114_45d521a8bbc162468--

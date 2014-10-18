@@ -1,0 +1,1516 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp81027icc;
+        Tue, 19 Aug 2014 05:26:00 -0700 (PDT)
+X-Received: by 10.50.1.37 with SMTP id 5mr5117416igj.47.1408451157289;
+        Tue, 19 Aug 2014 05:25:57 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@r.grouponmail.com.br
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.225.172 with POP3 id rl12mf435313iec.18;
+        Tue, 19 Aug 2014 05:25:57 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Tue, 19 Aug 2014 11:49:35 +0000
+Received-SPF: pass (domain of bounce.r.grouponmail.com.br designates 50.115.214.53 as permitted sender)
+X-YMailISG: H9XIiHwWLDt2Vl7K3lP58_ZeFjwzUpXwApUlQ2Z7ygP0JJy7
+ poqwQOKO93mPP.RxkexUo8zcBintUaBbyJwbB.NePPEs0AKGDPi9XMIy4XNd
+ b05tKwqrgVlzYkjdkbJtkV_02aqP23MkzS8qtZHgQa9JzAhA93M5Iic9J58n
+ 4PD4xf46GJHqa1LaQ7WCmG8okvP5wAJOWdiHuJB5.gq0VxQ5fDjiIhbMlV7e
+ 02YbodZBx1n9Nh0i4nJ9kXhAzPThMqWjOg6VcY9FX.36XXoS5qwUCgDYl_yn
+ _kkGhowioHpsQyPL1Y17ay4cbuAjgOMzrJBT5UXRSLpT6bUW86es.Ijvsinl
+ 9BpZI45ZWlTDWtvNX..a5DWIL.Nxv.TQIfCgSZvCwRevC_kNvs5JvPp.aOGF
+ M403n94N0VV8Qoh1wD8fclGH91PahHK.m4ftqBO28pdu1lXCFyGqKnxD5C82
+ 3TADIbg3qnT9FuLYZmQotI4G.Rf7dKfWeofDARDQMJT5WtYlWYuFBTnkUeng
+ XofbyvAyjCEXHsARyPkq_xJCoia0GHkG6Uj7Wmigw9lwoQZTT1XAsYTPf8er
+ iRQ4Jj2t8OevlVxh4BU7_J5uZa.B2gK..G1IyB_AFD9DHk5Vp.fJtn3iwiwe
+ pPRx6baDw9sspfWuIJEedI6u8Z7O.LkMxMET.ild.F3u6kmgaFNL6ZFNmtm6
+ 29HhO9a79c0G_rlwetZmEJI_fu5FDJZL1yB97cp4XyTtoriPujkb2TbtFPaD
+ p9P0A1FiqeXHSvUklubL22._Mplh6_1vn3CDzfBY1hsy55z.xeyJpCxaBd7S
+ LdBveuloWiwcas6xWDFAU8.mgyK0Nrs3GmG0wm2OrFqkyTs0BIhKDRtMhPCN
+ UHxJMDIkHOE0nNCZWvYZIBGl.cpweHdGtwskc4duqH2ovraKtBpH8pqls6i6
+ OksKUhrU2tzqUdZJpymtsp9wwLRk21GeQnwJXcqQ896Y41hCewaS6CnTMSIV
+ Gc0LVQo5a2tygoNKU.d2UqWnvwfqiZ5buV2Qwibu9ZlPMW7Wdko5lg6iqc.6
+ YEEkwFSWI9tbhZmDdXXq6MNQTP16LmCykRwYWmoQu4lbeHaMI1hz.ABxE_VE
+ 7VmB04R.SR5DlM9gj7wesn36ccW9YY5zMyd0_doAgt4U2XtZKvbTB8076WkC
+ _eqeRQMuE6TIQ3eeMxjnlsycW7ptFAjpflAajgZlurkkuycfYAC8il791T07
+ 4zfBBNFRoxsSOpNmD_Blsblyz0NeajWN_uSsJGcOezsVxocHTo7gNSmpXHGg
+ JOzqgULIcCNVVoM21xbsCGnBT92n6FSqmbu9EWQZDrckkv3eLnfLXn4F8zFN
+ utZ1yMz0GIj7q_8LGPFLg9yVxVbaEH5XtTpBNqhot25U1wxrn5_WES43zsIO
+ wzJNnoaTEAh27btMTbCWs2jyblK7bsNLdCD4DzJCgdKq1Yk70G6u_VpByH1b
+ y9MlrPD5ERmJaJDDmyeznPUa0yLoYEbi0S9jNCI_AY91_bWR04y9fVz2LTx.
+ FoQzkF8QGbM9Sc2Y9oRizSyBtJysfce_4GF3It.iqvdaj7UEFM1vDpNc06JH
+ y5KD0787Lw.hMzII.p6TFmDYTD30
+X-Originating-IP: [50.115.214.53]
+Authentication-Results: mta1206.mail.ne1.yahoo.com  from=r.grouponmail.com.br; domainkeys=neutral (no sig);  from=r.grouponmail.com.br; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mta50l1.r.grouponmail.com.br) (50.115.214.53)
+  by mta1206.mail.ne1.yahoo.com with SMTP; Tue, 19 Aug 2014 11:49:34 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=r.grouponmail.com.br; s=s1024d20130206; c=relaxed/simple;
+	q=dns/txt; i=@r.grouponmail.com.br; t=1408447155; x=1409051955;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=20iCqWQV8fnf7hcIwp09ZP8jqWw=;
+	b=n1UlrXGS29nzuyVEZCpml/HfFiwilna23V/2pjLec6qraEE2BV0apPwgvecfBz6K
+	cam6mv7zUL1uUhIwOL/TZOuoYKf0JNUtLHHi9Fn3mKDk8FQ2Br7BZgWKa2vYn//n
+	mXqt3fbZtI8ljEAU3D9cbKVyArXGQiXg+wDUxALNJyI=;
+Date: Tue, 19 Aug 2014 11:19:15 +0000 (UTC)
+From: Groupon Porto Alegre <noreply@r.grouponmail.com.br>
+To: ajuver@yahoo.com.br
+Message-ID: <1527611351.358990372.1408447155934.JavaMail.rocketman@rocketman29.lup1>
+Subject: Portoxicano: jantar mexicano
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_358990285_759849899.1408447155684"
+X-RM-SendId: 9f0c1ac1-993d-4722-9519-7cfca5568eff
+X-RM-EmailName: daily-email_portoalegre_rm
+X-RM-UserHash: 7ade26dfa31396c03a421cc54d1b89ca50d96d02463c7e5bf332df8fc0a0ec33
+X-MSFBL: YWp1dmVyQHlhaG9vLmNvbS5icjpiYXRjaDo5ZjBjMWFjMS05OTNkLTQ3MjItOTUxOS03Y2ZjYTU1NjhlZmY6MTIwMTEzOTgzOkJS
+List-Unsubscribe: <mailto:7ade26dfa31396c03a421cc54d1b89ca50d96d02463c7e5bf332df8fc0a0ec33@unsub.r.grouponmail.com.br?subject=YWp1dmVyQHlhaG9vLmNvbS5icjpiYXRjaDo5ZjBjMWFjMS05OTNkLTQ3MjItOTUxOS03Y2ZjYTU1NjhlZmY6MTIwMTEzOTgzOkJS>
+X-RPCampaign: Groupondailyemailportoalegrerm20140819
+X-RPTags: daily-email_portoalegre_rm
+X-Recruiting: Interested in headers? Join us: www.groupon.com/techjobs/
+List-Id: <daily-email_portoalegre_rm_20140819.groupon>
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+------=_Part_358990285_759849899.1408447155684
+Content-Type: multipart/related; 
+	boundary="----=_Part_358990286_1859487431.1408447155684"
+
+------=_Part_358990286_1859487431.1408447155684
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <style type=3D"text/css"> .ReadMsgBody {width: 100=
+%;} .ExternalClass {width: 100%;} span.yshortcuts { color:#000; background-=
+color:none; border:none;} span.yshortcuts:hover, span.yshortcuts:active, sp=
+an.yshortcuts:focus {color:#000; background-color:none; border:none;} a {co=
+lor:#0185C6; text-decoration:none; !important;} .description a{color:#33333=
+3; !important;} @media screen and (max-device-width: 480px) { *[class].titl=
+eFont{font-size:20px !important;} *[class].channelPricePadding{padding-top:=
+5px !important;} *[class].dButtonPadding{padding-right:5px !important;} *[c=
+lass].primaryLocation {font-size:17px !important;} *[class].buttonPadding{p=
+adding: 10px 10px 5px 10px !important; text-align: center;} *[class].button=
+Padding2{padding: 10px 10px 5px 0 !important; text-align: center;} *[class]=
+.buttonPadding3 {padding: 10px 10px 5px 10px !important;} *[class].viewButt=
+on {padding: 20px 10px !important; font-family: Arial, verdana, sans-serif;=
+ background: #82b548 url(http://br.static.groupon-content.net/mail_img/glob=
+al/cta_btn_green_gradient.gif) 0 0 repeat-x; font-weight: bold;text-align: =
+center; display: inline-block;line-height: 1.1; text-shadow: 0px -1px 0px #=
+3F8C23; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px=
+ 4px 4px; -khtml-border-radius: 4px 4px 4px 4px; border-radius: 4px 4px 4px=
+ 4px; border:1px solid #72a30f; font-size: 24px !important; width:245px !im=
+portant;} *[class].viewButton a {color:#FFFFFF !important; font-size: 24px =
+!important;} *[class].divisionButtonPadding {padding: 0 20px 30px !importan=
+t;} *[class].divisionButton {font-size:20px !important; padding: 20px !impo=
+rtant; width:526px; text-align:center !important;} *[class].mobileHidden {d=
+isplay:none !important;} } </style> <meta http-equiv=3D"Content-Type" conte=
+nt=3D"text/html; charset=3Dutf-8" /> <title>Groupon</title> </head> <body s=
+tyle=3D"margin: 0;"> <script type=3D"application/ld+json"> { "@context": "h=
+ttp://schema.org", "@type": "EmailMessage", "publisher": { "@type": "Organi=
+zation", "url/googlePlus": "https://plus.google.com/106361739219205932543",=
+ "name": "Groupon" }, "about": { "@type": "Offer", "image": "http://static.=
+br.groupon-content.net/34/13/1407757361334.jpg" } } </script> <table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#FFFFF=
+F"> <tr> <td align=3D"center" style=3D"font-size:12px; font-family: Arial, =
+Verdana, sans-serif; color:#939393; line-height:14px; padding:10px 0;">Seu =
+Groupon di=C3=A1rio em Porto Alegre&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Adi=
+cione "<a href=3D"#" style=3D"color:#0185C6; text-decoration:none;">noreply=
+@r.grouponmail.com.br</a>" aos seus endere=C3=A7os de e-mail. <img src=3D"h=
+ttp://www.groupon.com.br/analytic/trackintl.gif?p=3D1&utm_domain=3Dyahoo.co=
+m.br&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_med=
+ium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoaleg=
+re&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=
+=3Dbody&c=3Dtracking_pixel&d=3Dnone" height=3D"1" width=3D"1" /> </td> </tr=
+> <tr> <td style=3D"font-family:Arial, Verdana, sans-serif; padding:0px 10p=
+x 10px 10px; font-size:12px; color:#939393; line-height:14px;" align=3D"cen=
+ter" ><a href=3D"http://www.groupon.com.br/subscriptions/hash/1d73dce3-194e=
+-4f9f-9980-54b461fa1976?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dfooter&c=3Dlink&d=3Dsubscription_center" style=3D"co=
+lor:#0185C6; text-decoration:none;">Clique aqui</a> para gerenciar as mensa=
+gens que recebe do Groupon, ou cancele o recebimento do e-mail Porto Alegre=
+ com <a href=3D"http://www.groupon.com.br/subscriptions/unsubscribe/city/1d=
+73dce3-194e-4f9f-9980-54b461fa1976?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&u=
+tm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cf=
+ca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&=
+date=3D20141908&sender=3Drm&s=3Dfooter&c=3Dlink&d=3Dunsub" style=3D"color:#=
+0185C6; text-decoration:none;">um clique</a>.</td> </tr> </table> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D#82b548 width=3D"1=
+00%"> <tr> <td valign=3D"top" bgcolor=3D#82b548 style=3D"border-top:1px sol=
+id #82b548; line-height:0px; padding-right:5px;">&nbsp;</td> <td width=3D"6=
+00" valign=3D"top" bgcolor=3D#82b548 style=3D"padding-bottom:20px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px;"> <=
+tr> <td bgcolor=3D#82b548 width=3D"120" valign=3D"top"> <a href=3D "http://=
+www.groupon.com.br/all-deals/portoalegre?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D=
+1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-95=
+19-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461f=
+a1976&date=3D20141908&sender=3Drm&s=3Dheader&c=3Dgroupon_logo&d=3Dall_deals=
+-page"target=3D"_blank"> <img src=3D"http://s3.grouponcdn.com/email/images/=
+global_images/groupon_logo_transp.png" width=3D"120" height=3D"46" style=3D=
+"display: block; border: none; font:25px Arial, Verdana, sans-serif; color:=
+#FFFFFF;" alt=3D"Groupon" /> </a></td> <td valign=3D"middle" align=3D"right=
+" width=3D"480" bgcolor=3D#82b548 style=3D"border-top: 1px solid #82b548; p=
+adding: 0 10px 0 0;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0"> <tr> <td align=3D"right" style=3D"padding:14px 10px 0 0; font:16px Aria=
+l, Verdana, sans-serif; color:#FFFFFF; line-height:20px;">Suas ofertas de h=
+oje de&nbsp;<span style=3D"font:bold 18px Arial, Verdana, sans-serif;"><nob=
+r>Porto Alegre</nobr></span></td> </tr> </table> </td> </tr> </table> </td>=
+ <td valign=3D"top" bgcolor=3D#82b548 style=3D"border-top:1px solid #82b548=
+; line-height:0px; padding-left:5px;">&nbsp;</td> </tr> </table> <table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"> <tr> <td vali=
+gn=3D"top" style=3D"line-height:0px; padding-right:5px;" bgcolor=3D#82b548>=
+&nbsp;</td> <td bgcolor=3D"#FFFFFF" width=3D"598" height=3D"20" style=3D"bo=
+rder-right: 1px solid #82b548; border-left: 1px solid #82b548; line-height:=
+0px;">&nbsp;</td> <td valign=3D"top" style=3D"line-height:0px; padding-left=
+:5px;" bgcolor=3D#82b548>&nbsp;</td> </tr> </table> <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" width=3D"100%" background=3D"http://br.sta=
+tic.groupon-content.net/mail_img/global/G1_bgTile.gif" bgcolor=3D"#e2e2e2">=
+ <tr> <td>&nbsp;</td> <td width=3D"600" style=3D"padding:0 5px 20px 5px;"> =
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td align=3D"=
+center" width=3D"598" style=3D"border-right: 1px solid #c1c1c1; border-left=
+: 1px solid #c1c1c1; border-bottom:1px solid #c1c1c1;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td bgcolor=3D"#FFFFFF" valign=
+=3D"top"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=
+=3D"#FFFFFF" style=3D"width:598px;"> <tr> <td valign=3D"top" bgcolor=3D"#FF=
+FFFF" width=3D"280" style=3D"padding-left:20px;"> <table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont" width=3D"280" =
+align=3D'left' style=3D"-webkit-text-size-adjust:none; font-size:18px; font=
+-style:normal; font-variant:normal; font-weight:bold; font-family:Arial, Ve=
+rdana, sans-serif; color:#0185c6; padding-right:10px;"><a href=3D"http://ww=
+w.groupon.com.br/ofertas/portoalegre/restaurante-portoxicano-1/43450276?p=
+=3D1&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_med=
+ium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoaleg=
+re&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=
+=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Drestaurante-portoxicano=
+-1-43450276" style=3D"color:#0185C6; text-decoration:none;" target=3D"_blan=
+k"> Portoxicano: jantar mexicano </a></td> </tr> <tr> <td class=3D"titleFon=
+t" align=3D'left' style=3D"font-size:14px;font-style:normal;font-variant:no=
+rmal;font-weight:normal;font-family:Arial, Verdana, sans-serif; color:#3333=
+33; padding:4px 10px 0px 0px;"> Restaurante Portoxicano </td> </tr> <tr> <t=
+d class=3D"titleFont" align=3D'left' style=3D"font-size:13px;font-style:nor=
+mal;font-variant:normal;font-weight:normal;font-family:Arial, Verdana, sans=
+-serif; color:#666666; padding:4px 10px 0px 0px;">(3 km de dist=C3=A2ncia)<=
+/td> </tr> <tr> <td align=3D'left' style=3D"font-size:12px; font-style:norm=
+al; font-variant:normal; font-weight:normal; font-family:Arial, Verdana, sa=
+ns-serif; color:#666666; padding:5px 10px 5px 0; line-height:18px;"> <div c=
+lass=3D"mobileHidden"> A pimenta torna a comida mexicana facilmente identif=
+ic=C3=A1vel, o que d=C3=A1 sabor =C3=A0 refei=C3=A7=C3=A3o e ainda ajuda a =
+localizar poss=C3=ADveis... <a href=3D"http://www.groupon.com.br/ofertas/po=
+rtoalegre/restaurante-portoxicano-1/43450276?p=3D1&nlp=3D&CID=3DBR_CRM_1_0_=
+0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-99=
+3d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-99=
+80-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_more&d=3Ddeal=
+-page&utm_campaign=3Drestaurante-portoxicano-1-43450276" style=3D"color:#01=
+85C6; text-decoration:none;" target=3D"_blank">mais</a>. </div> </td> </tr>=
+ </table> </td> <td rowspan=3D"2" valign=3D"top" width=3D"290" style=3D"pad=
+ding-right:20px; padding-bottom:20px;"><a href=3D"http://www.groupon.com.br=
+/ofertas/portoalegre/restaurante-portoxicano-1/43450276?p=3D1&nlp=3D&CID=3D=
+BR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-1=
+94e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_im=
+g&d=3Ddeal-page&utm_campaign=3Drestaurante-portoxicano-1-43450276" title=3D=
+"font-size:26px; font-weight:bold;" target=3D"_blank"><img src=3D"http://st=
+atic.br.groupon-content.net/34/13/1407757361334.jpg" width=3D"290" height=
+=3D"194" alt=3D" Portoxicano: jantar mexicano " title=3D" Portoxicano: jant=
+ar mexicano " style=3D"display: block; border: none; font-family:Arial, ver=
+dana, sans-serif; color:#0891be; font-size:14px; font-weight:bold;" border=
+=3D"0" align=3D'left' /></a></td> </tr> <tr> <td align=3D'left' valign=3D"b=
+ottom" style=3D"padding:0 10px 20px 20px;"> <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"> <tr> <td height=3D"36" bgcolor=3D#82b548 width=3D=
+"115" valign=3D"middle" align=3D"center" style=3D"vertical-align: middle; b=
+ackground: #82b548 url(http://br.static.groupon-content.net/mail_img/global=
+/cta_btn_green_gradient.gif) 0 0 repeat-x; -moz-border-radius: 5px 5px 5px =
+5px; -webkit-border-bottom-right-radius: 5px; -webkit-border-top-right-radi=
+us: 5px; -webkit-border-bottom-left-radius: 5px; -webkit-border-top-left-ra=
+dius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; b=
+order-top-left-radius: 5px; border-bottom-left-radius: 5px; border: 1px sol=
+id #72a30f; text-align: center; font-weight: bold; font-size: 18px; font-fa=
+mily: Arial,Helvetica,sans-serif; color:#ffffff;"><a class=3D"titleFont" hr=
+ef=3D"http://www.groupon.com.br/ofertas/portoalegre/restaurante-portoxicano=
+-1/43450276?p=3D1&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsl=
+etter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&divisio=
+n=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&s=
+ender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Drestaurant=
+e-portoxicano-1-43450276" style=3D"color: #ffffff; font-weight: bold; font-=
+size: 18px; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px -1px =
+0px #3F8C23; text-decoration: none; display:block; line-height:30px;"target=
+=3D"_blank">Veja a oferta</a></td> <td width=3D"10">&nbsp;</td> <td> <span =
+style=3D"-webkit-text-size-adjust:none; font-family:Arial, Verdana, sans-se=
+rif; font-size:16px; font-weight:normal; color:#848484; text-decoration:lin=
+e-through; padding-right:5px;"> R$&nbsp;65,40 </span> <span style=3D"font-f=
+amily:Arial, Verdana, sans-serif; font-size:18px; font-weight:bold; color:#=
+82b548;"> R$&nbsp;29,90 </span> </td> </tr> </table> </td> </tr> </table> <=
+/td> </tr> </table> </td> </tr> </table> </td> <td>&nbsp;</td> </tr> </tabl=
+e> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" b=
+ackground=3D"http://br.static.groupon-content.net/mail_img/global/G1_bgTile=
+.gif" bgcolor=3D"#e2e2e2"> <tr> <td>&nbsp;</td> <td width=3D"600"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 100%;"> <tr=
+> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c=
+1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280">=
+<a href=3D"http://www.groupon.com.br/ofertas/portoalegre/you-dynamic/420959=
+63?p=3D2&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm=
+_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dporto=
+alegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Dr=
+m&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3Dyou-dynamic-42095963" =
+target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img src=
+=3D"http://static.br.groupon-content.net/83/35/1405373743583.jpg" width=3D"=
+288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFF=
+F" style=3D"padding:10px 10px 5px 10px; width:100%;"> <table cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%;"> <tr> <td class=3D=
+"titleFont" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Ligh=
+t', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-he=
+ight: 1.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"htt=
+p://www.groupon.com.br/ofertas/portoalegre/you-dynamic/42095963?p=3D2&nlp=
+=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Dem=
+ail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D=
+1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=
+=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Dyou-dynamic-42095963" target=3D"=
+_blank" style=3D"color:#0185C6; text-decoration:none;">Aulas de idiomas: 4 =
+op=C3=A7=C3=B5es</a></td> </tr> </table> </td> </tr> </table> </td> <td wid=
+th=3D"20"><img src=3D"http://br.static.groupon-content.net/mail_img/global/=
+spacer_10.gif" width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #=
+c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupo=
+n.com.br/ofertas/dealbank_pt_br/strike-bowling-2/41370989?p=3D3&nlp=3D&CID=
+=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=
+=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce=
+3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal=
+_img&d=3Ddeal-page&utm_campaign=3Dstrike-bowling-2-41370989" target=3D"_bla=
+nk" style=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://stati=
+c.br.groupon-content.net/27/53/1399675425327.jpg" width=3D"288" border=3D"0=
+"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padd=
+ing:10px 10px 5px 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleFont" ali=
+gn=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica =
+Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-=
+weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon=
+.com.br/ofertas/dealbank_pt_br/strike-bowling-2/41370989?p=3D3&nlp=3D&CID=
+=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=
+=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce=
+3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal=
+_title&d=3Ddeal-page&utm_campaign=3Dstrike-bowling-2-41370989" target=3D"_b=
+lank" style=3D"color:#0185C6; text-decoration:none;">Boliche + torre de Cho=
+pp Brahma</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td=
+ valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1=
+px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <t=
+r> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padd=
+ing-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1;=
+ color:#333; width:290px;"> You Dynamic </td> </tr> <tr> <td class=3D"title=
+Font" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'He=
+lvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;=
+line-height: 1.1; color:#666; width:290px;"> Porto Alegre (5 km de dist=C3=
+=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><=
+img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.g=
+if" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px=
+ solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'lef=
+t'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Strike =
+Bowling </td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom:5p=
+x;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans=
+-serif;font-weight: normal;font-size: 12px;line-height: 1.1; color:#666; wi=
+dth:290px;"> Campo Bom (39 km de dist=C3=A2ncia) </td> </tr> </table> </td>=
+ </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" sty=
+le=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border=
+-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=3D'left=
+' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans=
+-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr=
+> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=
+=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze:14px; line-height:19px; color:#333;"> <tr> <td align=3D"left" class=3D"t=
+itleFont" valign=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; f=
+ont-size:14px; font-weight:normal; color:#848484; text-decoration:line-thro=
+ugh; line-height:1.1; padding-right:7px"> R$&nbsp;825,00 </td> <td valign=
+=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-seri=
+f; font-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line=
+-height:1.1;"> R$&nbsp;179,00 </td> </tr> </table> </td> </tr> <tr> <td cla=
+ss=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px;=
+"> <a href=3D"http://www.groupon.com.br/ofertas/portoalegre/you-dynamic/420=
+95963?p=3D2&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&=
+utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dpo=
+rtoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=
+=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dyou-dynamic-420=
+95963" target=3D"_blank" style=3D"color: #FFF; text-decoration: none; curso=
+r: pointer; display: inline-block;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=
+=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px=
+; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_blank" =
+style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.groupon.c=
+om.br/ofertas/portoalegre/you-dynamic/42095963?p=3D2&nlp=3D&CID=3DBR_CRM_1_=
+0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-=
+993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-=
+9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3D=
+deal-page&utm_campaign=3Dyou-dynamic-42095963">Veja</a></td> </tr> </table>=
+ </a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"http://br.sta=
+tic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"10" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:=
+1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:1px solid =
+#c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"width:100%"> <tr> <td align=3D'left' class=3D"titleFo=
+nt" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif; color:#666=
+666; line-height: 1.1; padding: 0 10px;"><span style=3D'color: #e47838; fon=
+t-weight: normal;'>Mais de 50 comprados</span> &nbsp;&nbsp;</td> </tr> <tr>=
+ <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"pa=
+dding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14p=
+x; line-height:19px; color:#333;"> <tr> <td align=3D"left" class=3D"titleFo=
+nt" valign=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; font-si=
+ze:14px; font-weight:normal; color:#848484; text-decoration:line-through; l=
+ine-height:1.1; padding-right:7px"> R$&nbsp;102,00 </td> <td valign=3D"top"=
+ class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-serif; font-=
+size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line-height:=
+1.1;"> R$&nbsp;49,90 </td> </tr> </table> </td> </tr> <tr> <td class=3D"but=
+tonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a hre=
+f=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/strike-bowling-2/4137=
+0989?p=3D3&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&u=
+tm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dpor=
+toalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=
+=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dstrike-bowling-=
+2-41370989" target=3D"_blank" style=3D"color: #FFF; text-decoration: none; =
+cursor: pointer; display: inline-block;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valig=
+n=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12p=
+x; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_blank"=
+ style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.groupon.=
+com.br/ofertas/dealbank_pt_br/strike-bowling-2/41370989?p=3D3&nlp=3D&CID=3D=
+BR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-1=
+94e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_bu=
+tton&d=3Ddeal-page&utm_campaign=3Dstrike-bowling-2-41370989">Veja</a></td> =
+</tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20"=
+ style=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td=
+> </tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"width: 100%;"> <tr> <td valign=3D"top=
+" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1p=
+x solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://w=
+ww.groupon.com.br/ofertas/portoalegre/oito-tempos-danca-de-salao/43303872?p=
+=3D4&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_med=
+ium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoaleg=
+re&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=
+=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3Doito-tempos-danca-de-sala=
+o-43303872" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;=
+"><img src=3D"http://static.br.groupon-content.net/78/59/1405091915978.jpg"=
+ width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100%;"> <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%;"> <tr> <t=
+d class=3D"titleFont" align=3D'left' style=3D"font-family: Arial, 'Helvetic=
+aNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, sans-ser=
+if;line-height: 1.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a h=
+ref=3D"http://www.groupon.com.br/ofertas/portoalegre/oito-tempos-danca-de-s=
+alao/43303872?p=3D4&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnew=
+sletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&divis=
+ion=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908=
+&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Doito-temp=
+os-danca-de-salao-43303872" target=3D"_blank" style=3D"color:#0185C6; text-=
+decoration:none;">At=C3=A9 6 meses de aulas de dan=C3=A7a</a></td> </tr> </=
+table> </td> </tr> </table> </td> <td width=3D"20"><img src=3D"http://br.st=
+atic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1=
+px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1=
+c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td w=
+idth=3D"280"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/botec=
+o-do-joaquim/42091799?p=3D5&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_sour=
+ce=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568e=
+ff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D=
+20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3Dbot=
+eco-do-joaquim-42091799" target=3D"_blank" style=3D"color:#0185C6; text-dec=
+oration:none;"><img src=3D"http://static.br.groupon-content.net/65/21/14060=
+48282165.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D=
+"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100%;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:10=
+0%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: Ari=
+al, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvet=
+ica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; color:#=
+0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/boteco-do=
+-joaquim/42091799?p=3D5&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Dbot=
+eco-do-joaquim-42091799" target=3D"_blank" style=3D"color:#0185C6; text-dec=
+oration:none;">Boteco do Joaquim: lingui=C3=A7a do Bola</a></td> </tr> </ta=
+ble> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#F=
+FFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-righ=
+t:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=
+=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <t=
+d class=3D"titleFont description" style=3D"padding-bottom:5px; font-family:=
+ Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-w=
+eight: normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> =
+Oito Tempos - Dan=C3=A7a de Sal=C3=A3o </td> </tr> <tr> <td class=3D"titleF=
+ont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Hel=
+vetica', Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;l=
+ine-height: 1.1; color:#666; width:290px;"> Porto Alegre (2 km de dist=C3=
+=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><=
+img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.g=
+if" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px=
+ solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'lef=
+t'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Boteco =
+do Joaquim </td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom=
+:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, s=
+ans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; color:#666;=
+ width:290px;"> Porto Alegre (5 km de dist=C3=A2ncia) </td> </tr> </table> =
+</td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; b=
+order-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=
+=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verda=
+na, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;"><span st=
+yle=3D'color: #e47838; font-weight: normal;'>Mais de 50 comprados</span> &n=
+bsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding"=
+ width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=
+=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-=
+decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;140,0=
+0 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; paddi=
+ng:0 7px 0 0; line-height:1.1;"> R$&nbsp;49,90 </td> </tr> </table> </td> <=
+/tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoale=
+gre/oito-tempos-danca-de-salao/43303872?p=3D4&nlp=3D&CID=3DBR_CRM_1_0_0_231=
+&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-47=
+22-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54=
+b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-pa=
+ge&utm_campaign=3Doito-tempos-danca-de-salao-43303872" target=3D"_blank" st=
+yle=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline=
+-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td=
+ class=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-famil=
+y:Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#6666=
+66; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-de=
+coration:none;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/oito-=
+tempos-danca-de-salao/43303872?p=3D4&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388=
+&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7=
+cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa197=
+6&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_ca=
+mpaign=3Doito-tempos-danca-de-salao-43303872">Veja</a></td> </tr> </table> =
+</a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"http://br.stat=
+ic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"10" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:=
+1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:1px solid =
+#c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"width:100%"> <tr> <td align=3D'left' class=3D"titleFo=
+nt" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif; color:#666=
+666; line-height: 1.1; padding: 0 10px;"><span style=3D'color: #e47838; fon=
+t-weight: normal;'>Mais de 100 comprados</span> &nbsp;&nbsp;</td> </tr> <tr=
+> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"p=
+adding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14=
+px; line-height:19px; color:#333;"> <tr> <td align=3D"left" class=3D"titleF=
+ont" valign=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; font-s=
+ize:14px; font-weight:normal; color:#848484; text-decoration:line-through; =
+line-height:1.1; padding-right:7px"> R$&nbsp;31,45 </td> <td valign=3D"top"=
+ class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-serif; font-=
+size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line-height:=
+1.1;"> R$&nbsp;19,00 </td> </tr> </table> </td> </tr> <tr> <td class=3D"but=
+tonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a hre=
+f=3D"http://www.groupon.com.br/ofertas/portoalegre/boteco-do-joaquim/420917=
+99?p=3D5&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm=
+_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dporto=
+alegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Dr=
+m&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dboteco-do-joaquim-4=
+2091799" target=3D"_blank" style=3D"color: #FFF; text-decoration: none; cur=
+sor: pointer; display: inline-block;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=
+=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px=
+; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_blank" =
+style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.groupon.c=
+om.br/ofertas/portoalegre/boteco-do-joaquim/42091799?p=3D5&nlp=3D&CID=3DBR_=
+CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0=
+c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e=
+-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_butto=
+n&d=3Ddeal-page&utm_campaign=3Dboteco-do-joaquim-42091799">Veja</a></td> </=
+tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" s=
+tyle=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> =
+</tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" style=3D"width: 100%;"> <tr> <td valign=3D"top" =
+bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px =
+solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www=
+.groupon.com.br/ofertas/portoalegre/lamb-s-2/42980837?p=3D6&nlp=3D&CID=3DBR=
+_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f=
+0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194=
+e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&=
+d=3Ddeal-page&utm_campaign=3Dlamb-s-2-42980837" target=3D"_blank" style=3D"=
+color:#0185C6; text-decoration:none;"><img src=3D"http://static.br.groupon-=
+content.net/57/64/1402428626457.jpg" width=3D"288" border=3D"0"></a></td> <=
+/tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px=
+ 5px 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'left' s=
+tyle=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', =
+'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;=
+font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/ofert=
+as/portoalegre/lamb-s-2/42980837?p=3D6&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D13=
+88&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519=
+-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1=
+976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_c=
+ampaign=3Dlamb-s-2-42980837" target=3D"_blank" style=3D"color:#0185C6; text=
+-decoration:none;">Kit festa para 10 ou 25 pessoas</a></td> </tr> </table> =
+</td> </tr> </table> </td> <td width=3D"20"><img src=3D"http://br.static.gr=
+oupon-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" =
+/></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px soli=
+d #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;">=
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D=
+"280"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/black-magic-=
+tattoo-1/40145330?p=3D7&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3Dblack=
+-magic-tattoo-1-40145330" target=3D"_blank" style=3D"color:#0185C6; text-de=
+coration:none;"><img src=3D"http://static.br.groupon-content.net/35/87/1402=
+085398735.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=
+=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100=
+%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: =
+Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Hel=
+vetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; colo=
+r:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/black-=
+magic-tattoo-1/40145330?p=3D7&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_so=
+urce=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca556=
+8eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=
+=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=
+=3Dblack-magic-tattoo-1-40145330" target=3D"_blank" style=3D"color:#0185C6;=
+ text-decoration:none;">Cr=C3=A9dito para tatuagem</a></td> </tr> </table> =
+</td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px=
+ solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'lef=
+t'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Lamb's =
+</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;font-f=
+amily: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;f=
+ont-weight: normal;font-size: 12px;line-height: 1.1; color:#666; width:290p=
+x;"> Porto Alegre (2 km de dist=C3=A2ncia) </td> </tr> </table> </td> </tr>=
+ </table> </td> <td width=3D"10"><img src=3D"http://br.static.groupon-conte=
+nt.net/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td=
+ valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1=
+px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <t=
+r> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padd=
+ing-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1;=
+ color:#333; width:290px;"> Black Magic Tattoo </td> </tr> <tr> <td class=
+=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica N=
+eue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-si=
+ze: 12px;line-height: 1.1; color:#666; width:290px;"> Porto Alegre (3 km de=
+ dist=C3=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr>=
+ <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c=
+1c1; border-right:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; paddi=
+ng-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"width:100%"> <tr> <td align=3D'left' class=3D"titleFont" width=3D"2=
+80" style=3D"font:12px Arial, Verdana, sans-serif; color:#666666; line-heig=
+ht: 1.1; padding: 0 10px;"><span style=3D'color: #e47838; font-weight: norm=
+al;'>Mais de 100 comprados</span> &nbsp;&nbsp;</td> </tr> <tr> <td align=3D=
+'left' class=3D"channelPricePadding" width=3D"280" style=3D"padding:5px 0 5=
+px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"font-family: Arial, Helvetica, sans-serif; font-size:14px; line-heigh=
+t:19px; color:#333;"> <tr> <td align=3D"left" class=3D"titleFont" valign=3D=
+"top" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; font=
+-weight:normal; color:#848484; text-decoration:line-through; line-height:1.=
+1; padding-right:7px"> R$&nbsp;175,00 </td> <td valign=3D"top" class=3D"tit=
+leFont" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; fo=
+nt-weight:bold; color:#82b548; padding:0 7px 0 0; line-height:1.1;"> R$&nbs=
+p;87,50 </td> </tr> </table> </td> </tr> <tr> <td class=3D"buttonPadding" a=
+lign=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://w=
+ww.groupon.com.br/ofertas/portoalegre/lamb-s-2/42980837?p=3D6&nlp=3D&CID=3D=
+BR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-1=
+94e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_bu=
+tton&d=3Ddeal-page&utm_campaign=3Dlamb-s-2-42980837" target=3D"_blank" styl=
+e=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-b=
+lock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td c=
+lass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666=
+; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-deco=
+ration:none;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/lamb-s-=
+2/42980837?p=3D6&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsle=
+tter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=
+=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&se=
+nder=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dlamb-s-2-42=
+980837">Veja</a></td> </tr> </table> </a> </td> </tr> </table> </td> <td wi=
+dth=3D"10"><img src=3D"http://br.static.groupon-content.net/mail_img/global=
+/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolo=
+r=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px soli=
+d #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> =
+<td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Ari=
+al, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;"=
+><span style=3D'color: #e47838; font-weight: normal;'>Mais de 50 comprados<=
+/span> &nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPric=
+ePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> =
+<td align=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:14px; font-weight:normal; color:#8484=
+84; text-decoration:line-through; line-height:1.1; padding-right:7px"> R$&n=
+bsp;90,00 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family=
+:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b54=
+8; padding:0 7px 0 0; line-height:1.1;"> R$&nbsp;39,90 </td> </tr> </table>=
+ </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280"=
+ style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/po=
+rtoalegre/black-magic-tattoo-1/40145330?p=3D7&nlp=3D&CID=3DBR_CRM_1_0_0_231=
+&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-47=
+22-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54=
+b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-pa=
+ge&utm_campaign=3Dblack-magic-tattoo-1-40145330" target=3D"_blank" style=3D=
+"color: #FFF; text-decoration: none; cursor: pointer; display: inline-block=
+;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:Aria=
+l, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666; li=
+ne-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decorati=
+on:none;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/black-magic=
+-tattoo-1/40145330?p=3D7&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dbl=
+ack-magic-tattoo-1-40145330">Veja</a></td> </tr> </table> </a> </td> </tr> =
+</table> </td> </tr> <tr> <td height=3D"20" style=3D"line-height:0px;">&nbs=
+p;</td> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td=
+ width=3D"600"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 100%;"> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"b=
+order-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1p=
+x solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+ <tr> <td width=3D"280"><a href=3D"http://www.groupon.com.br/ofertas/portoa=
+legre/pet-da-patty/40129501?p=3D8&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&ut=
+m_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfc=
+a5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&d=
+ate=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=
+=3Dpet-da-patty-40129501" target=3D"_blank" style=3D"color:#0185C6; text-de=
+coration:none;"><img src=3D"http://static.br.groupon-content.net/64/05/1402=
+066740564.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=
+=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100=
+%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: =
+Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Hel=
+vetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; colo=
+r:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/pet-da=
+-patty/40129501?p=3D8&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dn=
+ewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&div=
+ision=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D201419=
+08&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Dpet-da-=
+patty-40129501" target=3D"_blank" style=3D"color:#0185C6; text-decoration:n=
+one;">Banho, tosa, hidrata=C3=A7=C3=A3o e unha</a></td> </tr> </table> </td=
+> </tr> </table> </td> <td width=3D"20"><img src=3D"http://br.static.groupo=
+n-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" /></=
+td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c=
+1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280=
+"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/centro-automotiv=
+o-fornasier-1/39768126?p=3D9&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_sou=
+rce=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568=
+eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=
+=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D=
+centro-automotivo-fornasier-1-39768126" target=3D"_blank" style=3D"color:#0=
+185C6; text-decoration:none;"><img src=3D"http://static.br.groupon-content.=
+net/02/98/1401402429802.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr=
+> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10p=
+x; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" st=
+yle=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"f=
+ont-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetic=
+a Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size=
+: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/portoa=
+legre/centro-automotivo-fornasier-1/39768126?p=3D9&nlp=3D&CID=3DBR_CRM_1_0_=
+0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-99=
+3d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-99=
+80-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddea=
+l-page&utm_campaign=3Dcentro-automotivo-fornasier-1-39768126" target=3D"_bl=
+ank" style=3D"color:#0185C6; text-decoration:none;">Servi=C3=A7os automotiv=
+os</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=
+=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px soli=
+d #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td =
+valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padding-bott=
+om:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1; color:#=
+333; width:290px;"> Pet da Patty </td> </tr> <tr> <td class=3D"titleFont" s=
+tyle=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica=
+', Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-he=
+ight: 1.1; color:#666; width:290px;"> Porto Alegre (5 km de dist=C3=A2ncia)=
+ </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><img src=
+=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.gif" wid=
+th=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px solid =
+#c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'left'> <ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"tit=
+leFont description" style=3D"padding-bottom:5px; font-family: Arial, 'Helve=
+tica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal;=
+font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Centro Automot=
+ivo Fornasier </td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bot=
+tom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; color:#6=
+66; width:290px;"> Porto Alegre (3 km de dist=C3=A2ncia) </td> </tr> </tabl=
+e> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFF=
+FFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1=
+; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=
+=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verda=
+na, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;"><span st=
+yle=3D'color: #e47838; font-weight: normal;'>Mais de 100 comprados</span> &=
+nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding=
+" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica=
+, sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td alig=
+n=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, V=
+erdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text=
+-decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;87,5=
+0 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; paddi=
+ng:0 7px 0 0; line-height:1.1;"> R$&nbsp;34,90 </td> </tr> </table> </td> <=
+/tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoale=
+gre/pet-da-patty/40129501?p=3D8&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_=
+source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5=
+568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&dat=
+e=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaig=
+n=3Dpet-da-patty-40129501" target=3D"_blank" style=3D"color: #FFF; text-dec=
+oration: none; cursor: pointer; display: inline-block;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=
+=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-seri=
+f; font-size:12px; font-weight:bold; color:#666666; line-height:14px;"><a t=
+arget=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" href=3D"htt=
+p://www.groupon.com.br/ofertas/portoalegre/pet-da-patty/40129501?p=3D8&nlp=
+=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Dem=
+ail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D=
+1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=
+=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dpet-da-patty-40129501">Veja</a>=
+</td> </tr> </table> </a> </td> </tr> </table> </td> <td width=3D"10"><img =
+src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.gif" =
+width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" st=
+yle=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; borde=
+r-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=3D'lef=
+t' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, san=
+s-serif; color:#666666; line-height: 1.1; padding: 0 10px;"><span style=3D'=
+color: #e47838; font-weight: normal;'>Mais de 50 comprados</span> &nbsp;&nb=
+sp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding" width=
+=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=3D"le=
+ft" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Verdana,=
+ sans-serif; font-size:14px; font-weight:normal; color:#848484; text-decora=
+tion:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;230,00 </td=
+> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdan=
+a, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7=
+px 0 0; line-height:1.1;"> R$&nbsp;39,90 </td> </tr> </table> </td> </tr> <=
+tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padd=
+ing:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoalegre/cent=
+ro-automotivo-fornasier-1/39768126?p=3D9&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D=
+1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-95=
+19-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461f=
+a1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&ut=
+m_campaign=3Dcentro-automotivo-fornasier-1-39768126" target=3D"_blank" styl=
+e=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-b=
+lock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td c=
+lass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666=
+; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-deco=
+ration:none;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/centro-=
+automotivo-fornasier-1/39768126?p=3D9&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D138=
+8&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-=
+7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa19=
+76&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_c=
+ampaign=3Dcentro-automotivo-fornasier-1-39768126">Veja</a></td> </tr> </tab=
+le> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" style=3D"l=
+ine-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr=
+> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width: 100%;"> <tr> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #=
+c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupo=
+n.com.br/ofertas/portoalegre/di-brincadeira/41703421?p=3D10&nlp=3D&CID=3DBR=
+_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f=
+0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194=
+e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&=
+d=3Ddeal-page&utm_campaign=3Ddi-brincadeira-41703421" target=3D"_blank" sty=
+le=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://static.br.gr=
+oupon-content.net/79/42/1405978734279.jpg" width=3D"288" border=3D"0"></a><=
+/td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10p=
+x 10px 5px 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'le=
+ft' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Lig=
+ht', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: =
+bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/=
+ofertas/portoalegre/di-brincadeira/41703421?p=3D10&nlp=3D&CID=3DBR_CRM_1_0_=
+0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-99=
+3d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-99=
+80-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddea=
+l-page&utm_campaign=3Ddi-brincadeira-41703421" target=3D"_blank" style=3D"c=
+olor:#0185C6; text-decoration:none;">Decora=C3=A7=C3=A3o e brinquedos para =
+festa</a></td> </tr> </table> </td> </tr> </table> </td> <td width=3D"20"><=
+img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.g=
+if" width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; bor=
+der-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.com.br/of=
+ertas/dealbank_pt_br/arena-bar-bowlling-1/38631766?p=3D11&nlp=3D&CID=3DBR_C=
+RM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c=
+1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-=
+4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=
+=3Ddeal-page&utm_campaign=3Darena-bar-bowlling-1-38631766" target=3D"_blank=
+" style=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://static.=
+br.groupon-content.net/00/37/1399675143700.jpg" width=3D"288" border=3D"0">=
+</a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"paddin=
+g:10px 10px 5px 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=
+=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Ne=
+ue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-we=
+ight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.c=
+om.br/ofertas/dealbank_pt_br/arena-bar-bowlling-1/38631766?p=3D11&nlp=3D&CI=
+D=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&si=
+d=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dc=
+e3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddea=
+l_title&d=3Ddeal-page&utm_campaign=3Darena-bar-bowlling-1-38631766" target=
+=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">Arena Bar Bowlin=
+g: picanha e chopp</a></td> </tr> </table> </td> </tr> </table> </td> </tr>=
+ <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; bord=
+er-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px=
+;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:=
+100%"> <tr> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=
+=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', =
+Helvetica, Arial, sans-serif; font-weight: normal;font-size: 12px;line-heig=
+ht: 1.1; color:#333; width:290px;"> Di Brincadeira </td> </tr> <tr> <td cla=
+ss=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica=
+ Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-=
+size: 12px;line-height: 1.1; color:#666; width:290px;"> Porto Alegre (3 km =
+de dist=C3=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td widt=
+h=3D"10"><img src=3D"http://br.static.groupon-content.net/mail_img/global/s=
+pacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; borde=
+r-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" a=
+lign=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr=
+> <td class=3D"titleFont description" style=3D"padding-bottom:5px; font-fam=
+ily: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; fo=
+nt-weight: normal;font-size: 12px;line-height: 1.1; color:#333; width:290px=
+;"> Arena Bar Bowlling </td> </tr> <tr> <td class=3D"titleFont" style=3D"pa=
+dding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helveti=
+ca, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1;=
+ color:#666; width:290px;"> Gravata=C3=AD (18 km de dist=C3=A2ncia) </td> <=
+/tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgco=
+lor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px so=
+lid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr=
+> <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px A=
+rial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px=
+;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding" =
+width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica, =
+sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=
+=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-=
+decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;800,0=
+0 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; paddi=
+ng:0 7px 0 0; line-height:1.1;"> R$&nbsp;399,00 </td> </tr> </table> </td> =
+</tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoale=
+gre/di-brincadeira/41703421?p=3D10&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&u=
+tm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cf=
+ca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&=
+date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_camp=
+aign=3Ddi-brincadeira-41703421" target=3D"_blank" style=3D"color: #FFF; tex=
+t-decoration: none; cursor: pointer; display: inline-block;"> <table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" a=
+lign=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-=
+serif; font-size:12px; font-weight:bold; color:#666666; line-height:14px;">=
+<a target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" href=3D=
+"http://www.groupon.com.br/ofertas/portoalegre/di-brincadeira/41703421?p=3D=
+10&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_mediu=
+m=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre=
+&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3D=
+body&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Ddi-brincadeira-41703421">=
+Veja</a></td> </tr> </table> </a> </td> </tr> </table> </td> <td width=3D"1=
+0"><img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_=
+10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FF=
+FFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c=
+1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td alig=
+n=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verd=
+ana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;<=
+/td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"2=
+80" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=3D"left" c=
+lass=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Verdana, sans=
+-serif; font-size:14px; font-weight:normal; color:#848484; text-decoration:=
+line-through; line-height:1.1; padding-right:7px"> R$&nbsp;112,80 </td> <td=
+ valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sa=
+ns-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 =
+0; line-height:1.1;"> R$&nbsp;56,40 </td> </tr> </table> </td> </tr> <tr> <=
+td class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0=
+ 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/arena-=
+bar-bowlling-1/38631766?p=3D11&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_s=
+ource=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca55=
+68eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=
+=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=
+=3Darena-bar-bowlling-1-38631766" target=3D"_blank" style=3D"color: #FFF; t=
+ext-decoration: none; cursor: pointer; display: inline-block;"> <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton"=
+ align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, san=
+s-serif; font-size:12px; font-weight:bold; color:#666666; line-height:14px;=
+"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" href=
+=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/arena-bar-bowlling-1/3=
+8631766?p=3D11&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewslett=
+er&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=
+=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&se=
+nder=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Darena-bar-b=
+owlling-1-38631766">Veja</a></td> </tr> </table> </a> </td> </tr> </table> =
+</td> </tr> <tr> <td height=3D"20" style=3D"line-height:0px;">&nbsp;</td> <=
+/tr> </table> </td> <td>&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td width=3D=
+"600"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"wid=
+th: 100%;"> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top=
+:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #=
+c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td=
+ width=3D"280"><a href=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/=
+stylle-photo-5/40170563?p=3D12&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_s=
+ource=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca55=
+68eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=
+=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D=
+stylle-photo-5-40170563" target=3D"_blank" style=3D"color:#0185C6; text-dec=
+oration:none;"><img src=3D"http://static.br.groupon-content.net/17/82/14020=
+94998217.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D=
+"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100%;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:10=
+0%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: Ari=
+al, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvet=
+ica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; color:#=
+0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/stylle=
+-photo-5/40170563?p=3D12&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3Dsty=
+lle-photo-5-40170563" target=3D"_blank" style=3D"color:#0185C6; text-decora=
+tion:none;">Ensaio new born com p=C3=B4ster e mais</a></td> </tr> </table> =
+</td> </tr> </table> </td> <td width=3D"20"><img src=3D"http://br.static.gr=
+oupon-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" =
+/></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px soli=
+d #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;">=
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D=
+"280"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/la-pizza-mia=
+-uruguaios-ltda-3/42471382?p=3D13&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&ut=
+m_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfc=
+a5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&d=
+ate=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=
+=3Dla-pizza-mia-uruguaios-ltda-3-42471382" target=3D"_blank" style=3D"color=
+:#0185C6; text-decoration:none;"><img src=3D"http://static.br.groupon-conte=
+nt.net/69/23/1405946602369.jpg" width=3D"288" border=3D"0"></a></td> </tr> =
+<tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px =
+10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=
+=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Hel=
+vetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font=
+-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/p=
+ortoalegre/la-pizza-mia-uruguaios-ltda-3/42471382?p=3D13&nlp=3D&CID=3DBR_CR=
+M_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1=
+ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4=
+f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=
+=3Ddeal-page&utm_campaign=3Dla-pizza-mia-uruguaios-ltda-3-42471382" target=
+=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">La Pizza Mia: pi=
+zza uruguaia</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> =
+<td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-lef=
+t:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%">=
+ <tr> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"pa=
+dding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvet=
+ica, Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.=
+1; color:#333; width:290px;"> Stylle Photo </td> </tr> <tr> <td class=3D"ti=
+tleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12=
+px;line-height: 1.1; color:#666; width:290px;"> Porto Alegre (5 km de dist=
+=C3=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10=
+"><img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_1=
+0.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFF=
+FFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:=
+1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'=
+left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td cl=
+ass=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Ari=
+al, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weigh=
+t: normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> La P=
+izza Mia Uruguaios </td> </tr> <tr> <td class=3D"titleFont" style=3D"paddin=
+g-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, =
+Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; col=
+or:#666; width:290px;"> S=C3=A3o Leopoldo (27 km de dist=C3=A2ncia) </td> <=
+/tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgco=
+lor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px so=
+lid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr=
+> <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px A=
+rial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px=
+;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding" =
+width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica, =
+sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=
+=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-=
+decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;1.054=
+,00 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial=
+, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; pad=
+ding:0 7px 0 0; line-height:1.1;"> R$&nbsp;199,00 </td> </tr> </table> </td=
+> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" styl=
+e=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/dealban=
+k_pt_br/stylle-photo-5/40170563?p=3D12&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D13=
+88&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519=
+-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1=
+976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_=
+campaign=3Dstylle-photo-5-40170563" target=3D"_blank" style=3D"color: #FFF;=
+ text-decoration: none; cursor: pointer; display: inline-block;"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButto=
+n" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, s=
+ans-serif; font-size:12px; font-weight:bold; color:#666666; line-height:14p=
+x;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" hre=
+f=3D"http://www.groupon.com.br/ofertas/dealbank_pt_br/stylle-photo-5/401705=
+63?p=3D12&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&ut=
+m_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dport=
+oalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3D=
+rm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dstylle-photo-5-401=
+70563">Veja</a></td> </tr> </table> </a> </td> </tr> </table> </td> <td wid=
+th=3D"10"><img src=3D"http://br.static.groupon-content.net/mail_img/global/=
+spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid=
+ #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <=
+td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Aria=
+l, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;">=
+<span style=3D'color: #e47838; font-weight: normal;'>Mais de 350 comprados<=
+/span> &nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPric=
+ePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> =
+<td align=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:14px; font-weight:normal; color:#8484=
+84; text-decoration:line-through; line-height:1.1; padding-right:7px"> R$&n=
+bsp;49,90 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family=
+:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b54=
+8; padding:0 7px 0 0; line-height:1.1;"> R$&nbsp;24,90 </td> </tr> </table>=
+ </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280"=
+ style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/po=
+rtoalegre/la-pizza-mia-uruguaios-ltda-3/42471382?p=3D13&nlp=3D&CID=3DBR_CRM=
+_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1a=
+c1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f=
+9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=
+=3Ddeal-page&utm_campaign=3Dla-pizza-mia-uruguaios-ltda-3-42471382" target=
+=3D"_blank" style=3D"color: #FFF; text-decoration: none; cursor: pointer; d=
+isplay: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"bottom" sty=
+le=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; font-weight:b=
+old; color:#666666; line-height:14px;"><a target=3D"_blank" style=3D"color:=
+#0185C6; text-decoration:none;" href=3D"http://www.groupon.com.br/ofertas/p=
+ortoalegre/la-pizza-mia-uruguaios-ltda-3/42471382?p=3D13&nlp=3D&CID=3DBR_CR=
+M_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1=
+ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4=
+f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&=
+d=3Ddeal-page&utm_campaign=3Dla-pizza-mia-uruguaios-ltda-3-42471382">Veja</=
+a></td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td heigh=
+t=3D"20" style=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&n=
+bsp;</td> </tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 100%;"> <tr> <td vali=
+gn=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; borde=
+r-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D=
+"http://www.groupon.com.br/ofertas/portoalegre/studio-lynx-2/43606389?p=3D1=
+4&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&=
+uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Db=
+ody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3Dstudio-lynx-2-43606389" targe=
+t=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img src=3D"htt=
+p://static.br.groupon-content.net/05/20/1405367812005.jpg" width=3D"288" bo=
+rder=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" styl=
+e=3D"padding:10px 10px 5px 10px; width:100%;"> <table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleF=
+ont" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'He=
+lvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1=
+.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www=
+.groupon.com.br/ofertas/portoalegre/studio-lynx-2/43606389?p=3D14&nlp=3D&CI=
+D=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&si=
+d=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dc=
+e3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddea=
+l_title&d=3Ddeal-page&utm_campaign=3Dstudio-lynx-2-43606389" target=3D"_bla=
+nk" style=3D"color:#0185C6; text-decoration:none;">Ensaio fotogr=C3=A1fico<=
+/a></td> </tr> </table> </td> </tr> </table> </td> <td width=3D"20"><img sr=
+c=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.gif" wi=
+dth=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" styl=
+e=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-ri=
+ght:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.com.br/ofertas=
+/portoalegre/arena-bar-bowlling-2/42781756?p=3D15&nlp=3D&CID=3DBR_CRM_1_0_0=
+_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993=
+d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-998=
+0-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-p=
+age&utm_campaign=3Darena-bar-bowlling-2-42781756" target=3D"_blank" style=
+=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://static.br.grou=
+pon-content.net/78/39/1406572403978.jpg" width=3D"288" border=3D"0"></a></t=
+d> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px =
+10px 5px 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'left=
+' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light=
+', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bo=
+ld;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/of=
+ertas/portoalegre/arena-bar-bowlling-2/42781756?p=3D15&nlp=3D&CID=3DBR_CRM_=
+1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac=
+1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9=
+f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=
+=3Ddeal-page&utm_campaign=3Darena-bar-bowlling-2-42781756" target=3D"_blank=
+" style=3D"color:#0185C6; text-decoration:none;">Boliche, por=C3=A7=C3=A3o =
+e drinque</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td=
+ valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1=
+px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <t=
+r> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padd=
+ing-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1;=
+ color:#333; width:290px;"> Studio Lynx </td> </tr> <tr> <td class=3D"title=
+Font" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'He=
+lvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;=
+line-height: 1.1; color:#666; width:290px;"> Porto Alegre (5 km de dist=C3=
+=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><=
+img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10.g=
+if" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px=
+ solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D'lef=
+t'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Arena B=
+ar Bowlling </td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-botto=
+m:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, =
+sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; color:#666=
+; width:290px;"> Gravata=C3=AD (18 km de dist=C3=A2ncia) </td> </tr> </tabl=
+e> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFF=
+FFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1=
+; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=
+=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verda=
+na, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;"><span st=
+yle=3D'color: #e47838; font-weight: normal;'>Mais de 400 comprados</span> &=
+nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding=
+" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica=
+, sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td alig=
+n=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, V=
+erdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text=
+-decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;415,=
+00 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial,=
+ Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padd=
+ing:0 7px 0 0; line-height:1.1;"> R$&nbsp;19,90 </td> </tr> </table> </td> =
+</tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoale=
+gre/studio-lynx-2/43606389?p=3D14&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&ut=
+m_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfc=
+a5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&d=
+ate=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campa=
+ign=3Dstudio-lynx-2-43606389" target=3D"_blank" style=3D"color: #FFF; text-=
+decoration: none; cursor: pointer; display: inline-block;"> <table cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" ali=
+gn=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-se=
+rif; font-size:12px; font-weight:bold; color:#666666; line-height:14px;"><a=
+ target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" href=3D"h=
+ttp://www.groupon.com.br/ofertas/portoalegre/studio-lynx-2/43606389?p=3D14&=
+nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&=
+uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Db=
+ody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dstudio-lynx-2-43606389">Ve=
+ja</a></td> </tr> </table> </a> </td> </tr> </table> </td> <td width=3D"10"=
+><img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_10=
+.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFF=
+FF" style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;=
+ border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td align=
+=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verda=
+na, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;"><span st=
+yle=3D'color: #e47838; font-weight: normal;'>Mais de 50 comprados</span> &n=
+bsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding"=
+ width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr> <td align=
+=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-=
+decoration:line-through; line-height:1.1; padding-right:7px"> R$&nbsp;115,9=
+0 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; paddi=
+ng:0 7px 0 0; line-height:1.1;"> R$&nbsp;55,90 </td> </tr> </table> </td> <=
+/tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/portoale=
+gre/arena-bar-bowlling-2/42781756?p=3D15&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D=
+1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-95=
+19-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461f=
+a1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&ut=
+m_campaign=3Darena-bar-bowlling-2-42781756" target=3D"_blank" style=3D"colo=
+r: #FFF; text-decoration: none; cursor: pointer; display: inline-block;"> <=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"v=
+iewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:12px; font-weight:bold; color:#666666; line-he=
+ight:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:no=
+ne;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/arena-bar-bowlli=
+ng-2/42781756?p=3D15&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dne=
+wsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&divi=
+sion=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D2014190=
+8&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Darena-b=
+ar-bowlling-2-42781756">Veja</a></td> </tr> </table> </a> </td> </tr> </tab=
+le> </td> </tr> <tr> <td height=3D"20" style=3D"line-height:0px;">&nbsp;</t=
+d> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td widt=
+h=3D"600"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D=
+"width: 100%;"> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border=
+-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px sol=
+id #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr>=
+ <td width=3D"280"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre=
+/galpao-crioulo-1/43205768?p=3D16&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&ut=
+m_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfc=
+a5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&d=
+ate=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=
+=3Dgalpao-crioulo-1-43205768" target=3D"_blank" style=3D"color:#0185C6; tex=
+t-decoration:none;"><img src=3D"http://static.br.groupon-content.net/08/28/=
+1407269402808.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td vali=
+gn=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:1=
+00%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"wid=
+th:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family=
+: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', H=
+elvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; co=
+lor:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/galp=
+ao-crioulo-1/43205768?p=3D16&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_sou=
+rce=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568=
+eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=
+=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=
+=3Dgalpao-crioulo-1-43205768" target=3D"_blank" style=3D"color:#0185C6; tex=
+t-decoration:none;">Galp=C3=A3o Crioulo: espeto corrido</a></td> </tr> </ta=
+ble> </td> </tr> </table> </td> <td width=3D"20"><img src=3D"http://br.stat=
+ic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1=
+px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1=
+c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td w=
+idth=3D"280"><a href=3D"http://www.groupon.com.br/ofertas/portoalegre/holy-=
+nuts-manteiga-gourmet/41530815?p=3D17&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D138=
+8&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-=
+7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa19=
+76&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_camp=
+aign=3Dholy-nuts-manteiga-gourmet-41530815" target=3D"_blank" style=3D"colo=
+r:#0185C6; text-decoration:none;"><img src=3D"http://static.br.groupon-cont=
+ent.net/82/00/1404477560082.jpg" width=3D"288" border=3D"0"></a></td> </tr>=
+ <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px=
+ 10px; width:100%;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"width:100%;"> <tr> <td class=3D"titleFont" align=3D'left' style=
+=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Hel=
+vetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font=
+-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.com.br/ofertas/p=
+ortoalegre/holy-nuts-manteiga-gourmet/41530815?p=3D17&nlp=3D&CID=3DBR_CRM_1=
+_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1=
+-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f=
+-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3D=
+deal-page&utm_campaign=3Dholy-nuts-manteiga-gourmet-41530815" target=3D"_bl=
+ank" style=3D"color:#0185C6; text-decoration:none;">Manteigas gourmet da Ho=
+ly Nuts</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td v=
+align=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px=
+ solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr>=
+ <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padding=
+-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, =
+Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1; co=
+lor:#333; width:290px;"> Galp=C3=A3o Crioulo </td> </tr> <tr> <td class=3D"=
+titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue'=
+, 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-size: =
+12px;line-height: 1.1; color:#666; width:290px;"> PORTO ALEGRE (6 km de dis=
+t=C3=A2ncia) </td> </tr> </table> </td> </tr> </table> </td> <td width=3D"1=
+0"><img src=3D"http://br.static.groupon-content.net/mail_img/global/spacer_=
+10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FF=
+FFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right=
+:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"width:100%"> <tr> <td valign=3D"top" align=3D=
+'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td c=
+lass=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Ar=
+ial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weig=
+ht: normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;"> Hol=
+y Nuts Manteiga Gourmet </td> </tr> <tr> <td class=3D"titleFont" style=3D"p=
+adding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvet=
+ica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1=
+; color:#666; width:290px;"> Porto Alegre (3 km de dist=C3=A2ncia) </td> </=
+tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcol=
+or=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px sol=
+id #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%"> <tr>=
+ <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px Ar=
+ial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10px;=
+"><span style=3D'color: #e47838; font-weight: normal;'>Mais de 300 comprado=
+s</span> &nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPr=
+icePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px=
+;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-size:14px; line-height:19px; color:#333;"> <tr=
+> <td align=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-famil=
+y:Arial, Verdana, sans-serif; font-size:14px; font-weight:normal; color:#84=
+8484; text-decoration:line-through; line-height:1.1; padding-right:7px"> R$=
+&nbsp;74,00 </td> <td valign=3D"top" class=3D"titleFont" style=3D"font-fami=
+ly:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b=
+548; padding:0 7px 0 0; line-height:1.1;"> R$&nbsp;39,90 </td> </tr> </tabl=
+e> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"28=
+0" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/ofertas/=
+portoalegre/galpao-crioulo-1/43205768?p=3D16&nlp=3D&CID=3DBR_CRM_1_0_0_231&=
+a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-472=
+2-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b=
+461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-pag=
+e&utm_campaign=3Dgalpao-crioulo-1-43205768" target=3D"_blank" style=3D"colo=
+r: #FFF; text-decoration: none; cursor: pointer; display: inline-block;"> <=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"v=
+iewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:12px; font-weight:bold; color:#666666; line-he=
+ight:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:no=
+ne;" href=3D"http://www.groupon.com.br/ofertas/portoalegre/galpao-crioulo-1=
+/43205768?p=3D16&nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsle=
+tter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=
+=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&se=
+nder=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3Dgalpao-crio=
+ulo-1-43205768">Veja</a></td> </tr> </table> </a> </td> </tr> </table> </td=
+> <td width=3D"10"><img src=3D"http://br.static.groupon-content.net/mail_im=
+g/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top=
+" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:=
+1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> =
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%=
+"> <tr> <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:=
+12px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: =
+0 10px;"><span style=3D'color: #e47838; font-weight: normal;'>Mais de 50 co=
+mprados</span> &nbsp;&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"cha=
+nnelPricePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-heigh=
+t:14px;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size:14px; line-height:19px; color:#333;=
+"> <tr> <td align=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font=
+-family:Arial, Verdana, sans-serif; font-size:14px; font-weight:normal; col=
+or:#848484; text-decoration:line-through; line-height:1.1; padding-right:7p=
+x"> R$&nbsp;26,00 </td> <td valign=3D"top" class=3D"titleFont" style=3D"fon=
+t-family:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; colo=
+r:#82b548; padding:0 7px 0 0; line-height:1.1;"> R$&nbsp;12,90 </td> </tr> =
+</table> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=
+=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.com.br/of=
+ertas/portoalegre/holy-nuts-manteiga-gourmet/41530815?p=3D17&nlp=3D&CID=3DB=
+R_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9=
+f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-19=
+4e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_but=
+ton&d=3Ddeal-page&utm_campaign=3Dholy-nuts-manteiga-gourmet-41530815" targe=
+t=3D"_blank" style=3D"color: #FFF; text-decoration: none; cursor: pointer; =
+display: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"bottom" sty=
+le=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; font-weight:b=
+old; color:#666666; line-height:14px;"><a target=3D"_blank" style=3D"color:=
+#0185C6; text-decoration:none;" href=3D"http://www.groupon.com.br/ofertas/p=
+ortoalegre/holy-nuts-manteiga-gourmet/41530815?p=3D17&nlp=3D&CID=3DBR_CRM_1=
+_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1=
+-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f=
+-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=
+=3Ddeal-page&utm_campaign=3Dholy-nuts-manteiga-gourmet-41530815">Veja</a></=
+td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D=
+"20" style=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;=
+</td> </tr> </table> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" background=3D"http://br.static.groupon-content.net/mail_im=
+g/global/G1_bgTile.gif" bgcolor=3D"#e2e2e2"> <tr> <td>&nbsp;</td> <td width=
+ =3D"600" align=3D"right"> <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"> <tr> <td class=3D"divisionButtonPadding" style=3D"padding:0 5px 30=
+px 0;"> <a href=3D"http://www.groupon.com.br/all-deals/portoalegre?nlp=3D&C=
+ID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&s=
+id=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73d=
+ce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Dli=
+nk&d=3Dall-deals-page&utm_campaign=3Dportoalegre" target=3D"_blank" style=
+=3D"color: #FFF;text-decoration: none;cursor: pointer;display: inline-block=
+;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td align=
+=3D"right" bgcolor=3D"#EDEDED" class=3D"divisionButton" style=3D"font-famil=
+y: Arial, Verdana, sans-serif; font-size:12px; padding: 10px; background: #=
+EDEDED url(http://br.static.groupon-content.net/mail_img/global/cta_btn_gre=
+y_gradient.gif) 0 0 repeat-x; text-align: center; display: inline-block;lin=
+e-height: 1.1; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: =
+4px 4px 4px 4px; -khtml-border-radius: 4px 4px 4px 4px; border-radius: 4px =
+4px 4px 4px; border:1px solid #CBCBCB;"><a href=3D"http://www.groupon.com.b=
+r/all-deals/portoalegre?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff=
+&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20=
+141908&sender=3Drm&s=3Dbody&c=3Dlink&d=3Dall-deals-page&utm_campaign=3Dport=
+oalegre" target=3D"_blank" style=3D"color:#666666; text-decoration:none;"> =
+Veja todas as ofertas de Porto Alegre </a></td> </tr> </table> </a> </td> <=
+/tr> </table> </td> <td>&nbsp;</td> </tr> </table> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"font-family: Arial, Helvetica, san=
+s-serif; font-size:14px; line-height:19px; color:#333; width: 100%;" align=
+=3D"center"> <tr> <td style=3D"background: #82b548; border-top: 2px solid #=
+82b548; line-height:0px;" height=3D"7">&nbsp;</td> </tr> </table> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#F=
+FFFFF"> <tr> <td align=3D"center" bgcolor=3D"#FFFFFF"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF"> <tr> <td style=
+=3D"padding:8px 10px 7px 0;"><a href=3D"https://www.facebook.com/groupon.br=
+" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img src=
+=3D"http://br.static.groupon-content.net/mail_img/global/Icon-FB.gif" width=
+=3D"20" height=3D"20" border=3D"0" style=3D"display:block;" /></a></td> <td=
+ style=3D"padding:8px 0 7px 0;"><a href=3D"https://twitter.com/Groupon_BR" =
+target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img src=
+=3D"http://br.static.groupon-content.net/mail_img/global/Icon-Twitter.gif" =
+width=3D"20" height=3D"20" border=3D"0" style=3D"display:block;" /></a></td=
+> </tr> </table> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bg=
+color=3D"#FFFFFF" width=3D"100%"> <tr> <td align=3D"center" style=3D"color:=
+#333333; padding-bottom:10px; font-size:13px; font-family:Arial, Verdana, s=
+ans-serif; border-bottom: 1px solid #CCCCCC;"> Precisa de ajuda? Tem alguma=
+ d=C3=BAvida? Entre em <a href=3D"http://sac.groupon.com.br?nlp=3D&CID=3DBR=
+_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f=
+0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194=
+e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dfooter&c=3Dlink&d=
+=3Dcontact" style=3D"color:#0185C6; text-decoration:none;" target=3D"_blank=
+">contato com a gente</a>. </td> </tr> <tr> <td align=3D"center"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600"> <tr> <td widt=
+h=3D"600" align=3D'left' style=3D"line-height:14px; color:#666666; padding:=
+20px; font-size:10px; font-family:Arial, Verdana, sans-serif;"> Voc=C3=AA r=
+ecebeu esta mensagem porque inscreveu o endere=C3=A7o ajuver@yahoo.com.br n=
+os emails do Groupon. <br /><br /> Se voc=C3=AA n=C3=A3o quiser mais recebe=
+r mensagens como esta, pode se descadastrar com <a href=3D"http://www.group=
+on.com.br/subscriptions/unsubscribe/city/1d73dce3-194e-4f9f-9980-54b461fa19=
+76?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_mediu=
+m=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre=
+&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3D=
+footer&c=3Dlink&d=3Dunsub" style=3D"color:#0185C6; text-decoration:none;">u=
+m clique</a>. <br /><br /> Se quiser alterar os emails que recebe do Groupo=
+n, <a href=3D"http://www.groupon.com.br/subscriptions/hash/1d73dce3-194e-4f=
+9f-9980-54b461fa1976?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dne=
+wsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&divi=
+sion=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D2014190=
+8&sender=3Drm&s=3Dfooter&c=3Dlink&d=3Dsubscription_center" style=3D"color:#=
+0185C6; text-decoration:none;">clique aqui</a> <br /><br /> &copy; GROUPON =
+SERVI=C3=87OS DIGITAIS LTDA. - Av. Paulista, 1048, 18 andar - Bela Vista, C=
+EP 01310-100 <br /> <a href=3D"http://www.groupon.com.br/terms_and_conditio=
+ns?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_mediu=
+m=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoalegre=
+&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm&s=3D=
+footer&c=3Dlink&d=3Dterms_and_conditions" style=3D"color:#0185C6; text-deco=
+ration:none;">T&Cs</a> &nbsp;|&nbsp; <a href=3D"http://www.groupon.com.br/a=
+bout-us?nlp=3D&CID=3DBR_CRM_1_0_0_231&a=3D1388&utm_source=3Dnewsletter&utm_=
+medium=3Demail&sid=3D9f0c1ac1-993d-4722-9519-7cfca5568eff&division=3Dportoa=
+legre&uh=3D1d73dce3-194e-4f9f-9980-54b461fa1976&date=3D20141908&sender=3Drm=
+&s=3Dfooter&c=3Dlink&d=3Dabout_groupon" style=3D"color:#0185C6; text-decora=
+tion:none;">Sobre Groupon</a> <br /><br /> </td> </tr> </table> </td> </tr>=
+ </table> </td> </tr> </table> <img src=3D"http://www.groupon.com.br/analyt=
+ic/trackintl.gif?p=3D2&utm_domain=3Dyahoo.com.br&nlp=3D&CID=3DBR_CRM_1_0_0_=
+231&a=3D1388&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D9f0c1ac1-993d=
+-4722-9519-7cfca5568eff&division=3Dportoalegre&uh=3D1d73dce3-194e-4f9f-9980=
+-54b461fa1976&date=3D20141908&sender=3Drm&s=3Dbody&c=3Dtracking_pixel&d=3Dn=
+one" height=3D"1" width=3D"1" /></body> </html>
+------=_Part_358990286_1859487431.1408447155684--
+
+------=_Part_358990285_759849899.1408447155684--

@@ -1,0 +1,44 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp1206788icc;
+        Tue, 16 Sep 2014 17:26:42 -0700 (PDT)
+X-Received: by 10.70.94.137 with SMTP id dc9mr27243171pdb.1.1410913602343;
+        Tue, 16 Sep 2014 17:26:42 -0700 (PDT)
+Return-Path: <00093CB8.000058555538@usx.com.br>
+Received: from h131.multiplus.usx.com.br (h131.multiplus.usx.com.br. [177.53.211.3])
+        by mx.google.com with ESMTP id pi5si32240410pdb.125.2014.09.16.17.26.41
+        for <ajuver@gmail.com>;
+        Tue, 16 Sep 2014 17:26:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 00093CB8.000058555538@usx.com.br designates 177.53.211.3 as permitted sender) client-ip=177.53.211.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00093CB8.000058555538@usx.com.br designates 177.53.211.3 as permitted sender) smtp.mail=00093CB8.000058555538@usx.com.br;
+       dkim=neutral (body hash did not verify) header.i=@
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dk; d=pontosmultiplus.com.br;
+ h=List-Unsubscribe:MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Message-ID; i=comunicacao@pontosmultiplus.com.br;
+ bh=xN9Yg+o7Bkv4Oic7s6kxwG0caCk=;
+ b=fnTvb1hgTNN+OMvnOYQn9EK0qLCZbA9h7lWjHy1XJeLqccL6sIhxcTjX/WuEi+DxQzmGS3gQCnXo
+   ElomjgCq4QxYD7YRe59UPEwEZ3a9OHfkBadMH4bSBHtHIpqXBYZ/YltcvIRRodnLUT/AGqoCCJ9w
+   dkqDlR5YjLSI6017lqU=
+Received: from DGNT01.producao.local (192.168.10.3) by h131.multiplus.usx.com.br id h33ahu19obkr for <ajuver@gmail.com>; Tue, 16 Sep 2014 21:13:49 -0300 (envelope-from <00093CB8.000058555538@usx.com.br>)
+Received: from mail pickup service by DGNT01.producao.local with Microsoft SMTPSVC;
+	 Tue, 16 Sep 2014 21:15:14 -0300
+X-MsgID: 00093CB8.000058555538
+X-Job: MultiplusUnica:1059:605368
+X-rpcampaign: MultiplusUnica605368
+X-UmailPersonalization: 798614158
+Return-Path: 00093CB8.000058555538@usx.com.br
+List-Unsubscribe: <http://optout.umail.com.br/Optout.aspx?bQur%2b6uW1M7iktLGquiV47xIGy0p79fx410hEL8XD2Ixc2qeGgQQyFpLC6jgq2T7jSqweEAiVJyez4yECJuIZQ%3d%3d>,<mailto:unsubscribe@flp.umail.com.br?subject=unsubscribe:00093CB8.000058555538>
+Precedence: bulk
+X-Mailer: Umail Generator V2
+X-RPTags: TAM
+MIME-Version: 1.0
+From: Multiplus <comunicacao@pontosmultiplus.com.br>
+To: ajuver@gmail.com
+Reply-To: Multiplus <comunicacao@pontosmultiplus.com.br>
+Date: Wed, 17 Sep 2014 00:15:13 GMT
+Subject: =?UTF-8?B?VmlhamUgcGFyYSBvcyBwcmluY2lwYWlzIGRlc3Rpbm9zIGRhIEV1cm9wYSBjb20gc2V1cyBwb250b3MgTXVsdGlwbHVz?= 
+Content-Type: text/html; charset="iso-8859-1"
+Message-ID: <DGNT01yBh4Xv1mOuZCZ00427dd5@DGNT01.producao.local>
+X-OriginalArrivalTime: 17 Sep 2014 00:15:14.0035 (UTC) FILETIME=[73BEAC30:01CFD20C]
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+

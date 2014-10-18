@@ -1,0 +1,158 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp51914icm;
+        Thu, 26 Jun 2014 12:48:08 -0700 (PDT)
+X-Received: by 10.50.108.100 with SMTP id hj4mr7078745igb.43.1403812087741;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf1145971ieb.38;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Thu, 26 Jun 2014 19:13:04 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.214.171 as permitted sender)
+X-YMailISG: JhY4xYoWLDuOiyunDnfBR9n.DWLV_jWvWVYw6o48yXXVFuW.
+ YMtMJPgU3T5FMsDKbrcdxAFSxdmZF6WgA8BBYvvx94Iid_y1hfbIkdqvnWem
+ ..D8HaasR4AH7nT981YNUfg6rcxEltJ1Bk8WrafJHW6pl_KDwvFvCRvqw9xm
+ _mck1wwY9.oZedvlPxXak4uBT2zrtL_8JTHpOJRYhokYlBCSfSdnXbsuME61
+ rhRkoRkETVsVnyA6GM5qMOCJOta4UZPYFxRhStWHtjeg5cBDeJE_By8Qni6W
+ ocAdCP_YInLHUQi1LeW33Hfi1FJBYu0zJ1moBciE60CZI3o9K2x453AqreYp
+ 4Uq__Olfi8OrqzmMH2gg_.jJbsPx7IX.29kaZBr3VWrvDIo2bzktUJk.udKT
+ DNFPfnIibM92tYvgHnSns9rY_jGOsab07y7vTjzKehUPoi9x7HtbujwwbbjF
+ CWOUNodzJz2Yk4cpT1GlBYHMGTIIQBknA.zeYTLGRcgwAKzF_kqJDcNyJocC
+ gJAwIyKRjtyy2.Ld5305CiwLAaAk0s0BUqsOFGTAIiHx5jHJvMW06fYK8qxE
+ aYsuSux.n5GhLszORF1ODGmDX4QNdhEJEsBe7Ydl8tVSG6Dl470Zl4N1x5Qw
+ JdLP1_msbTt8XKasUosFAfeILDGzjpJtVFapwHRv1twRLnint_cuv8hPyJgx
+ ByJ_I9Zrk2SPDNzQlKNIZF3BVoyjblTK4lXhCqrTDJbbvXBJuSa2cmYrKtY8
+ i6DkdBbBIMqMjCS1Vv9njllV3k99C9i8xWCmhaWqR1IBXb0bTlRMnbBoTocY
+ fQDRqDSP0hj7QLltJ1zWK9_K_pDn5UJphYMF_Hjcbf9wmGlIpuqefMvysTpB
+ yNWBZjMyghs6WF1NGYtDQNBHWnu2vKg9EPeEnekw1Q_H3.2oY5sdWJPOBirX
+ YI_c58JrQsRUkq77MOAIiHhL.KKE.r5eFFDf5iSq._svu81hf_DV0ruDqcUH
+ DK9yzTiiGRRSzCWv3uPwCu0Ix6wmFfZTdkuNxdskcg15j3EDKKwdWsdjbRN5
+ Tp01Ac5Mz6rfGWJK4J5asUHNvSi_9Vd5l4C7FAgnZ0M.AC2.GKTCL0XIjatz
+ fOPLMCozhqDuYsCafia7Hs4r5Y3Wdw66vxNolcGGyE1z3BaYlQDhsDXVhr4f
+ vn0KzvYhl8XdfsckKIDv6Bx0Olx8ITCn5JIgbBL8a8CY3bO._Jj5xGbI1qTz
+ cpKt4nUo_cc7az9p0MLWPE8Iz0cd1bmSIWZQg_tTgE40qUtyYk.ddnUB9Zs1
+ QqsX0m0yfysyjbnrzwuuCcP0apn_oJ0JbcoqcSfxRrviDSdapwkbytXqJc1u
+ MWmxiT4sjQ58qw.gFc_eExiTkQfiqgHa5mR.6X6vzUkTDLxalyRBJvFl0WNm
+ xNFpFmfqpT0weA1XXi8qryvzl7J.FGwJm3sJuXv1D2KYPwb5SCshmY.9XIQ6
+ QhETEiA1FW0RcWfIr75eAu.ifDo9f9w5YiguT._ETyDOrkYmMp0_dSuyUlbl
+ 1dx3atdWIiP6GJJQX2VTqzoPGTDxIy1mnjI-
+X-Originating-IP: [209.85.214.171]
+Authentication-Results: mta1356.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-ob0-f171.google.com) (209.85.214.171)
+  by mta1356.mail.ne1.yahoo.com with SMTPS; Thu, 26 Jun 2014 19:13:04 +0000
+Received: by mail-ob0-f171.google.com with SMTP id nu7so4416559obb.2
+        for <ajuver@yahoo.com.br>; Thu, 26 Jun 2014 12:13:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=OIhk8V1Q6BzB/vgqQWVePCv+aDGoAWNFON2EpFctb70=;
+        b=OcSr/L7H8E3xyR46640f5JyZ6PjbeUYnIJ761OyumTR7+wh4h0WvYP2/Lwi2XtIlXF
+         x/6ppUePTucZqjMWq9ve8w0kAIKxIbV1Jb7g9EH6PyvBGNcFR4AdL/eMP94FRy3JMO+v
+         QdI3ZIG3DKFjwHghiwdxgY4JsLy9PjGPB28TEwO5RGwniyUmXuSc7kbf6KA4Cm8f6O55
+         v/89LplmVj3wO/3V1B1ENNw1agRnxdtggyVlmC5CunC0RBxAqHGS+LHVzw9X2Xd6hnF4
+         HyNJiBHG0ApuuzKc1QBhtWaJBQcQ+1mwzCIH8MsDLDM5cHz+JMEJAv3HzH8B9ul9bBOy
+         NS2w==
+MIME-Version: 1.0
+X-Received: by 10.60.134.239 with SMTP id pn15mr5415008oeb.85.1403809983844;
+ Thu, 26 Jun 2014 12:13:03 -0700 (PDT)
+Received: by 10.182.102.227 with HTTP; Thu, 26 Jun 2014 12:13:03 -0700 (PDT)
+In-Reply-To: <CAN7n+sP9FxaGPei4exL0N3SqkGVXCsL2q9fe9_XCu8=-Um24nQ@mail.gmail.com>
+References: <20140614164740.0DA8125540@ibizinha.ibizinha.i4.internal.cloudapp.net>
+	<CAN7n+sP9FxaGPei4exL0N3SqkGVXCsL2q9fe9_XCu8=-Um24nQ@mail.gmail.com>
+Date: Thu, 26 Jun 2014 16:13:03 -0300
+Message-ID: <CAA3V2bizo+MpikL7i-_Tq1nfA=aAZ_nbs6LHDeEpeFsNXFRqWw@mail.gmail.com>
+Subject: Fwd: Fw: Segue Anexos (89457)
+From: Joel Heck <joel.heck@gmail.com>
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=047d7b41ce486b56a004fcc1fb76
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--047d7b41ce486b56a004fcc1fb76
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Joel Heck
++55 (51) 9885-5936.
+
+
+---------- Mensagem encaminhada ----------
+De: DHMed <dh@dhmed.com.br>
+Data: 26 de junho de 2014 16:10
+Assunto: Fwd: Fw: Segue Anexos (89457)
+Para: Joel Heck <joel.heck@gmail.com>
+
+
+
+
+---------- Mensagem encaminhada ----------
+De: <contato@dhmed.com.br>
+Data: 14 de junho de 2014 13:47
+Assunto: Fw: Segue Anexos (89457)
+Para: contato@dhmed.com.br
+
+
+Anexo-10029381.zip
+<https://googledrive.com/host/0B7e6-gijIczia2FrdlhlckRkWnc>,
+Anexo-49850019.zip
+<https://googledrive.com/host/0B7e6-gijIcziNEZmR0RsX2tRUUE>
+Anexo-01993749.zip
+<https://googledrive.com/host/0B7e6-gijIcziQmdPQ0JDYjZPT1k>,
+Anexo-37718993.zip
+<https://googledrive.com/host/0B7e6-gijIcziR3NZeUVDMV8tdWc>
+
+
+Segue todos os anexos!
+
+
+*Mensagem verificada e confirmada*!
+[image: Uol Seguran=C3=A7a] <http://seguranca.uol.com.br/>
+
+--047d7b41ce486b56a004fcc1fb76
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div>Joel Heck<br>+55 (51) 9885-5936.</d=
+iv>
+<br><br><div class=3D"gmail_quote">---------- Mensagem encaminhada --------=
+--<br>De: <b class=3D"gmail_sendername">DHMed</b> <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:dh@dhmed.com.br">dh@dhmed.com.br</a>&gt;</span><br>Data: 26 =
+de junho de 2014 16:10<br>
+Assunto: Fwd: Fw: Segue Anexos (89457)<br>Para: Joel Heck &lt;<a href=3D"ma=
+ilto:joel.heck@gmail.com">joel.heck@gmail.com</a>&gt;<br><br><br><div dir=
+=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Mensagem encaminhada=
+ ----------<br>
+De: <b class=3D"gmail_sendername"></b> <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:contato@dhmed.com.br" target=3D"_blank">contato@dhmed.com.br</a>&gt;</s=
+pan><br>
+Data: 14 de junho de 2014 13:47<br>Assunto: Fw: Segue Anexos  (89457)<br>Pa=
+ra: <a href=3D"mailto:contato@dhmed.com.br" target=3D"_blank">contato@dhmed=
+.com.br</a><br><br><br><p><a href=3D"https://googledrive.com/host/0B7e6-gij=
+Iczia2FrdlhlckRkWnc" target=3D"_blank">Anexo-10029381.zip</a>,  <a href=3D"=
+https://googledrive.com/host/0B7e6-gijIcziNEZmR0RsX2tRUUE" target=3D"_blank=
+">Anexo-49850019.zip</a><br>
+
+
+  <a href=3D"https://googledrive.com/host/0B7e6-gijIcziQmdPQ0JDYjZPT1k" tar=
+get=3D"_blank">Anexo-01993749.zip</a>, <a href=3D"https://googledrive.com/h=
+ost/0B7e6-gijIcziR3NZeUVDMV8tdWc" target=3D"_blank">Anexo-37718993.zip</a><=
+br>
+
+
+<br>
+<br>
+Segue todos os anexos!<br>
+<br>
+</p>
+<p><br>
+  <b>Mensagem verificada e confirmada</b>!<br>
+  <a href=3D"http://seguranca.uol.com.br/" target=3D"_blank"><img alt=3D"Uo=
+l Seguran=C3=A7a" height=3D"34" width=3D"337"></a></p>
+</div><br></div>
+</div><br></div>
+
+--047d7b41ce486b56a004fcc1fb76--

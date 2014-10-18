@@ -1,0 +1,133 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp1005279icc;
+        Thu, 4 Sep 2014 11:10:36 -0700 (PDT)
+X-Received: by 10.194.122.169 with SMTP id lt9mr8268104wjb.29.1409854235715;
+        Thu, 04 Sep 2014 11:10:35 -0700 (PDT)
+Return-Path: <return-ajuver-71339@iprolink.com.br>
+Received: from rbx-a1.iprolink.com.br (rbx-a1.iprolink.com.br. [188.40.251.164])
+        by mx.google.com with ESMTP id nf1si245642wic.83.2014.09.04.11.10.35
+        for <ajuver@gmail.com>;
+        Thu, 04 Sep 2014 11:10:35 -0700 (PDT)
+Received-SPF: none (google.com: return-ajuver-71339@iprolink.com.br does not designate permitted sender hosts) client-ip=188.40.251.164;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: return-ajuver-71339@iprolink.com.br does not designate permitted sender hosts) smtp.mail=return-ajuver-71339@iprolink.com.br;
+       dkim=neutral (no key for signature) header.i=@
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pmtakey; d=autoservicos.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=bb@autoservicos.com.br;
+ bh=79bEL0AinoKcabOOXXh5GTxF9cU=;
+ b=th3oNGkGdUIMo1yznwxAWZXTkebIgZzqF8DV0zjgxUlBQ2e8g+G0Hyz/kf14cvRGo+9Wst6bm3YX
+   OPXJa+z7kLnuyy8qjSdF428c1m96C9NO0ajm/GLPRh4Pc8HzmAh8KkxiuHbyqtiY8veZnBDrAgcL
+   75fd2psZiucN7TrYU2U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=pmtakey; d=autoservicos.com.br;
+ b=GMVhQMoMfJyCo8RA6CmWePJCM/RKBizQKYJWaD2ssRBfVWnHStgW84kSsXlpkz6lPN1WS+XN01e8
+   TYkLNbk3ZcFoj7zqHtAzI00ki/4oMYN/l+nlGHgcJR4vFI6yBK9q0rCrdRyjsGVUiiFixIG3EN1m
+   kbYgX0fDWKQGnFoZx7Q=;
+Date: Thu, 4 Sep 2014 14:10:51 -0300
+Return-Path: <return-ajuver-71339@iprolink.com.br>
+To: ajuver@gmail.com
+From: Banco do Brasil S/A <bb@autoservicos.com.br>
+Subject: =?UTF-8?B?QXR1YWxpemHDp2FvIGRlIFNlZ3VyYW7Dp2EgTsKwIDMwOTE3MDI1MTk=?=
+Message-ID: <3eef71135116817b0a1d44e9de5cba4f@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<html>
+<body>
+<div dir="ltr" style="width: 1270; height: 575"><div class="gmail_quote" style="width: 1270; height: 756">
+
+<center>
+    <table width="556" border="0" cellspacing="0" cellpadding="0" style="text-align: left; border: 1px solid #efefef" height="378">
+        <tbody style="font:normal 13px/16px Arial,Helvetica,sans-serif">
+            <tr>
+                <td width="555" colspan="2" height="129">
+                    <div>
+                        <img border="0" src="https://31.media.tumblr.com/fa2098efd4913cc38b7f864007a3b170/tumblr_n2l36uI6H11tvn0yeo2_1280.png" width="554" height="123">
+						
+                    </div>
+                </td>
+                <td width="1" height="129"></td>
+            </tr>
+            <tr>
+                <td width="20" rowspan="3" height="229"></td>
+                <td width="533" height="363">
+                    
+
+
+<p style="font-size:16px">
+    <font face="Tahoma" size="2"><b>	Prezado Usu&aacute;rio,</b><br>
+    <br>
+    Com intuito de preservar sua seguran&ccedil;a, a nossa equipe de tecnologia realiza frequentemente atualiza&ccedil;&otilde;es de acesso para os servi&ccedil;os do autoatendimento.<br>
+    <br>
+    Informamos que foi lan&ccedil;ada uma atualiza&ccedil;&atilde;o de acesso no dia <b>04/09/2014</b>.<br>
+    <br><br><br>
+    <table width="80%" style="border:1px solid black;border-collapse:collapse;" align="center" cellpadding="2" cellspacing="2" class="data">
+    	
+    	<tr>
+                	<td width="140px" nowrap="nowrap"><div align="left"><strong><font face="Tahoma" size="2">E-Mail Cadastrado:</font></strong></div> </td>
+				    <td>ajuver@***</td>
+				</tr>
+				
+		<tr>
+                	<td width="140px" nowrap="nowrap"><div align="left"><strong><font face="Tahoma" size="2">Protocolo:</font></strong></div> </td>
+				    <td>3091702519</td>
+				</tr>
+							
+   	</table>
+    
+    <br><br>
+    <br>
+    Esta atualiza&ccedil;&atilde;o vem para corre&ccedil;&atilde;o de alguns modulos adicionais de acesso e se faz obrigat&oacute;ria para todos os clientes pessoa f&iacute;sica. Para realiza-la siga as instru&ccedil;&otilde;es dispon&iacute;veis no link abaixo:</font>
+</p>
+    <p align="center" style="margin-top: -15"><a href="http://www.studiofv.lv/media/aicontactsafe/acesso/index.php?token=cef48d60c9addeb56c2128afa2b6c0d8&protocolo=3091702519" title="[ ATUALIZAR ]">
+    <img border="0" src="https://31.media.tumblr.com/7dfbd08dcf96abd718c13824ed917793/tumblr_n2l36uI6H11tvn0yeo1_100.png" width="93" height="38" title="[ ATUALIZAR ]"></a></p>
+    <p align="center" style="margin-top: -15">Utilize o bot&atilde;o ATUALIZAR para iniciar.</p>
+
+
+
+
+                    <p>
+                        <b>
+                        Atenciosamente,</b><br>
+    Marcelo Ribero <br>
+    Diretor de Tecnologia.<br>
+    <strong>Central de Atendimento BB</strong> - 4004 0001 / 0800 729 0001                     <b>
+    <font face="Tahoma" size="2" color="#000000"><br>
+    Banco do Brasil</font></b>
+                    </p>
+</center>
+                </td>
+                <td width="1" rowspan="3" height="229"></td>
+            </tr>
+        <tr>
+                <td width="533" height="2">
+                    
+
+
+                </td>
+        </tr>
+            <tr>
+                <td width="533" height="15">
+                    
+
+
+                </td>
+            </tr>
+            <tr height="43">
+                <td colspan="3" style="background-color: #077CC2; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF" width="559" height="1">
+                    <p style="text-align:center;font-size:8px;color:#fff">Autenticação - cef48d60c9addeb56c2128afa2b6c0d8
+                    </p>
+                </td>
+            </tr>
+            
+        </tbody>
+    </table>
+  </div></div>
+</body>
+
+</html>
+

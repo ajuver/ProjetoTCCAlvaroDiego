@@ -1,0 +1,237 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp51922icm;
+        Thu, 26 Jun 2014 12:48:11 -0700 (PDT)
+X-Received: by 10.50.112.136 with SMTP id iq8mr7038993igb.38.1403812088006;
+        Thu, 26 Jun 2014 12:48:08 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf1145971ieb.38;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Thu, 26 Jun 2014 19:16:19 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.214.176 as permitted sender)
+X-YMailISG: fhsQf5kWLDtiTvQSvv3nK8Hb1Co0Wv4P7oXilIBczyYaKhjg
+ cHxdyN9ys51aULlUae.s7poH4LOfu35q2xhETCioQ6Y_.C30A8AJr8OfkSkh
+ wc8DBjRH6p8C94PsI_kBriEhpXkbg5cLXEkOmF2lS.kHwmI_N9wJGsXaYFFj
+ 15hbGb0gYvA_Lgr7M4qNFTPLRFG3DG34zzx45SSZ3p6RA6COxNV.r9QvLp7W
+ E4ggkUNOkpDugEJY8tZbfyv.l9d6M4E76Gwa10zHo3aqOOYbPeF2sqBmKmpE
+ blaEqvSAkaggsJCGoW8SjtHtNDHu36mWWgoS5d0iUFe9qsPkdLbBwP7yPMA6
+ JokfrdFS5dU9uPFErDoYowFlsXMYMpazu9WyAdHLF9UYATFO5nIQLZpe6yYf
+ OpXmm9TguiRNaT_Mee_14w2hshy88qPSjtV.8l_4nWhteDda.1OmRs4UwgrJ
+ NuGAks07sP_TfouEXn0AuHemdlshyMjDjVVlv8dJjFMyEabkBbe2HdQcIVrc
+ _C0320VxCcUEg9oI1tqZSJJMZdn_nWmmOcTw5u_mcLKVRqhSwpl0cKMawc7v
+ 6fFYzcFTgd7UakPM10stQu2dvsTGGiBKqFHP4_dU0U0m64G_HZThXPomRq3P
+ QYUYJTcez0eJwKQN18moQYtIw2bkuLqnz3n.mVtXkRuLGn7Nm_fqHC4d1vy0
+ YCrmneuj8Cct1E0mPEjwjUTPdBbVWljWolGyAWGGOhzklYNTLgOEeml_XEie
+ QV8kC07w8jVdzqI5GNGONwCQayo_oedPIecS2Ldv1QaepYCLPWBMePVwUqHO
+ nmUMAWdxmydqlTcnY5PuDPUXIMplExiZZDOKT62VJjX5FE3ImYCEdxZ_wqGp
+ ymyfr0yk9kZ39bYd3JdBTFVf7WcbUrZDsXp6R24.p2Ss9u5ip41QaUerwc4I
+ Huu6X1IYAQZ_11yw15Q2KZ.bCm87Vhs62Ijqz7W.c_pVPbcTB6u.s4Suy6ym
+ XgSQ2cju.8LfX3NkmdqyMzS5dGjAPn7IiG7qaiLNOlz3Q_f2UiQsWiJcJOML
+ eOSrnf9ysauK9T6p11t5ttlgP5qLOUC7nC8rDc4iICG1NWau22LB47LpqjtQ
+ I1e2nqSUZJo8APewWme6kuq9hNbTHzQcqucTUY6d9Hg4r6sKlvXibwthkMrz
+ BDxnqV.vOZmkCketH6cSzm2hRYLn4kcvuRO8dpyHv7apVX_AwDklJ4Hu9UXm
+ uySV7682t1uj6GIwq0rl_hBXv_yupm8EesCF3kqh_1YsJzr1jOJBE_aTRDMO
+ AyAH_V5EEPgbttzQxgGAVs2Xfwxltg816IhRs_UbYfPd7fBinWh78pQ3pdWe
+ ubFHyPiCWGn9M8ooRxrFsrn.2Y2H7Tu1UOVBzidJ5lQgerLkopXnmg6_DpDT
+ 5Yw9iZHJ6k7d9SrAlm_pXMqCJvlvtiWMBJV3hgEwJCfAkvuE.RDxZPwroadq
+ LMOieg--
+X-Originating-IP: [209.85.214.176]
+Authentication-Results: mta1092.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-ob0-f176.google.com) (209.85.214.176)
+  by mta1092.mail.bf1.yahoo.com with SMTPS; Thu, 26 Jun 2014 19:16:19 +0000
+Received: by mail-ob0-f176.google.com with SMTP id wm4so4421708obc.35
+        for <ajuver@yahoo.com.br>; Thu, 26 Jun 2014 12:16:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=PHogDYy8wEQs4AAEqpLeB144FWnYmytybAHu1F2rSfw=;
+        b=jtX8BPGMSKL1IJN4PSHpHtVp0R7Q0h9xvhbhV/5CXbOEaM2b1yp2jZq5AXKybfoRR7
+         IcmOnpXqEsBucotl1i0g5nJxU67ZD7kbHrCfOrw5LlFl4O6ksnyv/1oOjdYDcLd3PZti
+         c09i54vQResP/ovVG1jBkD3N7Uq0Li9zIekbOh4RJmuMIbmapB4L49ooiDJoSsvzsZ3X
+         nZZhCJzC9yl/D/v3EVC/AohC7e6vbc2tgtos8P3pt85t4vK/KViIUEbyxAUfdi/jSoGd
+         ijOv1TJGK6lyL/95Ip5uI8oKaJphzlqZ06Q2EjM1j66asxhjbmMmhENpbnS3+UUdZEUO
+         dbrg==
+MIME-Version: 1.0
+X-Received: by 10.182.66.79 with SMTP id d15mr17466422obt.49.1403810178802;
+ Thu, 26 Jun 2014 12:16:18 -0700 (PDT)
+Received: by 10.182.102.227 with HTTP; Thu, 26 Jun 2014 12:16:18 -0700 (PDT)
+In-Reply-To: <CAN7n+sNAjZrN_JVYtF-s-QfjFA0q8-L6yYqK5kF4pjTnFKZLKg@mail.gmail.com>
+References: <6dd2ef9bec029cdaacbcf7f22f21acd3@localhost.localdomain>
+	<CAN7n+sNAjZrN_JVYtF-s-QfjFA0q8-L6yYqK5kF4pjTnFKZLKg@mail.gmail.com>
+Date: Thu, 26 Jun 2014 16:16:18 -0300
+Message-ID: <CAA3V2bjdvpN5BENsg_nDtWDehgFWnEMVpx66P+yzLeW4e7=tKg@mail.gmail.com>
+Subject: =?UTF-8?Q?Fwd=3A_Encomenda_em_seu_nome_para_ser_retirada=2E_N=C2=BA_49?=
+	=?UTF-8?Q?49946370?=
+From: Joel Heck <joel.heck@gmail.com>
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=e89a8fb1fca40a27ac04fcc2070c
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--e89a8fb1fca40a27ac04fcc2070c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+TCC
+
+
+---------- Mensagem encaminhada ----------
+De: Correios <correios@z1-group.com.br>
+Data: 26 de junho de 2014 15:34
+Assunto: Encomenda em seu nome para ser retirada. N=C2=BA 4949946370
+Para: contato@dhmed.com.br
+
+
+      *E-mail confidencial para: *   contato@dhmed.com.br  *Data: *
+26/06/2014  *N=C3=BAmero Encomenda: *   bc18c71f4aaedd1330211ee694eb6af8
+
+Prezado Cliente,
+
+devido ao grande n=C3=BAmero de encomendas enviados durante a Copa do Mundo=
+ e
+dos recessos durantes os jogos da Sele=C3=A7=C3=A3o Brasileira, informamos =
+que
+encontra uma encomenda retida em nosso Centro de Distribui=C3=A7=C3=A3o.
+Para retirada da mesma prossiga at=C3=A9 a ag=C3=AAncia informada tendo em =
+m=C3=A3os seu
+RG e o n=C3=BAmero de encomenda em um prazo de 7 dias =C3=BAteis apartir de=
+ hoje,
+caso n=C3=A3o retire a mesma retornaram para seu destinat=C3=A1rio.
+     *Para saber a origem e qual ag=C3=AAncia se encontra sua encomenda ace=
+sse o
+link abaixo:*     <http://bit.ly/1qc1xC8>     O conte=C3=BAdo desse e-mail =
+=C3=A9
+confidencial, caso voc=C3=AA n=C3=A3o seja contato@dhmed.com.br por favor d=
+elete esse
+e-mail.
+
+--e89a8fb1fca40a27ac04fcc2070c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote">TCC<br><div dir=3D"ltr"><br><br=
+><div class=3D"gmail_quote">---------- Mensagem encaminhada ----------<br>D=
+e: <b class=3D"gmail_sendername">Correios</b> <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:correios@z1-group.com.br" target=3D"_blank">correios@z1-group.co=
+m.br</a>&gt;</span><br>
+
+Data: 26 de junho de 2014 15:34<br>Assunto: Encomenda em seu nome para ser =
+retirada. N=C2=BA <a href=3D"tel:4949946370" value=3D"+554949946370" target=
+=3D"_blank">4949946370</a><br>Para: <a href=3D"mailto:contato@dhmed.com.br"=
+ target=3D"_blank">contato@dhmed.com.br</a><br>
+<br><br><u></u>
+
+
+
+
+
+
+
+
+<div><center>
+  <table cellpadding=3D"1" cellspacing=3D"1" border=3D"0" width=3D"670">
+    <tbody><tr>
+      <td bgcolor=3D"#DDAD0B" height=3D"340" valign=3D"top"><table cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0" width=3D"670">
+        <tbody><tr>
+          <td align=3D"center" bgcolor=3D"#FFFFFF" height=3D"62"><img borde=
+r=3D"0"></td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" width=3D"670">
+            <tbody><tr>
+              <td align=3D"right" width=3D"158"><b><font style=3D"font-size=
+:11px;font-family:Tahoma" color=3D"#996600">E-mail confidencial para: </fon=
+t></b></td>
+              <td align=3D"left" width=3D"10">=C2=A0</td>
+              <td align=3D"left" width=3D"502"><font style=3D"font-size:11p=
+x;font-family:Tahoma" color=3D"#000000"><a href=3D"mailto:contato@dhmed.com=
+.br" target=3D"_blank">contato@dhmed.com.br</a></font></td>
+            </tr>
+            <tr>
+              <td align=3D"right"><b><font style=3D"font-size:11px;font-fam=
+ily:Tahoma" color=3D"#996600">Data: </font></b></td>
+              <td align=3D"left">=C2=A0</td>
+              <td align=3D"left"><font style=3D"font-size:11px;font-family:=
+Tahoma" color=3D"#000000">26/06/2014</font></td>
+            </tr>
+            <tr>
+              <td align=3D"right"><b><font style=3D"font-size:11px;font-fam=
+ily:Tahoma" color=3D"#996600">N=C3=BAmero Encomenda: </font></b></td>
+              <td align=3D"left">=C2=A0</td>
+              <td align=3D"left"><font style=3D"font-size:11px;font-family:=
+Tahoma" color=3D"#000000">bc18c71f4aaedd1330211ee694eb6af8</font></td>
+            </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF">=C2=A0</td>
+        </tr>
+        <tr>
+          <td align=3D"center" bgcolor=3D"#FFFFFF"><table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" width=3D"95%">
+            <tbody><tr>
+              <td align=3D"left"><p><font style=3D"font-size:11px;font-fami=
+ly:Tahoma" color=3D"#000000">Prezado Cliente,</font></p>
+                <p><font style=3D"font-size:11px;font-family:Tahoma" color=
+=3D"#000000">devido ao grande n=C3=BAmero de encomendas enviados durante a =
+Copa do Mundo e dos recessos durantes os jogos da Sele=C3=A7=C3=A3o Brasile=
+ira, informamos que encontra uma encomenda retida em nosso Centro de Distri=
+bui=C3=A7=C3=A3o.<br>
+
+ Para retirada da mesma prossiga at=C3=A9 a ag=C3=AAncia informada tendo em=
+ m=C3=A3os seu RG e o n=C3=BAmero de encomenda em um prazo de 7 dias =C3=BA=
+teis apartir de hoje, caso n=C3=A3o retire a mesma retornaram para seu dest=
+inat=C3=A1rio.</font></p></td>
+
+            </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF">=C2=A0</td>
+        </tr>
+        <tr>
+          <td align=3D"center" bgcolor=3D"#FFFFFF"><font style=3D"font-size=
+:11px;font-family:Tahoma" color=3D"#996600"><b>Para saber a origem e qual a=
+g=C3=AAncia se encontra sua encomenda acesse o link abaixo:</b></font></td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF">=C2=A0</td>
+        </tr>
+        <tr>
+          <td align=3D"center" bgcolor=3D"#FFFFFF"><a href=3D"http://bit.ly=
+/1qc1xC8" target=3D"_blank"><img border=3D"0" height=3D"110" width=3D"150">=
+</a></td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF">=C2=A0</td>
+        </tr>
+        <tr>
+          <td align=3D"center" bgcolor=3D"#FFFFFF"><font style=3D"font-size=
+:11px;font-family:Tahoma" color=3D"#999999">O conte=C3=BAdo desse e-mail =
+=C3=A9 confidencial, caso voc=C3=AA n=C3=A3o seja <a href=3D"mailto:contato=
+@dhmed.com.br" target=3D"_blank">contato@dhmed.com.br</a> por favor delete =
+esse e-mail.</font></td>
+
+
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#FFFFFF">=C2=A0</td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody></table>
+</center>
+<img border=3D"0" height=3D"0" width=3D"0">
+</div>
+
+
+</div><br></div>
+</div><br></div>
+
+--e89a8fb1fca40a27ac04fcc2070c--

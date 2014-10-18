@@ -1,0 +1,209 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.35.204 with SMTP id r12csp91020icd;
+        Sun, 10 Aug 2014 22:12:24 -0700 (PDT)
+X-Received: by 10.42.63.15 with SMTP id a15mr6778281ici.80.1407733941571;
+        Sun, 10 Aug 2014 22:12:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: localhost.localdomain does not designate permitted sender hosts) smtp.mail=localhost.localdomain
+Received-SPF: none (google.com: localhost.localdomain does not designate permitted sender hosts) client-ip=207.210.68.42;
+Received: by 10.64.225.172 with POP3 id rl12mf4048129iec.37;
+        Sun, 10 Aug 2014 22:12:21 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Mon, 11 Aug 2014 05:02:59 +0000
+Received-SPF: pass (domain of orapois.com.br designates 207.210.68.42 as permitted sender)
+X-YMailISG: u_ov7YwWLDvWMQRPQpb9LzLwdIXH8FNQWZKvu0fMSWK7eIPd
+ RzBcteffIHz25UeIdZaTSbwrQP3A5IuuC6IFPRvzBQ3ve3uS8UmBhFAwOva6
+ nHu5pdv7xSIDKU12X4aOQ2p_EVjFRd3NtMSS8Hfn1lvjzecGT74sSyMZVRV1
+ Fz1xGwsrbPQsWP7yp1mU25Y.iT3CRHPrfM0MMWMEnI_URyXt7_Rv8bGPmvVZ
+ jNDpMqZ5UakFJl5nGQ9Z9ZQVyeGNlhT6dV9YIgOVZbMgBR1stFU70xke1qbW
+ nd08afcCdZFTriF5pA1ZSYQo0HX0gttYeU3luDMhXfkJce7M779GvpnoHvXS
+ 38RQ31.F5JQZdRFuK2_l4bIwhOfhQD.nU0xJh9P93lSjVBw8S1edo.4O3kKj
+ MqtluCd9M9Owb2WP3hfcINZOajuhtBGMH2o.UCkfuPG7vYwovOmw71LryLG_
+ d.twhJ2sGVIEKboca.zsduaD..j_.UFbaVBENIoEkCPkP9cQgY3vqo0waO57
+ OWqREGtnWOhROviDOjP2tp9fnRlpOmYYpUngvY9MqgnO_idOoLvuqHyILyCI
+ vZNUPzlGSBDUaU_Rq4b3KVB._enpoTeNAJeQI6rNQONe3F_F2nyjjqblzhqJ
+ 2wB7a2dANs0YNxkoJSsja8hJqWahMmTaVjjiTM4oQF0JXuaKyuhhMvDxYmPf
+ Zc3X7ERSqjUlKqE7QtSn9c_NlyPl7YIqE_J4ZRiyFJTMx8_Oqvhrql4MB91Y
+ BuunYbmEa7rfsIlDzgP4sItFOq2c.6dkoBpIthPtvosiwAq2N1i1Bk7so9pP
+ BJaVgFLLROwXJ26AAFIDdysDBX2TXKnsjYAaQp5x4WOolvZgcdaldCzLLHUb
+ zxvsZdBdhg0SpGP8TfKXITvRrv4NeTzeDjK0ANzVqW8PXsrvcH0KP.YlKNUl
+ D0IQZHwQxOaxaO8HxvZqkmyCaDkYbt7L5hxDNmTPbSxMfb.trrkoCZvdwTPp
+ FW_MD_KFtq0eTBIXqTCG5PEvq2HQATxA3nA4WqufC4z2OCCFVsZ8USSdoYAk
+ u_3tkNLsQuXc55oU__hhapZU97z2iN0zoOreiwDLmZw0.Gdfs4GVMFy_lHG9
+ XfdqA7PbFCOcvKLBOs7vkMsF838ioxGWbqRsA6ISLn27ztgliHOST6ITr5PO
+ 9Pd8PUHZoqTsRgs1_j0O1ZDjwouY2sASqOMaf_jFuQy2NbLjsjTVpgGGxWa5
+ MxP5F4H..Eeg3i5zejiwUOODplBkSKZM4GzmLznGk_lG5RpW0TqFZAXGNbWu
+ KCr3WUtmwGQQArrABcSgyKb21neceyRg9zuRqrfSshUaz0C8cKkF64P9OAxR
+ whLxi9eGutAxmK4vibp.q0We6GOsN5vXTvYxBk3SYoB_qvOB1vE1bXwS15df
+ 1dK5iazTzEtj_pCOxQ0.KRbGZFtMJbbRCzo8l9A8C8JNa8DcLrVOqxfgo.xl
+ ypflDU5ZNwW1qyHlSZNFjZMCgr_I94syNk4BlHhozJfct6E4iOB_Ee0ObOXq
+ S_DjVndvXvQA7X42QRGF3aatry4Y
+X-Originating-IP: [207.210.68.42]
+Authentication-Results: mta1387.mail.ne1.yahoo.com  from=orapois.com.br; domainkeys=neutral (no sig);  from=orapois.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO 207-210-68-42.verisoft.com.br) (207.210.68.42)
+  by mta1387.mail.ne1.yahoo.com with SMTP; Mon, 11 Aug 2014 05:02:59 +0000
+Received: from localhost.localdomain (207-210-68-42.verisoft.com.br [207.210.68.42])
+	by 207-210-68-42.verisoft.com.br (Postfix) with ESMTPA id C6CEF1F2071
+	for <ajuver@yahoo.com.br>; Mon, 11 Aug 2014 01:55:20 -0300 (BRT)
+Date: Mon, 11 Aug 2014 01:55:20 -0300
+To: "ajuver@yahoo.com.br" <ajuver@yahoo.com.br>
+From: OraPois <orapois@orapois.com.br>
+Reply-To: OraPois <orapois@orapois.com.br>
+Subject: =?iso-8859-1?Q?[OraPois.com.br]_Boletim_Di=E1rio_do_Portuga?=
+Message-ID: <a02ed09599dcdeb316cc992c991623cb@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a02ed09599dcdeb316cc992c991623cb"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+
+--b1_a02ed09599dcdeb316cc992c991623cb
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Se n&atilde;o conseguir visualizar este e-mail, <a href='www.orapois.com.br'>acesse este link</a>
+
+
+--b1_a02ed09599dcdeb316cc992c991623cb
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+                    <html xmlns='http://www.w3.org/1999/xhtml'>
+                    <head>
+                    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+                    <title>OraPois</title>
+                    </head>
+                    
+                    <body style='font:Arial, Helvetica, sans-serif;'>
+                    
+                    <table width='750' border='0' cellspacing='0' cellpadding='0' bgcolor='#ffeb9b' style='background-image:url(http://www.orapois.com.br/images/background-listras.png);'>
+
+                      <tr> 
+                        <td width='46' bgcolor='#ffffff'></td>
+                        <td width='650' height='1' colspan='6' align='right' bgcolor='#ffffff'>&nbsp;</td>
+                        <td width='52' bgcolor='#ffffff'>&nbsp;</td>
+                      </tr>
+                    
+                      <tr>
+                        <td width='46' height='130'>&nbsp;</td>
+                        <td colspan='3' align='center'><img src='http://www.orapois.com.br/images/logo_novo.png' width='300' height='100' border='0' alt='logo orapois'/></td>
+                        <td colspan='3' align='center'>&nbsp;</td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td width='650' height='70' colspan='6' valign='bottom'><img src='http://www.orapois.com.br/images/fundo_txt_4.png' width='200' height='40' hspace='15' align='middle'/></td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td width='650' colspan='6' align='center' bgcolor='#FFFFFF' style='background-color:#FFF;border:1px solid #999;'><a href='http://www.orapois.com.br/view/piadas.php?piada=90104'><img src='http://www.orapois.com.br/arquivos/image/71d4fbccbe270be22e503292d07bee59.jpg'/></a></td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td width='650' height='25' colspan='6' valign='top' style='font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#fff;'><p style='background-color:#829d02; padding:0 10px;margin:0 15px;line-height:35px;vertical-align:top;'>SlipkNorte</p></td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td colspan='6'>&nbsp;</td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td height='73'  colspan='6'  align='center' style='font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000;'><a href='http://pan.orapois.com.br/www/delivery/ck.php?zoneid=53' target='_blank'><img src='http://pan.orapois.com.br/www/delivery/avw.php?zoneid=53&amp;cb=800791' border='0' alt='' /></a></td>
+                        <td colspan='3'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td colspan='3'>&nbsp;</td>
+                        <td colspan='3'>&nbsp;</td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td colspan='3' style='font-family:Arial, Helvetica, sans-serif; font-size:25px; color:#fff;'><img src='http://www.orapois.com.br/images/fundo_txt_5.png' width='200' height='40' hspace='15' align='middle'/></td>
+                        <td colspan='3'></td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td height='160'  bgcolor='#FFFFFF' colspan='6'  align='left' style='padding:5px; margin:10px;font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000; border: 1px solid 
+                    #C7482F;'><h3 style='font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; color:#C7482F; margin-bottom:5px;margin-top:10px;'>Um Ricardão e Tanto</h3>
+                            <p style='font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic; color: #666; line-height: 24px; margin-bottom: 10px;'>O marido chega em casa inesperadamente e encontra a mulher na cama com um homem. Sem dizer uma palavra, ele tira um revólver da cômoda e aponta para o rival. A mulher grita:<br />
+<br />
+&mdash; Não faça isso! Como é que você pensa que eu arranjei a casa da praia, o carro, o casaco de peles, a TV de 600 polegadas?<br />
+<br />
+&mdash; Ah, então foi você quem deu tudo isso pra ela? - pergunta o marido.<br />
+<br />
+O homem faz que sim com a cabeça.<br />
+<br />
+&mdash; Se vista imediatamente! - berra o marido para o Ricardão - Quer pegar um resfriado?</p></td>
+                        <td colspan='3'>&nbsp;</td>
+                    
+                      </tr>
+                      <tr>
+                      	<td width='46'>&nbsp;</td>
+                        <td colspan='6'>&nbsp;</td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      
+                      <tr>
+                        <td width='46'>&nbsp;</td>
+                        <td colspan='6'>&nbsp;</td>
+                        <td width='52'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td bgcolor='#ECDBBF' colspan='6' style='font-family:Arial, Helvetica, sans-serif;font-size:12px; font-weight:bold;'><img src='http://www.orapois.com.br/images/img_ria_pouco.png' width='591' height='35' /></td>
+                        <td width='52' bgcolor='#ECDBBF'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46'bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td width='52' bgcolor='#ECDBBF'>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width='46' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' height='25'  bgcolor='#006699' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold; color:#fff; text-align:center;'><img src='http://www.orapois.com.br/images/fundo_txt_1.png' width='141' height='25' hspace='15' align='middle'/></td>
+                        <td colspan='2' bgcolor='#FF9900' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold;color:#fff; text-align:center;'><img src='http://www.orapois.com.br/images/fundo_txt_2.png' width='141' height='25' hspace='15' align='absmiddle'/></td>
+                        <td colspan='2' width='325' height='25'  bgcolor='#829D02' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold; text-align:center; color:#fff;'><img src='http://www.orapois.com.br/images/fundo_txt_3.png' width='141' height='25' hspace='15' align='middle'/></td>
+                        <td width='52' bgcolor='#ECDBBF'>&nbsp;</td>
+                        </tr>
+                      
+                      <tr>
+                    <td width='46' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' height='116'  align='center' bgcolor='#006699' style='font-family:Arial, Helvetica, sans-serif;font-size:12px; font-weight:bold;'><p style='background-color:#006699; width:188px; height:133px; padding:0 9px;margin:0 15px;line-height:25px;'><span style='background-color:#FFF;border:1px solid #999;'><a href='http://www.orapois.com.br/view/piadas.php?piada=10446'><img src='http://www.orapois.com.br/arquivos/thumbVideo/thumbPequena_fa5decbdcac1d640ec6cb43bd83755c6.jpg' width='179' height='117' align='middle' /></a></span></p></td>
+                        <td colspan='2' height='116' align='center' bgcolor='#FF9900' style='font-family:Arial, Helvetica, sans-serif;font-size:12px; font-weight:bold;'><p style='background-color:#FF9900; width:188px; height:133px; padding:0 9px;margin:0 15px;line-height:25px;vertical-align:top;'><span style='background-color:#FFF;border:1px solid #999;'><a href='http://www.orapois.com.br/view/piadas.php?piada=48835'><img src='http://www.orapois.com.br/arquivos/meme/thumbMeme_ab923d46798c386ef8178de909fccfce.jpg' width='179' height='117' align='middle' /></a></span></p></td>
+                        <td colspan='2' height='116' align='center' bgcolor='#829D02' style='font-family:Arial, Helvetica, sans-serif;font-size:12px; font-weight:bold;'><p style='background-color:#829d02; width:188px; height:133px; padding:0 9px;margin:0 15px;line-height:25px;vertical-align:top;'><span style='background-color:#FFF;border:1px solid #999;'><a href='http://www.orapois.com.br/view/piadas.php?piada=2831'><img src='http://www.orapois.com.br/arquivos/image/thumb_5bd7bf5c267de8c2217d69ae549a6928.jpg' width='179' height='117' align='middle' /></a></span></p></td>
+                        <td width='52' bgcolor='#ECDBBF'>&nbsp;</td>  </tr>
+                        <tr>
+                        <td width='46' bgcolor='#ECDBBF'>&nbsp;</td>
+                        <td colspan='2' height='25'  bgcolor='#006699' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold; color:#fff; text-align:center;'>&nbsp;</td>
+                        <td colspan='2' bgcolor='#FF9900' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold;color:#fff; text-align:center;'>&nbsp;</td>
+                        <td colspan='2' width='325' height='25'  bgcolor='#829D02' style='font-family:Arial, Helvetica, sans-serif;font-size:15px; font-weight:bold; text-align:center; color:#fff;'>&nbsp;</td>
+                        <td width='52' bgcolor='#ECDBBF'>&nbsp;</td>
+                        </tr>
+                      <tr>
+                        <td width='46' bgcolor='#FFFFFF'>&nbsp;</td>
+                        <td  height='40' colspan='6' align='center' bgcolor='#FFFFFF' style='font-size:10px;font-family:Arial, Helvetica, sans-serif;'>O Orapois respeita a sua privacidade e &eacute; contra o spam na rede.Caso n&atilde;o queira receber mais conte&uacute;do <a href='http://www.orapois.com.br/view/descadastroMailList.php?iml=25145&y=be419cdf098bae8c8530ea4f19af383775437'>acesse este link</a>.</td>
+					<td width='52' bgcolor='#FFFFFF'>&nbsp;</td>
+					</tr>
+					<tr></tr>
+					</table>
+					</body>
+					</html>
+
+
+
+--b1_a02ed09599dcdeb316cc992c991623cb--
+
+

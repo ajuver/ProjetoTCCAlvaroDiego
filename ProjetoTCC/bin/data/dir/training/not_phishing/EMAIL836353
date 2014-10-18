@@ -1,0 +1,146 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.65.6 with SMTP id j6csp12078ici;
+        Sat, 7 Jun 2014 04:29:23 -0700 (PDT)
+X-Received: by 10.50.79.164 with SMTP id k4mr15133195igx.3.1402140561924;
+        Sat, 07 Jun 2014 04:29:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.50.13.146 with POP3 id h18mf791606igc.1;
+        Sat, 07 Jun 2014 04:29:21 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Sat, 07 Jun 2014 11:25:26 +0000
+Received-SPF: pass (domain of b.disparadoremm.com designates 66.55.91.7 as permitted sender)
+X-YMailISG: 5b3ySYAWLDsVsSGKX1eATje9b7B2LVsjbRBsdu6F9InHQTu9
+ 9ebqfeIy395nBYkcfE0xjzPM803hq0oAzJEqkXsjig4ul9nbxzYkjkTHtszk
+ CXNH7IrqSmo3_gU_1otYt2fNxD5bgyOjexU16_lYwSVXJJX3bGEjPQRLYann
+ a2kSgYMwXfLXzGu734gSI2WcM6DBkMZuooZQdIuz6A3eiZyrjGJEpX0jAXhe
+ vTytq8V2CK10OzNMOv4XcdZsHt7sY.IUMQPKnTUKqJ1hj4OCCZnLvoVpvgAE
+ v90NsRUa66cjEugSIhk8AUiTqAimWw0Yo8HAfXobw71yTS8muPBGABM769F7
+ dzPkUWiqbfKLbSePBxOOwlKSvvKWuo9Kzi.gUdgG.AzJkxVTNaFnRkxvecR2
+ jC2BL_fFktT2p8nCmU1XtZi5Tky6l6pwSg7IE_8aS7rDJa.S4C8GBQRQxZjB
+ jrEqZ0lwg7hTkGzzrcHy7tQ7n1gNiZ6y3q01sD_t7angcUPRxQSz3YbTzhIz
+ OG8ikPuYP.UvFallVcXFPqHaWY8kQ_UsJ3p7cPNVtZSgINXOVJPaaUnuqeZJ
+ 3ZLTOt7i2nlUNtB0cCgvmDKKgP7bG4N3QgW45vuJnZ1Ox0CuQ1Ybj_ejqs8B
+ K1USLVwznrwOymI.ZQt_qlu23MnRYFsrPUkWh5TEHsI2BuDvacETxG8RVgPR
+ VeVuqFFZpf6RL9WlR6U2VkxXxWplG2m0uO4nC6yAjqlpY6hd6xQV0.70VpOa
+ lAUEeJVLxdyRr5teBG2.mN9JJJfpyvswbfZnRxHuUP313.3LlYdkqOP9Y9jn
+ Q0uhebq4DxvOQLpVdruhfZsAJr9eK9N2jknMGUiSFo18DlTwRhvonOFCmbq3
+ MOIor0BkKgx9l.UbTz.jXo8ur7Pbv8soVcInXHyXZWsA5ZgWcFiN0bQX9RoF
+ LaP3Z2h6we7tuI7.cfLwzWXNIlNDKN9TeWtsrYHOyHL.YKyv_4D_jdCEBLK1
+ _f8AItom.y1gH04KXZ5nZAsihU7t9qZ2AGSu0BGO5Y9YyIiuIOuLE7JDd2o8
+ CcU.oyTCNyUNYozHBrP0ikMSracJiD0pTQkl62XayrtcP6OqT6oHShTv3fn5
+ aTp17nnJ_IUv4NHJhtQzeByvWlzFdECv_YgHi5FEASRMoG1hRxj8eok0NsAQ
+ izc5TXFA7u5dRNQrDCpQi8JDTMHd7g.K0DNEmMq0_U2TJr0pwWisEB__G_z6
+ eifBWafX4Q9Zz8XhxfcS4F1.meWesawieZLdLZaUUMxNTzlkiY8MuKDnT7uJ
+ o61WHDhVU9XUCNi8CdCtQXDbrg8TDv3YhPs_R5.gpeDM.APj9cdIEQk_aN3d
+ .8GQhYZXuh17JljjsowCNJrxgXTdYpSVSzCgPP1EId.JVkY_oQAy5Gjula8t
+ 1Pxxi2t4_toObP2MHw6zCCbcYOsL3WgLqH5fhNfmtoUUVgj90cGV8jUEsQm1
+ IuH3Zs0Naje10QGmIJYHPAwJyA--
+X-Originating-IP: [66.55.91.7]
+Authentication-Results: mta1362.mail.ne1.yahoo.com  from=rabusch.com.br; domainkeys=neutral (no sig);  from=rabusch.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO t53.fastsrv.com) (66.55.91.7)
+  by mta1362.mail.ne1.yahoo.com with SMTP; Sat, 07 Jun 2014 11:25:26 +0000
+Received: from t53.fastsrv.com (s53.fastsrv.com [127.0.0.1])
+	by t53.fastsrv.com (Postfix) with ESMTP id 778D71D194
+	for <ajuver@yahoo.com.br>; Sat,  7 Jun 2014 08:25:25 -0300 (BRT)
+Date: Sat, 7 Jun 2014 08:25:25 -0300
+To: ajuver@yahoo.com.br
+From: Rabusch <voce@rabusch.com.br>
+Sender: Rabusch <voce@rabusch.com.br>
+Subject: =?iso-8859-1?Q?Desfile_Cole=E7=E3o_Inverno_2014?=
+Message-ID: <PEu.iXrYL.-h1Pop@t53.fastsrv.com>
+X-Priority: 3
+Precedence: bulk
+List-Unsubscribe: <http://emailmkt.imessage.inf.br/a/d.php?a=iXrYL&v=Fuzyn&e=PEu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e351d03a1a54432aac7a3d6db060bdb7"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+
+--b1_e351d03a1a54432aac7a3d6db060bdb7
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+    Para garantir o recebimento desta mensagem, adicione voce@rabusch.com.br ao seu catálogo de endereços.      visualizar no navegador  |  cancele o recebimento                     Denunciar abuso           <BR>                         <BR>Desfile Coleção Inverno 2014<BR>A Rabusch é a empresa madrinha do Curso de Moda da ESPM Porto Alegre. Você é nosso convidado para o  Desfile da Coleção Inverno 2014 organizado pelo alunos de moda!<BR>09/junho, as 20:15, no Espaço Cultural ESPM-Sul, Guilherme Schell,
+268.<BR>Rabusch. A moda é elas no comando.<BR>www.rabusch.com.br    I    rabusch.com.br/blog<BR> <BR><BR><BR><BR>   Para garantir o recebimento desta mensagem em sua caixa de entrada, adicione voce@rabusch.com.br ao seu catálogo de endereços.<BR>Problemas com a mensagem? visualize no navegador.          caso você deseje remover seu cadastro de nossa lista, cancele o recebimento.            Denunciar abuso           
+
+
+--b1_e351d03a1a54432aac7a3d6db060bdb7
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><table cellspacing="0" cellpadding="5" border="1" bordercolor="#CCCCCC" style="border-style:solid; border-color:#cccccc; border-width:1px 0px;" width="100%">
+                            <tr bgcolor="#f5f5f5">
+                                <td colspan="2" align="left" height="11" style="border-style:solid; border-color:#ffffff; border-width:2px 0 0 0;">
+                                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">
+                                        Para garantir o recebimento desta mensagem, adicione <strong>voce@rabusch.com.br</strong> ao seu cat&aacute;logo de endere&ccedil;os.
+                                    </font>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f5f5f5">
+                                <td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                        <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://emailmkt.imessage.inf.br/a/o.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;">visualizar no navegador</a>  |  <a href="http://emailmkt.imessage.inf.br/a/d.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;">cancele o recebimento</a>            </font>        </td><td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0; text-align:right">
+                                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://emailmkt.imessage.inf.br/a/da.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;">Denunciar abuso</a>
+                                    </font>
+                                </td>
+                            </tr>       
+                        </table><br />
+		<div style="margin:auto;display:block">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" height="1027" id="Tabela_01" width="701"><tbody><tr><td colspan="8">
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWV&e=PEu&a=iXrYL&v=LvbH_c"><img alt="" border="0" height="79" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_01.jpg" style="display:block" width="701"></a></td>
+					</tr><tr><td colspan="8">
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWV&e=PEu&a=iXrYL&v=LvbH_c"><img alt="" border="0" height="398" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_02.jpg" style="display:block" width="701"></a></td>
+					</tr><tr><td colspan="8">
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWV&e=PEu&a=iXrYL&v=LvbH_c"><img alt="" border="0" height="263" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_03.jpg" style="display:block" width="701"></a></td>
+					</tr><tr><td>
+							<img alt="" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_04.jpg" style="display:block" width="178"></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWI&e=PEu&a=iXrYL&v=Th0x_b"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_05.jpg" style="display:block" width="84"></a></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWf&e=PEu&a=iXrYL&v=TQusnY"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_06.jpg" style="display:block" width="81"></a></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWq&e=PEu&a=iXrYL&v=LURvnU"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_07.jpg" style="display:block" width="81"></a></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWP&e=PEu&a=iXrYL&v=-odlGJ"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_08.jpg" style="display:block" width="83"></a></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWF&e=PEu&a=iXrYL&v=SwkGX"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_09.jpg" style="display:block" width="85"></a></td>
+						<td>
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kW3&e=PEu&a=iXrYL&v=LT3uah"><img alt="" border="0" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_10.jpg" style="display:block" width="87"></a></td>
+						<td>
+							<img alt="" height="78" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_11.jpg" style="display:block" width="22"></td>
+					</tr><tr><td colspan="8">
+							<a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWR&e=PEu&a=iXrYL&v=Trj-a2"><img alt="" border="0" height="209" src="http://www.imessage.inf.br/flyer/rab064/imagens/convite-espm-NEWS-01_12.jpg" style="display:block" width="701"></a></td>
+					</tr></tbody></table><p style="text-align: center; ">
+				<strong style="font-family: arial; font-size: small; color: rgb(51, 51, 51); "><span style="font-size: medium; ">Desfile Cole&ccedil;&atilde;o Inverno 2014</span></strong><br><br><span style="rgb(51, 51, 51);"><span style="font-family: arial; font-size: small;"><i>A <b>Rabusch</b> &eacute; a empresa madrinha do <b>Curso de Moda</b> da <b>ESPM Porto Alegre</b>. Voc&ecirc; &eacute; nosso convidado para o <b> Desfile da Cole&ccedil;&atilde;o Inverno 2014</b> organizado pelo alunos de moda!<br><br><strong>09/junho</strong>, as 20:15, no Espa&ccedil;o Cultural ESPM-Sul, Guilherme Schell, 268.<br><br><span style="color: rgb(51, 51, 51); font-family: arial; font-size: small;"><span style="color: rgb(51, 51, 51); font-family: arial; font-size: small;">Rabusch. A moda &eacute; elas no comando.</span><br><span style="color: rgb(0, 128, 128);"><strong><span style="font-size: x-small;"><span style="font-family: Arial;"><a
+href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWQ&e=PEu&a=iXrYL&v=TILRcp">www.rabusch.com.br</a>&nbsp;</span></span></strong></span> <span style="color: rgb(0, 128, 128);"><strong><span style="font-size: x-small;"><span style="font-family: Arial;"> </span></span></strong></span> <span style="color: rgb(51, 51, 51);"><strong><span style="font-size: x-small;"><span style="font-family: Arial;">I</span></span></strong></span> <span style="color: rgb(0, 128, 128);"><strong><span style="font-size: x-small;"><span style="font-family: Arial;">&nbsp;&nbsp; <a href="http://emailmkt.imessage.inf.br/a/c.php?l=-kWW&e=PEu&a=iXrYL&v=LNKJcl">rabusch.com.br/blog</a></span></span></strong></span></span></i></span></span></p>
+		</div>
+		<p>
+			<i><object height="0" id="8b1a49c9-fa79-baa4-4b3a-6a860bbf82b8" type="application/gas-events-abn" width="0"></object></i></p>
+		<p>
+			<i><object height="0" id="caf87bca-387b-b9b0-59ab-aa872a8f86a0" type="application/gas-events-abn" width="0"></object></i></p>
+		<p>
+			<i><!-- End Save for Web Slices --></i></p>
+	
+<br /><table cellspacing="0" cellpadding="5" border="1" bordercolor="#CCCCCC" style="border-style:solid; border-color:#cccccc;border-width:1px 0px;" width="100%"><tr bgcolor="#f5f5f5">
+                                    <td colspan="2" align="left" height="11" style="border-style:solid; border-color:#ffffff; border-width:2px 0 0 0;">
+                                        <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">
+                                            Para garantir o recebimento desta mensagem em sua caixa de entrada, adicione <strong>voce@rabusch.com.br</strong> ao seu cat&aacute;logo de endere&ccedil;os.<br /><br />Problemas com a mensagem? <a href="http://emailmkt.imessage.inf.br/a/o.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;"><strong>visualize no navegador</strong></a>.     </font>
+                                    </td>
+                                    </tr>
+                                    <tr bgcolor="#f5f5f5">
+                                        <td style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1">caso voc&ecirc; deseje remover seu cadastro de nossa lista, <a href="http://emailmkt.imessage.inf.br/a/d.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;"><strong>cancele o recebimento</strong></a>.         </font>
+                                        </td>
+                                        <td align="right" style="border-style:solid; border-color:#ffffff; border-width:0 0 2px 0;">
+                                            <font face="Verdana, Arial, Helvetica, sans-serif" color="#666666" size="1"><a href="http://emailmkt.imessage.inf.br/a/da.php?e=PEu&a=iXrYL&v=Fuzyn" target="_blank" style="color:#666;">Denunciar abuso</a>         </font>
+                                        </td>
+                                    </tr></table><img src="http://emailmkt.imessage.inf.br/a/v.php?e=PEu&a=iXrYL&v=LrxwRM"></body></html>
+
+
+
+--b1_e351d03a1a54432aac7a3d6db060bdb7--
+
+

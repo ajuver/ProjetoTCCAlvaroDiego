@@ -1,0 +1,124 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp252875icm;
+        Thu, 3 Jul 2014 13:11:25 -0700 (PDT)
+X-Received: by 10.50.33.17 with SMTP id n17mr9389331igi.15.1404418284042;
+        Thu, 03 Jul 2014 13:11:24 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.50.108.242 with POP3 id hn18mf3506460igb.1;
+        Thu, 03 Jul 2014 13:11:24 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.174; Thu, 03 Jul 2014 20:06:08 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.128.177 as permitted sender)
+X-YMailISG: m0cMmUcWLDu5KeC9bnRCgNqpUmo3xLgQz4qL3tagljTrhnU9
+ WipjWf6Pww3mb5eoMg9ehVjzMQHpkvg.nShunua2Bj7PCVAj7hjblWSoFNpP
+ YC_mwllUttFN4B7KCjU5uiCGAPcpBqF_XDyc_19gqDXu5OJ0cviZgUBedBGm
+ 3WrCO1SSEtAeBrhb_L5NUcPdGuDnrbgFVywJ7qh_wZoYvCeS_ZxbWGoG0h.L
+ su_Rjk4FHTdd8_MGeNu2T1mm2yJCs5ejnSVFBNN7zaemFYtb0_q6eJXZ6W0g
+ 5cy33AAMA0lN7VF1evjsV0LFtkSnqZ2XpE.Y1sXtxHbzv_gEdmkrd2pimUJj
+ 9TO2LKqQc55AYYA_6N6BUZPxsWQMFdqGRq1UY0D9aLzT.l4K3iv1c1DFc0FE
+ AyLHd6kFPy18ySpHJ5MCGdNlvF5yS3ddJsgAnGy3BMz5W6ER2afZ7usifWKh
+ SEXCtnaFPvnx5uguS5o.X4cWA.MX_XJOV9r2FECKEQOHPUWNnv.rznEPF7Pt
+ eydkGnvQPAtlRoTOO7rzZTu0yluG7v7iDDZRL4BWt_B0N_Omb5LeM6dU8j0t
+ .l8ddAusc0sF6EdirDU0COWkpK9JUUTeoSFFHHNiwf.j_TKNX4l_pxo5IOTa
+ 1Ralr8qRPDAiVlGVr2sNiM4YHjMEd6.zjEwdsmmQMVlBlEaH.iCoXP_8xZhS
+ UyAct3siHG8_mAJJH0eKBxvi1cB.8AyqM8xus.0WIyQlji4o.HhfeLRpRJmJ
+ QS.DvRKjbZbG1poxnUHfM9afckAek8pmavveGff24h0EVsCWZOjwKwQx1qOR
+ OrkJO4euzWONE44Z5qoRNRHebZ2mxOecCPa.oiZN.DqzQO70POUh6PjNGijQ
+ j6ki.YpKNOrRZ6NSAaGASkrEXrFiv9fHhL0N.cVKCcBLZR_uVLXHQBkiALl5
+ 0C5MM3aNn54GFy2x6kSepOTV1QSHxmKg13Y0_TJDNB6hfPjMUjj6.1JdpKES
+ nDCYCgnUvHKH9hj2qXaYlmxFetYFyEIypSHW1RC8uNfNOAcB1Q3RpuwuGXdP
+ Nau_.BfEKybSTzJtA9K.lZLtxhmDYZwIWe0jfWisKql6m2aTgSuBtSACnlW_
+ l355qKz0hMzgEu77z3iaQPB_tWW.redLBPIWZXaKh0KT6fhDWFt1QeYw_3IN
+ xOUKK1QCfuveHF8KdG.XHPPVm8PnBxxs_k26Ik183wJW8FbdOZP9T4GiC4Wd
+ iQBIAmutNNQhQfsY1c7TiDACfRDlVr19ijm2NMDTGTSvyGn7Tyd73.ISGVEb
+ Gjo8aFSgubbo2tfydBTITGp31vjjjjUtcxp9caJljrxA_JKUTP.nM.x5t76k
+ 1FRk5k9bK_YCn9w77_fNKMp6DIg.MOSoTq.7nFCM5BwQIoMG_69AmIyQxjsI
+ R3B9j4xhCLcBWOFTRm5UUe6ixrranW7Hgri4N00a6w5J3yRa_J3EA6hRlRll
+ t42y0iJCyRHNnUbJ0Tu3dy6ItGO5sWQCG.FF1_RzP_NefcrR8Q--
+X-Originating-IP: [209.85.128.177]
+Authentication-Results: mta1134.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-ve0-f177.google.com) (209.85.128.177)
+  by mta1134.mail.bf1.yahoo.com with SMTPS; Thu, 03 Jul 2014 20:06:08 +0000
+Received: by mail-ve0-f177.google.com with SMTP id i13so763551veh.36
+        for <ajuver@yahoo.com.br>; Thu, 03 Jul 2014 13:06:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=Vk7nkNk/wGyZJhfgTG+wSnSUWuVgYYc4dpSPFUDYgag=;
+        b=YvW5WWc6nsVVDEckkmR/cWZWxBnCqybAFnWm4j1vFDjsC51NixoJvJ8gPYH2LjLzur
+         DpRjyOpuOwtl/8gBi8WXdQAxNV7BdVjP3VXPS2tuG3OD3sLpDJ4dEdMBlV4VdQ2SukOP
+         8zGoXp8uUtGGHAeBqRMOmFXV9gjLkhpKt8/JEr4LFRjl/bfUvysg6E5saTTiabhlIdwr
+         T4MK+pYfnMQ4TcIMYyMsSwH+de50WBpCEPLZ5nyqdNpl2ZHFwInmrvIfj8MIi+zTFjYU
+         du9scMziTI0KAirRyQktVQ1pDOz06DE9fNamgpUazB5CUzMIcdsCOAe/mtLVTIvTnuC5
+         /lrg==
+X-Received: by 10.220.161.8 with SMTP id p8mr5564097vcx.4.1404417968686; Thu,
+ 03 Jul 2014 13:06:08 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.58.73.98 with HTTP; Thu, 3 Jul 2014 13:05:48 -0700 (PDT)
+In-Reply-To: <5997625d8cb1c8d3d3f8e45d48b59e7a@beta.supportzoom.org>
+References: <5997625d8cb1c8d3d3f8e45d48b59e7a@beta.supportzoom.org>
+From: =?UTF-8?Q?Diego_Caibat=C3=A9?= <caibate@gmail.com>
+Date: Thu, 3 Jul 2014 17:05:48 -0300
+Message-ID: <CACnsZAPEHfzzQZJ_w5i9wxBMOzKm-yC2gBr3zMwYhUAHqbXx3w@mail.gmail.com>
+Subject: Fwd: Sincronismo Obrigratorio. 5u7rbd
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=001a11c2081023cd2c04fd4f8a59
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--001a11c2081023cd2c04fd4f8a59
+Content-Type: text/plain; charset=UTF-8
+
+Thanks and Regards.
+
+Diego Nunes- Java Developer/ Systems Analyst.
+
+MSN: caibate@gmail.com.
+
+Email: caibate@gmail.com.
+
+celular: (51) - 9338-2043.
+
+
+---------- Forwarded message ----------
+From: Prezado Cliente. u7rbd1 <898@898.com>
+Date: 2014-06-25 16:21 GMT-03:00
+Subject: Sincronismo Obrigratorio. 5u7rbd
+To: caibate@gmail.com
+
+
+ 32aatr
+<https://www.wraacreunited.org/images/HgfR/?cliente=caibate@gmail.com&529537=32aatr>
+
+--001a11c2081023cd2c04fd4f8a59
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div>Thanks and Regards.<br><br>Diego Nu=
+nes- Java Developer/ Systems Analyst. <br><br>MSN: <a href=3D"mailto:caibat=
+e@gmail.com" target=3D"_blank">caibate@gmail.com</a>.<br><br>Email: <a href=
+=3D"mailto:caibate@gmail.com" target=3D"_blank">caibate@gmail.com</a>.<br>
+
+<br>celular: (51) - 9338-2043.</div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Prezado Cliente. u7rbd1</b> <span di=
+r=3D"ltr">&lt;<a href=3D"mailto:898@898.com">898@898.com</a>&gt;</span><br>=
+Date: 2014-06-25 16:21 GMT-03:00<br>
+
+Subject: Sincronismo Obrigratorio. 5u7rbd<br>To: <a href=3D"mailto:caibate@=
+gmail.com">caibate@gmail.com</a><br><br><br><a href=3D"https://www.wraacreu=
+nited.org/images/HgfR/?cliente=3Dcaibate@gmail.com&amp;529537=3D32aatr" tar=
+get=3D"_blank">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600" backg=
+round=3D"https://www.wraacreunited.org/images/HgfR/engnova.png?52953732aatr=
+529537" style=3D"background-repeat:no-repeat" height=3D"610"><tbody>
+  <tr>
+    <td><font color=3D"#FFFFFF">32aatr</font></td></tr></tbody></table></a>
+
+</div><br></div>
+
+--001a11c2081023cd2c04fd4f8a59--

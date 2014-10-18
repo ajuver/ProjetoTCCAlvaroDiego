@@ -1,0 +1,292 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp691874icc;
+        Fri, 12 Sep 2014 11:52:44 -0700 (PDT)
+X-Received: by 10.224.67.65 with SMTP id q1mr14914455qai.89.1410547963872;
+        Fri, 12 Sep 2014 11:52:43 -0700 (PDT)
+Return-Path: <bounce-a650-c799-r195769@viaservers.com.br>
+Received: from mta163.viaservers.com.br (mta163.viaservers.com.br. [177.21.76.163])
+        by mx.google.com with ESMTP id a17si6860111qai.28.2014.09.12.11.52.42
+        for <ajuver@gmail.com>;
+        Fri, 12 Sep 2014 11:52:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-a650-c799-r195769@viaservers.com.br designates 177.21.76.163 as permitted sender) client-ip=177.21.76.163;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-a650-c799-r195769@viaservers.com.br designates 177.21.76.163 as permitted sender) smtp.mail=bounce-a650-c799-r195769@viaservers.com.br;
+       dkim=pass header.i=@republicadosapatonews.com.br;
+       dmarc=pass (p=NONE dis=NONE) header.from=republicadosapatonews.com.br
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=1383143147.republicadosapatonews; d=republicadosapatonews.com.br;
+ h=List-Unsubscribe:MIME-Version:Sender:From:To:Date:Subject:Content-Type:Content-Transfer-Encoding:Message-ID; i=contato@republicadosapatonews.com.br;
+ bh=0NApSpQ9ABUj1pImQ855ZQTQFdQ=;
+ b=t51gwvS0/kPGm367AWVKJTXnKhNluIJfjVKvo+i10nnuvJL0eK+/SRRpftgZdM6k66vJ/CJMymd+
+   hg/zaJmFR6ot10TRrncbCWPJA6CDY1DfU9tILpH7nP3Hh4otkV0MTyANRkCE+B6SXNJ6/YJJjD0x
+   h+r2NjJL8L6WP7UkD1Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=via; d=viaservers.com.br;
+ b=dO+q2qAvpxMzYFUmAIiWPqMMkx69w33aLiSzEaruaF3ICqZ2kzjtxcyyZy2GzMu7vXaBkVd5puhv
+   ofoRqhEhoFjHhMUdxMt6NI/8eXgpytzY40fX6v0fonYPBdg9OgUgqYtUH340BO+NMCdIwDDQYAb1
+   DmhPRh89+RLdmlGlbRA=;
+X-VIA-ID: 650,799,195769
+List-Unsubscribe: <http://emv.republicadosapatonews.com.br/unsubscribe/650/799/195769/ajuver@gmail.com>
+MIME-Version: 1.0
+Sender: bounce-a650-c799-r195769@viaservers.com.br
+From: =?utf-8?Q?Rep=C3=BAblica_do_Sapato_?=
+ <contato@republicadosapatonews.com.br>
+To: ajuver@gmail.com
+Date: 12 Sep 2014 13:24:07 -0300
+Subject: =?utf-8?Q?=C3=9Altimos_dias=3A_Qualquer_sapatos_por_49=2C99=2E?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <0.0.15E.555.1CFCEA5F9E6C4C3.0@mta163.viaservers.com.br>
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A<ht=
+ml xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A<titl=
+e>=C3=9Altimos dias: Qualquer sapatos por 49,99.</title>=0D=0A<me=
+ta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-T=
+ype" />=0D=0A</head>=0D=0A<body style=3D"margin: 0px; background-=
+color: #FFFFFF; color: #000000">=0D=0A<table style=3D"width: 100%=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0D=0A<tr>=0D=0A=
+<td style=3D"padding-top: 15px; padding-bottom: 15px; background-=
+color: #f2f2f2;color: black;font-family: Arial;text-align: center=
+;font-size: 10pt;">=0D=0A<a target=3D"blank" href=3D"http://emv.r=
+epublicadosapatonews.com.br/view/650/799/195769">veja</a>=0D=0A</=
+td>=0D=0A</tr>=0D=0A<tr>=0D=0A<td style=3D"background-color: #f2f=
+2f2;color: black;font-family: Arial;text-align: center;font-size:=
+ 10pt;">=0D=0A<table style=3D"background-color: #ffffff;" align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"700">=0A  <tr>=0A    <td><table width=3D"660" align=3D"center" b=
+order=3D"0" cellspacing=3D"10" cellpadding=3D"0">=0A        <tr>=0A=
+          <td width=3D"408"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">=0A              <tr>=0A       =
+         <td width=3D"117" align=3D"center"><a href=3D"http://emv=
+.republicadosapatonews.com.br/redireciona.aspx?id=3D650,799,0,195=
+769&url=3Dhttp%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f30%=
+2fpromocao%2f%3futm_source%3dviacompany%26amp%3butm_medium%3demai=
+l%26amp%3butm_content%3dC797%26amp%3butm_campaign%3dliquidacao-C7=
+97" target=3D"_blank"><img src=3D"http://emv.republicadosapatonew=
+s.com.br/recursos/cp/650-797/20140909094448929.jpg" border=3D"0" =
+alt=3D"" /></a></td>=0A                <td width=3D"117" align=3D=
+"center"><a href=3D"http://emv.republicadosapatonews.com.br/redir=
+eciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2fwww.republic=
+adosapato.com%2fprodutos%2f30%2fpromocao%2f%3futm_source%3dviacom=
+pany%26amp%3butm_medium%3demail%26amp%3butm_content%3dC797%26amp%=
+3butm_campaign%3dliquidacao-C797" target=3D"_blank"><img src=3D"h=
+ttp://emv.republicadosapatonews.com.br/recursos/cp/650-797/201409=
+09094447326.jpg" border=3D"0" alt=3D"" /></a></td>=0A            =
+  </tr>=0A            </table></td>=0A          <td width=3D"222"=
+ height=3D"80" align=3D"right"><a href=3D"http://emv.republicados=
+apatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dhtt=
+p%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f30%2fpromocao%2f=
+%3futm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm=
+_content%3dC797%26amp%3butm_campaign%3dliquidacao-C797" target=3D=
+"_blank"><img src=3D"http://emv.republicadosapatonews.com.br/recu=
+rsos/cp/650-797/20140909094448973.jpg" border=3D"0" alt=3D"" /></=
+a></td>=0A        </tr>=0A      </table>=0A      <table width=3D"=
+700" align=3D"center" bgcolor=3D"#000000" border=3D"0" cellspacin=
+g=3D"5" cellpadding=3D"0">=0A        <tr>=0A          <td style=3D=
+"text-align: center; color: #ffffff; font-size: 16px;"><a style=3D=
+"color: #ffffff; text-decoration: none;" href=3D"http://emv.repub=
+licadosapatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&ur=
+l=3Dhttp%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f1%2fsanda=
+lia%3futm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3b=
+utm_content%3dC797%26amp%3butm_campaign%3dliquidacao-C797" target=
+=3D"_blank">Sand&#225;lia</a></td>=0A          <td style=3D"text-=
+align: center; color: #ffffff; font-size: 16px;"><a style=3D"colo=
+r: #ffffff; text-decoration: none;" href=3D"http://emv.republicad=
+osapatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dh=
+ttp%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f4%2frasteira%3=
+futm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_c=
+ontent%3dC797%26amp%3butm_campaign%3dliquidacao-C797" target=3D"_=
+blank">Rasteira</a></td>=0A          <td style=3D"text-align: cen=
+ter; color: #ffffff; font-size: 16px;"><a style=3D"color: #ffffff=
+; text-decoration: none;" href=3D"http://emv.republicadosapatonew=
+s.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%=
+2fwww.republicadosapato.com%2fprodutos%2f8%2fanabelas%3futm_sourc=
+e%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_content%3dC=
+797%26amp%3butm_campaign%3dliquidacao-C797" target=3D"_blank">Ana=
+belas</a></td>=0A          <td style=3D"text-align: center; color=
+: #ffffff; font-size: 16px;"><a style=3D"color: #ffffff; text-dec=
+oration: none;" href=3D"http://emv.republicadosapatonews.com.br/r=
+edireciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2fwww.repu=
+blicadosapato.com%2fprodutos%2f12%2fpeep_toe%3futm_source%3dviaco=
+mpany%26amp%3butm_medium%3demail%26amp%3butm_content%3dC797%26amp=
+%3butm_campaign%3dliquidacao-C797" target=3D"_blank">Peep Toe</a>=
+</td>=0A          <td style=3D"text-align: center; color: #ffffff=
+; font-size: 16px;"><a style=3D"color: #ffffff; text-decoration: =
+none;" href=3D"http://emv.republicadosapatonews.com.br/redirecion=
+a.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2fwww.republicadosa=
+pato.com%2fprodutos%2f13%2fscarpin%3futm_source%3dviacompany%26am=
+p%3butm_medium%3demail%26amp%3butm_content%3dC797%26amp%3butm_cam=
+paign%3dliquidacao-C797" target=3D"_blank">Scarpin</a></td>=0A   =
+       <td style=3D"text-align: center; color: #ffffff; font-size=
+: 16px;"><a style=3D"color: #ffffff; text-decoration: none;" href=
+=3D"http://emv.republicadosapatonews.com.br/redireciona.aspx?id=3D=
+650,799,0,195769&url=3Dhttp%3a%2f%2fwww.republicadosapato.com%2fp=
+rodutos%2f14%2fsapatilha%3futm_source%3dviacompany%26amp%3butm_me=
+dium%3demail%26amp%3butm_content%3dC797%26amp%3butm_campaign%3dli=
+quidacao-C797" target=3D"_blank">Sapatilha</a></td>=0A          <=
+td style=3D"text-align: center; color: #ffffff; font-size: 16px;"=
+><a style=3D"color: #ffffff; text-decoration: none;" href=3D"http=
+://emv.republicadosapatonews.com.br/redireciona.aspx?id=3D650,799=
+,0,195769&url=3Dhttp%3a%2f%2fwww.republicadosapato.com%2fprodutos=
+%2f16%2fboot%3futm_source%3dviacompany%26amp%3butm_medium%3demail=
+%26amp%3butm_content%3dC797%26amp%3butm_campaign%3dliquidacao-C79=
+7" target=3D"_blank">Boot</a></td>=0A          <td style=3D"text-=
+align: center; color: #ffffff; font-size: 16px;"><a style=3D"colo=
+r: #ffffff; text-decoration: none;" href=3D"http://emv.republicad=
+osapatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dh=
+ttp%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f17%2fslipper%3=
+futm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_c=
+ontent%3dC797%26amp%3butm_campaign%3dliquidacao-C797" target=3D"_=
+blank">Slipper</a></td>=0A          <td style=3D"text-align: cent=
+er; color: #ffffff; font-size: 16px;"><a style=3D"color: #ffffff;=
+ text-decoration: none;" href=3D"http://emv.republicadosapatonews=
+.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2=
+fwww.republicadosapato.com%2fprodutos%2f18%2fboneca%3futm_source%=
+3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_content%3dC79=
+7%26amp%3butm_campaign%3dliquidacao-C797" target=3D"_blank">Bonec=
+a</a></td>=0A        </tr>=0A      </table></td>=0A  </tr>=0A  <t=
+r>=0A    <td align=3D"center"><a href=3D"http://emv.republicadosa=
+patonews.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dhttp=
+%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f30%2fpromocao%2f%=
+3futm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_=
+content%3dC797%26amp%3butm_campaign%3dloja-fisica-campanha-C797" =
+target=3D"_blank"><img src=3D"http://emv.republicadosapatonews.co=
+m.br/recursos/cp/650-798/20140909173436669.jpg" border=3D"0" alt=3D=
+"" /></a></td>=0A  </tr>=0A  <tr>=0A    <td><table width=3D"700" =
+border=3D"0" cellspacing=3D"10" cellpadding=3D"0">=0A        <tr>=
+=0A          <td align=3D"center"><table width=3D"205" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border:1px solid =
+#000000">=0A              <tr>=0A                <td align=3D"cen=
+ter"><a href=3D"http://emv.republicadosapatonews.com.br/redirecio=
+na.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2frepublicadosapat=
+o.com%2fproduto%2f824%2fsapatilha_roxa_laco%2f%3futm_source%3dvia=
+company%26amp%3butm_medium%3demail%26amp%3butm_content%3dC797%26a=
+mp%3butm_campaign%3dloja-fisica-campanha-C797" target=3D"_blank">=
+<img src=3D"http://emv.republicadosapatonews.com.br/recursos/cp/6=
+50-797/20140909094447719.jpg" border=3D"0" alt=3D"" /></a></td>=0A=
+              </tr>=0A              <tr>=0A                <td bg=
+color=3D"#f2f2f2" align=3D"center" height=3D"80"><span style=3D"c=
+olor:#333; font-family:Arial, Helvetica, sans-serif; font-size:12=
+px; line-height:28px;">  Sapatilha Roxa La&#231;o<br />=0A       =
+           por  =0A                   <span style=3D"color:#900; =
+font-size:18px"> R$ 49,99</span> </span></td>=0A              </t=
+r>=0A              <tr>=0A                <td align=3D"center" bg=
+color=3D"#000000"><a href=3D"http://emv.republicadosapatonews.com=
+.br/redireciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2frep=
+ublicadosapato.com%2fproduto%2f824%2fsapatilha_roxa_laco%2f%3futm=
+_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_conte=
+nt%3dC797%26amp%3butm_campaign%3dloja-fisica-campanha-C797" style=
+=3D"text-decoration:none" target=3D"_blank"><span style=3D"color:=
+#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:18px=
+; line-height:28px;">Eu quero.</span></a></td>=0A              </=
+tr>=0A            </table></td>=0A          <td align=3D"center">=
+<table width=3D"205" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" style=3D"border:1px solid #000000">=0A              <tr>=0A  =
+              <td align=3D"center"><a href=3D"http://emv.republic=
+adosapatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&url=3D=
+http%3a%2f%2frepublicadosapato.com%2fproduto%2f794%2fsapatilha_ve=
+rmelha_laco%2f%3futm_source%3dviacompany%26amp%3butm_medium%3dema=
+il%26amp%3butm_content%3dC797%26amp%3butm_campaign%3dloja-fisica-=
+campanha-C797" target=3D"_blank"><img src=3D"http://emv.republica=
+dosapatonews.com.br/recursos/cp/650-797/20140909094447541.jpg" bo=
+rder=3D"0" alt=3D"" /></a></td>=0A              </tr>=0A         =
+     <tr>=0A                <td bgcolor=3D"#f2f2f2" align=3D"cent=
+er" height=3D"80"><span style=3D"color:#333; font-family:Arial, H=
+elvetica, sans-serif; font-size:12px; line-height:28px ">Sapatilh=
+a Vermelha La&#231;o=0A                  <br />=0A               =
+   por  <span style=3D"color:#900; font-size:18px"> R$ 49,99</spa=
+n> </span></td>=0A              </tr>=0A              <tr>=0A    =
+            <td align=3D"center" bgcolor=3D"#000000"><a href=3D"h=
+ttp://emv.republicadosapatonews.com.br/redireciona.aspx?id=3D650,=
+799,0,195769&url=3Dhttp%3a%2f%2frepublicadosapato.com%2fproduto%2=
+f794%2fsapatilha_vermelha_laco%2f%3futm_source%3dviacompany%26amp=
+%3butm_medium%3demail%26amp%3butm_content%3dC797%26amp%3butm_camp=
+aign%3dloja-fisica-campanha-C797" style=3D"text-decoration:none" =
+target=3D"_blank"><span style=3D"color:#ffffff; font-family:Arial=
+, Helvetica, sans-serif; font-size:18px; line-height:28px;">Eu qu=
+ero.</span></a></td>=0A              </tr>=0A            </table>=
+</td>=0A          <td align=3D"center"><table width=3D"205" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border:1px s=
+olid #000000">=0A              <tr>=0A                <td align=3D=
+"center"><a href=3D"http://emv.republicadosapatonews.com.br/redir=
+eciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2frepublicados=
+apato.com%2fproduto%2f836%2fsapatilha_nude_laco_strass%2f%3futm_s=
+ource%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_content=
+%3dC797%26amp%3butm_campaign%3dloja-fisica-campanha-C797" target=3D=
+"_blank"><img src=3D"http://emv.republicadosapatonews.com.br/recu=
+rsos/cp/650-797/20140909094448346.jpg" border=3D"0" alt=3D"" /></=
+a></td>=0A              </tr>=0A              <tr>=0A            =
+    <td bgcolor=3D"#f2f2f2" align=3D"center" height=3D"80"><span =
+style=3D"color:#333; font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:12px; line-height:28px ">  Sapatilha Nude La&#231;o Stras=
+s<br />=0A                  por  <span style=3D"color:#900; font-=
+size:18px"> R$  49,99</span> </span></td>=0A              </tr>=0A=
+              <tr>=0A                <td align=3D"center" bgcolor=
+=3D"#000000"><a href=3D"http://emv.republicadosapatonews.com.br/r=
+edireciona.aspx?id=3D650,799,0,195769&url=3Dhttp%3a%2f%2frepublic=
+adosapato.com%2fproduto%2f836%2fsapatilha_nude_laco_strass%2f%3fu=
+tm_source%3dviacompany%26amp%3butm_medium%3demail%26amp%3butm_con=
+tent%3dC797%26amp%3butm_campaign%3dloja-fisica-campanha-C797" sty=
+le=3D"text-decoration:none" target=3D"_blank"><span style=3D"colo=
+r:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:18=
+px; line-height:28px;">Eu quero.</span></a></td>=0A              =
+</tr>=0A            </table></td>=0A        </tr>=0A      </table=
+>=0A      <table width=3D"700" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">=0A        <tr>=0A          <td style=3D"padding: =
+5px; text-align: center; color: #CA855B; font-size: 26px;" bgcolo=
+r=3D"#ffffff"><a style=3D"color: #666666; font-family: Verdana, G=
+eneva, sans-serif; text-decoration: none;" href=3D"http://emv.rep=
+ublicadosapatonews.com.br/redireciona.aspx?id=3D650,799,0,195769&=
+url=3Dhttp%3a%2f%2fwww.republicadosapato.com%2fprodutos%2f30%2fpr=
+omocao%2f%3futm_source%3dviacompany%26amp%3butm_medium%3demail%26=
+amp%3butm_content%3dC700%26amp%3butm_campaign%3dloja-fisica-campa=
+nha-C700" target=3D"_blank">republicadosapato.com</a></td>=0A    =
+    </tr>=0A        <tr>=0A          <td style=3D"border-bottom:#=
+CA855B solid 1px">&nbsp;</td>=0A        </tr>=0A        <tr>=0A  =
+        <td>&nbsp;</td>=0A        </tr>=0A      </table>=0A      =
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+700">=0A        <tr>=0A          <td width=3D"12">&nbsp;</td>=0A =
+         <td width=3D"37"><img src=3D"http://emv.republicadosapat=
+onews.com.br/recursos/cp/650-797/20140909094449317.jpg" border=3D=
+"0" alt=3D"" /></td>=0A          <td style=3D"color: #666666; fon=
+t-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&qu=
+ot;, sans-serif; font-size: 16px;" width=3D"141">(19) 3305-0886</=
+td>=0A          <td width=3D"34"><img src=3D"http://emv.republica=
+dosapatonews.com.br/recursos/cp/650-797/20140909094449668.jpg" bo=
+rder=3D"0" alt=3D"" /></td>=0A          <td style=3D"color: #6666=
+66; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Gr=
+ande&quot;, sans-serif; font-size: 16px;" width=3D"345">contato<a=
+ style=3D"color: #666666; text-decoration: none;" href=3D"http://=
+emv.republicadosapatonews.com.br/redireciona.aspx?id=3D650,799,0,=
+195769&url=3D%26%23109%3b%26%2397%3b%26%23105%3b%26%23108%3b%26%2=
+3116%3b%26%23111%3b%26%2358%3b%26%2399%3b%26%23111%3b%26%23110%3b=
+%26%23116%3b%26%2397%3b%26%23116%3b%26%23111%3b%26%2364%3b%26%231=
+14%3b%26%23101%3b%26%23112%3b%26%23117%3b%26%2398%3b%26%23108%3b%=
+26%23105%3b%26%2399%3b%26%2397%3b%26%23100%3b%26%23111%3b%26%2311=
+5%3b%26%2397%3b%26%23112%3b%26%2397%3b%26%23116%3b%26%23111%3b%26=
+%2346%3b%26%2399%3b%26%23111%3b%26%23109%3b%26%2346%3b%26%2398%3b=
+%26%23114%3b" target=3D"_blank">@republicadosapato.com.br</a></td=
+>=0A          <td rowspan=3D"2" width=3D"116"><a href=3D"http://e=
+mv.republicadosapatonews.com.br/redireciona.aspx?id=3D650,799,0,1=
+95769&url=3Dhttp%3a%2f%2fwww.facebook.com%2fpages%2fLoja-Virtual-=
+Rep%25C3%25BAblica-do-Sapato%2f318322891570083%23!%2fpages%2fRep%=
+25C3%25BAblica-do-Sapato%2f257259424304300%3ffref%3dts" target=3D=
+"_blank"><img src=3D"http://emv.republicadosapatonews.com.br/recu=
+rsos/cp/650-797/20140909094448353.jpg" border=3D"0" alt=3D"" /></=
+a></td>=0A          <td width=3D"15">&nbsp;</td>=0A        </tr>=0A=
+        <tr>=0A          <td>&nbsp;</td>=0A          <td style=3D=
+"color: #666666; font-family: &quot;Lucida Sans Unicode&quot;, &q=
+uot;Lucida Grande&quot;, sans-serif; font-size: 16px;" colspan=3D=
+"4">Rua Dimas de Toledo Pizza, 9 - Jd. NS. Auxiliadora - Campinas=
+, SP</td>=0A          <td>&nbsp;</td>=0A        </tr>=0A      </t=
+able></td>=0A  </tr>=0A  <tr>=0A    <td>&nbsp;</td>=0A  </tr>=0A<=
+/table>=0D=0A</td>=0D=0A</tr>=0D=0A<tr>=0D=0A<td style=3D"padding=
+-top: 15px; background-color: #f2f2f2;color: black;font-family: A=
+rial;text-align: center;font-size: 10pt;">=0D=0A<a target=3D"blan=
+k" href=3D"http://emv.republicadosapatonews.com.br/unsubscribe/65=
+0/799/195769/ajuver@gmail.com">sair</a>=0D=0A<br />=0D=0A<img wid=
+th=3D"1" height=3D"1" alt=3D"Pixel" border=3D"0" src=3D"http://em=
+v.republicadosapatonews.com.br/pixel_650_799_195769.gif" />=0D=0A=
+</td>=0D=0A</tr>=0D=0A</table>=0D=0A</body>=0D=0A</html>=0D=0A
+

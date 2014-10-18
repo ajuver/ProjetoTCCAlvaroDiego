@@ -1,0 +1,181 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp423401icm;
+        Fri, 20 Jun 2014 07:59:52 -0700 (PDT)
+X-Received: by 10.43.66.202 with SMTP id xr10mr4417347icb.77.1403276389729;
+        Fri, 20 Jun 2014 07:59:49 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate 98.137.12.189 as permitted sender) smtp.mail=;
+       dkim=pass header.i=@yahoo.com.br
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate 98.137.12.189 as permitted sender) client-ip=98.137.12.189;
+Received: by 10.50.13.146 with POP3 id h18mf269346igc.13;
+        Fri, 20 Jun 2014 07:59:49 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Fri, 20 Jun 2014 14:18:42 +0000
+Received-SPF: none (domain of yahoo.com.br does not designate permitted sender hosts)
+X-YMailISG: PFhw28MWLDveivgyX_ie67SNHw1sWvFAiZL3aUwsYP.Vuj5v
+ J0LjLwWgGZ6EuQgjn3vCHc1_Q0GLLx.QzWLbAd3BiC1wHTvc4u7GC2s4ugWs
+ IvBn1g6wfbWe_L3JgXYYn72MxXNfX_r3gpF4Pzyykq_LuUFJNJhTQ7m2sY.E
+ yMyS__eNaOb_TMSkeOeX6yQ0mjHvEkFRXji.tkmmppBYIRawQX991veBdk9x
+ 5MIs1QlcMWXtvUAzmBXMv7Fofb8orbQbQi8nQPicxYMwZ1c.WvvyD9TzdviX
+ bOTLEyTJrK2vOSw0KQpyOV8epHwA9pj7u8hV1VUlJmzlBUPyHQVD0VHDvmWN
+ uS6h9XMu_R6O6h6kI_HZApfYca2Cae85Wa_j26YIMYN3XmAjTcapBgqdtFOO
+ jKp_93YNpeYJUCGrM85OJLN.7gBnc3ie5IjovToxXHz25O.YXmkRE537_8qb
+ 4s9tJDpval6Oq2FD6vMrnOKWF2sIHFyvtleDd3U8_EvgWfzqhkyVr0QgdVs_
+ FIiDPaTVrx.eSHRa5igZ9BrlAOyog9VIkneWJv9mo_3Q0skVyndaReJgpEYA
+ .NSYsNYOF.47RGn3PXhLZ7eFVVeShuiWcQ8lQ17vZdmlGo5FM3GOvIBqtmCM
+ bK2qHXdt8GcbGnekQ5RS9cTm6IucEXFwoTt1Wj0zggOKB7u.X7qYVhomlN7P
+ u0gWGebQ7TThiVRAoz377as.6eEzLStxbQIc5MHEze_MCiSOogg2oclwIBlH
+ TaaJYqtDOtUzMc3pU_eHyPphLR1mLEsTJgPch0TZf7dI3laE2KEJBvqzH56l
+ KVc5mG63uXKNG_IkeJ6wNOCMe76dvOFuK29VMnIOGY2E0lONozXrNgXhd8g2
+ WETs1M6IHYrDsNPwqldjT3Bd9BGte9AA61LXbpyRSreTmi10.0fXZ2Gr_.sK
+ ONfasawQ8qXMyCpDpQcgvQEHwxFMPUrac_SKUQOlJLOGNov4mimwpnKB0BqT
+ xSGSTQQXVWxhTbwTFfbsKz6vKsU7YF0xoTfZAQaS6g5oPqenoNdUZ73RawdE
+ _Xt4LJhUdsvRsPNHid9lL8.Qq4jV8J6MWGUu8CRAt67aWPt2eNjzoBynwzkD
+ OoHq8SCbHpXBdoOjMW7o_NpI8fuy6Xzxf7Wps2cAAyl61.7A4mENX2JvjdaA
+ FGSp9dcwdm7gSGwKtaOQw95J3z9KP06saHnCCUh2bROHjNOOYiAykMy6K1Gx
+ ltEguAfPX6ij6A_2I4mugZyH0OuHLA3XMTmivL9tOz1MgacRqCYzD_Sna9tk
+ 3stOlrJ9SU2w8jOHemCzezhLKxUzil_nodlcvr18QPCZ1GDmcru.L2.COPka
+ J.dHisGoQxythSL69dCV9nIMe0dcLqLhmPRvFYhgDUek07LbpYexTJZw0Z6F
+ 0NUwMfoPh_wq3AGjcDjNwlpg_9VBbd.fGFDj2RFo0LmL2Zl32vVIaVkj2pBJ
+ 4lyYKMKJ7uPD.eRUg8cnkfpqol9td3Ztg.5UuRA0LHCE4MQ5hUiPFv1adh_l
+ cf89qAo7qpYxux1GfKrqjNWpM.H50A--
+X-Originating-IP: [98.136.217.14]
+Authentication-Results: mta1186.mail.bf1.yahoo.com  from=yahoo.com.br; domainkeys=neutral (no sig);  from=yahoo.com.br; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO nm31.bullet.mail.gq1.yahoo.com) (98.136.217.14)
+  by mta1186.mail.bf1.yahoo.com with SMTPS; Fri, 20 Jun 2014 14:18:42 +0000
+Received: from [127.0.0.1] by nm31.bullet.mail.gq1.yahoo.com with NNFMP; 20 Jun 2014 14:16:52 -0000
+Received: from [98.137.12.189] by nm31.bullet.mail.gq1.yahoo.com with NNFMP; 20 Jun 2014 14:12:46 -0000
+Received: from [216.39.60.209] by tm10.bullet.mail.gq1.yahoo.com with NNFMP; 20 Jun 2014 14:11:38 -0000
+Received: from [127.0.0.1] by omp1096.mail.gq1.yahoo.com with NNFMP; 20 Jun 2014 14:11:38 -0000
+X-Yahoo-Newman-Id: 249604.38064.bm@omp1096.mail.gq1.yahoo.com
+Received: (qmail 1561 invoked by uid 60001); 20 Jun 2014 14:11:38 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.br; s=s1024; t=1403273498; bh=hZ3l3Jc7ImP2OIowUzHPw2sDQv4/sINZQrjLPDrxgTM=; h=References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=awbbw9b8bVJUxC0N14N6Mv/GOaDUlui4QmtmIEtitviJjy+D3b6O1jK9bEkb2YemWfrTzq7tDowy1Y6758FuLuEOSgGKuYKp/jIu1gBSzC/UDIBbdZdCnfKwPtCLvYM3WDaKrtIXgRxLkM92zdQBQQ8zosGJH4osYNs3TEsFqRo=
+X-YMail-OSG: j3XxCU0VM1lfptagAr5d5uy8JcGPajUTotN148G60IweDrY
+ 7KaexYEqSOZuAbE.RJblaOWdXpHK69ZoKJqP3lgdMoDVFU2qcepQcxpvvmk2
+ CjW_WaQ_UaIvR8kHs_Sf8xoCs59SGiWgbFbuXHtOAAe1WZcZbi9hXl7ckZcN
+ TV.FRkx23A9t36kTBv4PihwfIHXSLAPCnF0qzHPACWRWGfTtVbsRjAQ5JLBs
+ 0ZweCypG7E_4gb6AlAiJfvKjI5Tryd6lgv5zs2F6HkUw.fluB_UEr0zmCbGX
+ h78YrY3lU3i_Hk6EMGV8sEAROJKdS880YM4cBZi1KJT.jsNdE_otCLlouHzO
+ ObrNJ1ezQ0S4AcjnIwhv.lFegT5TCmmBGIR2tbWmB079saJ3gXYVyb6WJ4xw
+ xZK8pfv4aIVWiQ6A03QAnGLOWOCkrWVvQHeNKFfeQd830WJxmFLF4BASwP6M
+ 22JB2i6Ra3bSAYJv4KEY.fQLwC.MBCaCg.zOSo5L8bu6uJNp.I6n6syHGKop
+ x5eZ4Py1DhPmRf8I4pFhstuPltH9YWs6R63fGh0SQ.SpyLUFKKjqALpKlvaQ
+ LrONbJ_h3igKPTS9AIw9GRP8LmWl9RAuXnkj4MV9ucWtNH_FZXCdRfpsMwRh
+ SVLfk3baAzgli3lrn9molJ1ECaOQJyuMLrkgPF5nrj8fc24xFIXPeJNEn3HN
+ n6BOKqfieadC38_GkXX92JcTWjVx0BJZzzYMjw7Jpwrng5N7CaNbHFWfXuaY
+ CaqSOs_7M1RMpUM5qMfWqIDvq
+Received: from [201.54.132.100] by web164502.mail.gq1.yahoo.com via HTTP; Fri, 20 Jun 2014 07:11:38 PDT
+X-Mailer: YahooMailWebService/0.8.191.1
+References: <E1WLeO4-0007EF-CG@vps.regency-x.com>
+Message-ID: <1403273498.88741.YahooMailNeo@web164502.mail.gq1.yahoo.com>
+Date: Fri, 20 Jun 2014 07:11:38 -0700
+From: Candice Tosi Michelon <candicetmichelon@yahoo.com.br>
+Reply-To: Candice Tosi Michelon <candicetmichelon@yahoo.com.br>
+Subject: =?iso-8859-1?Q?=5BAux=EDlio_TCC=5D_Enc=3A_Verifica=E7=E3o_de_dados_-_BCB?=
+To: "ajuver@yahoo.com.br" <ajuver@yahoo.com.br>
+In-Reply-To: <E1WLeO4-0007EF-CG@vps.regency-x.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2109934955-1429092180-1403273498=:88741"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+---2109934955-1429092180-1403273498=:88741
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0A=C1lvaro, se for algo assim que tu precisa pro teu TCC, acho que eu c=
+onsigo alguns...=0A=0A=0AEm Quinta-feira, 6 de Mar=E7o de 2014 16:55, Banco=
+ central do Brasil <bancocentral@brasil.gov.br> escreveu:=0A =0A=0A=0ACompr=
+ovante de Deposito N=BA5546348935. =0A=0A________________________________=
+=0A =0ASegue em anexo com o comprovante da=0ATransfer=EAncia Eletr=F4nica D=
+ebitado de sua Conta Corrente..=0APedimos que confira seus dados e verifiqu=
+e se=0Atodas as informa=E7=F5es est=E3o corretas.=0A=A0=0A=A0Comprovante de=
+ Transfer=EAncia(311kb)=0A=0A=A0=0AAtt.=0A=0ARodrigo Borges=0ADept. Finance=
+iro=0ABANCO CENTRAL DO BRASIL=0A________________________________
+---2109934955-1429092180-1403273498=:88741
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:10pt"><div><span><br></span></div><div class=3D"qtdSeparateBR">=C1l=
+varo, se for algo assim que tu precisa pro teu TCC, acho que eu consigo alg=
+uns...<br><br></div>  <div style=3D"display: block;" class=3D"yahoo_quoted"=
+> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Aria=
+l, Lucida Grande, sans-serif; font-size: 10pt;"> <div style=3D"font-family:=
+ HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif=
+; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> Em =
+Quinta-feira, 6 de Mar=E7o de 2014 16:55, Banco central do Brasil &lt;banco=
+central@brasil.gov.br&gt; escreveu:<br> </font> </div>  <br><br> <div class=
+=3D"y_msg_container"><div id=3D"yiv9523473697">=0A=0A=0A=0A  =0A  <title>Co=
+mprovante de Deposito N=BA5546348935.</title>=0A=0A<div>=0A<hr>=0A=0A<div s=
+tyle=3D"text-align:left;widows:2;text-transform:none;background-color:rgb(2=
+55, 255, 255);text-indent:0px;letter-spacing:normal;font-family:'times new =
+roman', 'new york', times, serif;font-style:normal;font-variant:normal;font=
+-weight:normal;font-size:16px;line-height:normal;font-size-adjust:none;font=
+-stretch:normal;white-space:normal;orphans:2;color:rgb(0, 0, 0);clear:none;=
+word-spacing:0px;"><font face=3D"Arial" size=3D"2">Segue em anexo com o com=
+provante da=0ATransfer=EAncia Eletr=F4nica Debitado de sua Conta Corrente..=
+</font></div>=0A<div style=3D"text-align:left;widows:2;text-transform:none;=
+background-color:rgb(255, 255, 255);text-indent:0px;letter-spacing:normal;f=
+ont-family:'times new roman', 'new york', times, serif;font-style:normal;fo=
+nt-variant:normal;font-weight:normal;font-size:16px;line-height:normal;font=
+-size-adjust:none;font-stretch:normal;white-space:normal;orphans:2;color:rg=
+b(0, 0, 0);clear:none;word-spacing:0px;"><font face=3D"Arial" size=3D"2">Pe=
+dimos que confira seus dados e verifique se=0Atodas as informa=E7=F5es est=
+=E3o corretas.</font></div>=0A<div style=3D"text-align:left;widows:2;text-t=
+ransform:none;background-color:rgb(255, 255, 255);text-indent:0px;letter-sp=
+acing:normal;font-family:'times new roman', 'new york', times, serif;font-s=
+tyle:normal;font-variant:normal;font-weight:normal;font-size:16px;line-heig=
+ht:normal;font-size-adjust:none;font-stretch:normal;white-space:normal;orph=
+ans:2;color:rgb(0, 0, 0);clear:none;word-spacing:0px;">&nbsp;</div>=0A<div =
+style=3D"text-align:left;widows:2;text-transform:none;background-color:rgb(=
+255, 255, 255);text-indent:0px;letter-spacing:normal;font-family:'times new=
+ roman', 'new york', times, serif;font-style:normal;font-variant:normal;fon=
+t-weight:normal;font-size:16px;line-height:normal;font-size-adjust:none;fon=
+t-stretch:normal;white-space:normal;orphans:2;color:rgb(0, 0, 0);clear:none=
+;word-spacing:0px;"><span class=3D"yiv9523473697Apple-converted-space"><fon=
+t face=3D"Arial"><font size=3D"2">&nbsp;<img class=3D"yiv9523473697" style=
+=3D"width:7px;height:12px;" alt=3D"" src=3D"http://gfx2.hotmail.com/mail/w3=
+/pr01/ltr/i_attach.gif" border=3D"0"><span class=3D"yiv9523473697Apple-conv=
+erted-space"> </span><font color=3D"#336699"><b><a class=3D"yui_3_16_0_1_14=
+03273260963_4553" rel=3D"nofollow" style=3D"widows:2;text-transform:none;ba=
+ckground-color:rgb(255, 255, 255);text-indent:0px;letter-spacing:normal;fon=
+t-family:Arial, Helvetica,
+ sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-s=
+ize:small;line-height:normal;font-size-adjust:none;font-stretch:normal;whit=
+e-space:normal;orphans:2;word-spacing:0px;" target=3D"_blank" href=3D"http:=
+//ow.ly/ujJFk"><b><font color=3D"#336699" size=3D"2">Comprovante</font></b>=
+=0A<b><font color=3D"#336699" size=3D"2">de Transfer=EAncia</font></b></a><=
+/b></font><font style=3D"text-align:justify;widows:2;text-transform:none;ba=
+ckground-color:rgb(255, 255, 255);text-indent:0px;letter-spacing:normal;fon=
+t-family:'Courier New';font-style:normal;font-variant:normal;font-weight:no=
+rmal;font-size:small;line-height:normal;font-size-adjust:none;font-stretch:=
+normal;white-space:normal;orphans:2;color:rgb(0, 0, 0);word-spacing:0px;" c=
+olor=3D"black">(311kb)</font></font></font></span><br>=0A</div>=0A<div styl=
+e=3D"text-align:left;widows:2;text-transform:none;background-color:rgb(255,=
+ 255, 255);text-indent:0px;letter-spacing:normal;font-family:'times new rom=
+an', 'new york', times, serif;font-style:normal;font-variant:normal;font-we=
+ight:normal;font-size:16px;line-height:normal;font-size-adjust:none;font-st=
+retch:normal;white-space:normal;orphans:2;color:rgb(0, 0, 0);clear:none;wor=
+d-spacing:0px;">&nbsp;</div>=0A<div style=3D"text-align:left;widows:2;text-=
+transform:none;background-color:rgb(255, 255, 255);text-indent:0px;letter-s=
+pacing:normal;font-family:'times new roman', 'new york', times, serif;font-=
+style:normal;font-variant:normal;font-weight:normal;font-size:16px;line-hei=
+ght:normal;font-size-adjust:none;font-stretch:normal;white-space:normal;orp=
+hans:2;color:rgb(0, 0, 0);clear:none;word-spacing:0px;"><font face=3D"Arial=
+" size=3D"2">Att.</font></div>=0A<div style=3D"text-align:left;widows:2;tex=
+t-transform:none;background-color:rgb(255, 255, 255);text-indent:0px;letter=
+-spacing:normal;font-family:'times new roman', 'new york', times, serif;fon=
+t-style:normal;font-variant:normal;font-weight:normal;font-size:16px;line-h=
+eight:normal;font-size-adjust:none;font-stretch:normal;white-space:normal;o=
+rphans:2;color:rgb(0, 0, 0);clear:none;word-spacing:0px;"><br>=0A<font face=
+=3D"Arial" size=3D"2">Rodrigo Borges<br>=0ADept. Financeiro<br>=0ABANCO CEN=
+TRAL DO BRASIL</font></div>=0A<div><font face=3D"Arial" size=3D"2">=0A</fon=
+t></div>=0A<hr><font face=3D"Arial" size=3D"2">=0A=0A</font>=0A<div align=
+=3D"left">&nbsp;</div>=0A<div><img class=3D"yiv9523473697imgError" src=3D"h=
+ttp://bit.ly/1aDXvfD" height=3D"1" width=3D"1"></div>=0A<div id=3D"yiv95234=
+73697" style=3D""></div>=0A<a href=3D"" rel=3D"nofollow" name=3D"thumbs"></=
+a>=0A</div>=0A =0A</div><br><br></div>  </div> </div>  </div> </div></body>=
+</html>
+---2109934955-1429092180-1403273498=:88741--

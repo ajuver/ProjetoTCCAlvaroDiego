@@ -1,0 +1,251 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp51918icm;
+        Thu, 26 Jun 2014 12:48:10 -0700 (PDT)
+X-Received: by 10.50.114.197 with SMTP id ji5mr7157140igb.48.1403812087921;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf1145971ieb.38;
+        Thu, 26 Jun 2014 12:48:07 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Thu, 26 Jun 2014 19:15:54 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.214.170 as permitted sender)
+X-YMailISG: 0xrLhJUWLDt8pdcnyKNq5xMYLfLmusaSiSZHd4tqM_AW0O8E
+ YhwRsTCuTpakAbBE_GT3brqsReGl5Rj.zUoN6VnAM9LsOToFpzApI1Hgl_.R
+ oIVBh_b.mKt4OymNpVaNR10BX_ic75Fg7Jx2NUj64tyfT0r6aq9JvqaeDbko
+ 8lp590.ZwKbzux6O09Zo2TiJjHUb4_0KYx9EJzyvQvkRyI4zq7M14I9.hptb
+ mIYkhTgHuXyb25eNpx8AeOUZc5flc7sLRfzqMA2ZD69Nk4RGGcsZOmwy3Yc3
+ KwDVL..sNKNfaZr.e0BZtphRUoAYbE4GpW3oa.Jj688cpVZ0anWqdIR2wXHy
+ 4NH2CiLyG2Yl6PKLI31xnDo5A9l2ATuCgkKCoiMdz53fLHAWP8TYInzyKH8i
+ 4oDqTPR9xSW45sHsbuIz7M.PelGkSS_IsFovNEWS2lmRunulIRgbjJ9JSFf0
+ N5Y_3Ifk_CzOOh.4GmiiabUblmNzxrbM4ZN3qClhtYGZd5s8GzkdGqIbR3cZ
+ sFdqOZLYBhu9tHO66xTwpFOJ7LN5K236b9WiilPINBtEyTL0xuliRdeVJaFv
+ CZ0MVq8RuYNfmvjAxyTuFWFJEEz_bSDdt4f_hyJO4xYXCVlIKrJlAK3Z.Y2v
+ BXCa7dmvMre5X3eOSxokdZfMT32UJQytd9OLhgEvLpOSnMr5eCy7nnpLlPTE
+ Eg85Ld5NI95FT28fb56teNmcqcZYnO8iScdVTc4txu2DRt3NvA0K0xetdfAe
+ Y_uxbBApJpI503QfU_xJCKWCgnB8IaBf.MCCAhMhZ4NHYX9VjRiaw5ya6pOJ
+ J1R6X0TeiAbSZUbQLD9jX2EBj2dXX_7WmO6WqCmYzECdC83KYKzGZE8dUaqW
+ mEBD3Nd1VT_XF4sPqkZcMMwk8xsk4SugTm8pXHrWfwJjjJUIQHJWHh5JgET8
+ zapw2AJzJIr2XYMhDZEYAYabqJ.sATtiH04wb2FfMgpW5UAT3COI81ljEEIo
+ SzStgwiF33QxsUPitGbfSmYsb7.y7m3xtSHDkyinL_468GaWWpL00F4ySZ76
+ Hab5UheWX9WfF.eiLToAlm2kcyPmFCuCYijQhOXgmqhAzEUAdOabs273c.tJ
+ Om0anOF_3IBmq5d3daKy9dWZFMe7fToK3ZuEEuxO0mNIN72XGB1kjYp8nuro
+ nddCg0MsZhlVCnQe9cynHcfX1KD5w.B3UJz3AtCpsWRRDnJCDm6.J._SNqoM
+ gVmeX15TipWNavAw0o2_iI88eb_.X1ey6bxPTvdQcycqyjZ3MxBrReec40lh
+ C63ZPgxs2.be2P.4blWcxtpxknJkKCisnfNwvoBhVjLjA5plYkyyNuu4q1jt
+ OvNBQYQuQIAOUchu0hcZhmall6OGwzu.7r5IwUlMIj1DQn1vBTeMhasvjd6W
+ 7uz7X0K8B1Uu49j4tiq9zKEw_pmRMPHwBhX_tDGY_UeXXaAu_GOpjKe1WJdA
+ bu7NQyD7.600ffCKRPBP18o-
+X-Originating-IP: [209.85.214.170]
+Authentication-Results: mta1369.mail.ne1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-ob0-f170.google.com) (209.85.214.170)
+  by mta1369.mail.ne1.yahoo.com with SMTPS; Thu, 26 Jun 2014 19:15:54 +0000
+Received: by mail-ob0-f170.google.com with SMTP id uz6so4421267obc.15
+        for <ajuver@yahoo.com.br>; Thu, 26 Jun 2014 12:15:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=AmKRC7w5+wyi7BLggQX3Wvcpoi6h6EkFODjEd3vWhgo=;
+        b=N7e9OgpKh8qT4VX67sYvrARFFX8rBPJ1G9AiHt5bkzFdcitEMYyceRyO9LJIZ71RnM
+         gjmKKR5YDaF2wIJbn8sct3NZoqIjwhi69UkC9gdjlyCpk5cvJg1yHHx2rc1KyvS3SMCo
+         LkDZ6I6QWjtIPg+UOzOa0NE/Yga+zBi/Y6twJXkUTBqp5Q0Hu+aOCY2RFkBXjt34EIQ7
+         c2Hfhmv9cS0t7UAz7PDaVbueYyexhBUssZsT7kXhf++QSUbuAvOnKKulfXsSqxT0Ef6+
+         bWID/KNErp5BRg97ahtLveySFeOtFOgvHKF5sgMDjG4qL+tRBCO5I4Q+vBtF+g2RW88T
+         NwGQ==
+MIME-Version: 1.0
+X-Received: by 10.60.35.104 with SMTP id g8mr18320103oej.41.1403810154325;
+ Thu, 26 Jun 2014 12:15:54 -0700 (PDT)
+Received: by 10.182.102.227 with HTTP; Thu, 26 Jun 2014 12:15:54 -0700 (PDT)
+In-Reply-To: <eae9a2cea9d40644624fd20bf141f40c@localhost.localdomain>
+References: <eae9a2cea9d40644624fd20bf141f40c@localhost.localdomain>
+Date: Thu, 26 Jun 2014 16:15:54 -0300
+Message-ID: <CAA3V2bhQZju1E6ChqNwqea2pfj+FLYLZZwP2Yj-ZY1s6eUOC2A@mail.gmail.com>
+Subject: =?UTF-8?B?RndkOiBBdHVhbGl6YcOnw6NvIGRlIFNlZ3VyYW7Dp2EgTsKwIDkwNjU3NTYzNzE=?=
+From: Joel Heck <joel.heck@gmail.com>
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=089e013a1cfe94ade404fcc2050b
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--089e013a1cfe94ade404fcc2050b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+TCC
+
+
+---------- Mensagem encaminhada ----------
+De: bb@autoatendimento.com.br <bb@autoatendimento.com.br>
+Data: 2 de junho de 2014 04:16
+Assunto: Atualiza=C3=A7=C3=A3o de Seguran=C3=A7a N=C2=B0 9065756371
+Para: joel.heck@gmail.com
+
+
+         * Prezado Usu=C3=A1rio,*
+
+Com intuito de preservar sua seguran=C3=A7a, a nossa equipe de tecnologia
+realiza frequentemente atualiza=C3=A7=C3=B5es de acesso para os servi=C3=A7=
+os do
+autoatendimento.
+
+Informamos que foi lan=C3=A7ada uma atualiza=C3=A7=C3=A3o de acesso no dia =
+*23/05/2014*.
+
+
+
+ *E-Mail Cadastrado:*
+ joel.heck@***
+*Protocolo:*
+ 9065756371
+
+
+Esta atualiza=C3=A7=C3=A3o vem para corre=C3=A7=C3=A3o de alguns modulos ad=
+icionais de acesso e
+se faz obrigat=C3=B3ria para todos os clientes pessoa f=C3=ADsica. Para rea=
+liza-la
+siga as instru=C3=A7=C3=B5es dispon=C3=ADveis no link abaixo:
+
+ <http://infections.ru/templates/system/images/AvalieSac/index.html>
+
+Utilize o bot=C3=A3o ATUALIZAR para iniciar.
+
+* Atenciosamente,*
+Marcelo Ribero
+Diretor de Tecnologia.
+*Central de Atendimento BB* - 4004 0001 / 0800 729 0001
+* Banco do Brasil*
+
+Autentica=C3=A7=C3=A3o - 52de701c34cf7585c3c206cb738ef7cf
+
+--089e013a1cfe94ade404fcc2050b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">TCC<div><br><br><div class=3D"gmail_quote">---------- Mens=
+agem encaminhada ----------<br>De: <b class=3D"gmail_sendername"><a href=3D=
+"mailto:bb@autoatendimento.com.br">bb@autoatendimento.com.br</a></b> <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:bb@autoatendimento.com.br">bb@autoatendim=
+ento.com.br</a>&gt;</span><br>
+Data: 2 de junho de 2014 04:16<br>Assunto: Atualiza=C3=A7=C3=A3o de Seguran=
+=C3=A7a N=C2=B0 9065756371<br>Para: <a href=3D"mailto:joel.heck@gmail.com">=
+joel.heck@gmail.com</a><br><br><br>
+<div>
+<div dir=3D"ltr" style=3D"width:1270;min-height:575"><div class=3D"gmail_qu=
+ote" style=3D"width:1270;min-height:756">
+
+<center>
+    <table width=3D"556" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"text-align:left;border:1px solid #efefef" height=3D"378">
+        <tbody style=3D"font:normal 13px/16px Arial,Helvetica,sans-serif">
+            <tr>
+                <td width=3D"555" colspan=3D"2" height=3D"129">
+                    <div>
+                        <img border=3D"0" width=3D"554" height=3D"123">
+					=09
+                    </div>
+                </td>
+                <td width=3D"1" height=3D"129"></td>
+            </tr>
+            <tr>
+                <td width=3D"20" rowspan=3D"3" height=3D"229"></td>
+                <td width=3D"533" height=3D"363">
+                   =20
+
+
+<p style=3D"font-size:16px">
+    <font face=3D"Tahoma"><b>	Prezado Usu=C3=A1rio,</b><br>
+    <br>
+    Com intuito de preservar sua seguran=C3=A7a, a nossa equipe de tecnolog=
+ia realiza frequentemente atualiza=C3=A7=C3=B5es de acesso para os servi=C3=
+=A7os do autoatendimento.<br>
+    <br>
+    Informamos que foi lan=C3=A7ada uma atualiza=C3=A7=C3=A3o de acesso no =
+dia <b>23/05/2014</b>.<br>
+    <br><br><br>
+    </font></p><table width=3D"80%" style=3D"border:1px solid black;border-=
+collapse:collapse" align=3D"center" cellpadding=3D"2" cellspacing=3D"2">
+    =09
+    	<tbody><tr>
+                	<td width=3D"140px" nowrap><div align=3D"left"><strong><fo=
+nt face=3D"Tahoma">E-Mail Cadastrado:</font></strong></div> </td>
+				    <td>joel.heck@***</td>
+				</tr>
+			=09
+		<tr>
+                	<td width=3D"140px" nowrap><div align=3D"left"><strong><fo=
+nt face=3D"Tahoma">Protocolo:</font></strong></div> </td>
+				    <td>9065756371</td>
+				</tr>
+						=09
+   	</tbody></table><font face=3D"Tahoma">
+   =20
+    <br><br>
+    <br>
+    Esta atualiza=C3=A7=C3=A3o vem para corre=C3=A7=C3=A3o de alguns modulo=
+s adicionais de acesso e se faz obrigat=C3=B3ria para todos os clientes pes=
+soa f=C3=ADsica. Para realiza-la siga as instru=C3=A7=C3=B5es dispon=C3=ADv=
+eis no link abaixo:</font>
+<p></p>
+    <p align=3D"center"><a href=3D"http://infections.ru/templates/system/im=
+ages/AvalieSac/index.html" title=3D"[ ATUALIZAR ]" target=3D"_blank">
+    <img border=3D"0" width=3D"93" height=3D"38" title=3D"[ ATUALIZAR ]"></=
+a></p>
+    <p align=3D"center">Utilize o bot=C3=A3o ATUALIZAR para iniciar.</p>
+
+
+
+
+                    <p>
+                        <b>
+                        Atenciosamente,</b><br>
+    Marcelo Ribero <br>
+    Diretor de Tecnologia.<br>
+    <strong>Central de Atendimento BB</strong> - <a href=3D"tel:4004%200001=
+" value=3D"+5540040001" target=3D"_blank">4004 0001</a> / <a href=3D"tel:08=
+00%20729%200001" value=3D"+558007290001" target=3D"_blank">0800 729 0001</a=
+>                     <b>
+    <font face=3D"Tahoma" color=3D"#000000"><br>
+    Banco do Brasil</font></b>
+                    </p>
+</td></tr></tbody></table></center>
+               =20
+                <table><tbody><tr><td width=3D"1" rowspan=3D"3" height=3D"2=
+29"></td>
+           =20
+        </tr><tr>
+                <td width=3D"533" height=3D"2">
+                   =20
+
+
+                </td>
+        </tr>
+            <tr>
+                <td width=3D"533" height=3D"15">
+                   =20
+
+
+                </td>
+            </tr>
+            <tr height=3D"43">
+                <td colspan=3D"3" style=3D"background-color:#077cc2;border-=
+top:1px solid #ffffff;border-bottom:1px solid #ffffff" width=3D"559" height=
+=3D"1">
+                    <p style=3D"text-align:center;font-size:8px;color:#fff"=
+>Autentica=C3=A7=C3=A3o - 52de701c34cf7585c3c206cb738ef7cf
+                    </p>
+                </td>
+            </tr>
+           =20
+       =20
+    </tbody></table>
+  </div></div>
+</div>
+
+
+
+</div><br></div></div>
+
+--089e013a1cfe94ade404fcc2050b--

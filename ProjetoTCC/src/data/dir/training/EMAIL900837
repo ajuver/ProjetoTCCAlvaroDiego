@@ -1,0 +1,86 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp252874icm;
+        Thu, 3 Jul 2014 13:11:24 -0700 (PDT)
+X-Received: by 10.51.17.97 with SMTP id gd1mr14730306igd.18.1404418283960;
+        Thu, 03 Jul 2014 13:11:23 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.50.108.242 with POP3 id hn18mf3506460igb.1;
+        Thu, 03 Jul 2014 13:11:23 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.173; Thu, 03 Jul 2014 19:38:18 +0000
+Received-SPF: pass (domain of prefeitura.sp.gov.br designates 177.22.131.33 as permitted sender)
+X-YMailISG: Ozr7hZQWLDuesduy4ZJEC8kC1I6LpfN0200OecBODsh_uIW4
+ p2KqWzVfNERryOtgdiHRhq8xf9uGg777dhuOgiSogscC8BamkT0wP47C2Sps
+ aYGzTIz_cuMaTs6szTmCOvXavoGnGAAu.yvDRv120wAUljOkTKjGgIcHQJG6
+ 6NUhVzslN8_iEyFsEpoxhlI_5g4pAf60OL4mGhkYTIt.1AfGm1_dob66wFz.
+ hRr_DtZr6P3lus7WXQUAOy8L6FXGRYCFIjYZPL7muTzrv_MuRwDgyuSv3eXw
+ GJ2bAQE0zi5xYqAonEYMNNXBXm7vPhEggKoACl0O3b7lz6S9VvRMitE5TK_5
+ LmnFpi7tu32A_h8.fJo2hU9m_nWSPm7MmuaBR7D6GpyNh8VnwtHyhjX4fRl5
+ NZ6mygau1jU2KS6LqyjVCDdRO4pX..DCC4W5MmrO1QTKqnpCW5BS4_tW5KCB
+ TaMwGNdvWk3q3RsQ7SoBMpM8eGLzXB8jMFXBD7W5mJRCSquMMbs8JSUclVrE
+ 5Hjl5eZMCln0QeLk5yWqUfeImZWvDhHgkOoLCLB3.Nf5q3J6Q3EI.6dSBFhw
+ c4NM..nZ7_FNAVqoojTivIJTrMaemaUAkGaLsVx5y9owa9RzjKP.lW2x7uko
+ bTejbMNuogD8227DbIgqbfsPXTjyQ0tByiPKmejj6_yivC0mI2_i_V61vGag
+ FpI9wRQUfI8K1U8StXpZ182nQCs9GWXII6.3yNer9iYeIzJkPCdXCJXRoPFx
+ InMVQOc0Kw_tO9E9ptmY2l7PWdJxMhimBB9sBkrwP2C5o6IhUdUjZKWfgRCb
+ fv_2GU5hytlal58jWmiHuIg5q4uihfAir8NPWz98Q927zYUAJdpmJpPU947N
+ 4Zm89bgHdZq608qxhFUHFE7qzmis2aeRvtqMy67ADcCn8xW7zNHa7nlbZQB2
+ wgHQGhhMZpqIRfzec23gjWWVmSzqoQ5oMM3.XDcTq7N9p2DSEBsP0.4TG0vz
+ o_WVuVnYl47RpZLODymyswFbm5E.nzME6aJi_ZOWcDLN7mHCMyIfvvQa46qt
+ K8mKKYBTtX_1rarpUcFnjgBvjcGgHUoqGxlZZWXrKfhhM8I2ITk5h.4RkgMY
+ z00JZ6EZq2i8S7DEHOpZdP0vIkh2Sqfl9kCsyUg.9c8RxkmpOxQ.8EivUAEW
+ ayDVHFNNI3I62t8uc_5f056qOwePirA2sG0sVTWSaKBINhUY5Y9.KDlBrNji
+ p4VpwI9G0oLxxPWiVqA.oIpTZCRtHSsItXn6_QNJhdWqfJS9BRZBB6xtSUFc
+ 1v0mbusVBoFR5gG8MuxtqA_7Gv.bd4dODx2kNBvZUzg7_KKu__EE3mtzKihN
+ X94mjTgCWUP2jnF2HjLHsKaaJDEN8XsmSqhrGVDOPxntJKQJt_9VRmxLJNUe
+ 0ALkxN4wj9aYHeiG0FEeGgmGKCguhfc04nS8Hd4N_paJwTSPABNMwqYkek3o
+ ak.x5JOq06XhghOz5sdkKh3JUmlrLyXE9FrGrfEmTu46iE85YPOP4RrNB7YI
+ SuZDxlpwyqwOLTfm1USdVQ6T2jkdtMTuzpzupJp8i_stqofC7Msijwp6Dq9E
+ yFZkLVLexsWxqJho
+X-Originating-IP: [177.22.131.33]
+Authentication-Results: mta1444.mail.ne1.yahoo.com  from=prefeitura.sp.gov.br; domainkeys=neutral (no sig);  from=prefeitura.sp.gov.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mxsend2as.prodam.sp.gov.br) (177.22.131.33)
+  by mta1444.mail.ne1.yahoo.com with SMTPS; Thu, 03 Jul 2014 19:38:18 +0000
+Received: from i197v152i.rede.sp (10.10.197.152) by c1v51d.rede.sp
+ (172.19.1.50) with Microsoft SMTP Server id 14.2.247.3; Thu, 3 Jul 2014
+ 16:38:03 -0300
+Received: from i197v152i ([127.0.0.1]) by i197v152i.rede.sp with Microsoft
+ SMTPSVC(7.5.7601.17514);	 Thu, 3 Jul 2014 16:37:15 -0300
+MIME-Version: 1.0
+From: =?iso-8859-1?Q?Prefeitura do Munic=EDpio de S=E3o Paulo?=
+	<nfe-auto@prefeitura.sp.gov.br>
+To: =?iso-8859-1?Q?ALVARO JUVER?= <ajuver@yahoo.com.br>
+Date: Thu, 3 Jul 2014 16:37:15 -0300
+Subject: =?iso-8859-1?Q?Nota Fiscal Paulistana - NFS-e No. 338302?=
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <I197V152IFWy3rB07XO0001b91e@i197v152i.rede.sp>
+X-OriginalArrivalTime: 03 Jul 2014 19:37:15.0956 (UTC) FILETIME=[31DA8740:01CF96F6]
+Received-SPF: SoftFail (c1v51d.rede.sp: domain of transitioning
+ nfe-auto@prefeitura.sp.gov.br discourages use of 10.10.197.152 as permitted
+ sender)
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+Esta mensagem refere-se =E0 Nota Fiscal Paulistana - NFS-e No. 338302 do=
+  prestador de servi=E7os:=0D=0A=0D=0ARaz=E3o Social: DEEZER MUSIC BRASIL=
+ LTDA.=0D=0AE-mail: mlr@deezer.com=0D=0ACCM : 4.752.659-9=0D=0ACNPJ: 18.111.886/0001-06=
+=0D=0A=0D=0ARecomendamos que registre no Sistema Nota Fiscal Paulistana=
+ uma frase de seguran=E7a que lhe ser=E1 apresentada em todas as mensagens=
+ que lhe enviemos.=0D=0A=0D=0AA frase de seguran=E7a garante que a mensagem=
+ foi enviada pela Prefeitura de S=E3o Paulo e evita que o destinat=E1rio=
+ abra uma mensagem que possa conter v=EDrus de computador.=0D=0A=0D=0ACaso=
+ creia que esta mensagem tenha sido enviada pela Prefeitura de S=E3o Paulo,=
+ visualize a nota fiscal no endere=E7o abaixo. Caso contr=E1rio, apague-a.=
+=0D=0Ahttps://nfe.prefeitura.sp.gov.br/nfe.aspx?ccm=3D47526599&nf=3D338302&cod=3DHRQTP7UE=
+=0D=0A=0D=0AAlternativamente, acesse o portal https://nfe.prefeitura.sp.gov.br/publico/verificacao.aspx=
+ e verifique a autenticidade da nota fiscal informando: =0D=0A	CNPJ do prestador=
+ do servi=E7o =3D 18.111.886/0001-06=0D=0A	N=FAmero da NFS-e =3D 338302=
+=0D=0A	C=F3digo de verifica=E7=E3o =3D HRQT-P7UE=0D=0A=0D=0A=0D=0APrefeitura=
+ de S=E3o Paulo=0D=0Ahttps://nfe.prefeitura.sp.gov.br/=0D=0A=0D=0A=0D=0A*=
+ Este e-mail foi enviado automaticamente pelo Sistema da Nota Fiscal Paulistana=
+ (NFS-e). Favor n=E3o responder. Em caso de d=FAvidas, entre em contato=
+ com notafiscalpaulistana@prefeitura.sp.gov.br
+

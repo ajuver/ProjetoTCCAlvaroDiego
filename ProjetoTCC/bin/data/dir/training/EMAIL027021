@@ -1,0 +1,70 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp104688icm;
+        Tue, 1 Jul 2014 12:06:44 -0700 (PDT)
+X-Received: by 10.50.103.40 with SMTP id ft8mr456884igb.11.1404241603149;
+        Tue, 01 Jul 2014 12:06:43 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf3410326ieb.12;
+        Tue, 01 Jul 2014 12:06:43 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Tue, 01 Jul 2014 18:04:36 +0000
+Received-SPF: softfail (transitioning domain of hotmail.com does not designate 23.99.100.166 as permitted sender)
+X-YMailISG: nJCqSE0WLDu_OwBmtoK8oyzJvaAt0QK2Zw3Cq6LKc0S_gkKQ
+ oSdZ8Iv46qZ7R9oocID1xlh_2VeLZMssZcyaFnDccaxcr2nXo3Z0c2xyuO0A
+ uKSS9AY_PBYq1Vicakq2UDYnC_JowqEYC9YGP06KVIr2tbSs1bFtev8Sf6iZ
+ YnO35fjph.xIEyFkwT7MZ7ufBxwwSW_PUOm3FCVspB1e8KF.3sNjnT3huN3V
+ Uik9nS7j9ci_Gr75K2rmaho681XVPpQU7FJgtyLY.V5vaK1hqgtGORAT8RZY
+ RS6cAXtfUh1UWZNFOy8UmpSVbjF9vnS7YjgaydHgKTImXpop.VQHPYeOmSNb
+ y8swf.vAaonF0SZtBPLqyPqGagw5aaxjvVqvZzhQucdhQI9N2I2vKuT6X3ub
+ vSZaZm3UYeCnbHgOrtU63RLucRRYWaeH8xvt0W8T1IFc9LLmIRDWsMv6JPO4
+ t8CQKsg9OsEixtjOKWMHji.TyZ9lAq28pKn0.Yiw0qCkhQR.I2KceyxlNz1o
+ 8UKUd..MBdNsdjU2pYnn321di.LVdhCFN88c9SGwQ0Gm7IbGtCtgu9AASQNo
+ zY3V2eZz5D1i103p5doknOiIpl9UQwAWXKubqZ.gicEhctrGSCiLxpsWHqu7
+ v9kUsl4tIqgB_8b5Qa1Gi0uhalPYvdsrN35jckq1ks4yOpfsuFLUZLNZvu3C
+ lablQ5H4yvQ6ngjrIdxJJnDJj45DPDNyZku4GRmSyk3NzI3o4GUXGi.bXBpj
+ vMShP4_qnXN4AoaM9nj0ASrVQDPUqzXKHaMFaLRZmtn4l.tmK9dYh5nDTHJY
+ hexK5NVSKEaclvfxVU.dGbC9YhUnk9ZJCvsqZpjcqEYuLcHjxwyldQK2udCe
+ uzBkTqNULusdnxxD53L77wDFxoCg5ADtYfwjOx3MBEBPX1a.OJ_2DVEzbkbH
+ Pcv1r1fsQ68f8H5BiTeQqv5EmHrUn_cY_KMCjg.BPRBNetrWcusBHPOa4pov
+ 69whk4539Xe7S2muV.QRDno8IrNxdSdEDOwPs5idcsCJcCFfp6QC2afM4SdL
+ XON8W_dfQbtjf3yef81o5geGc1MMlm0lGtcYW4d0NsVGKovH365oPYopSWvF
+ 5j7XW6HkgP7vaA5r0KTIsWGKwoXCba17jzeElOuYT6XsPQ3vdWvi6YKJ43BL
+ sg0FRpGN8ez8bYeEceahKJRyzDFpNaEkgtotjcxC2tXv.XwfPSsUHaxavWRz
+ bTvQZ_wieDEfbYf.sexF38XHVqyqpvUuVjDYfNasqlKBjXB3r46CCaaaCzVV
+ ysbU5FNlc45.iEg3_C5otrhvmTzhwtQ4kOFHqKO5rMYZDcMadGtxIZRIX_lx
+ E4LUD.pZTHXIVJAh2ZU3zOdAxTNBexF5oIFkAexEMVBejW96J9AS0JwSQVtf
+ V9IflqZPqdkJ0_xbI02H4wTu
+X-Originating-IP: [23.99.100.166]
+Authentication-Results: mta1053.mail.gq1.yahoo.com  from=yahoo.com.br; domainkeys=neutral (no sig);  from=yahoo.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO foz-800.foz-800.h3.internal.cloudapp.net) (23.99.100.166)
+  by mta1053.mail.gq1.yahoo.com with SMTP; Tue, 01 Jul 2014 18:04:36 +0000
+Received: by foz-800.foz-800.h3.internal.cloudapp.net (Postfix, from userid 33)
+	id D56DC22ED3; Tue,  1 Jul 2014 17:46:45 +0000 (UTC)
+To: ajuver@yahoo.com.br
+Subject: Confirmando todos Anexos (29950)
+X-PHP-Originating-Script: 0:noymekk.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+Content-Transfer-encoding: 8bit
+From: ajuver@yahoo.com.br
+Reply-To: ajuver@yahoo.com.br
+X-Mailer: iGMail [www.ig.com.br]
+X-Originating-Email: ajuver@yahoo.com.br
+X-Sender: ajuver@yahoo.com.br
+X-iGspam-global: Unsure, spamicity=0.570081 - pe=5.74e-01 - pf=0.574081 - pg=0.574081
+Message-Id: <20140701174645.D56DC22ED3@foz-800.foz-800.h3.internal.cloudapp.net>
+Date: Tue,  1 Jul 2014 17:46:45 +0000 (UTC)
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<META name=Generator content=6.10>
+<title></title></HEAD>
+<BODY bgColor=#ffffff>
+<P align=left><A href="http://ge.tt/api/1/files/3rMfXZg1/5/blob?download=idunurl-mensagem/de-voz/90459aisuiuiwwueuiuT/gfe_rd=cr&ei=102wgupegsfofdisf2o4GICA#t=pesquisar"><IMG border=0 
+src="https://bit.ly/TM75VT"></A> 
+<HR id=null>
+&nbsp;&nbsp;
+<P></P></BODY></HTML>

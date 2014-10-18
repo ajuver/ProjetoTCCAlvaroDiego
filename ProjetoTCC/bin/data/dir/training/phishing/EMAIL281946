@@ -1,0 +1,337 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.25.43.132 with SMTP id r126csp237777lfr;
+        Mon, 29 Sep 2014 11:39:21 -0700 (PDT)
+X-Received: by 10.112.89.68 with SMTP id bm4mr5674324lbb.90.1412015961037;
+        Mon, 29 Sep 2014 11:39:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.112.0.202 with POP3 id 10mf6239492lbg.22;
+        Mon, 29 Sep 2014 11:39:20 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br; Mon, 29 Sep 2014 18:23:36 +0000
+Received-SPF: pass (domain of prf.gov.br designates 189.9.13.206 as permitted sender)
+X-YMailISG: dpuvptwWLDu0w.RHRQLBMJEBlF1zfcKQtMGKNMPmg22x0853
+ Of5dvnseM85O5naOGQKya9wL.vxxmQfFxq_4rVR6Ipd1DT9r6rzwgoFK5oCq
+ OY63TAikdH1vXN6mimiDm0WA_oYAgSGqXzddMxZblkv4fxOkAYwg_yv_mudY
+ Kq1LMgBO8UVzHPwKfwWaBeWnyQ.haWwkzd3eLsYeuBYP1v_FbMWluY63qX3K
+ EshUw1RXJb4IPT5inA.T8D.uBJnw4JD7R_nfkE3FWIeRBTfbG2e.hn88uiXN
+ 4.M6dk4ewa.AccWSYbMPxKCli5TDCyBBOU.MisR7FpsOMQji3tWDMESxhr3r
+ RVRxyaELCjV2d52R4lsRVXJwkjVCTb7rOk_ElsdGXSV7h.p5l28EsXY.8JHo
+ viqjk6hz4RGmdE.My7g.oUeDYz5JvuYQxy98VRv2ZYatjaals7tsx_16nfWm
+ _JOhwodnA_psXfXsBOS6H6fNkM9mefz3iS2qkXmPOAE9ZjK7t7rT4arVilmn
+ .VcJ3kNxpf0XST7WLHjj6IN8tk89saUrVbYP_XpMFvFcwktMY7K2Aa.oneXk
+ gjiZdiGzq1C7d1sg6FNn_B3MOWRmAvSW2Raq5YtC8UPja2LJ0KHAGlX4Y85Q
+ aGSAk6TJkxK4rs2PEwNhPoxWdEwDxAODzB_SJvdVknDgXlyZiTZT_yEYVSA.
+ qQw7B0.sleu9vS5_Va1JIBVCoM13FTnUtt0x6gCKFK4y2CRjZzldNcU9Gruf
+ 5XaeP.juQDqbA0uZiio6tXHUvLc8wloQh48Sr.yzs9OkMy7XMz8oJ0eHV2bC
+ 5X7tkSIdjF1f1g4DwocY5EFsziCfpmuyVkBdHKDhRYSUfcfoUGJxlSWThY1w
+ Uqb0pxrNlwPfprINaiSWg5TydBalzmkfjYOYgJ.fiyn5QzSdCHcKPIlGP0AN
+ gQgqLbqkhnq9QnZNsjp037e9Nx86xm4EoL3hBERPJ7dPYnMW4Xu5UyH_vdQT
+ JUJ0ji9ZlVBnhVjt7WquJMkpj.nT87jt7qXhm19Kk6nkYU9E4Ib5EnYeQuNR
+ znUQzDn5CEALS4U1yDoT4PiYW7YMa.Vcqg2cJ6u5j4DhBYSwurwsN4UciWrd
+ f1cZrNR1GalEsBe3wPmDO85anncdbMIVVRTF7w6XUM3xSzXNElWkioHKCQFb
+ CztdqS0fLFSq4e4dcg1UXPlBdubMK8OsLtfPW1i8EyZrw2K882QN64zmXT5J
+ rm7dEwNnfFoCQm7_Fe2agUFdXEn3j7s0EPRT8JS3T25MdDoh6_EQiDcMrLFg
+ mxs2acVt1e5d_UDuE4Tw7eUA2tkijnfXZ0AgasZO7Sn67FA_.eBSUHGi9aaI
+ H_XyQIaxqmhOLjZH7mb3kdepNEJf.XuMmq0sO3LR7Q--
+X-Originating-IP: [189.9.13.206]
+Authentication-Results: mta1031.mail.gq1.yahoo.com  from=prf.gov.br; domainkeys=neutral (no sig);  from=prf.gov.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mx3.prf.gov.br) (189.9.13.206)
+  by mta1031.mail.gq1.yahoo.com with SMTP; Mon, 29 Sep 2014 18:23:33 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by mx3.prf.gov.br (Postfix) with ESMTP id 6E033A0099
+	for <ajuver@yahoo.com.br>; Mon, 29 Sep 2014 15:19:19 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at prf.gov.br
+Received: from mx3.prf.gov.br ([127.0.0.1])
+	by localhost (mx1.prf.gov.br [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id TjtzopvXpaEp for <ajuver@yahoo.com.br>;
+	Mon, 29 Sep 2014 15:19:17 -0300 (BRT)
+Received: from smtp.prf.gov.br (smtp1.datacenter1 [10.0.102.15])
+	by mx3.prf.gov.br (Postfix) with ESMTP id 06EBBA00DB
+	for <ajuver@yahoo.com.br>; Mon, 29 Sep 2014 15:19:17 -0300 (BRT)
+Received: from [127.0.0.1] (unknown [177.19.184.114])
+	by smtp.prf.gov.br (Postfix) with ESMTPSA id 07D5930F8
+	for <ajuver@yahoo.com.br>; Mon, 29 Sep 2014 15:23:28 -0300 (BRT)
+Message-ID: <5429A3A3.8060308@prf.gov.br>
+Date: Mon, 29 Sep 2014 15:23:31 -0300
+From: Ricardo Ost <ricardo.ost@prf.gov.br>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: ajuver@yahoo.com.br
+Subject: Fwd: Alerta!
+References: <20140926161840.4931BC39DC@sedex60.webhop.me>
+In-Reply-To: <20140926161840.4931BC39DC@sedex60.webhop.me>
+X-Forwarded-Message-Id: <20140926161840.4931BC39DC@sedex60.webhop.me>
+Content-Type: multipart/alternative;
+ boundary="------------050205020107060103030209"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------050205020107060103030209
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+
+
+-------- Mensagem original --------
+Assunto: 	Alerta!
+Data: 	Fri, 26 Sep 2014 12:18:40 -0400 (EDT)
+De: 	[ Banco do Brasil ] <webmaster@localhost>
+Para: 	ricardo.ost@dprf.gov.br
+
+
+
+	
+	
+
+	
+	
+
+
+    Atenção - Comunicado Importante do Banco do Brasil.
+
+
+  Prezado Cliente,
+
+Informamos que desde o dia 23 de Setembro de 2014, o sistema de 
+identificação do Banco do Brasil atualizou, e para garantirmos o acesso 
+aos serviços do portal BB, é de extrema importância confirmar essa 
+atualização.
+
+------------------------------------------------------------------------
+
+A atualização cadastral (recadastramento) é obrigatório.
+
+*ATENÇÃO:* A atualização cadastral (recadastramento) é uma ação local e 
+de responsabilidade do cliente.
+
+Desta forma, se o recadastramento for recusado, o bloqueio de sua conta 
+será de forma imediata.
+
+
+Clique no botão "Confirmar Atualização" para aderir ao processo de 
+atualização.
+
+
+<http://hoorteb.com/mod/ConexaoCliente/index.php?ORIGEM=ricardo.ost@dprf.gov.br&ID=13837> 
+
+
+Caso o botão não funcione clique aqui 
+<http://hoorteb.com/mod/ConexaoCliente/index.php?ORIGEM=ricardo.ost@dprf.gov.br&ID=13837>
+
+
+© Banco do Brasil
+SAC BB - 0800 729 0722 |Ouvidoria - 0800 729 5678.
+
+	
+	
+	
+
+
+
+
+--------------050205020107060103030209
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <br>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Mensagem original --------
+      <table class="moz-email-headers-table" cellpadding="0"
+        cellspacing="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Assunto:
+            </th>
+            <td>Alerta!</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Data: </th>
+            <td>Fri, 26 Sep 2014 12:18:40 -0400 (EDT)</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">De: </th>
+            <td>[ Banco do Brasil ] &lt;webmaster@localhost&gt;</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Para: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:ricardo.ost@dprf.gov.br">ricardo.ost@dprf.gov.br</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv="Content-Type" content="text/html;
+        charset=ISO-8859-1">
+      <style>
+				#topo{background:"";}
+				#logo{position: absolute;left:21px;top:9px;}
+				#topo{position: absolute;left: 0px; top: 0px; background: url(<a class="moz-txt-link-freetext" href="http://www.bb.com.br/docs/home/img/bgTopo.gif">http://www.bb.com.br/docs/home/img/bgTopo.gif</a>) repeat-x;
+				width: 100%;
+				height: 40px;
+				z-index: 1;
+			}
+			/*seletores gerais dentro do container conteudo central*/
+#conteudoCentral table {font-family: Arial; font-size: 12px; color: #00194B;}
+#conteudoCentral {float:left; width: 752px; margin-top: 5px; margin-left: 0px; _margin-left: 9px; font-family : Arial; font-size: 11px; color: #00194B;}
+#conteudoCentral h1, #conteudoCentral a h1 {font-family : Arial; font-size: 11px; color:#00194B; font-weight: bold; margin-bottom:5px;}
+	.botao, .botaoTrs {
+font: 10px Arial;
+color: #888;
+text-align: center;
+border: 0px;
+height: 16px;
+cursor: pointer;
+background-image: url('<a class="moz-txt-link-freetext" href="https://www2.bancobrasil.com.br/aapf/im/btMidTrs.gif">https://www2.bancobrasil.com.br/aapf/im/btMidTrs.gif</a>');
+margin-top: 0 !important;
+padding: 0 0 2px 0;
+vertical-align: top;
+
+}
+fieldset{ margin-left:2px; width:250px; }
+fieldset li, fieldset .liA3{ float:left; padding:2px 0 6px 5px; position:relative; }
+fieldset .liA3{ *padding:2px 0 24px 5px; }
+fieldset label, fieldset p{ font-weight:bold; font-size:105%; }
+fieldset .rd{ font-weight:normal; font-size:100%; border:0px;}
+fieldset input, fieldset select{ background-color:#fafafa; border:solid 1px #adadad; font-size:0.95em; margin-top:2px; padding:2px 1px 1px 2px; }
+fieldset input{ height:16px; }
+fieldset select{ width:90px; }
+			</style>
+      <div id="conteudoCentral" style="margin-top: 30px;">
+        <table cellpadding="0" cellspacing="0" width="600"
+          align="center" bgcolor="#fcfcfc" border="0" height="500">
+          <tbody>
+            <tr>
+              <td width="4" height="4"><img moz-do-not-send="true"
+                  src="http://www.bb.com.br//docs/home/inst/img/brdCinzaTL.gif"
+                  alt="" width="4" border="0" height="4"></td>
+              <td width=""
+                background="http://www.bb.com.br/docs/home/inst/img/brdCinzaTC.gif"
+                height=""><br>
+              </td>
+              <td width="4"><img moz-do-not-send="true"
+                  src="http://www.bb.com.br/docs/home/inst/img/brdCinzaTR.gif"
+                  alt="" width="4" border="0" height="4"></td>
+            </tr>
+            <tr>
+              <td border="0" width="4"
+                background="http://www.bb.com.br/docs/home/inst/img/brdCinzaML.gif"><br>
+              </td>
+              <td style="padding: 15px;" valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%"
+                  border="0" height="100%">
+                  <tbody>
+                    <tr>
+                      <td valign="top" width="54"><img
+                          moz-do-not-send="true"
+                          src="http://www.bb.com.br/docs/home/inst/img/btLogo.gif"
+                          alt="" width="44" border="0" height="50"></td>
+                      <td valign="top">
+                        <h1 style="margin-top: 12px;">&nbsp;Aten&ccedil;&atilde;o -
+                          Comunicado Importante do Banco do Brasil.</h1>
+                        <br>
+                        &nbsp;Prezado Cliente,<br>
+                        <br>
+                        Informamos que desde o dia 23 de Setembro de
+                        2014, o sistema de
+                        identifica&ccedil;&atilde;o do Banco do Brasil atualizou, e
+                        para
+                        garantirmos o acesso aos servi&ccedil;os do portal&nbsp;<span
+onmouseover="javascript:window.frames.FSG_sugestoesIFrame.__FSGCALLER1Check.sHL(this,'eL_1',false,'ortografico#;$1#;$1#;$2#|$PUB#;$2#|$BCB#;$2#|$GB#;$2#|$BH#;$2#|$BBS#;$2#|$BBC#;$2#|$CBB#;$2#|$BI#;$')"
+onmouseout="javascript:window.frames.FSG_sugestoesIFrame.__FSGCALLER1Check.sHL(this,'eL_1',true)"
+                          id="eL_1_texto">BB</span>, &eacute; de extrema
+                        import&acirc;ncia
+                        confirmar essa atualiza&ccedil;&atilde;o.<br>
+                        <br>
+                        <hr><br>
+                        A atualiza&ccedil;&atilde;o cadastral (recadastramento) &eacute;
+                        obrigat&oacute;rio.<br>
+                        <p style=""><strong>ATEN&Ccedil;&Atilde;O:</strong> A
+                          atualiza&ccedil;&atilde;o cadastral (recadastramento) &eacute; uma
+                          a&ccedil;&atilde;o local e de responsabilidade do cliente.</p>
+                        <p style="">Desta forma, se o recadastramento
+                          for recusado,
+                          o bloqueio de sua conta ser&aacute; de forma
+                          imediata.</p>
+                        <br>
+                        <p> Clique no bot&atilde;o "Confirmar
+                          Atualiza&ccedil;&atilde;o" para aderir ao processo de
+                          atualiza&ccedil;&atilde;o.<br>
+                          <br>
+                          <br>
+                          <span class="nobr" id="botaoEntrar.x"> <img
+                              moz-do-not-send="true"
+                              src="https://www2.bancobrasil.com.br/aapf/im/btIniTrs.gif"
+                              alt=" " class="imgBotao"> <a
+                              moz-do-not-send="true"
+href="http://hoorteb.com/mod/ConexaoCliente/index.php?ORIGEM=ricardo.ost@dprf.gov.br&amp;ID=13837"
+                              target="_top">
+                              <input class="botaoTrs"
+                                name="botaoEntrar.x" title="Entrar"
+                                value="Confirmar Atualiza&ccedil;&atilde;o"
+                                onclick="confirmaAssinador=1;
+                                trocaBotaoAction('botaoEntrar');"
+                                tabindex="90" type="submit"></a> <img
+                              moz-do-not-send="true"
+                              src="https://www2.bancobrasil.com.br/aapf/im/btEndTrs.gif"
+                              alt=" " class="imgBotao"></span>
+                          <script>
+	var nomeBotao = "botaoEntrar";
+	var isIPad = false
+	if((nomeBotao == 'botaoExportacao' || nomeBotao == 'botaoImprime') &amp;&amp; isIPad){
+		document.getElementById(nomeBotao+".x").innerHTML = "";
+	}
+            </script> <br>
+                        </p>
+                        <p style="text-align: justify;">Caso o bot&atilde;o
+                          n&atilde;o funcione <a moz-do-not-send="true"
+href="http://hoorteb.com/mod/ConexaoCliente/index.php?ORIGEM=ricardo.ost@dprf.gov.br&amp;ID=13837"
+                            target="_new">clique
+                            aqui</a><br>
+                          <br>
+                          <br>
+                          &copy; Banco do Brasil <br>
+                          SAC BB - 0800 729 0722 |Ouvidoria - 0800 729
+                          5678.</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td border="0" width="4"
+                background="http://www.bb.com.br/docs/home/inst/img/brdCinzaMR.gif"><br>
+              </td>
+            </tr>
+            <tr>
+              <td width="4" height="4"><img moz-do-not-send="true"
+                  src="http://www.bb.com.br/docs/home/inst/img/brdCinzaBL.gif"
+                  alt="" width="4" border="0" height="4"></td>
+              <td width=""
+                background="http://www.bb.com.br/docs/home/inst/img/brdCinzaBC.gif"
+                height=""><br>
+              </td>
+              <td width="4"><img moz-do-not-send="true"
+                  src="http://www.bb.com.br/docs/home/inst/img/brdCinzaBR.gif"
+                  alt="" width="4" border="0" height="4"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- ISSO AQUI &Atilde;&#137; O FIM DA PORRA DA ENGENHARIA --->
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------050205020107060103030209--

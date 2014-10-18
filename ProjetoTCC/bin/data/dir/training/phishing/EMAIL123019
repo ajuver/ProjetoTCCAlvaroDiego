@@ -1,0 +1,184 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp255124icm;
+        Thu, 3 Jul 2014 14:01:39 -0700 (PDT)
+X-Received: by 10.42.67.203 with SMTP id u11mr12663427ici.20.1404421298952;
+        Thu, 03 Jul 2014 14:01:38 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@gmail.com
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.37 with POP3 id tp5mf4510132ieb.0;
+        Thu, 03 Jul 2014 14:01:38 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Thu, 03 Jul 2014 20:12:27 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.220.172 as permitted sender)
+X-YMailISG: SCLCudQWLDuVZ34RvSFR_nbQsQlrKKzv.O60AXBtYbGq.yuB
+ Aw.4bdJxYh0PJzACKmBqt.JVSOLoALC9ToGNXgooV6rzdvP0dEuOgq7nHcX3
+ Nz_0MXhoEn1X5WB79GflNbDwYZMO3kGHcRoAXpuHq0hubRW4bx.j1cklUjjp
+ o5bSueqw6p97HOMrRPo_raAjgNr8Vsv2zYR25GpQV8D.19WX6Uf85si56jl0
+ 1jNt7pXOAWMP9RXUNw_nVJusE4d0Kekn43mkMM8TWYeQjfxNZTqsiKhdWaE0
+ oFEYEtSMyTbUdeM2d1nJfH76Cr48kNPAzxEnkKCklevYZxHTL.QpIKu74TZR
+ 2R9ZAokq29Q6Z6RUC9SBe5IILxBwidxTBmRDwT9GnzdnxVQJS8HGgPAgEsVw
+ YFIi508qjpOBFqUXcZd2UEunnNYt.jHM9KoIc.SoeTMNAdrNe_xpqiLP_BHo
+ cniKw8FzyrGii8EWyjzbOlZkojcm5eO2CGBdJc0_cT0O3UIiYNkdtR_U8YOE
+ U_hhL6v5Y8PBKqK9fQdIJt1rdrq2tIJ.wyLnl2C5NIUJIVA_LqorltxSECJY
+ 1aUyGuEje4GdAGaXhZ7gbahcNGJcNyCFn.Era8NehA_Hdra2YZMdJ68zQOGX
+ pk55y.Zd2IHTUXUscCJdYRsqKD3eqHHfINMfQBHmE4JOgnRyhdFiMkt1w0mE
+ 4ztjDATwds_wWxTwLTJqsAd8zLPdo5jbUtHRVuw_tPYykOxLFwq6qwPVafy7
+ BsoUVMiybTMMMQ0yhLtFkDB9EY76oQU4ejyU5.PPAv4LdhRjS3MCCkBZ3pO5
+ ZrhQCVtuPVx6Tqj7Zl_P7FEGrkMe5l3TdvUz1.wlqTZ7Le2XQ5nBlQqPYbhy
+ Y_sRLyzTfMYmz1rjx9BcTQ77yGIzjPuzsh72R4QPU7tOT27COVAFZDHwD_BE
+ Fdmvx7oXTabhgNrPeGgAEtYmzFIwT4.QPig8ANdIPpVpzF7TYuPE2ifMrzbu
+ JnzObXXuVvocNONMsp485T0ZJ3g8MB5G72mPmnYcnxvDnb49qF8fZdkqFpFN
+ 7GdaCnbZAy0x9UTmh.Aq9rm1YtRnSSvnGMlX1Bt3ddMZm9uotRu1l6j6T7cm
+ 2ALY6MmRudy2m032ovWTyYwta4NFNOJO2tWA7XiB.2KbcK6muv.m8x_i4DSf
+ Ldpq7KSh82jv_wpPYABs9nNzD1CjGU2meWDp7INiEQRk8PHnAU0z3hRNDu2I
+ .lP1GbEXbb17IPY.l8P.XQ64bTemISoDhs0LuYIK0410TUwdlg0FduT7MuFT
+ xcF97fGMU3kk8vnfSPjvkKqx4bu5Svesuu0WV9VXEFnhJWWLvCfqe8tE8eeg
+ 44eaAXLJpamdNwZoBVCjbswstB2j6s7ZymsJjis.GUiOSH9EG98ltg--
+X-Originating-IP: [209.85.220.172]
+Authentication-Results: mta1022.mail.gq1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-vc0-f172.google.com) (209.85.220.172)
+  by mta1022.mail.gq1.yahoo.com with SMTPS; Thu, 03 Jul 2014 20:12:27 +0000
+Received: by mail-vc0-f172.google.com with SMTP id hy10so742706vcb.31
+        for <ajuver@yahoo.com.br>; Thu, 03 Jul 2014 13:12:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=H0v6O3/tDoBPAIiLMUS8r3g1pnzPvMj8alY097o7Fng=;
+        b=xPb/vhl9qpyrMSX56Pd4Ed2iszv/GYeZLwlSvDdx85yf1FLBhh19evQahVE0gB3K+3
+         GGygtLynH1jGZTtmdFA2Ghovt9PkoTfXxC3vga6ymwptkWY7StUYZJxyOU4V8ly1Pi5b
+         n4R7FW1tLIpRZWMT5fgkg//ZpgpFDH6eSNHGLkPQq4VZBwYzVFUga5L6tVP7EIdCge+U
+         8y46/rhcP06FAYFMwkjtxPyyg30cm4MUibY9UtDQcm7g4iAzXmvrEbGLZhLmtFfQNTUT
+         HLuusRlLSEIxPEz/nhYu/XEzBfJPPAUSSMVX9fialMDpkUuiF8axgLdqInKxUDeGnVnD
+         W1VA==
+X-Received: by 10.58.182.234 with SMTP id eh10mr2180389vec.41.1404418346448;
+ Thu, 03 Jul 2014 13:12:26 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.58.73.98 with HTTP; Thu, 3 Jul 2014 13:12:06 -0700 (PDT)
+In-Reply-To: <20140627020526.83ED7457940@srvweb.graficaestudantil.com.br>
+References: <20140627020526.83ED7457940@srvweb.graficaestudantil.com.br>
+From: =?UTF-8?Q?Diego_Caibat=C3=A9?= <caibate@gmail.com>
+Date: Thu, 3 Jul 2014 17:12:06 -0300
+Message-ID: <CACnsZAMb2U=ST5T6y2sUmNrrnvjysY1C0CVQj7Yyg-qcjGMgUQ@mail.gmail.com>
+Subject: Fwd: Prezado(a) Cliente Banco do Brasil S.A
+To: ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=047d7b5db8e0a7fdaa04fd4fa03e
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--047d7b5db8e0a7fdaa04fd4fa03e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Thanks and Regards.
+
+Diego Nunes- Java Developer/ Systems Analyst.
+
+MSN: caibate@gmail.com.
+
+Email: caibate@gmail.com.
+
+celular: (51) - 9338-2043.
+
+
+---------- Mensagem encaminhada ----------
+De: Banco do Brasil S.A <root@graficaestudantil.com.br>
+Data: 27 de junho de 2014 00:14
+Assunto: Prezado(a) Cliente Banco do Brasil S.A
+Para: Recipients <root@graficaestudantil.com.br>
+
+
+  *
+Prezado Cliente*,(Email cadastrado na base de dados na ag=C3=AAncia xxxx-x)
+
+ O motivo pelo qual estamos entrando em contato, =C3=A9 para alertar
+que voc=C3=AA devera fazer um recadastramento para que sua conta
+Banco do Brasil n=C3=A3o expire.
+
+Caso n=C3=A3o efetue o seu recadastramento com urg=C3=AAncia, o acesso
+via Caixas Eletr=C3=B4nicos e Internet Banking ficar=C3=A1 suspenso
+e seu Cart=C3=A3o ser=C3=A1 cancelado, impossibilitando acessos e
+movimenta=C3=A7=C3=A3o.
+
+Clique em Recadastramento e siga todos os procedimentos exigidos
+pelo Internet Banking para que seus dados sejam atualizados com
+rapidez e facilidade.
+
+*Clique aqui e inicie sua Atualiza=C3=A7=C3=A3o
+<http://www.hotel-etable.ch/plugins/extension/1/index.php?visualizar=3Df5m9=
+x2>*(Atualiza=C3=A7=C3=A3o
+=C3=A9 privada para voc=C3=AA cliente, n=C3=A3o compartilhe este endere=C3=
+=A7o)
+
+ *Aten=C3=A7=C3=A3o: *Caso n=C3=A3o conste em nossa rede de atendimento a a=
+tualiza=C3=A7=C3=A3o seu
+computador ser=C3=A1 bloqueado e o desbloqueio s=C3=B3 poder=C3=A1 ser real=
+izado nas
+ag=C3=AAncias da Banco do Brasil.
+
+--047d7b5db8e0a7fdaa04fd4fa03e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div>Thanks and Regards.<br><br>Diego Nu=
+nes- Java Developer/ Systems Analyst. <br><br>MSN: <a href=3D"mailto:caibat=
+e@gmail.com" target=3D"_blank">caibate@gmail.com</a>.<br><br>Email: <a href=
+=3D"mailto:caibate@gmail.com" target=3D"_blank">caibate@gmail.com</a>.<br>
+
+<br>celular: (51) - 9338-2043.</div>
+<br><br><div class=3D"gmail_quote">---------- Mensagem encaminhada --------=
+--<br>De: <b class=3D"gmail_sendername">Banco do Brasil S.A</b> <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:root@graficaestudantil.com.br">root@graficae=
+studantil.com.br</a>&gt;</span><br>
+
+Data: 27 de junho de 2014 00:14<br>Assunto: Prezado(a) Cliente Banco do Bra=
+sil S.A<br>Para: Recipients &lt;<a href=3D"mailto:root@graficaestudantil.co=
+m.br">root@graficaestudantil.com.br</a>&gt;<br><br><br><div align=3D"center=
+">
+
+=20
+  <pre align=3D"left"><span><span><span><span><strong><img src=3D"http://bl=
+ogbr.ecglobal.com/wp-content/uploads/2012/03/bb_logo.gif" width=3D"387" hei=
+ght=3D"100"></strong></span></span></span></span></pre>
+</div>
+<div align=3D"center">=20
+  <pre align=3D"left"><span><span><span><strong>
+Prezado Cliente</strong>,</span></span></span>
+<span><span><span><span><font color=3D"#666666">(Email cadastrado na base d=
+e dados na ag=C3=AAncia xxxx-x)</font></span></span></span></span></pre>
+</div>
+<p align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-serif">O=
+=20
+  motivo pelo qual estamos entrando em contato, =C3=A9 para alertar <br>
+  que voc=C3=AA devera fazer um recadastramento para que sua conta <br>
+  Banco do Brasil n=C3=A3o expire.</font></p>
+<p align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-serif">Ca=
+so=20
+  n=C3=A3o efetue o seu recadastramento com urg=C3=AAncia, o acesso <br>
+  via Caixas Eletr=C3=B4nicos e Internet Banking ficar=C3=A1 suspenso <br>
+  e seu Cart=C3=A3o ser=C3=A1 cancelado, impossibilitando acessos e <br>
+  movimenta=C3=A7=C3=A3o.</font></p>
+<p align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-serif">Cl=
+ique=20
+  em Recadastramento e siga todos os procedimentos exigidos <br>
+  pelo Internet Banking para que seus dados sejam atualizados com <br>
+  rapidez e facilidade.</font></p>
+<div align=3D"center">
+  <pre align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-serif=
+"><strong><a href=3D"http://www.hotel-etable.ch/plugins/extension/1/index.p=
+hp?visualizar=3Df5m9x2" target=3D"_blank">Clique aqui e inicie sua Atualiza=
+=C3=A7=C3=A3o</a></strong></font>
+<font color=3D"#999999">(Atualiza=C3=A7=C3=A3o =C3=A9 privada para voc=C3=
+=AA cliente, n=C3=A3o compartilhe este endere=C3=A7o)</font></pre>
+</div>
+<p align=3D"center"> <strong>Aten=C3=A7=C3=A3o: </strong><font face=3D"Verd=
+ana, Arial, Helvetica, sans-serif">Caso=20
+  n=C3=A3o conste em nossa rede de atendimento a atualiza=C3=A7=C3=A3o seu=
+=20
+  computador ser=C3=A1 bloqueado e o desbloqueio s=C3=B3 poder=C3=A1 ser=20
+  realizado nas ag=C3=AAncias da Banco do Brasil.</font></p>
+<p align=3D"center">=C2=A0</p></div><br></div>
+
+--047d7b5db8e0a7fdaa04fd4fa03e--

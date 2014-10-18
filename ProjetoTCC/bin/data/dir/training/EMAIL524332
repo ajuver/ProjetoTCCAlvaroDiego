@@ -1,0 +1,787 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp534522icc;
+        Wed, 8 Oct 2014 14:38:08 -0700 (PDT)
+X-Received: by 10.180.106.71 with SMTP id gs7mr28257851wib.45.1412804287352;
+        Wed, 08 Oct 2014 14:38:07 -0700 (PDT)
+Return-Path: <return@d-view.baguete.com.br>
+Received: from 5cde83fa-mta.th.compartmta.com.br (5cde83fa-mta.th.compartmta.com.br. [92.222.131.250])
+        by mx.google.com with ESMTP id s1si18932112wix.61.2014.10.08.14.38.06
+        for <ajuver@gmail.com>;
+        Wed, 08 Oct 2014 14:38:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of return@d-view.baguete.com.br designates 92.222.131.250 as permitted sender) client-ip=92.222.131.250;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of return@d-view.baguete.com.br designates 92.222.131.250 as permitted sender) smtp.mail=return@d-view.baguete.com.br;
+       dkim=pass header.i=@baguete.com.br
+To: <ajuver@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="0bfc8a13a31d857f20e88ab4c627a5622118f01093bd05bf953236016683"
+Reply-To: conteudo@baguete.com.br
+Mime-Version: 1.0
+List-Unsubscribe: <http://d-app.baguete.com.br/oo/287/720/29981/82495>,<mailto:unsubscribe.287.720.29981.82495@d-app.baguete.com.br>
+Return-Path: return@d-view.baguete.com.br
+Message-Id: <287.720.29981.1412804286@11fh751dh5cde83fa-mta.th.compartmta.com.br>
+Date: Wed, 08 Oct 2014 18:38:06 -0300 (BRT)
+X-Priority: 3
+From: =?UTF-8?Q?Baguete?= <conteudo@baguete.com.br>
+Subject: =?UTF-8?Q?Canoas_ter=C3=A1_data_center_container?=
+Dkim-Signature: v=1; a=rsa-sha1; q=dns/txt; l=36890; s=1363352391.baguete;
+	t=1412804286; c=relaxed/simple;
+	h=From:To:Subject;
+	d=baguete.com.br;
+	z=From:=3D?UTF-8?Q?Baguete?=3D=20<conteudo@baguete.com.br>
+	|To:<ajuver@gmail.com>
+	|Subject:=3D?UTF-8?Q?Canoas_ter=3DC3=3DA1_data_center_container?=3D;
+	bh=kfW6CdeaSAeBBjIigd5y6WzMeFw=;
+	b=tiz3aPuPsqWSRHPcCXI8YvA3PvuMXrM9h5z3DfbTvJfo59R1Ko/33zr3z2YlbccP30i51kMWNZbzlrfF8ydvEEH5u0YoxGLiUt+VyZCrnFQMY/6rhzN4dWi4Cq3But/4eYoQiAbEXLwfKC+o1Nkhwyj35Sw9Asv1jMBoCnV60ts=
+Signed-By: baguete.com.br
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--0bfc8a13a31d857f20e88ab4c627a5622118f01093bd05bf953236016683
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset="UTF-8"
+
+
+
+--0bfc8a13a31d857f20e88ab4c627a5622118f01093bd05bf953236016683
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w=
+3.org/1999/xhtml"><head><meta content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3D"Content-Type" /><title>Baguete - Tecnologia e Informa=C3=A7=
+=C3=A3o</title><style type=3D"text/css">a { text-decoration: none; }a:hove=
+r { text-decoration: underline; }</style><link href=3D"http://d-view.bague=
+te.com.br/v/287/720/=
+29981=
+/=
+82495=
+" type=3D"text/css" rel=3D"stylesheet"></head><body style=3D"font-family: =
+Helvetica; font-size: 13px; color: #666666;"><table cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" width=3D"1" height=3D"1" style=3D"background-im=
+age: url('http://d-view.baguete.com.br/v/287/720/=
+29981=
+/=
+82495=
+');"><tr><td><img src=3D"http://d-view.baguete.com.br/v/287/720/=
+29981=
+/=
+82495=
+" width=3D"1" height=3D"1"></td></tr></table><bgsound src=3D"http://d-view=
+.baguete.com.br/v/287/720/=
+29981=
+/=
+82495=
+" volume=3D"-10000"/><table align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"631"><tbody><tr><td><a href=3D"http://d-click.baguete.com.=
+br/u/287/720/=
+29981=
+/39606_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2F" target=3D"_blank"><img alt=3D"=
+Baguete - Tecnologia e Informa=C3=A7=C3=A3o" border=3D"0" src=3D"http://ww=
+w.baguete.com.br/img/img-logo-news.png" title=3D"Baguete - Tecnologia e In=
+forma=C3=A7=C3=A3o" /></a></td><td align=3D"right" style=3D"margin: 0; pad=
+ding: 0; list-style: none; padding: 0 15px 0 15px; color: #0561a6; font-si=
+ze: 11px;"><strong>Baguete Newsletter</strong><br /><br />Desde junho de 1=
+997</td></tr></tbody></table><table align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"border: 1px solid #CCCCCC;" width=3D"631"><tbody><=
+tr><td><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"631"><tbody><tr><td valign=3D"top" width=3D"100%"><table cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"padding: 10px; margin-bottom: 10px; font=
+-size: 11px;"><tbody><tr><td><div style=3D"float:right; margin:12px 5px 0 =
+0;"><div style=3D"width: 100%; display: table; margin-top: 0;"><div style=
+=3D"float:left; border-right:5px solid #FF8000; margin:0 22px 0 0;"><a hre=
+f=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39607_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fauto=
+desk-mudanca-deu-certo" style=3D"overflow: hidden; float: left;"><img alt=
+=3D"" border=3D"0" src=3D"http://ww2.baguete.com.br/admin//cache/image/not=
+icias/2014/10/1412801295_ladi1381440703_autodesk.jpg?w=3D136&h=3D90" style=
+=3D"overflow: hidden; float: left;" title=3D"" /></a></div><div style=3D"m=
+argin-right:-9px; color: #DF7201; font-size: 12px; font-weight: bold;"><a =
+href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39607_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fauto=
+desk-mudanca-deu-certo" style=3D"color: #DF7201; text-decoration: none;">R=
+EGIONAL</a></div><h1 style=3D"margin-top:9px;"><a href=3D"http://d-click.b=
+aguete.com.br/u/287/720/=
+29981=
+/39607_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fauto=
+desk-mudanca-deu-certo" style=3D"font-size: 28px; line-height: 93%; color:=
+ #333333; text-decoration: none;">Autodesk: mudan=C3=A7a deu certo</a></h1=
+></div><div style=3D"width: 100%; display: table; margin-top: 18px;"><div =
+style=3D"float:left; border-right:5px solid #FF8000; margin:0 22px 0 0;"><=
+a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39608_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fcano=
+as-tera-data-center-container" style=3D"overflow: hidden; float: left;"><i=
+mg alt=3D"" border=3D"0" src=3D"http://ww2.baguete.com.br/admin//cache/ima=
+ge/noticias/2014/10/1412798338_canoas76232-maiorfotobr.jpg?w=3D136&h=3D90"=
+ style=3D"overflow: hidden; float: left;" title=3D"" /></a></div><div styl=
+e=3D"margin-right:-9px; color: #DF7201; font-size: 12px; font-weight: bold=
+;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39608_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fcano=
+as-tera-data-center-container" style=3D"color: #DF7201; text-decoration: n=
+one;">ACECO</a></div><h1 style=3D"margin-top:9px;"><a href=3D"http://d-cli=
+ck.baguete.com.br/u/287/720/=
+29981=
+/39608_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fcano=
+as-tera-data-center-container" style=3D"font-size: 28px; line-height: 93%;=
+ color: #333333; text-decoration: none;">Canoas ter=C3=A1 data center cont=
+ainer</a></h1></div></div></td></tr></tbody></table><table align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%; margin-bottom:=
+ 10px;"><tbody><tr><td style=3D"padding-left: 35px;"><a href=3D"http://d-c=
+lick.baguete.com.br/u/287/720/=
+29981=
+/39609_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fopenx%2Fwww%2Fdelivery%2Fck.php%=
+3Fzoneid%3D87" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://=
+www.baguete.com.br/openx/www/delivery/avw.php?zoneid=3D87&cb=3D76443" /></=
+a></td></tr></tbody></table><table cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"padding: 10px;"><tbody><tr><td><div style=3D"width: 100%; display: t=
+able;"><div style=3D"float: left; width: 45%;"><div style=3D"display: tabl=
+e; width: 95%; margin-top: 0; padding: 0 0 0 0;"><div style=3D"display: ta=
+ble;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39610_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fti-j=
+a-emprega-13-milhao-no-brasil" style=3D"overflow: hidden; float: left;"><i=
+mg alt=3D"" border=3D"0" src=3D"http://ww2.baguete.com.br/admin//cache/ima=
+ge/noticias/2014/10/1412791665_unisinos22.JPG?w=3D220&h=3D140" style=3D"ov=
+erflow: hidden; float: left;" title=3D"" /></a></div><div style=3D"margin:=
+ 12px 0 0 0; display: table; clear: both; color: #DF7201; font-size: 12px;=
+ font-weight: bold;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39610_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fti-j=
+a-emprega-13-milhao-no-brasil" style=3D"color: #DF7201; text-decoration: n=
+one;">UNISINOS</a></div><h2 style=3D"margin: 7px 0 0 0;"><a href=3D"http:/=
+/d-click.baguete.com.br/u/287/720/=
+29981=
+/39610_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fti-j=
+a-emprega-13-milhao-no-brasil" style=3D"font-size: 25px; color: #333333; l=
+ine-height: 93%; text-decoration: none;">TI j=C3=A1 emprega 1,3 milh=C3=A3=
+o no Brasil</a></h2><p style=3D"margin: 12px 0 0 0;">No entanto, faltam tr=
+abalhadores qualificados para preencher essas vagas.&nbsp;</p></div></div>=
+<div style=3D"float: left; width: 45%;"><div style=3D"display: table; widt=
+h: 95%; padding: 0 0 0 0; margin-top: 0;"><div style=3D"margin-right:-9px;=
+ color: #DF7201; font-size: 12px; font-weight: bold;"><a href=3D"http://d-=
+click.baguete.com.br/u/287/720/=
+29981=
+/39611_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fnuta=
+nix-fecha-com-cntarrow-e-network1" style=3D"color: #DF7201; text-decoratio=
+n: none;">DISTRIBUI=C3=87=C3=83O</a></div><h2 style=3D"margin: 7px 0 12px =
+0;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39611_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fnuta=
+nix-fecha-com-cntarrow-e-network1" style=3D"font-size: 25px; color: #33333=
+3; line-height: 93%; text-decoration: none;">Nutanix fecha com CNT/Arrow e=
+ Network1</a></h2><div style=3D"float: left; margin: 0 11px 0 0;"><a href=
+=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39611_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fnuta=
+nix-fecha-com-cntarrow-e-network1" style=3D"overflow: hidden; float: left;=
+"><img alt=3D"" border=3D"0" src=3D"http://ww2.baguete.com.br/admin//cache=
+/image/noticias/2014/10/1412790463_leonel1391093341_leonel.jpg?w=3D60&h=3D=
+60" style=3D"overflow: hidden; float: left;" title=3D"" /></a></div><p>Emp=
+resa montou opera=C3=A7=C3=A3o nacional em janeiro.</p></div><div style=3D=
+"display: table; width: 95%; padding: 18px 0 0 0; margin-top: 0;"><div sty=
+le=3D"margin-right:-9px; color: #DF7201; font-size: 12px; font-weight: bol=
+d;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39612_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fgru-=
+gestao-de-ti-com-tivit" style=3D"color: #DF7201; text-decoration: none;">M=
+ELHORIAS</a></div><h2 style=3D"margin: 7px 0 12px 0;"><a href=3D"http://d-=
+click.baguete.com.br/u/287/720/=
+29981=
+/39612_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fgru-=
+gestao-de-ti-com-tivit" style=3D"font-size: 25px; color: #333333; line-hei=
+ght: 93%; text-decoration: none;">GRU gest=C3=A3o de TI com Tivit</a></h2>=
+<div style=3D"float: left; margin: 0 11px 0 0;"><a href=3D"http://d-click.=
+baguete.com.br/u/287/720/=
+29981=
+/39612_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fgru-=
+gestao-de-ti-com-tivit" style=3D"overflow: hidden; float: left;"><img alt=
+=3D"" border=3D"0" src=3D"http://ww2.baguete.com.br/admin//cache/image/not=
+icias/2014/10/1412788590_GRUshutterstock_182221295.jpg?w=3D60&h=3D60" styl=
+e=3D"overflow: hidden; float: left;" title=3D"" /></a></div><p>Contrato co=
+m a Tivit =C3=A9 mais um de uma s=C3=A9rie de investimentos em TI desde a =
+privatiza, ops!, concess=C3=A3o.</p></div></div></div></td></tr></tbody></=
+table><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"width: 100%; margin-bottom: 10px;"><tbody><tr><td style=3D"padding-left: =
+35px;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39613_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fopenx%2Fwww%2Fdelivery%2Fck.php%=
+3Fzoneid%3D88" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://=
+www.baguete.com.br/openx/www/delivery/avw.php?zoneid=3D88&cb=3D76443" /></=
+a></td></tr></tbody></table><table cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"padding: 10px; margin-bottom: 10px; font-size: 11px;"><tbody><tr><td=
+><div style=3D"float: left; width: 100%;"><a href=3D"http://d-click.baguet=
+e.com.br/u/287/720/=
+29981=
+/39607_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fauto=
+desk-mudanca-deu-certo" style=3D"width: 100%; color: #333333; float: left;=
+ margin-top: 6px; line-height: 180%; text-decoration: none;"><span style=
+=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12px;">=
+17:46</span><span style=3D"font-size:16px;">Autodesk: mudan=C3=A7a deu cer=
+to</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39608_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fcano=
+as-tera-data-center-container" style=3D"width: 100%; color: #333333; float=
+: left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span =
+style=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12=
+px;">16:55</span><span style=3D"font-size:16px;">Canoas ter=C3=A1 data cen=
+ter container</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/2=
+87/720/=
+29981=
+/39614_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fredw=
+hite-sob-novo-comando" style=3D"width: 100%; color: #333333; float: left; =
+margin-top: 6px; line-height: 180%; text-decoration: none;"><span style=3D=
+"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12px;">15:=
+52</span><span style=3D"font-size:16px;">Red&amp;White sob novo comando</s=
+pan></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39611_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fnuta=
+nix-fecha-com-cntarrow-e-network1" style=3D"width: 100%; color: #333333; f=
+loat: left; margin-top: 6px; line-height: 180%; text-decoration: none;"><s=
+pan style=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size=
+: 12px;">14:44</span><span style=3D"font-size:16px;">Nutanix fecha com CNT=
+/Arrow e Network1</span></a><br /><a href=3D"http://d-click.baguete.com.br=
+/u/287/720/=
+29981=
+/39612_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fgru-=
+gestao-de-ti-com-tivit" style=3D"width: 100%; color: #333333; float: left;=
+ margin-top: 6px; line-height: 180%; text-decoration: none;"><span style=
+=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12px;">=
+14:07</span><span style=3D"font-size:16px;">GRU gest=C3=A3o de TI com Tivi=
+t</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39615_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Ffh-c=
+ertificada-run-sap-operations" style=3D"width: 100%; color: #333333; float=
+: left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span =
+style=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12=
+px;">11:30</span><span style=3D"font-size:16px;">FH certificada Run SAP Op=
+erations</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/72=
+0/=
+29981=
+/39616_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fzein=
+al-bava-pede-as-contas-na-oi" style=3D"width: 100%; color: #333333; float:=
+ left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span s=
+tyle=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12p=
+x;">11:12</span><span style=3D"font-size:16px;">Zeinal Bava pede as contas=
+ na Oi</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39610_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fti-j=
+a-emprega-13-milhao-no-brasil" style=3D"width: 100%; color: #333333; float=
+: left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span =
+style=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12=
+px;">10:56</span><span style=3D"font-size:16px;">TI j=C3=A1 emprega 1,3 mi=
+lh=C3=A3o no Brasil</span></a><br /><a href=3D"http://d-click.baguete.com.=
+br/u/287/720/=
+29981=
+/39617_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fsyma=
+ntec-avalia-divisao-interna" style=3D"width: 100%; color: #333333; float: =
+left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span st=
+yle=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 12px=
+;">10:49</span><span style=3D"font-size:16px;">Symantec avalia divis=C3=A3=
+o interna</span></a><br /><a href=3D"http://d-click.baguete.com.br/u/287/7=
+20/=
+29981=
+/39618_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias%2F08%2F10%2F2014%2Fquer=
+-politica-fora-do-seu-facebook" style=3D"width: 100%; color: #333333; floa=
+t: left; margin-top: 6px; line-height: 180%; text-decoration: none;"><span=
+ style=3D"float: left; margin: 0 15px 0 14px; color: #999999; font-size: 1=
+2px;">10:36</span><span style=3D"font-size:16px;">Quer pol=C3=ADtica fora =
+do seu Facebook?</span></a></div></td></tr></tbody></table><table cellpadd=
+ing=3D"0" cellspacing=3D"0" style=3D"padding: 10px 8px; margin-bottom: 10p=
+x; font-size: 11px;"><tbody><tr><td><div style=3D"float: left; width: 100%=
+;"><b style=3D"font-size: 25px; color: #CCCCCC; display: table; width: 100=
+%;">CASES</b><div class=3D"case-image" style=3D"margin: 15px 1px; display:=
+ inline-block;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39619_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcases%2Fprocessor%2Fcase-process=
+or" target=3D"_blank"><img alt=3D"" height=3D"204" src=3D"http://www.bague=
+te.com.br/img/cases/case-processor.png" width=3D"305" /></a></div><div cla=
+ss=3D"case-image" style=3D"margin: 15px 1px; display: inline-block;"><a hr=
+ef=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39620_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcases%2Fsiemens%2Fcase-siemens" =
+target=3D"_blank"><img alt=3D"" height=3D"204" src=3D"http://www.baguete.c=
+om.br/img/cases/case-siemens-v2.png" width=3D"305" /></a></div></div></td>=
+</tr></tbody></table><table align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width: 100%; margin-bottom: 10px;"><tbody><tr><td style=3D=
+"padding-left: 35px; float: left"><a href=3D"http://d-click.baguete.com.br=
+/u/287/720/=
+29981=
+/39621_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fopenx%2Fwww%2Fdelivery%2Fck.php%=
+3Fzoneid%3D89" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://=
+www.baguete.com.br/openx/www/delivery/avw.php?zoneid=3D89&cb=3D76443" /></=
+a></td><td style=3D"padding-right: 35px; float: right"><a href=3D"http://d=
+-click.baguete.com.br/u/287/720/=
+29981=
+/39622_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fopenx%2Fwww%2Fdelivery%2Fck.php%=
+3Fzoneid%3D90" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://=
+www.baguete.com.br/openx/www/delivery/avw.php?zoneid=3D90&cb=3D76443" /></=
+a></td></tr></tbody></table><table cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"width: 100%; padding: 10px; margin-bottom: 10px;"><tbody><tr><td><di=
+v style=3D"padding-bottom: 15px; width: 100%; display: table;"><div style=
+=3D"width: 45%; float: left; padding: 0;"><b style=3D"font-size:25px; colo=
+r:#CCCCCC; display:table; width:100%;">AGENDA</b><div style=3D"margin:21px=
+ 0 0 0;"><div style=3D"display: table; margin: 0 0 0 0; width: 100%;"><div=
+ style=3D"float: left; background-color: #ff8103; width: 50px; height: 51p=
+x; color: #FFFFFF; margin: 0 19px 0 0; text-align: center;"><a href=3D"htt=
+p://d-click.baguete.com.br/u/287/720/=
+29981=
+/39623_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fdigit=
+alize-me-blumenau" style=3D"color: #FFFFFF; text-decoration: none;"><b sty=
+le=3D"float: left; width: 100%; margin: 7px 0 0 0; font-size: 22px; line-h=
+eight: 100%;">09</b> </a><p style=3D"margin: 0; padding: 0; float:left; wi=
+dth:100%; font-size:16px;"><a href=3D"http://d-click.baguete.com.br/u/287/=
+720/=
+29981=
+/39623_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fdigit=
+alize-me-blumenau" style=3D"color: #FFFFFF; text-decoration: none;">OUT</a=
+></p><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39623_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fdigit=
+alize-me-blumenau" style=3D"color: #FFFFFF; text-decoration: none;"> </a><=
+/div><h2 style=3D"font-weight: normal; padding: 0; margin: 0; line-height:=
+ 15px !important; font-size: 15px; line-height: 93%;"><a href=3D"http://d-=
+click.baguete.com.br/u/287/720/=
+29981=
+/39623_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fdigit=
+alize-me-blumenau" style=3D"color: #333333; text-decoration: none;">Digita=
+lize-me Blumenau</a></h2></div><div style=3D"display: table; margin: 9px 0=
+ 0 0; width: 100%;"><div style=3D"float: left; background-color: #ff8103; =
+width: 50px; height: 51px; color: #FFFFFF; margin: 0 19px 0 0; text-align:=
+ center;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39624_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fibmvi=
+aflow-cases-e-processos-que-podem-ajudar-a-reduzir-custos" style=3D"color:=
+ #FFFFFF; text-decoration: none;"><b style=3D"float: left; width: 100%; ma=
+rgin: 7px 0 0 0; font-size: 22px; line-height: 100%;">09</b> </a><p style=
+=3D"margin: 0; padding: 0; float:left; width:100%; font-size:16px;"><a hre=
+f=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39624_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fibmvi=
+aflow-cases-e-processos-que-podem-ajudar-a-reduzir-custos" style=3D"color:=
+ #FFFFFF; text-decoration: none;">OUT</a></p><a href=3D"http://d-click.bag=
+uete.com.br/u/287/720/=
+29981=
+/39624_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fibmvi=
+aflow-cases-e-processos-que-podem-ajudar-a-reduzir-custos" style=3D"color:=
+ #FFFFFF; text-decoration: none;"> </a></div><h2 style=3D"font-weight: nor=
+mal; padding: 0; margin: 0; line-height: 15px !important; font-size: 15px;=
+ line-height: 93%;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39624_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F09%2F10%2F2014%2Fibmvi=
+aflow-cases-e-processos-que-podem-ajudar-a-reduzir-custos" style=3D"color:=
+ #333333; text-decoration: none;">IBM/ViaFlow: Cases e processos que podem=
+ ajudar a reduzir custos</a></h2></div><div style=3D"display: table; margi=
+n: 9px 0 0 0; width: 100%;"><div style=3D"float: left; background-color: #=
+ff8103; width: 50px; height: 51px; color: #FFFFFF; margin: 0 19px 0 0; tex=
+t-align: center;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39625_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F10%2F10%2F2014%2F53-bo=
+m-dia-ti" style=3D"color: #FFFFFF; text-decoration: none;"><b style=3D"flo=
+at: left; width: 100%; margin: 7px 0 0 0; font-size: 22px; line-height: 10=
+0%;">10</b> </a><p style=3D"margin: 0; padding: 0; float:left; width:100%;=
+ font-size:16px;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39625_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F10%2F10%2F2014%2F53-bo=
+m-dia-ti" style=3D"color: #FFFFFF; text-decoration: none;">OUT</a></p><a h=
+ref=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39625_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F10%2F10%2F2014%2F53-bo=
+m-dia-ti" style=3D"color: #FFFFFF; text-decoration: none;"> </a></div><h2 =
+style=3D"font-weight: normal; padding: 0; margin: 0; line-height: 15px !im=
+portant; font-size: 15px; line-height: 93%;"><a href=3D"http://d-click.bag=
+uete.com.br/u/287/720/=
+29981=
+/39625_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F10%2F10%2F2014%2F53-bo=
+m-dia-ti" style=3D"color: #333333; text-decoration: none;">53=C2=B0 Bom-di=
+a TI</a></h2></div><div style=3D"display: table; margin: 9px 0 0 0; width:=
+ 100%;"><div style=3D"float: left; background-color: #ff8103; width: 50px;=
+ height: 51px; color: #FFFFFF; margin: 0 19px 0 0; text-align: center;"><a=
+ href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39626_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F11%2F10%2F2014%2Fpwn2w=
+in-ctf" style=3D"color: #FFFFFF; text-decoration: none;"><b style=3D"float=
+: left; width: 100%; margin: 7px 0 0 0; font-size: 22px; line-height: 100%=
+;">11</b> </a><p style=3D"margin: 0; padding: 0; float:left; width:100%; f=
+ont-size:16px;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39626_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F11%2F10%2F2014%2Fpwn2w=
+in-ctf" style=3D"color: #FFFFFF; text-decoration: none;">OUT</a></p><a hre=
+f=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39626_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F11%2F10%2F2014%2Fpwn2w=
+in-ctf" style=3D"color: #FFFFFF; text-decoration: none;"> </a></div><h2 st=
+yle=3D"font-weight: normal; padding: 0; margin: 0; line-height: 15px !impo=
+rtant; font-size: 15px; line-height: 93%;"><a href=3D"http://d-click.bague=
+te.com.br/u/287/720/=
+29981=
+/39626_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F11%2F10%2F2014%2Fpwn2w=
+in-ctf" style=3D"color: #333333; text-decoration: none;">Pwn2Win CTF</a></=
+h2></div><div style=3D"display: table; margin: 9px 0 0 0; width: 100%;"><d=
+iv style=3D"float: left; background-color: #ff8103; width: 50px; height: 5=
+1px; color: #FFFFFF; margin: 0 19px 0 0; text-align: center;"><a href=3D"h=
+ttp://d-click.baguete.com.br/u/287/720/=
+29981=
+/39627_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F13%2F10%2F2014%2Fcurso=
+-desenvolvimento-de-software-seguro" style=3D"color: #FFFFFF; text-decorat=
+ion: none;"><b style=3D"float: left; width: 100%; margin: 7px 0 0 0; font-=
+size: 22px; line-height: 100%;">13</b> </a><p style=3D"margin: 0; padding:=
+ 0; float:left; width:100%; font-size:16px;"><a href=3D"http://d-click.bag=
+uete.com.br/u/287/720/=
+29981=
+/39627_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F13%2F10%2F2014%2Fcurso=
+-desenvolvimento-de-software-seguro" style=3D"color: #FFFFFF; text-decorat=
+ion: none;">OUT</a></p><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39627_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F13%2F10%2F2014%2Fcurso=
+-desenvolvimento-de-software-seguro" style=3D"color: #FFFFFF; text-decorat=
+ion: none;"> </a></div><h2 style=3D"font-weight: normal; padding: 0; margi=
+n: 0; line-height: 15px !important; font-size: 15px; line-height: 93%;"><a=
+ href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39627_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F13%2F10%2F2014%2Fcurso=
+-desenvolvimento-de-software-seguro" style=3D"color: #333333; text-decorat=
+ion: none;">Curso Desenvolvimento de Software Seguro</a></h2></div><div st=
+yle=3D"display: table; margin: 9px 0 0 0; width: 100%;"><div style=3D"floa=
+t: left; background-color: #ff8103; width: 50px; height: 51px; color: #FFF=
+FFF; margin: 0 19px 0 0; text-align: center;"><a href=3D"http://d-click.ba=
+guete.com.br/u/287/720/=
+29981=
+/39628_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F14%2F10%2F2014%2Frakut=
+en-expo-2014" style=3D"color: #FFFFFF; text-decoration: none;"><b style=3D=
+"float: left; width: 100%; margin: 7px 0 0 0; font-size: 22px; line-height=
+: 100%;">14</b> </a><p style=3D"margin: 0; padding: 0; float:left; width:1=
+00%; font-size:16px;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39628_1/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F14%2F10%2F2014%2Frakut=
+en-expo-2014" style=3D"color: #FFFFFF; text-decoration: none;">OUT</a></p>=
+<a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39628_2/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F14%2F10%2F2014%2Frakut=
+en-expo-2014" style=3D"color: #FFFFFF; text-decoration: none;"> </a></div>=
+<h2 style=3D"font-weight: normal; padding: 0; margin: 0; line-height: 15px=
+ !important; font-size: 15px; line-height: 93%;"><a href=3D"http://d-click=
+.baguete.com.br/u/287/720/=
+29981=
+/39628_3/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Feventos%2F14%2F10%2F2014%2Frakut=
+en-expo-2014" style=3D"color: #333333; text-decoration: none;">Rakuten Exp=
+o 2014</a></h2></div></div></div><div style=3D"width: 45%; float: right;">=
+<div style=3D"margin:0 0 0 0;"><b style=3D"color: #CCCCCC; display: table;=
+ font-size: 25px; width: auto; margin: 0 0 0 20px;">OPORTUNIDADES</b><div =
+style=3D"margin: 15px 0 0; text-align: center;"><a href=3D"http://d-click.=
+baguete.com.br/u/287/720/=
+29981=
+/39629_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Frh%2Fredirect%2F131" target=3D"_=
+blank"><img alt=3D"Staff RH" height=3D"54" src=3D"http://ww2.baguete.com.b=
+r/admin/var/image/user/1400274709_staff.jpg?w=3D220&h=3D54" title=3D"Staff=
+ RH" width=3D"220" /></a></div><ul style=3D"padding-left: 5px; margin: 19p=
+x 0 0 0;"><li style=3D"display: table; width: 100%; margin: 0 0 0 0;"><a h=
+ref=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39630_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F02%2F10%2F201=
+4%2Fprojetista-de-software" style=3D"float: left; padding: 0 9px 0 24px; f=
+ont-size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Projetis=
+ta de Software</a></li><li style=3D"display: table; width: 100%; margin: 1=
+0px 0 0 0;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39631_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F02%2F10%2F201=
+4%2Fanalista-de-sistemas" style=3D"float: left; padding: 0 9px 0 24px; fon=
+t-size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Analista d=
+e Sistemas</a></li><li style=3D"display: table; width: 100%; margin: 10px =
+0 0 0;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39632_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F25%2F09%2F201=
+4%2Fconsultor-tecnico-de-produto-comex" style=3D"float: left; padding: 0 9=
+px 0 24px; font-size: 15px; color: #333333; text-decoration: none;">=
+=E2=80=A2 Consultor T=C3=A9cnico de Produto (Comex)</a></li><li style=3D"d=
+isplay: table; width: 100%; margin: 10px 0 0 0;"><a href=3D"http://d-click=
+.baguete.com.br/u/287/720/=
+29981=
+/39633_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F25%2F09%2F201=
+4%2Fauxiliar-de-ti" style=3D"float: left; padding: 0 9px 0 24px; font-size=
+: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Auxiliar de TI</=
+a></li><li style=3D"display: table; width: 100%; margin: 10px 0 0 0;"><a h=
+ref=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39634_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F19%2F09%2F201=
+4%2Fanalista-de-suporte-a-sistemas" style=3D"float: left; padding: 0 9px 0=
+ 24px; font-size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 =
+Analista de Suporte a Sistemas</a></li><li style=3D"display: table; width:=
+ 100%; margin: 10px 0 0 0;"><a href=3D"http://d-click.baguete.com.br/u/287=
+/720/=
+29981=
+/39635_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F19%2F09%2F201=
+4%2Fadministrador-de-redes" style=3D"float: left; padding: 0 9px 0 24px; f=
+ont-size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Administ=
+rador de Redes</a></li><li style=3D"display: table; width: 100%; margin: 1=
+0px 0 0 0;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39636_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F11%2F09%2F201=
+4%2Finstrutor-de-treinamento" style=3D"float: left; padding: 0 9px 0 24px;=
+ font-size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Instru=
+tor de Treinamento</a></li><li style=3D"display: table; width: 100%; margi=
+n: 10px 0 0 0;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39637_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F29%2F08%2F201=
+4%2Fdesenvolvedor-php-conversao-de-dados" style=3D"float: left; padding: 0=
+ 9px 0 24px; font-size: 15px; color: #333333; text-decoration: none;">=
+=E2=80=A2 Desenvolvedor PHP - Convers=C3=A3o de Dados</a></li><li style=3D=
+"display: table; width: 100%; margin: 10px 0 0 0;"><a href=3D"http://d-cli=
+ck.baguete.com.br/u/287/720/=
+29981=
+/39638_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F29%2F08%2F201=
+4%2Fdesenvolvedor-cc" style=3D"float: left; padding: 0 9px 0 24px; font-si=
+ze: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Desenvolvedor =
+C/C++</a></li><li style=3D"display: table; width: 100%; margin: 10px 0 0 0=
+;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39639_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fvagas%2Fstaff-rh%2F29%2F08%2F201=
+4%2Fdesenvolvedor-java" style=3D"float: left; padding: 0 9px 0 24px; font-=
+size: 15px; color: #333333; text-decoration: none;">=E2=80=A2 Desenvolvedo=
+r Java</a></li></ul></div></div></div></td></tr></tbody></table></td></tr>=
+</tbody></table><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"display: table; height: 303px; position: relative; z-index: 1;"=
+ width=3D"631"><tbody><tr><td><div style=3D"width: 100%; height: 303px; di=
+splay: table;"><div style=3D"height: 190px; padding: 24px 0 0 0; position:=
+ relative; background-color: #ebebeb;"><div><ul style=3D"width: 20%; list-=
+style: none outside none; float:left;"><li style=3D"margin-top:0;"><a href=
+=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39640_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fnoticias" style=3D"font:14px Hel=
+vetica; color:#666666; line-height:100%; text-decoration: none;">Not=C3=AD=
+cias</a></li><li style=3D"margin-top:6px;"><a href=3D"http://d-click.bague=
+te.com.br/u/287/720/=
+29981=
+/39641_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fartigos" style=3D"font:14px Helv=
+etica; color:#666666; line-height:100%; text-decoration: none;">Artigos</a=
+></li><li style=3D"margin-top:6px;"><a href=3D"http://d-click.baguete.com.=
+br/u/287/720/=
+29981=
+/39642_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcolunistas" style=3D"font:14px H=
+elvetica; color:#666666; line-height:100%; text-decoration: none;">Colunis=
+tas</a></li><li style=3D"margin-top:6px;"><a href=3D"http://d-click.baguet=
+e.com.br/u/287/720/=
+29981=
+/39643_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcarreira" style=3D"font:14px Hel=
+vetica; color:#666666; line-height:100%; text-decoration: none;">Carreira<=
+/a></li><li style=3D"margin-top:6px;"><a href=3D"http://d-click.baguete.co=
+m.br/u/287/720/=
+29981=
+/39644_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fagenda" style=3D"font:14px Helve=
+tica; color:#666666; line-height:100%; text-decoration: none;">Agenda</a><=
+/li></ul><ul style=3D"width: 20%; list-style: none outside none; float:lef=
+t; font-weight:bold;"><li style=3D"margin-top:0;"><a href=3D"http://d-clic=
+k.baguete.com.br/u/287/720/=
+29981=
+/39645_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fbaguete" style=3D"font-weight:bo=
+ld; font:14px Helvetica; color:#666666; line-height:100%; text-decoration:=
+ none;">Sobre</a></li><li style=3D"margin-top:6px;"><a href=3D"http://d-cl=
+ick.baguete.com.br/u/287/720/=
+29981=
+/39646_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fanuncie" style=3D"font-weight:bo=
+ld; font:14px Helvetica; color:#666666; line-height:100%; text-decoration:=
+ none;">Anuncie</a></li><li style=3D"margin-top:6px;"><a href=3D"http://d-=
+click.baguete.com.br/u/287/720/=
+29981=
+/39647_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcontato" style=3D"font-weight:bo=
+ld; font:14px Helvetica; color:#666666; line-height:100%; text-decoration:=
+ none;">Contato</a></li></ul><ul style=3D"list-style: none outside none; f=
+loat:left;"><li style=3D"margin:0 0 0 0; line-height: 20px;"><a href=3D"ht=
+tp://d-click.baguete.com.br/u/287/720/=
+29981=
+/39648_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Ftwitter.com%2Fbaguete" style=3D"display:table; font-s=
+ize: 14px; color:#666666; text-decoration: none;">Siga o Baguete no Twitte=
+r</a></li><li style=3D"margin:20px 0 0 0; line-height: 20px;"><a href=3D"h=
+ttp://d-click.baguete.com.br/u/287/720/=
+29981=
+/39649_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Ffacebook.com%2FPortalBaguete" style=3D"display:table;=
+ font-size: 14px; color:#666666; text-decoration: none;">Curta o Baguete n=
+o Facebook</a></li><li style=3D"margin:20px 0 0 0; line-height: 20px;"><a =
+href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39650_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Frss%2Fnoticias%2Ffeed" style=3D"=
+display:table; font-size: 14px; color:#666666; text-decoration: none;">Ass=
+ine o feed do Baguete</a></li><li style=3D"margin:20px 0 0 0; line-height:=
+ 20px;"><a href=3D"http://d-click.baguete.com.br/u/287/720/=
+29981=
+/39651_0/=
+82495=
+/?url=3Dhttp%3A%2F%2Fwww.baguete.com.br%2Fcadastro-newsletter" style=3D"di=
+splay:table; font-size: 14px; color:#666666; text-decoration: none;">Assin=
+e a newsletter Baguete</a></li></ul></div></div><div style=3D"width: 100%;=
+ height: 89px; display: table; background-color: #2b435c;"><p style=3D"mar=
+gin: 36px 0 0 11px; color: #D7DDE4;">Baguete Jornalismo Digital | Todos os=
+ direitos reservados</p></div></div></td></tr></tbody></table></td></tr></=
+tbody></table><center style=3D"font-family: Arial,Helvetica,sans-serif; fo=
+nt-size: 10px"><a href=3D"http://d-app.baguete.com.br/o/287/720/=
+29981=
+/=
+82495=
+" target=3D"_BLANK" style=3D"font-family: Arial,Helvetica,sans-serif; font=
+-size: 10px">Descadastre-se </a> caso n=C3=A3o queira receber mais e-mails=
+.</center></body></html>
+
+--0bfc8a13a31d857f20e88ab4c627a5622118f01093bd05bf953236016683--

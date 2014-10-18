@@ -1,0 +1,325 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp409698icc;
+        Thu, 21 Aug 2014 09:34:25 -0700 (PDT)
+X-Received: by 10.236.26.101 with SMTP id b65mr8821741yha.75.1408638864995;
+        Thu, 21 Aug 2014 09:34:24 -0700 (PDT)
+Return-Path: <8290c884397cfdbebd4dd4ad73811bc4.User@sender4.mailsender.com.br>
+Received: from sender4cli01n.mailsender.com.br (sender4cli01n.mailsender.com.br. [67.21.115.220])
+        by mx.google.com with SMTP id u25si29590923yhg.60.2014.08.21.09.34.24
+        for <ajuver@gmail.com>;
+        Thu, 21 Aug 2014 09:34:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 8290c884397cfdbebd4dd4ad73811bc4.User@sender4.mailsender.com.br designates 67.21.115.220 as permitted sender) client-ip=67.21.115.220;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 8290c884397cfdbebd4dd4ad73811bc4.User@sender4.mailsender.com.br designates 67.21.115.220 as permitted sender) smtp.mail=8290c884397cfdbebd4dd4ad73811bc4.User@sender4.mailsender.com.br;
+       dkim=pass header.i=@direttamarketing.com.br;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=direttamarketing.com.br
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=direttamarketing.com.br;
+	s=sender; t=1408638864; bh=uwdeWJIq5HFX167WhqwJ3P9aTXM=;
+	h=From:To:Date:Subject:Message-Id:Reply-To:Errors-To:
+	 List-Unsubscribe:X-Report-Abuse:X-Organization:X-Sender:X-Identity:
+	 X-Campaign:X-Campaignid:X-rpcampaign:X-RPTags:X-Mailer:
+	 MIME-Version:Content-Type;
+	b=PhpYq8cWMGOFDq9+5qH11VHsc4/KZKpfgE0ux1E00ag4Is2dP7hWyna818/xix8QK
+	 EAhTlLY5zS1qWFYsc9ICUz7nI7NI5RB6j8cagcEMaehZbsh5y4xyvmHzqopgT50YRI
+	 fqd8srullGWTb+vnAQUAe1MWSN+jpxNSmZXhgiPw=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+	q=dns; d=direttamarketing.com.br; s=sender;
+	h=From:To:Date:Subject:Message-Id:Reply-To:Errors-To:List-Unsubscribe:X-Report-Abuse:X-Organization:X-Sender:X-Identity:X-Campaign:X-Campaignid:X-rpcampaign:X-RPTags:X-Mailer:MIME-Version:Content-Type;
+	b=cGW+izFd5Y2RwG7E/cyallW1ZK3ktJLYSXCFAsQJq0wjSt5fZckg+QKpsgbg6oTh4RMy6gTsM6iINGTsB4ebscCV2VW6qV2Eyr9XXG/TlNFOZDUzNQJaBRyAvd6w1W02fCvKQktnipPVRqkK/r2nDXvAWTPr09os1EdpaMPM27w=;
+From: Netshoes - Parceiro Diretta <parceiros@direttamarketing.com.br>
+To: ajuver@gmail.com
+Date: Thu, 21 Aug 2014 13:34:24 -0300
+Subject: =?utf-8?Q?Netshoes:=20Veja=20a=20sele=C3=A7=C3=A3o=20de=20produtos=20com=20no=20m=C3=ADnimo=2015=20por=20cento=20OFF.=20Aproveite!?=
+Message-Id: <8290c884397cfdbebd4dd4ad73811bc4@sender4.mailsender.com.br>
+Reply-To: Netshoes - Parceiro Diretta <parceiros@direttamarketing.com.br>
+Errors-To: 8290c884397cfdbebd4dd4ad73811bc4.User@sender4.mailsender.com.br
+List-Unsubscribe: <mailto:8290c884397cfdbebd4dd4ad73811bc4-8e0d3fd086de13eeb07981fdc588d415.user@unsubscribe.mailsender.com.br>,<http://www.mailsender.com.br/Sistema/util/Unsubscribe.php?TkEnvio=8290c884397cfdbebd4dd4ad73811bc4&Srv=8e0d3fd086de13eeb07981fdc588d415>
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailsender.com.br/Sistema/util/Unsubscribe.php?TkEnvio=8290c884397cfdbebd4dd4ad73811bc4&Srv=8e0d3fd086de13eeb07981fdc588d415
+X-Organization: MailSender (SENDER4 - Sender4)
+X-Sender: 8e0d3fd086de13eeb07981fdc588d415
+X-Identity: 8290c884397cfdbebd4dd4ad73811bc4
+X-Campaign: 413b4e2761010a05aa714a9d0b732dda
+X-Campaignid: 413b4e2761010a05aa714a9d0b732dda
+X-rpcampaign: 413b4e2761010a05aa714a9d0b732dda
+X-RPTags: c114bee7a15bb059418e7381284ca9cf
+X-Mailer: MailSender Version: 4.0.0 - http://www.mailsender.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_12345"
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_12345
+Content-Type: text/html; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+<MailSender-ID 8290c884397cfdbebd4dd4ad73811bc4>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0A<!DOCTYPE html =
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xh=
+tml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.w3.org/19=
+99/xhtml">=0A=09<head>=0A=09=09<meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3DISO-8859-1" /> =0A=09=09<title>Netshoes.com.br<=
+/title>=0A=09</head>=0A=09=0A=09<body>=0A=09<table width=3D"565" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09<tr=
+>=0A=09=09=09<td>=0A=09=09=09=09<table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" align=3D"center">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09<td align=3D"center"><font face=3D"Trebuchet MS, Helvetica, sans-s=
+erif" size=3D"1" color=3D"#3f3f3f" align=3D"center">Caso n=C3=A3o consig=
+a visualizar as imagens selecione "Sempre mostrar conte=C3=BAdo" ou <a s=
+tyle=3D"text-decoration:none" href=3D"http://imgemail.nsports.com.br/201=
+40821/diretta/21-08_diretta.html" target=3D"_blank">Acesse esse link.<br=
+/><br/></a></font></a></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table=
+>=0A=09=09=09</td>=0A=09=09</tr>=0A=09=09<tr>=0A=09=09=09<td>=0A=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"c=
+enter">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><img src=3D"http:/=
+/imgemail.nsports.com.br/parceiros/novolayout/header/diretta.jpg" alt=3D=
+"Diretta" title=3D"Diretta" border=3D"0" style=3D"display:block;" /></a>=
+</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09</td>=0A=
+=09=09</tr>=0A=09=09<tr>=0A=09=09=09<td>=0A=09=09=09=09<table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"1" align=3D"center" width=3D"503" >=
+=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D"center">=0A=09=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"1=
+" align=3D"center" width=3D"480" >=0A=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09<td>=C2=A0</td>=0A=09=09=09=09=09=09=09=09</tr>=
+=09=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td alig=
+n=3D"justify"><font face=3D"Trebuchet MS, Helvetica, sans-serif" size=3D=
+"1" color=3D"#3f3f3f">Voc=C3=AA, que =C3=A9 cadastrado no site Diretta M=
+arketing, agora pode aproveitar ofertas exclusivas da Netshoes</font></t=
+d>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09<td align=3D"justify"><font face=3D"Trebuchet MS=
+, Helvetica, sans-serif" size=3D"1" color=3D"#3f3f3f">N=C3=A3o deseja ma=
+is receber nossas mensagens=3F <a style=3D"text-decoration:none" href=3D=
+"http://sender4Click.mailsender.com.br/Descadastrar=3Ffaaf2a16abc763f3c3=
+55c0e31eec1a71&8290c884397cfdbebd4dd4ad73811bc4" target=3D"_blank"> Aces=
+se esse link.<br/><br/></a></font></td>=0A=09=09=09=09=09=09=09=09</tr>=
+=09=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=C2=
+=A0</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=
+=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=
+=0A=09=09=09</td>=0A=09=09</tr>=0A<!-- campaign=3Dparceiros-sab-promo&ut=
+m_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campaign=3Dpar_mail_d=
+irett_-_-mail_dirett_u_-_- =0A=09=09<tr>=0A=09=09=09<td>=0A=09=09=09=09<=
+table width=3D"568" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ali=
+gn=3D"center" >=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><a style=
+=3D"text-decoration:none" href=3D"http://www.netshoes.com.br/lst/hojeedi=
+a=3Fcampaign=3Dnqdowebkznoo&utm_source=3Dpar_mail_dirett_u&utm_medium=3D=
+mail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-bn65-_-hjedd_var=
+_lnh_mail__hoje-e-dia__140821__" target=3D"_blank"><img src=3D"http://im=
+gemail.nsports.com.br/tarja/hjedd_23jun.jpg"  border=3D"0" style=3D"disp=
+lay:block;" alt=3D"Dia ds pais" title=3D"Dia ds pais" /></a></td>=0A=09=
+=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09</td>=0A=09=09</tr>=
+=09-->=0A=09=09=09=09<tr>=0A=09=09=09=09=09<td>=0A=09=09=09=09=09=09<tab=
+le width=3D"568" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" >=0A=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td>=
+<a style=3D"text-decoration:none" href=3D"http://www.netshoes.com.br/mix=
+/NoMin10EM=3Fcampaign=3Dparceiros-qui-promo&utm_source=3Dpar_mail_dirett=
+_u&utm_medium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-=
+destaque-_-neutra_var_lnh_mail__TODO-E-MAIL-COM-NO-MINIMO-10-DE-DESCONTO=
+__140821__" target=3D"_blank"><img src=3D"http://imgemail.nsports.com.br=
+/20140821/diretta/img/01.jpg"  border=3D"0" style=3D"display:block;" alt=
+=3D"MINIMO-10-DE-DESCONTO" title=3D"MINIMO-10-DE-DESCONTO" /></a></td>=
+=0A=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09</td>=0A=09=09=09=09</tr>=0A=09=09=0A=09=09=09<tr>=0A=09=09=09=09<=
+td>=0A=09=09=09=09=09<table width=3D"568" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" align=3D"center" >=0A=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09<td><img src=3D"http://imgemail.nsports.com.br/tarja/tarj=
+a_parceiro.jpg" width=3D"568" height=3D"23" border=3D"0" style=3D"displa=
+y:block;"  /></td>=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</table>=
+=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09=09<tr>=0A=09=09=09=09<td>=
+=0A=09=09=09=09=09<table width=3D"568" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" align=3D"center" >=0A=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09<td><a style=3D"text-decoration:none" href=3D"http://www.net=
+shoes.com.br/produto/jaqueta-umbro-twtr-woven-017-1350-172=3Fcampaign=3D=
+parceiros-qui-promo&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm=
+_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of1-_-neutra_var_prd_mai=
+l_umb_JAQUETA-UMBRO-TWTR-WOVEN__140821__" target=3D"_blank"><img src=3D"=
+http://imgemail.nsports.com.br/20140821/diretta/img/of1.jpg"  border=3D"=
+0" style=3D"display:block;" alt=3D"JAQUETA-UMBRO-TWTR-WOVEN" title=3D"JA=
+QUETA-UMBRO-TWTR-WOVEN" /></a></td>=0A=09=09=09=09=09=09=09<td><a style=
+=3D"text-decoration:none" href=3D"http://www.netshoes.com.br/mix/QuaOf1E=
+M=3Fcampaign=3Dparceiros-qui-promo&utm_source=3Dpar_mail_dirett_u&utm_me=
+dium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of2-_-neu=
+tra_var_lnh_mail_nik_TENIS-NIKE-AIR-FUTURUN-2__140821__" target=3D"_blan=
+k"><img src=3D"http://imgemail.nsports.com.br/20140821/diretta/img/of2.j=
+pg"  border=3D"0" style=3D"display:block;" alt=3D"TENIS-NIKE-AIR-FUTURUN=
+-2" title=3D"TENIS-NIKE-AIR-FUTURUN-2" /></a></td>=0A=09=09=09=09=09=09<=
+/tr>=0A=09=09=09=09=09</table>=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=
+=09=09=09<!------><tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<table width=
+=3D"568" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r" >=0A=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a style=3D"tex=
+t-decoration:none" href=3D"http://www.netshoes.com.br/super-descontos=3F=
+active=3Dmale&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campa=
+ign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-bx1-_-superdescontos_var_prd_m=
+ail_mzn_TENIS-MIZUNO-WAVE-IMPETUS__140821__" target=3D"_blank"><img src=
+=3D"http://imgemail.nsports.com.br/20140821/diretta/img/sd-01.jpg" width=
+=3D"568" border=3D"0" style=3D"display:block;" alt=3D"S=C3=83=C2=B3 hoje=
+" title=3D"S=C3=83=C2=B3 hoje" /></a></td>=0A=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09</td>=0A=09=09=09=09</tr>=0A=
+=09=09=09<tr> =0A=09=09=09=09<td>=0A=09=09=09=09=09<table width=3D"568" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" >=0A=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a style=3D"text-decor=
+ation:none" href=3D"http://www.netshoes.com.br/super-descontos=3Factive=
+=3Dfemale&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campaign=
+=3Dpar_mail_dirett_-_-mail_dirett_u_-_-bx1-_-superdescontos_var_prd_mail=
+_add_Tenis-Adidas-Vanquish-6__140821__" target=3D"_blank"><img src=3D"ht=
+tp://imgemail.nsports.com.br/20140821/diretta/img/sd-02.jpg" width=3D"56=
+8" border=3D"0" style=3D"display:block;" alt=3D"S=C3=83=C2=B3 hoje" titl=
+e=3D"S=C3=83=C2=B3 hoje" /></a></td>=0A=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09</table>=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09=0A=09=09=
+=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<table width=3D"568" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" >=0A=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a style=3D"text-decoration:=
+none" href=3D"http://www.netshoes.com.br/artigos-esportivos/Tenis%20Puma=
+%20Surgo%20SL=3Fcampaign=3Dparceiros-qui-promo&utm_source=3Dpar_mail_dir=
+ett_u&utm_medium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_=
+-_-of3-_-neutra_var_lnh_mail_pum_TENIS-PUMA-SURGO-SL__140821__" target=
+=3D"_blank"><img src=3D"http://imgemail.nsports.com.br/20140821/diretta/=
+img/of3.jpg"  border=3D"0" style=3D"display:block;" alt=3D"TENIS-PUMA-SU=
+RGO-SL" title=3D"TENIS-PUMA-SURGO-SL"/></a></td>=0A=09=09=09=09=09=09=09=
+<td><a style=3D"text-decoration:none" href=3D"http://www.netshoes.com.br=
+/produto/raquete-de-tennis-wilson-six-one-95-blx-040-0106-024=3Fcampaign=
+=3Dparceiros-qui-promo&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&=
+utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of4-_-neutra_var_prd_=
+mail_wilson_RAQUETE-DE-TENNIS-WILSON-STEAM-PRO-SMU__140821__" target=3D"=
+_blank"><img src=3D"http://imgemail.nsports.com.br/20140821/diretta/img/=
+of4.jpg"  border=3D"0" style=3D"display:block;" alt=3D"RAQUETE-DE-TENNIS=
+-WILSON" title=3D"RAQUETE-DE-TENNIS-WILSON" /></a></td>=0A=0A=09=09=09=
+=09=09=09=09=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</table>=0A=09=
+=09=09=09</td>=0A=09=09=09</tr>=0A=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=
+=09=09=09=09<table width=3D"568" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"center" >=0A=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09<td><a style=3D"text-decoration:none" href=3D"http://www.netshoes.=
+com.br/mix/AcaemcasaEM=3Fcampaign=3Dparceiros-qui-promo&utm_source=3Dpar=
+_mail_dirett_u&utm_medium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_=
+dirett_u_-_-bx2-_-neutra_var_lnh_mail__Sua-academia-em-casaESTACAO-DE-MU=
+SCULACAOcom-ate-R-600-OFF__140821__" target=3D"_blank"><img src=3D"http:=
+//imgemail.nsports.com.br/20140821/diretta/img/02.jpg"  border=3D"0" sty=
+le=3D"display:block;" alt=3D"ESTACAO-DE-MUSCULACAO" title=3D"ESTACAO-DE-=
+MUSCULACAO" /></a></td>=0A=0A=09=09=09=09=09=09=09=0A=09=09=09=09=09=09<=
+/tr>=0A=09=09=09=09=09</table>=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=
+=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<table width=3D"568" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" >=0A=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a style=3D"text-decorati=
+on:none" href=3D"http://www.netshoes.com.br/produto/umidificador-de-ar-r=
+elaxmedic-ultrassonico-golfinho--110-v-570-0505-008=3Fcampaign=3Dparceir=
+os-qui-promo&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campai=
+gn=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of5-_-neutra_var_prd_mail__UMID=
+IFICADOR-DE-AR-RELAXMEDIC-ULTRASSONICO-GOLFINHO---110-V__140821__" targe=
+t=3D"_blank"><img src=3D"http://imgemail.nsports.com.br/20140821/diretta=
+/img/of5.jpg"  border=3D"0" style=3D"display:block;" alt=3D"UMIDIFICADOR=
+-DE-AR-RELAXMEDIC-ULTRASSONICO-GOLFINHO" title=3D"UMIDIFICADOR-DE-AR-REL=
+AXMEDIC-ULTRASSONICO-GOLFINHO" /></a></td>=0A=09=09=09=09=09=09=09<td><a=
+ style=3D"text-decoration:none" href=3D"http://www.netshoes.com.br/produ=
+to/capacete-epic-bikes-mv-18-A37-0018-491=3Fcampaign=3Dparceiros-qui-pro=
+mo&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campaign=3Dpar_m=
+ail_dirett_-_-mail_dirett_u_-_-of6-_-neutra_var_prd_mail_epic_CAPACETE-E=
+PIC-BIKES-MV-18__140821__" target=3D"_blank"><img src=3D"http://imgemail=
+.nsports.com.br/20140821/diretta/img/of6.jpg"  border=3D"0" style=3D"dis=
+play:block;" alt=3D"CAPACETE-EPIC-BIKES-MV-18" title=3D"CAPACETE-EPIC-BI=
+KES-MV-18" /></a></td>=0A=0A=09=09=09=09=09=09=09=0A=09=09=09=09=09=09</=
+tr>=0A=09=09=09=09=09</table>=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=
+=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<table width=3D"568" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" >=0A=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a style=3D"text-decorati=
+on:none" href=3D"http://www.netshoes.com.br/lst/ofertas=3FNr=3DAND(produ=
+ct.productType.displayName:Chuteiras,product.department.displayName:Fute=
+bol),OR(price.pricelistLow:Menos%20de%20R$%2050,price.pricelistLow:R$%20=
+50%20-%20R$%20100)&campaign=3Dparceiros-qui-promo&utm_source=3Dpar_mail_=
+dirett_u&utm_medium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett=
+_u_-_-bxfin-_-neutra_var_lnh_mail__NO-MINIMO-10-OFF-NAS-MELHORES-CHUTEIR=
+AS__140821__" target=3D"_blank"><img src=3D"http://imgemail.nsports.com.=
+br/20140821/diretta/img/03.jpg"  border=3D"0" style=3D"display:block;" a=
+lt=3D"MELHORES-CHUTEIRAS"title=3D"MELHORES-CHUTEIRAS" /></a></td>=0A=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09</table>=0A=09=09=09=09</td>=0A=09=
+=09=09</tr>=0A=09=0A=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<t=
+able width=3D"568" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center" >=0A=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td><a st=
+yle=3D"text-decoration:none" href=3D"http://www.netshoes.com.br/produto/=
+raquete-de-tennis-wilson-steam-pro-smu-040-0080-096=3Fcampaign=3Dparceir=
+os-qui-promo&utm_source=3Dpar_mail_dirett_u&utm_medium=3Dmail&utm_campai=
+gn=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of7-_-neutra_var_prd_mail_wilso=
+n_RAQUETE-DE-TENNIS-WILSON-STEAM-PRO-SMU__140821__" target=3D"_blank"><i=
+mg src=3D"http://imgemail.nsports.com.br/20140821/diretta/img/of7.jpg"  =
+border=3D"0" style=3D"display:block;" alt=3D"RAQUETE-DE-TENNIS-WILSON-ST=
+EAM-PRO-SMU" title=3D"RAQUETE-DE-TENNIS-WILSON-STEAM-PRO-SMU" /></a></td=
+>=0A=09=09=09=09=09=09=09<td><a style=3D"text-decoration:none" href=3D"h=
+ttp://www.netshoes.com.br/artigos-esportivos/tenis-nike-flex-experience-=
+rn-2-msl=3Fcampaign=3Dparceiros-qui-promo&utm_source=3Dpar_mail_dirett_u=
+&utm_medium=3Dmail&utm_campaign=3Dpar_mail_dirett_-_-mail_dirett_u_-_-of=
+8-_-neutra_var_lnh_mail_nik_TENIS-NIKE-FLEX-EXPERIENCE__140821__" target=
+=3D"_blank"><img src=3D"http://imgemail.nsports.com.br/20140821/diretta/=
+img/of8.jpg"  border=3D"0" style=3D"display:block;" alt=3D"TENIS-NIKE-FL=
+EX-EXPERIENCE" title=3D"TENIS-NIKE-FLEX-EXPERIENCE" /></a></td>=0A=0A=09=
+=09=09=09=09=09=09=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</table>=
+=0A=09=09=09=09</td>=0A=09=09=09</tr>=09=09=0A=09=09=09<tr>=0A=09=09=09=
+=09<td>=0A=09=09=09=09=09<table width=3D"568" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=09<tbody>=
+=0A=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td><img style=3D=
+"display:block;" alt=3D"" src=3D"http://imgemail.nsports.com.br/parceiro=
+s/novolayout/footer/footer_parceiro2.jpg" border=3D"0" /></td>=0A=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09</tab=
+le>=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=0A=09=09=09<tr>=0A=09=09=09=
+=09<table width=3D"568" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"center" >=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td valign=
+=3D"top">=0A=09=09=09=09=09=09=09<table width=3D"500" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" align=3D"center">=0A=09=09=09=09=09=0A=0A=
+=09=09=09=09=09=09=09=09<td width=3D"500" valign=3D"top">=0A=09=09=09=09=
+=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" a=
+lign=3D"center">=0A=09=09=09=09=09=09=09=09=09=09<td align=3D"justify">=
+=0A=09=09=09=09=09=09=09=09=09=09=09<font face=3D"Trebuchet MS, Helvetic=
+a, sans-serif" size=3D"1" color=3D"#3f3f3f"><br/>=0A=09=09=09=09=09=09=
+=09=09=09=09=09As ofertas anunciadas neste e-mail s=C3=A3o <b>v=C3=A1lid=
+as at=C3=A9 24/08/2014</b> ou enquanto durarem os estoques.<br/>=0A=09=
+=09=09=09=09=09=09=09=09=09=09<b>Oferecemos frete gratuito nas compras a=
+cima de R$ 99,00.</b> *Confira o regulamento no site. <br/>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<br/>=0A=09=09=09=09=09=09=09=09=09=09=09<b>Pre=
+=C3=A7os e condi=C3=A7=C3=B5es</b><br/>=0A=09=09=09=09=09=09=09=09=09=09=
+=09Pre=C3=A7os e condi=C3=A7=C3=B5es v=C3=A1lidos somente para compra po=
+r meio desta mensagem.<br/>=0A=09=09=09=09=09=09=09=09=09=09=09Caso haja=
+ diferen=C3=A7a de pre=C3=A7o ou descri=C3=A7=C3=A3o do produto entre es=
+te e-mail e o site, a condi=C3=A7=C3=A3o v=C3=A1lida e praticada ser=C3=
+=A1 a do site.<br/>=0A=09=09=09=09=09=09=09=09=09=09=09Compras feitas co=
+m cart=C3=B5es podem ser parceladas em at=C3=A9 12x sem juros, respeitan=
+do-se o valor da parcela m=C3=ADnima de R$ 25,00.=0A=09=09=09=09=09=09=
+=09=09=09=09=09<br/><br/>=0A=09=09=09=09=09=09=09=09=09=09=09<b>Promo=C3=
+=A7=C3=B5es</b><br/>=0A=09=09=09=09=09=09=09=09=09=09=09As promo=C3=A7=
+=C3=B5es na Netshoes n=C3=A3o s=C3=A3o cumulativas.<br/>=0A=09=09=09=09=
+=09=09=09=09=09=09=09As promo=C3=A7=C3=B5es classificadas como "S=C3=B3 =
+Hoje" s=C3=A3o v=C3=A1lidas somente na data de disparo deste e-mail<br/>=
+=0A=09=09=09=09=09=09=09=09=09=09=09Trata-se de um aviso informativo, n=
+=C3=A3o significa que voc=C3=AA est=C3=A1 comprando este produto nem ten=
+ha feito uma reserva de compra deste item.<br/>=0A=09=09=09=09=09=09=09=
+=09=09=09=09As imagens encontradas no e-mail s=C3=A3o meramente ilustrat=
+ivas.  <br/>=0A=09=09=09=09=09=09=09=09=09=09=09 =0A=09=09=09=09=09=09=
+=09=09=09=09=09Para esclarecer d=C3=BAvidas ou enviar sugest=C3=B5es, ac=
+esse nossa <a style=3D"text-decoration: none;" href=3D"http://www.netsho=
+es.com.br/central-de-relacionamento/index.jsp" target=3D"_blank">central=
+ de relacionamento</a>, escreva para <a style=3D"text-decoration: none;"=
+ href=3D"mailto:sac@netshoes.com.br">sac@netshoes.com.br</a> ou ligue (1=
+1) 3028-5333. <br/>=0A=09=09=09=09=09=09=09=09=09=09=09Nosso endere=C3=
+=A7o: Rua Vergueiro, 943 - Liberdade - CEP 01504-000 - S=C3=A3o Paulo - =
+SP - Brasil  <br/><br/><br/>=0A=09=0A=09=09=09=09=09=09=09=09=09=09=09</=
+font>=0A=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><font face=
+=3D"Trebuchet MS, Helvetica, sans-serif" size=3D"1" color=3D"#3f3f3f" al=
+ign=3D"center">N=C3=A3o deseja mais receber nossas mensagens=3F <a style=
+=3D"text-decoration:none" href=3D"http://sender4Click.mailsender.com.br/=
+Descadastrar=3Ffaaf2a16abc763f3c355c0e31eec1a71&8290c884397cfdbebd4dd4ad=
+73811bc4" target=3D"_blank"> Acesse esse link.<br/><br/></a></font></a><=
+/td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09</table>=09=0A=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=
+=09</tr>=0A=09=09</table>=0A=09<IMG SRC=3D'http://sender4Click.mailsende=
+r.com.br/Lidos=3F8290c884397cfdbebd4dd4ad73811bc4'></body>=0A</html>=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09
+
+------=_NextPart_12345--
+
+

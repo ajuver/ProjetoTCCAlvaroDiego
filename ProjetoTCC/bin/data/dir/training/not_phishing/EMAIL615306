@@ -1,0 +1,1480 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp552749icc;
+        Wed, 8 Oct 2014 17:52:43 -0700 (PDT)
+X-Received: by 10.42.233.75 with SMTP id jx11mr2222671icb.22.1412815962581;
+        Wed, 08 Oct 2014 17:52:42 -0700 (PDT)
+Return-Path: <smiles.52798@envfrm.rsys5.com>
+Received: from omp.relacionamento.smiles.com.br (omp.relacionamento.smiles.com.br. [199.7.204.146])
+        by mx.google.com with ESMTP id aw9si981072igc.58.2014.10.08.17.52.42
+        for <ajuver@gmail.com>;
+        Wed, 08 Oct 2014 17:52:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of smiles.52798@envfrm.rsys5.com designates 199.7.204.146 as permitted sender) client-ip=199.7.204.146;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of smiles.52798@envfrm.rsys5.com designates 199.7.204.146 as permitted sender) smtp.mail=smiles.52798@envfrm.rsys5.com;
+       dkim=pass header.i=@relacionamento.smiles.com.br;
+       dmarc=pass (p=NONE dis=NONE) header.from=relacionamento.smiles.com.br
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smiles; d=relacionamento.smiles.com.br;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=smiles@relacionamento.smiles.com.br;
+ bh=lu1EF8haetirCoduIOH/L9SKL8k=;
+ b=bYsy4W4x7nUNhvONPa1ZCVgKkBr+nA4KPsarqTfCmzVxNKtxUQzmhQR5JSTzYFQk/xX+SbqEbOzC
+   eZxSUbDSVGAEz/3Z8HNw8DPcbSbp3a7aZ1VCMnUuIMFjfGQLBZyJmaT6N89p+CdA/TnievJJs/D0
+   /59lq3N9qPUFuWSTWSw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smiles; d=relacionamento.smiles.com.br;
+ b=WdRvgxkDteWok6FD+ZiOBakk7w+auv4wRAqf5j8zFry4msNp78YVLs1//kCSWjga8zjnQ+ZXZaHk
+   TUfrSfQ3WftIjDpUZBBrKZLUgneEc0venANWBEm8g7p4HnUJJpXullKJ4aQh/MQls0bnO7lU6mDG
+   NXx1eZzITb0c9z7U5g4=;
+Received: by omp.relacionamento.smiles.com.br id h6ne5k1607gf for <ajuver@gmail.com>; Wed, 8 Oct 2014 17:52:35 -0700 (envelope-from <smiles.52798@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 8 Oct 2014 17:52:35 -0700
+To: ajuver@gmail.com
+From: "Smiles" <smiles@relacionamento.smiles.com.br>
+Reply-To: "Smiles" <smiles.portugues@golnaweb.com.br>
+Subject: =?UTF-8?B?QWx2YXJvOiBFeHRyYXRvIG9uLWxpbmUgZSBub3ZpZGFkZXMgcGE=?=
+	=?UTF-8?B?cmEgdm9jw6oh?=
+List-Unsubscribe: <http://relacionamento.smiles.com.br/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCf&_ei_=EolaGGF4SNMvxFF7KucKuWPeoProxzvgTn0bATK5IAJyIkUUYlRKrmwQabhfJwTyam7BXRDKKb8>, <mailto:unsubscribe-WQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCf@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: HrmNLjxnuHptQJhu
+X-rext: 4.interact5.EpG1FmG1mFQ4cIQuiWylBVgAdb8-McQc78M
+X-cid: smiles.310525
+Message-ID: <0.1.E.328.1CFE35B509B9212.0@omp.relacionamento.smiles.com.br>
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<html>
+  <head>
+    <title>Smiles</title>
+    <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=
+=3Dutf-8=22>
+    <style type=3D=22text/css=22>
+      =2Emaster=7Btable-layout: fixed;=7D
+      *=7Bline-height: 130%;=7D
+      div, p, a, li, td, span, b, strong =7B -webkit-text-size-adjust:none;=
+ -ms-text-size-adjust:none;=7D
+      =2EExternalClass    =7Bbackground: =23f0f0f0;=7D
+      =2Egmail a=7Bcolor:=23868a8d; text-decoration:none;=7D
+      =2EappleLinkWhite  a=7Bcolor: =23ffffff;text-decoration:none;=7D
+      =2EappleLinkBlack  a=7Bcolor: =234e4e4e;text-decoration:none;=7D
+      =2EappleLinkGrey   a=7Bcolor: =23565656;text-decoration:none;=7D
+      =40media only screen and (max-width:480px) =7B
+        table=5Bclass=3D=22mobile-only=22=5D=7B display:block =21important;=
+ text-align: center =21important;overflow: visible =21important;float: none=
+ =21important;line-height:100% =21important;=7D
+      =7D
+    </style>
+  </head>
+  <body bgcolor=3D=22=23f0f0f0=22 leftmargin=3D=220=22 topmargin=3D=220=22 =
+marginwidth=3D=220=22 marginheight=3D=220=22>
+    <table class=3D=22master=22 bgcolor=3D=22=23f0f0f0=22 cellpadding=3D=22=
+0=22 cellspacing=3D=220=22 border=3D=220=22 width=3D=22100%=22 align=3D=22c=
+enter=22>
+      <tr>
+        <td align=3D=22center=22 valign=3D=22middle=22>
+          <table width=3D=22700=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 align=3D=22center=22 border=3D=220=22>
+            <tr>
+              <td align=3D=22left=22 colspan=3D=222=22 valign=3D=22middle=
+=22>
+                <table width=3D=22700=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 border=3D=220=22 bgcolor=3D=22=23858689=22 class=3D=22mobile-onl=
+y=22 style=3D=22display:none;overflow:hidden; float:left; display:none; lin=
+e-height:0px;=22>
+                  <tr>
+                    <td width=3D=22700=22 height=3D=2225=22 align=3D=22cent=
+er=22 valign=3D=22middle=22 style=3D=22font-family: Arial, Helvetica, Tahom=
+a; font-size: 10px; color: =23f1f1f1=22>
+                      Ofertas imperd&iacute;veis no m&ecirc;s de outubro=2E
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=2215=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22background: =23f0f0f0;line=
+-height:15px;=22></td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=2215=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height: 15px;=22>
+                <table class=3D=22gmail=22 width=3D=22700=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 border=3D=220=22 bgcolor=3D=22=23f0f0f0=22>
+                  <tbody>
+                    <tr>
+                      <td width=3D=22700=22 height=3D=2215=22 align=3D=22ce=
+nter=22 valign=3D=22middle=22 style=3D=22font-family: Arial, Helvetica, Tah=
+oma; font-size: 11px; color: =23868a8d=22>
+                        Clique na estrela do Gmail para receber nossas novi=
+dades
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=2215=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height: 15px;backgrou=
+nd: =23f0f0f0;=22></td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=2250=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22background:=23ffffff;=22>
+                <table width=3D=22700=22 bgcolor=3D=22=23ffffff=22 cellpadd=
+ing=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22>
+                  <tr>
+                    <td width=3D=2230=22 height=3D=2250=22></td>
+                    <td width=3D=22315=22 height=3D=2250=22 valign=3D=22mid=
+dle=22 align=3D=22left=22  style=3D=22font-family:Arial, Helvetica, sans-se=
+rif; color:=23828484; font-size:11px; mso-line-height-rule:exactly;=22>
+                      Caso n&atilde;o consiga visualizar este e-mail, <a hr=
+ef=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DW=
+QpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYDAY&_ei_=3D=
+Es-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=
+=2E=22 target=3D=22_blank=22 style=3D=22color: =23828484;=22>clique aqui</a=
+>=2E
+                    </td>
+                    <td width=3D=22315=22 height=3D=2250=22 valign=3D=22mid=
+dle=22 align=3D=22right=22 style=3D=22font-family:Arial, Helvetica, sans-se=
+rif; color:=23828484; font-size:11px; mso-line-height-rule:exactly;=22>
+                      Se quiser ser removido desta lista, <a href=3D=22http=
+://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+iESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYYRY&_ei_=3DEs-zh2IbQFxG=
+CQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 targe=
+t=3D=22_blank=22 style=3D=22color: =23828484;=22 Rilt=3D=22Opt_Out=22>cliqu=
+e aqui</a>=2E
+                    </td>
+                    <td width=3D=2240=22 height=3D=2250=22></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=2215=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height: 15px;backgrou=
+nd: =23f0f0f0;=22></td>
+            </tr>
+            <tr>
+              <td width=3D=2210=22 align=3D=22left=22 valign=3D=22top=22 st=
+yle=3D=22background: =23f0f0f0;=22>
+                <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/2014100=
+7/03/imgs/space=2Egif=22 width=3D=2210=22 height=3D=22100=22 alt=3D=22=22 s=
+tyle=3D=22display: block;=22 border=3D=220=22>
+              </td>
+              <td width=3D=22690=22 align=3D=22left=22 valign=3D=22top=22>
+                <table width=3D=22690=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23ffffff=22>
+                  <tr>
+                    <td width=3D=22490=22 height=3D=2242=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                      <a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Eb=
+r/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJza=
+JBCfVXtpKX%3DTRYYTY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kB=
+nG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Site_smil=
+es_header=22>
+                        <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails=
+/20141007/03/imgs/header_1-p1=2Ejpg=22 width=3D=22490=22 height=3D=2242=22 =
+alt=3D=22Smiles=22 border=3D=220=22 style=3D=22display: block;font-family: =
+Arial, Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                      </a>
+                    </td>
+                    <td width=3D=22160=22 height=3D=2242=22 align=3D=22left=
+=22 valign=3D=22middle=22 style=3D=22background:=23f48221;=22>
+                      <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/2=
+0141007/03/imgs/header_1-p2=2Ejpg=22 width=3D=22160=22 height=3D=2242=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Arial=
+, Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                    </td>
+                    <td width=3D=2240=22 height=3D=2242=22 colspan=3D=222=
+=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22background:=23f0f0f=
+0;=22>
+                      <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/2=
+0141007/03/imgs/header_1-p3=2Ejpg=22 width=3D=2240=22 height=3D=2242=22 alt=
+=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Arial,=
+ Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align=3D=22left=22 valign=3D=22top=22 width=3D=2249=
+0=22 style=3D=22background:=23ffffff;=22>
+                      <table width=3D=22490=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23ffffff=
+=22>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2242=22 align=3D=
+=22left=22 valign=3D=22middle=22>
+                            <a href=3D=22http://relacionamento=2Esmiles=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KI=
+CqfJzaJBCfVXtpKX%3DTRYYTY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2e=
+neK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Sit=
+e_smiles_header=22>
+                              <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/=
+emails/20141007/03/imgs/header_2=2Ejpg=22 width=3D=22490=22 height=3D=2242=
+=22 alt=3D=22Outubro 2014=22 border=3D=220=22 style=3D=22display: block;dis=
+play: block;font-family: Arial, Helvetica, sans-serif;font-size: 10px;color=
+: =233f3f3f;=22>
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22center=22 valign=
+=3D=22middle=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color=
+: =23f58221; font-size: 18px;line-height:20px;mso-line-height-rule:exactly;=
+=22>
+                            <strong style=3D=22line-height:20px;=22>
+                              Confira as novidades imperd&iacute;veis<br>
+                              que preparamos para voc&ecirc;=2E
+                            </strong>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2215=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:15px;=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/space=2Egif=22 width=3D=22490=22 height=3D=2215=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <table width=3D=22490=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23f=
+fffff=22>
+                              <tr>
+                                <td width=3D=2220=22></td>
+                                <td width=3D=22443=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                 =20
+		<a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRATRY&=
+_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziT=
+G6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Promocao_Milhas_Turbinadas=22>
+		  <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/co=
+ntent_8=2Ejpg=22 width=3D=22443=22 height=3D=22210=22 alt=3D=22Promo&ccedil=
+;&atilde;o Milhas Turbinadas=2E Receba 18=2E000 milhas em 1 ano com o Clube=
+ Smiles=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Arial=
+, Helvetica, sans-serif;font-size: 14px;color: =233f3f3f;=22>
+		</a>
+                                </td>
+                                <td width=3D=2227=22></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/space=2Egif=22 width=3D=22490=22 height=3D=2210=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <table width=3D=22490=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23f=
+fffff=22>
+                              <tr>
+                                <td width=3D=2220=22></td>
+                                <td width=3D=22443=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                 =20
+		<a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRARRY&=
+_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziT=
+G6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Ganhe_milhas_FastShop=22>
+		  <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/co=
+ntent_2=2Ejpg=22 width=3D=22443=22 height=3D=22210=22 alt=3D=22Motivo para =
+sorrir n=2E 38=2E Ganhe milhas na Fast Shop=2E=22 border=3D=220=22 style=3D=
+=22display: block;font-family: Arial, Helvetica, sans-serif;font-size: 14px=
+;color: =233f3f3f;=22>
+		</a>
+                                </td>
+                                <td width=3D=2227=22></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/space=2Egif=22 width=3D=22490=22 height=3D=2210=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <table width=3D=22490=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23f=
+fffff=22>
+                              <tr>
+                                <td width=3D=2220=22></td>
+                                <td width=3D=22443=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                 =20
+		<a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRARTY&=
+_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziT=
+G6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Viaje_parceiras=22>
+		  <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/co=
+ntent_3=2Ejpg=22 width=3D=22443=22 height=3D=22210=22 alt=3D=22Viaje para m=
+ais de 700 destinos com as nossas parceiras a&eacute;reas=2E=22 border=3D=
+=220=22 style=3D=22display: block;font-family: Arial, Helvetica, sans-serif=
+;font-size: 14px;color: =233f3f3f;=22>
+		</a>
+                                </td>
+                                <td width=3D=2227=22></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/space=2Egif=22 width=3D=22490=22 height=3D=2210=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <table width=3D=22490=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23f=
+fffff=22>
+                              <tr>
+                                <td width=3D=2220=22></td>
+                                <td width=3D=22443=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                 =20
+		<a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYYCY&=
+_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziT=
+G6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Troque_milhas=22>
+		  <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/co=
+ntent_5=2Ejpg=22 width=3D=22443=22 height=3D=22210=22 alt=3D=22Troque suas =
+milhas por produtos no Shopping Smiles=2E=22 border=3D=220=22 style=3D=22di=
+splay: block;font-family: Arial, Helvetica, sans-serif;font-size: 14px;colo=
+r: =233f3f3f;=22>
+		</a>
+                                </td>
+                                <td width=3D=2227=22></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/space=2Egif=22 width=3D=22490=22 height=3D=2210=22 al=
+t=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D=22490=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <table width=3D=22490=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22>
+                              <tr>
+                                <td width=3D=22328=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                  <table width=3D=22328=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=
+=3D=22=23ffffff=22>
+                                    <tr>
+                                      <td width=3D=2218=22></td>
+                                      <td width=3D=22284=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                                        <a href=3D=22http://relacionamento=
+=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbz=
+amp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRARWY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWp=
+ry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 =
+Rilt=3D=22Transfira_pontos_destinos=22>
+                                          <img src=3D=22http://www=2Esmiles=
+=2Ecom=2Ebr/emails/20141007/03/imgs/content_9=2Ejpg=22 width=3D=22284=22 he=
+ight=3D=22236=22 alt=3D=22Destinos nacionais e internacionais=2E Volta a pa=
+rtir de 3=2E000 milhas=2E=22 border=3D=220=22 style=3D=22display: block;fon=
+t-family: Arial, Helvetica, sans-serif;font-size: 14px;color: =233f3f3f;=22>
+                                        </a>
+                                      </td>
+                                      <td width=3D=2226=22></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td align=3D=22left=22 valign=3D=22top=22 w=
+idth=3D=22162=22 rowspan=3D=223=22 style=3D=22background:=23ffffff;=22>
+                                  <table width=3D=22162=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22>
+                                    <tr>
+                                      <td width=3D=22162=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                                        <table width=3D=22162=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcol=
+or=3D=22=23ffffff=22>
+                                          <tr>
+                                            <td width=3D=22133=22 align=3D=
+=22left=22 valign=3D=22middle=22>
+                                              <a href=3D=22http://relaciona=
+mento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgz=
+aWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRARAY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUn=
+EqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blan=
+k=22 Rilt=3D=22Assine_Abril=22>
+                                                <img src=3D=22http://www=2E=
+smiles=2Ecom=2Ebr/emails/20141007/03/imgs/small_content_1=2Ejpg=22 width=3D=
+=22133=22 height=3D=22141=22 alt=3D=22Editora Abril=2E Assine e ganhe at&ea=
+cute; 21=2E500 milhas=2E=22 border=3D=220=22 style=3D=22display: block;font=
+-family: Arial, Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                                              </a>
+                                            </td>
+                                            <td width=3D=2229=22></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D=22162=22 height=3D=2223=
+=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:23px;=
+=22>
+                                        <img src=3D=22http://www=2Esmiles=
+=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 width=3D=22162=22 height=
+=3D=2223=22 alt=3D=22=22 border=3D=220=22 style=3D=22display: block;=22>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D=22162=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                                        <table width=3D=22162=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcol=
+or=3D=22=23ffffff=22>
+                                          <tr>
+                                            <td width=3D=22133=22 align=3D=
+=22left=22 valign=3D=22middle=22>
+                                              <a href=3D=22http://relaciona=
+mento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgz=
+aWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRARCY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUn=
+EqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blan=
+k=22 Rilt=3D=22Ganhe_milhas_Centauro=22>
+                                                <img src=3D=22http://www=2E=
+smiles=2Ecom=2Ebr/emails/20141007/03/imgs/small_content_2=2Ejpg=22 width=3D=
+=22133=22 height=3D=22141=22 alt=3D=22Centauro=2E Ganhe 4 milhas a cada R=
+=24 1,00=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Aria=
+l, Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                                              </a>
+                                            </td>
+                                            <td width=3D=2229=22></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D=22162=22 height=3D=2223=
+=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:23px;=
+=22>
+                                        <img src=3D=22http://www=2Esmiles=
+=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 width=3D=22162=22 height=
+=3D=2223=22 alt=3D=22=22 border=3D=220=22 style=3D=22display: block;=22>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D=22162=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                                        <table width=3D=22162=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcol=
+or=3D=22=23ffffff=22>
+                                          <tr>
+                                            <td width=3D=22133=22 align=3D=
+=22left=22 valign=3D=22middle=22>
+                                              <a href=3D=22https://www=2Epe=
+trobraspremmia=2Ecom=2Ebr/oferta-parceria/smiles/=22 target=3D=22_blank=22 =
+Rilt=3D=22Comprar_milhas_Petrobras=22>
+                                                <img src=3D=22http://www=2E=
+smiles=2Ecom=2Ebr/emails/20141007/03/imgs/small_content_3=2Ejpg=22 width=3D=
+=22133=22 height=3D=22141=22 alt=3D=22Petrobras Premmia=2E 42% de desconto =
+em compra de milhas=2E=22 border=3D=220=22 style=3D=22display: block;font-f=
+amily: Arial, Helvetica, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                                              </a>
+                                            </td>
+                                            <td width=3D=2229=22></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22328=22 height=3D=2210=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22>
+                                  <img src=3D=22http://www=2Esmiles=2Ecom=
+=2Ebr/emails/20141007/03/imgs/space=2Egif=22 width=3D=22328=22 height=3D=22=
+10=22 alt=3D=22=22 border=3D=220=22 style=3D=22display: block;=22>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22328=22 align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                  <table width=3D=22328=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=
+=3D=22=23ffffff=22>
+                                    <tr>
+                                      <td width=3D=2218=22></td>
+                                      <td width=3D=22284=22 align=3D=22left=
+=22 valign=3D=22middle=22>
+                                        <table width=3D=22284=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcol=
+or=3D=22=23ffffff=22>
+                                          <tr>
+                                            <td align=3D=22left=22 valign=
+=3D=22middle=22>
+                                              <img src=3D=22http://www=2Esm=
+iles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p1=2Ejpg=22 width=3D=222=
+84=22 height=3D=22106=22 alt=3D=22Agora ganhe milhas no e-commerce das Drog=
+arias=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Arial, =
+Helvetica, sans-serif;font-size: 14px;color: =233f3f3f;=22>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td align=3D=22left=22 valign=
+=3D=22middle=22>
+                                              <table width=3D=22284=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=3D=220=22=
+ bgcolor=3D=22=23ffffff=22>
+                                                <tr>
+                                                  <td width=3D=2259=22 heig=
+ht=3D=22116=22 align=3D=22left=22 valign=3D=22middle=22>
+                                                    <img src=3D=22http://ww=
+w=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p2=2Ejpg=22 width=
+=3D=2259=22 height=3D=22116=22 alt=3D=22=22 border=3D=220=22 style=3D=22dis=
+play: block;font-family: Arial, Helvetica, sans-serif;font-size: 10px;color=
+: =233f3f3f;=22>
+                                                  </td>
+                                                  <td width=3D=22164=22 hei=
+ght=3D=228=22 align=3D=22left=22 valign=3D=22top=22>
+                                                    <table width=3D=22164=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22left=22 border=
+=3D=220=22 bgcolor=3D=22=23ffffff=22>
+                                                      <tr>
+                                                        <td width=3D=22164=
+=22 height=3D=2236=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22l=
+ine-height: 36px;=22>
+                                                          <a href=3D=22http=
+://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+iESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRASTY&_ei_=3DEs-zh2IbQFxG=
+CQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 targe=
+t=3D=22_blank=22 Rilt=3D=22Ganhe_milhas_drogarias_pacheco=22>
+                                                            <img src=3D=22h=
+ttp://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p3=2Ejpg=
+=22 width=3D=22164=22 height=3D=2236=22 alt=3D=22Drogarias Pacheco=22 borde=
+r=3D=220=22 style=3D=22display: block;font-family: Arial, Helvetica, sans-s=
+erif;font-size: 10px;color: =233f3f3f;=22>
+                                                          </a>
+                                                        </td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td width=3D=22164=
+=22 height=3D=228=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22li=
+ne-height: 8px;=22>
+                                                          <img src=3D=22htt=
+p://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p5=2Ejpg=22 =
+width=3D=22164=22 height=3D=228=22 alt=3D=22=22 border=3D=220=22 style=3D=
+=22display: block;font-family: Arial, Helvetica, sans-serif;font-size: 10px=
+;color: =233f3f3f;=22>
+                                                        </td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td width=3D=22164=
+=22 height=3D=2239=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22l=
+ine-height: 39px;=22>
+                                                          <a href=3D=22http=
+://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+iESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRASWY&_ei_=3DEs-zh2IbQFxG=
+CQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 targe=
+t=3D=22_blank=22 Rilt=3D=22Ganhe_milhas_drogaria_sp=22>
+                                                            <img src=3D=22h=
+ttp://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p6=2Ejpg=
+=22 width=3D=22164=22 height=3D=2239=22 alt=3D=22Drogaria S&atilde;o Paulo=
+=22 border=3D=220=22 style=3D=22display: block;font-family: Arial, Helvetic=
+a, sans-serif;font-size: 10px;color: =233f3f3f;=22>
+                                                          </a>
+                                                        </td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td width=3D=22164=
+=22 height=3D=2233=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22l=
+ine-height: 33px;=22>
+                                                          <img src=3D=22htt=
+p://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p7=2Ejpg=22 =
+width=3D=22164=22 height=3D=2233=22 alt=3D=22*exceto medicamentos=22 border=
+=3D=220=22 style=3D=22display: block;font-family: Arial, Helvetica, sans-se=
+rif;font-size: 10px;color: =233f3f3f;=22>
+                                                        </td>
+                                                      </tr>
+                                                    </table>
+                                                  </td>
+                                                  <td width=3D=2261=22 heig=
+ht=3D=22116=22 align=3D=22left=22 valign=3D=22middle=22>
+                                                    <img src=3D=22http://ww=
+w=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/content_10-p4=2Ejpg=22 width=
+=3D=2261=22 height=3D=22116=22 alt=3D=22=22 border=3D=220=22 style=3D=22dis=
+play: block;font-family: Arial, Helvetica, sans-serif;font-size: 10px;color=
+: =233f3f3f;=22>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                      <td width=3D=2226=22></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width=3D=22160=22 valign=3D=22top=22 style=3D=22bac=
+kground:=23f0f0f0;=22>
+                      <table width=3D=22160=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22 align=3D=22center=22 border=3D=22=
+0=22>
+                        <tr>
+                          <td width=3D=22160=22 align=3D=22left=22 valign=
+=3D=22middle=22 style=3D=22background:=23f48221;=22>
+                            <table width=3D=22160=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 bgcolor=3D=22=23f48221=22 align=3D=22center=22 border=
+=3D=220=22>
+                              <tr>
+                                <td width=3D=22160=22 align=3D=22left=22 va=
+lign=3D=22middle=22 style=3D=22background:=23f48221;=22>
+                                  <table width=3D=22160=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 bgcolor=3D=22=23f48221=22 align=3D=22center=
+=22 border=3D=220=22>
+                                    <tr>
+                                      <td height=3D=2222=22 align=3D=22cent=
+er=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23fffff=
+f; font-size: 18px;line-height:22px;mso-line-height-rule:exactly;=22>
+                                        <b style=3D=22line-height:16px;=22>
+                                          Ol&aacute;, <strong>ALVARO</stron=
+g> ;)
+                                        </b>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D=22160=22 height=3D=2218=
+=22 valign=3D=22bottom=22 style=3D=22line-height:18px;=22><img src=3D=22htt=
+p://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/tb-smile-number-top=2Ej=
+pg=22 width=3D=22160=22 height=3D=2218=22 alt=3D=22Smiles=22 border=3D=220=
+=22 style=3D=22display: block;=22></td>
+                                    </tr>
+                                    <tr>
+                                      <td height=3D=2232=22 align=3D=22cent=
+er=22 bgcolor=3D=22=23f48221=22>
+                                        <table width=3D=22141=22 cellpaddin=
+g=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22 bgc=
+olor=3D=22=23F15B26=22>
+                                          <tr>
+                                            <td align=3D=22left=22 valign=
+=3D=22middle=22>
+                                              <table width=3D=22141=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=
+=22 bgcolor=3D=22=23F15B26=22>
+                                                <tr>
+                                                  <td align=3D=22left=22 va=
+lign=3D=22middle=22>
+                                                    <table width=3D=22141=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=
+=3D=220=22 bgcolor=3D=22=23F15B26=22>
+                                                      <tr>
+                                                        <td height=3D=2216=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23ffffff;=
+ font-size: 11px;line-height:11px;mso-line-height-rule:exactly;=22 align=3D=
+=22center=22><b style=3D=22line-height:11px;=22>Seu n&uacute;mero Smiles:</=
+b></td>
+                                                      </tr>
+                                                      <tr>
+                                                        <td height=3D=2218=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23ffffff;=
+ font-size: 16px;line-height:18px;mso-line-height-rule:exactly;=22 align=3D=
+=22center=22><b style=3D=22color:=23ffffff;text-decoration:none;line-height=
+:18px;=22 class=3D=22appleLinkWhite=22>917518545</b></td>
+                                                      </tr>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor=3D=22=23f48221=22 height=
+=3D=2219=22 valign=3D=22top=22 style=3D=22line-height:19px;=22><img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/tb-smile-number-b=
+ottom=2Ejpg=22 width=3D=22160=22 height=3D=2219=22 alt=3D=22Smiles=22 borde=
+r=3D=220=22 style=3D=22display: block;=22></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align=3D=22left=22 valign=3D=22middle=22>
+                            <table width=3D=22160=22 cellpadding=3D=220=22 =
+bgcolor=3D=22=23F0F0F0=22 cellspacing=3D=220=22 align=3D=22center=22 border=
+=3D=220=22>
+                              <tr>
+                                <td height=3D=2256=22 align=3D=22center=22>
+                                  <table width=3D=22131=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22>
+                                    <tr>
+                                      <td valign=3D=22bottom=22 height=3D=
+=2220=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2382=
+8483; font-size: 12px;line-height:15px;mso-line-height-rule:exactly;=22 ali=
+gn=3D=22left=22><b style=3D=22line-height:15px;=22>Saldo de milhas em</b></=
+td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22bottom=22 height=3D=
+=2218=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =234e=
+4e4e; font-size: 12px;line-height:15px;mso-line-height-rule:exactly;=22 ali=
+gn=3D=22left=22><b style=3D=22line-height:15px;=22 class=3D=22appleLinkBlac=
+k=22>07/10/2014:</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22bottom=22 height=3D=
+=2218=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23f6=
+8121; font-size: 15px;line-height:17px;mso-line-height-rule:exactly;=22 ali=
+gn=3D=22left=22><b style=3D=22line-height:17px;=22>2=2E372</b></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22131=22 height=3D=2217=22 ali=
+gn=3D=22center=22 style=3D=22line-height:17px;=22><img src=3D=22http://www=
+=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/divisor=2Ejpg=22 width=3D=2213=
+1=22 height=3D=2217=22 alt=3D=22Smiles=22 border=3D=220=22 style=3D=22displ=
+ay: block;=22></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2245=22 align=3D=22center=22>
+                                  <table width=3D=22135=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2216=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23828483;=
+ font-size: 12px;line-height:15px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:15px;=22>Milhas acumuladas em</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2215=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =234e4e4e;=
+ font-size: 12px;line-height:15px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:15px;=22 class=3D=22appleLinkBlack=22>=
+Set/14:</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22bottom=22 height=3D=
+=2214=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23f6=
+8121; font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 ali=
+gn=3D=22left=22><b style=3D=22line-height:14px;=22>0</b></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22131=22 height=3D=2217=22 ali=
+gn=3D=22center=22 style=3D=22line-height:17px;=22><img src=3D=22http://www=
+=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/divisor=2Ejpg=22 width=3D=2213=
+1=22 height=3D=2217=22 alt=3D=22Smiles=22 border=3D=220=22 style=3D=22displ=
+ay: block;=22></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2245=22 align=3D=22center=22>
+                                  <table width=3D=22135=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2216=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23828483;=
+ font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:14px;=22>Milhas resgatadas em</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2215=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =234e4e4e;=
+ font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:14px;=22 class=3D=22appleLinkBlack=22>=
+Set/14:</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22bottom=22 height=3D=
+=2214=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23f6=
+8121; font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 ali=
+gn=3D=22left=22><b style=3D=22line-height:14px;=22>0</b></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22131=22 height=3D=2217=22 ali=
+gn=3D=22center=22 style=3D=22line-height:17px;=22><img src=3D=22http://www=
+=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/divisor=2Ejpg=22 width=3D=2213=
+1=22 height=3D=2217=22 alt=3D=22Smiles=22 border=3D=220=22 style=3D=22displ=
+ay: block;=22></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2255=22 align=3D=22center=22 =
+valign=3D=22top=22>
+                                  <table width=3D=22135=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2218=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23828483;=
+ font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:14px;=22>Milhas a expirar em</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2217=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =234e4e4e;=
+ font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:14px;=22 class=3D=22appleLinkBlack=22>=
+Nov/15:</b></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign=3D=22top=22 height=3D=2220=
+=22 style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23f68121;=
+ font-size: 12px;line-height:14px;mso-line-height-rule:exactly;=22 align=3D=
+=22left=22><b style=3D=22line-height:14px;=22>1=2E000</b></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2215=22></td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22http:=
+//relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGi=
+ESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYYCY&_ei_=3DEs-zh2IbQFxGC=
+QtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=
+=3D=22_blank=22 Rilt=3D=22Acesse_sua_conta=22><img src=3D=22http://www=2Esm=
+iles=2Ecom=2Ebr/emails/20141007/03/imgs/bt-access=2Ejpg=22 width=3D=22160=
+=22 height=3D=2233=22 alt=3D=22Acesse sua conta=2E=22 border=3D=220=22 styl=
+e=3D=22display: block;font-family: Arial, Helvetica, sans-serif;font-size: =
+7px;color: =233f3f3f;=22></a></td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22160=22 align=3D=22center=22 =
+height=3D=2290=22>
+                                 =20
+
+    <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20130830/categoria_=
+1=2Ejpg=22 width=3D=22160=22 height=3D=2274=22 alt=3D=22=22 border=3D=220=
+=22 style=3D=22display: block;=22 />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22160=22 height=3D=2210=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;=22><img =
+src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=
+=22 width=3D=22160=22 height=3D=2210=22 alt=3D=22Smiles=22 style=3D=22displ=
+ay: block;=22 border=3D=220=22></td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22160=22 align=3D=22center=22 =
+valign=3D=22middle=22>
+                                 =20
+  <table width=3D=22140=22 align=3D=22center=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22>
+   <tbody>
+    <tr>
+     <td align=3D=22left=22 style=3D=22font-size: 12px; font-family: Arial,=
+ Helvetica, sans-serif; color: =23828483=22><b style=3D=22line-height: 14px=
+=22>Voc&=23234; tem <span style=3D=22font-size: 16px; font-family: Arial, H=
+elvetica, sans-serif; color: =23f68121; line-height: 18px=22>1=2E372 </span=
+></b></td>
+    </tr>
+    <tr>
+     <td align=3D=22left=22 style=3D=22font-size: 12px; font-family: Arial,=
+ Helvetica, sans-serif; color: =23828483=22><b style=3D=22line-height: 14px=
+=22>Milhas Club** e para chegar&nbsp;&=23224; categoria <span style=3D=22fo=
+nt-size: 14px; font-family: Arial, Helvetica, sans-serif; color: =23f68121;=
+ line-height: 16px=22><strong>Prata</strong></span> precisa de um total de =
+<strong><span style=3D=22font-size: 16px; font-family: Arial, Helvetica, sa=
+ns-serif; color: =23f68121; line-height: 18px=22>10000</span>=2E</strong></=
+b></td>
+    </tr>
+   </tbody>
+  </table>
+  <p></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22left=22 valign=3D=22middle=
+=22>
+                                  <table width=3D=22160=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22>
+                                    <tr>
+                                      <td width=3D=2260=22 valign=3D=22bott=
+om=22>
+
+    <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/20130830/termometro=
+_1=2Ejpg=22 width=3D=2256=22 height=3D=22202=22 alt=3D=22=22 border=3D=220=
+=22 style=3D=22display: block;=22 /></td>
+                                      <td width=3D=22100=22><img src=3D=22h=
+ttp://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/thermometer=2Ejpg=22 =
+width=3D=22100=22 height=3D=22207=22 alt=3D=22Pr&oacute;xima categoria=2E=
+=22 border=3D=220=22 style=3D=22display: block;=22></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><img src=3D=22http=
+://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/note=2Ejpg=22 width=3D=
+=22160=22 height=3D=2253=22 alt=3D=22**Milhas Club s&atilde;o as milhas ele=
+g&iacute;veis para fazer upgrade de categoria=2E=22 border=3D=220=22 style=
+=3D=22display: block;font-family: Arial, Helvetica, sans-serif;font-size: 8=
+px;color: =233f3f3f;=22></td>
+                              </tr>
+                              <tr>
+                                <td width=3D=22131=22 height=3D=2217=22 ali=
+gn=3D=22center=22 style=3D=22line-height:17px;=22><img src=3D=22http://www=
+=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/divisor=2Ejpg=22 width=3D=2213=
+1=22 height=3D=2217=22 alt=3D=22Smiles=22 border=3D=220=22 style=3D=22displ=
+ay: block;=22></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2230=22 align=3D=22center=22 =
+style=3D=22font-family: Arial, Helvetica, sans-serif; color: =23f68121; fon=
+t-size: 15px;line-height:17px;mso-line-height-rule:exactly;=22><b style=3D=
+=22line-height:17px;=22>Acumule milhas:</b></td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22http:=
+//relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGi=
+ESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRASAY&_ei_=3DEs-zh2IbQFxGC=
+QtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=
+=3D=22_blank=22 Rilt=3D=22Transfira_pontos_cartao=22><img src=3D=22http://w=
+ww=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/links-transfer=2Ejpg=22 widt=
+h=3D=22160=22 height=3D=2272=22 alt=3D=22Transfira pontos do seu cart&atild=
+e;o de cr&eacute;dito=2E=22 border=3D=220=22 style=3D=22display: block;font=
+-family: Arial, Helvetica, sans-serif;font-size: 8px;color: =233f3f3f;=22><=
+/a></td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22http:=
+//relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGi=
+ESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYATY&_ei_=3DEs-zh2IbQFxGC=
+QtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=
+=3D=22_blank=22 Rilt=3D=22Cartao_Smiles=22><img src=3D=22http://www=2Esmile=
+s=2Ecom=2Ebr/emails/20141007/03/imgs/links-won=2Ejpg=22 width=3D=22160=22 h=
+eight=3D=22104=22 alt=3D=22Ganhe at&eacute; 10=2E000 milhas com os cart&oti=
+lde;es de cr&eacute;dito Smiles=2E=22 border=3D=220=22 style=3D=22display: =
+block;font-family: Arial, Helvetica, sans-serif;font-size: 8px;color: =233f=
+3f3f;=22></a></td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22http:=
+//relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGi=
+ESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRASCY&_ei_=3DEs-zh2IbQFxGC=
+QtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=
+=3D=22_blank=22 Rilt=3D=22Complete_saldo_milhas=22><img src=3D=22http://www=
+=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/links-complete=2Ejpg=22 width=
+=3D=22160=22 height=3D=2292=22 alt=3D=22Complete o seu saldo comprando milh=
+as=2E=22 border=3D=220=22 style=3D=22display: block;font-family: Arial, Hel=
+vetica, sans-serif;font-size: 8px;color: =233f3f3f;=22></a></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2212=22></td>
+                              </tr>
+                              <tr>
+                                <td align=3D=22center=22><a href=3D=22http:=
+//relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGi=
+ESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRYAWY&_ei_=3DEs-zh2IbQFxGC=
+QtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=
+=3D=22_blank=22 Rilt=3D=22Dicas_de_seguranca=22><img src=3D=22http://www=2E=
+smiles=2Ecom=2Ebr/emails/20141007/03/imgs/dicas=2Ejpg=22 width=3D=22160=22 =
+height=3D=2261=22 alt=3D=22Dicas de seguran&ccedil;a=22 border=3D=220=22 st=
+yle=3D=22display: block;font-family: Arial, Helvetica, sans-serif;font-size=
+: 12px;color: =233f3f3f;=22></a></td>
+                              </tr>
+                              <tr>
+                                <td height=3D=2215=22></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width=3D=2229=22 valign=3D=22top=22>
+                      <table width=3D=2229=22 bgcolor=3D=22=23ffffff=22 cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=
+=22>
+                        <tr>
+                          <td width=3D=2229=22 height=3D=221461=22 align=3D=
+=22left=22 valign=3D=22top=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/email_border_right=2Ejpg=22 width=3D=2229=22 height=
+=3D=221461=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;fo=
+nt-family: Arial, Helvetica, sans-serif;font-size: 1px;color: =23010101;=22>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width=3D=2211=22 align=3D=22left=22 valign=3D=22top=
+=22 style=3D=22background:=23f0f0f0;=22>
+                      <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/2=
+0141007/03/imgs/space=2Egif=22 width=3D=2211=22 height=3D=221461=22 alt=3D=
+=22=2E=22 style=3D=22display: block;font-family: Arial, Helvetica, sans-ser=
+if;font-size: 1px;color: =23010101;=22 border=3D=220=22>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan=3D=224=22 align=3D=22left=22 valign=3D=22mi=
+ddle=22>
+                      <table width=3D=22690=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 align=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23f0f0f=
+0=22>
+                        <tr>
+                          <td width=3D=22690=22 height=3D=2212=22 align=3D=
+=22left=22 valign=3D=22middle=22 style=3D=22line-height:12px;=22>
+                            <table width=3D=22690=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 align=3D=22center=22 border=3D=220=22 bgcolor=3D=22=
+=23f0f0f0=22>
+                              <tr>
+                                <td width=3D=22690=22 height=3D=2212=22 ali=
+gn=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:12px;=22>
+                                  <img src=3D=22http://www=2Esmiles=2Ecom=
+=2Ebr/emails/20141007/03/imgs/email_border_bottom=2Ejpg=22 width=3D=22690=
+=22 height=3D=2212=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=22display: =
+block;font-family: Arial, Helvetica, sans-serif;font-size: 1px;color: =2301=
+0101;=22>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td width=3D=22690=22 height=3D=2210=22 colspan=3D=224=
+=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:10px;ba=
+ckground:=23f0f0f0;=22>
+                      <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/emails/2=
+0141007/03/imgs/space=2Egif=22 width=3D=22690=22 height=3D=2210=22 alt=3D=
+=22=2E=22 style=3D=22display: block;=22 border=3D=220=22>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan=3D=224=22 align=3D=22left=22 valign=3D=22mi=
+ddle=22>
+                      <table width=3D=22690=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 align=3D=22left=22 border=3D=220=22 bgcolor=3D=22=23ffffff=
+=22>
+                        <tr>
+                          <td width=3D=22159=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/footer-smiles-sociais=2Ejpg=22 width=3D=22159=22 heig=
+ht=3D=2250=22 alt=3D=22Acompanhe Smiles nas redes sociais=2E=22 border=3D=
+=220=22 style=3D=22display: block;font-family: Arial, Helvetica, sans-serif=
+;font-size: 8px;color: =233f3f3f;=22>
+                          </td>
+                          <td width=3D=2230=22>
+                            <a href=3D=22http://relacionamento=2Esmiles=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KI=
+CqfJzaJBCfVXtpKX%3DTRYAAY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2e=
+neK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Fac=
+ebook=22>
+                              <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/=
+emails/20141007/03/imgs/facebook=2Ejpg=22 width=3D=2225=22 height=3D=2225=
+=22 alt=3D=22Facebook=22 border=3D=220=22 style=3D=22display: block;font-fa=
+mily: Arial, Helvetica, sans-serif;font-size: 8px;color: =233f3f3f;=22>
+                            </a>
+                          </td>
+                          <td width=3D=2229=22 align=3D=22left=22 valign=3D=
+=22middle=22>
+                            <a href=3D=22http://relacionamento=2Esmiles=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KI=
+CqfJzaJBCfVXtpKX%3DTRYACY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2e=
+neK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Twi=
+tter=22>
+                              <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/=
+emails/20141007/03/imgs/twitter=2Ejpg=22 width=3D=2226=22 height=3D=2226=22=
+ alt=3D=22Twitter=22 border=3D=220=22 style=3D=22display: block;font-family=
+: Arial, Helvetica, sans-serif;font-size: 8px;color: =233f3f3f;=22>
+                            </a>
+                          </td>
+                          <td width=3D=2226=22 align=3D=22left=22 valign=3D=
+=22middle=22>
+                            <a href=3D=22http://relacionamento=2Esmiles=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KI=
+CqfJzaJBCfVXtpKX%3DTRYBRY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2e=
+neK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Ins=
+tagram=22>
+                              <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/=
+emails/20141007/03/imgs/instagram=2Ejpg=22 width=3D=2226=22 height=3D=2226=
+=22 alt=3D=22Instagram=22 border=3D=220=22 style=3D=22display: block;font-f=
+amily: Arial, Helvetica, sans-serif;font-size: 8px;color: =233f3f3f;=22>
+                            </a>
+                          </td>
+                          <td width=3D=22162=22></td>
+                          <td width=3D=22236=22 align=3D=22left=22 valign=
+=3D=22middle=22>
+                            <a href=3D=22http://relacionamento=2Esmiles=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KI=
+CqfJzaJBCfVXtpKX%3DTRYYTY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2e=
+neK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 target=3D=22_blank=22 Rilt=3D=22Sit=
+e_smiles_footer=22>
+                              <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/=
+emails/20141007/03/imgs/footer-smiles=2Ejpg=22 width=3D=22236=22 height=3D=
+=2227=22 alt=3D=22Smiles=22 border=3D=220=22 style=3D=22display: block;=22>
+                            </a>
+                          </td>
+                          <td width=3D=2248=22 align=3D=22right=22 valign=
+=3D=22middle=22>
+                            <img src=3D=22http://www=2Esmiles=2Ecom=2Ebr/em=
+ails/20141007/03/imgs/footer-border-right=2Ejpg=22 width=3D=2248=22 height=
+=3D=2250=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=22display: block;=22>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan=3D=222=22 valign=3D=22top=22>
+                <table width=3D=22700=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 align=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23f0f0f0=22>
+                  <tr>
+                    <td width=3D=2210=22></td>
+                    <td width=3D=22665=22 valign=3D=22top=22>
+                     =20
+  <table width=3D=22665=22 cellpadding=3D=220=22 cellspacing=3D=220=22 alig=
+n=3D=22center=22 border=3D=220=22 bgcolor=3D=22=23f0f0f0=22 class=3D=22appl=
+eLinkGrey=22>
+   &=239;&=239;
+   <tbody>
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2220=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:20px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2220=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      <strong>Term=
+os e condi&=23231;&=23245;es</strong> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;    &=239;Obtenha =
+mais informa&=23231;&=23245;es sobre as condi&=23231;&=23245;es para ac&=23=
+250;mulo e resgate de Milhas Smiles, Cart&=23245;es Co-Branded e vantagens =
+do Clube Smiles no site <a href=3D=22http://relacionamento=2Esmiles=2Ecom=
+=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICq=
+fJzaJBCfVXtpKX%3DTRYBTY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2ene=
+K0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Site_smiles_texto_legal=22 =
+style=3D=22color:=23565656;text-decoration:none;=22 target=3D=22_blank=22>w=
+ww=2Esmiles=2Ecom=2Ebr</a>=2E &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Fast Shop: O=
+ Smiles &=23233; respons&=23225;vel apenas pela emiss&=23227;o das milhas S=
+miles nas promo&=23231;&=23245;es em parceria com a Fast Shop, n&=23227;o p=
+ossuindo qualquer participa&=23231;&=23227;o ou responsabilidade sobre os p=
+rodutos e servi&=23231;os oferecidos pela Fast Shop=2E Acumule 02 (duas) mi=
+lhas Smiles a cada um real gasto somente no site <a href=3D=22http://relaci=
+onamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESu=
+zgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRATTY&_ei_=3DEs-zh2IbQFxGCQtscYUvf=
+GUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Ganh=
+e_milhas_FastShop_footer=22 style=3D=22color:=23565656;text-decoration:none=
+;=22 target=3D=22_blank=22>www=2Efastshop=2Ecom=2Ebr/smiles</a>=2E As compr=
+as realizadas no site normal, sem extens&=23227;o Smiles, e as feitas em lo=
+ja f&=23237;sica n&=23227;o fazem parte da promo&=23231;&=23227;o=2E Outras=
+ ofertas e promo&=23231;&=23245;es somente no(s) produto(s) informado(s) e =
+sinalizado(s) no site=2E Promo&=23231;&=23227;o v&=23225;lida exclusivament=
+e para clientes Smiles com n&=23250;meros Smiles v&=23225;lidos=2E Ofertas =
+v&=23225;lidas at&=23233; 31/10/2014 ou t&=23233;rmino dos estoques=2E Prod=
+utos sujeitos &=23224; disponibilidade de estoque=2E Ofertas v&=23225;lidas=
+ apenas para compras com entrega no Brasil=2E Prazo para cr&=23233;dito de =
+milhas: at&=23233; 60 dias ap&=23243;s aprova&=23231;&=23227;o do pagamento=
+=2E A quantidade de milhas ser&=23225; calculada sobre o valor dos produtos=
+ informado no carrinho, sem levar em considera&=23231;&=23227;o os valores =
+do frete, juros e embalagem para presente=2E As milhas n&=23227;o ser&=2322=
+7;o creditadas caso o produto seja devolvido ou em caso de cancelamento do =
+pedido=2E &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;    &=239;Milhas T=
+urbinadas: Os Participantes que, no per&=23237;odo entre 07/10/2014 e 01/11=
+/2014, se associarem ao Clube Smiles ter&=23227;o direito a receber, al&=23=
+233;m das 1=2E000 Milhas Smiles mensais do Clube Smiles, um b&=23244;nus de=
+ 1=2E000 Milhas Smiles por m&=23234;s, durante os 6 primeiros meses contado=
+s da sua ades&=23227;o, totalizando 6=2E000 Milhas Smiles=2E Consulte os Te=
+rmos e Condi&=23231;&=23245;es completos no site <a href=3D=22http://relaci=
+onamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESu=
+zgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRATRY&_ei_=3DEs-zh2IbQFxGCQtscYUvf=
+GUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Prom=
+ocao_Milhas_Turbinadas_footer=22 style=3D=22color:=23565656;text-decoration=
+:none;=22 target=3D=22_blank=22>https://www=2Esmiles=2Ecom=2Ebr/promocoes/p=
+romocao-milhas-turbinadas=2Easpx</a>=2E &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Promo&=23231=
+;&=23227;o Cart&=23245;es Bradesco: O Participante que transferir pontos do=
+ Programa Cart&=23245;es Bradesco entre os dias 29/09/2014 e 22/10/2014 pod=
+er&=23225; emitir bilhetes de volta por 3=2E000 Milhas Smiles no per&=23237=
+;odo de 24/10/2014 a 27/10/2014 para voar com a GOL nos meses de novembro e=
+ dezembro de 2014=2E  A Emiss&=23227;o de passagens por meio desta promo&=
+=23231;&=23227;o est&=23225; sujeita &=23224; disponibilidade de voos, asse=
+ntos e hor&=23225;rios=2E Para mais informa&=23231;&=23245;es, acesse o sit=
+e <a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRATWY&=
+_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziT=
+G6q1vXQ=2E=22 rilt=3D=22Transfira_pontos_destinos_footer=22 style=3D=22colo=
+r:=23565656;text-decoration:none;=22 target=3D=22_blank=22>https://www=2Esm=
+iles=2Ecom=2Ebr/promocoes/bradesco-feirao-gol=2Easpx</a>=2E &=239;&=239;</t=
+d>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Drogaria: &l=
+dquo;A cada R=24 2,00 ganhe 1 milha&rdquo;=2E N&=23227;o v&=23225;lida para=
+ medicamentos=2E Informe o seu CPF  no momento da compra=2E &=239;&=239;</t=
+d>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Editora Abri=
+l: Promo&=23231;&=23227;o &ldquo;Assine e ganhe at&=23233; 21=2E500 milhas&=
+rdquo; v&=23225;lida at&=23233; 31/10/2014=2E Consulte termos e condi&=2323=
+1;&=23245;es da promo&=23231;&=23227;o em <a href=3D=22http://relacionament=
+o=2Esmiles=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJb=
+zamp4Pt7zen6KICqfJzaJBCfVXtpKX%3DTRATAY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBW=
+pry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Assine_Abri=
+l_footer=22 style=3D=22color:=23565656;text-decoration:none;=22 target=3D=
+=22_blank=22>http://www=2Esmiles=2Ecom=2Ebr/promocoes/revista=2Easpx</a>=2E=
+ &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Centauro: Of=
+erta v&=23225;lida at&=23233; 31/10/2014, somente para compras realizadas p=
+or meio do site <a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/=
+cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVX=
+tpKX%3DTRARCY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnA=
+wp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Ganhe_milhas_Centauro_footer=22 style=
+=3D=22color:=23565656;text-decoration:none;=22 target=3D=22_blank=22>www=2E=
+centauro=2Ecom=2Ebr/smiles</a>=2E Consulte os Termos e Condi&=23231;&=23245=
+;es completos no site <a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Eb=
+r/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJza=
+JBCfVXtpKX%3DTRARCY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kB=
+nG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Ganhe_milhas_Centauro_footer=22=
+ style=3D=22color:=23565656;text-decoration:none;=22 target=3D=22_blank=22>=
+www=2Ecentauro=2Ecom=2Ebr/smiles</a>=2E &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td style=3D=22font-family: Arial, Helvetica, sans-serif; color: =2356=
+5656; font-size: 10px;=22 align=3D=22left=22>&=239;&=239;      Petrobras Pr=
+emmia: &ldquo;Promo&=23231;&=23227;o 42% de desconto em Compra de Milhas&rd=
+quo; v&=23225;lida at&=23233; 31/12/2014=2E Para mais informa&=23231;&=2324=
+5;es consulte <a href=3D=22http://relacionamento=2Esmiles=2Ecom=2Ebr/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiESzguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXtp=
+KX%3DTRATCY&_ei_=3DEs-zh2IbQFxGCQtscYUvfGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp=
+-RA4Ry2nvziTG6q1vXQ=2E=22 rilt=3D=22Comprar_milhas_Petrobras_footer=22 styl=
+e=3D=22color:=23565656;text-decoration:none;=22 target=3D=22_blank=22>http:=
+//www=2Esmiles=2Ecom=2Ebr/promocoes/premmia42</a>=2E &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+    <tr>
+     &=239;&=239;
+     <td width=3D=22665=22 height=3D=2210=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height:10px;=22>&=239;&=239;      <img src=3D=
+=22http://www=2Esmiles=2Ecom=2Ebr/emails/20141007/03/imgs/space=2Egif=22 wi=
+dth=3D=22665=22 height=3D=2210=22 alt=3D=22=2E=22 border=3D=220=22 style=3D=
+=22display: block;=22 /> &=239;&=239;</td>
+     &=239;&=239;
+    </tr>
+    &=239;&=239;
+   </tbody>
+  </table>
+                    </td>
+                    <td width=3D=2225=22></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=221=22 colspan=3D=222=22 alig=
+n=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:1px;=22>
+                <img src=3D=22https://ad=2Edoubleclick=2Enet/activity;src=
+=3D4311577;type=3Dinvmedia;cat=3D14934kMR;ord=3D1?=22 width=3D=221=22 heigh=
+t=3D=221=22 alt=3D=22=22/>
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=221=22 colspan=3D=222=22 alig=
+n=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:1px;=22>
+                <img src=3D=22https://secure=2Eadnxs=2Ecom/seg?add=3D182879=
+3&t=3D2=22 width=3D=221=22 height=3D=221=22 />
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=221=22 colspan=3D=222=22 alig=
+n=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:1px;=22>
+                <img src=3D=22https://ib=2Eadnxs=2Ecom/getuid?https://rxs=
+=2Eroixdelivery=2Ecom/delivery/counter?c=3D1089&EI=3D=5BEXTERNAL_ID=5D&apid=
+=3D=24UID=22 width=3D=221=22 height=3D=221=22 />
+              </td>
+            </tr>
+            <tr>
+              <td width=3D=22700=22 height=3D=221=22 colspan=3D=222=22 alig=
+n=3D=22left=22 valign=3D=22middle=22 style=3D=22line-height:1px;=22>
+                <img src=3D=22https://secure=2Eadnxs=2Ecom/imptr?id=3D11523=
+&t=3D2=22 width=3D=221=22 height=3D=221=22 />
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+relacionamento=2Esmiles=2Ecom=2Ebr/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGiES=
+zguESuzgzaWJbzamp4Pt7zen6KICqfJzaJBCfVXHkMX%3Dw&_ei_=3DEs-zh2IbQFxGCQtscYUv=
+fGUnEqBWpry-zjIqfVGz2eneK0kBnG2ZnAwp-RA4Ry2nvziTG6q1vXQ=2E=22>
+
+
+  </body>
+</html>
+
+

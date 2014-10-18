@@ -1,0 +1,144 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.90.205 with SMTP id l13csp368838icm;
+        Thu, 19 Jun 2014 16:35:42 -0700 (PDT)
+Return-Path: <nandodecker@gmail.com>
+Received-SPF: pass (google.com: domain of nandodecker@gmail.com designates 10.194.190.42 as permitted sender) client-ip=10.194.190.42
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of nandodecker@gmail.com designates 10.194.190.42 as permitted sender) smtp.mail=nandodecker@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.194.190.42])
+        by 10.194.190.42 with SMTP id gn10mr5918429wjc.9.1403220942331 (num_hops = 1);
+        Thu, 19 Jun 2014 16:35:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=T9X1RGLEUxKqAUUsigiBMevmemL8/CY4mwaIf8hBuxU=;
+        b=QBH1JA95StcO/P1rKlvDskqPrQTm+e5Z5rivqRBV8hOpFParIVX1BUT8yC0/goPL0Z
+         g6ozNDZtzJ3P+MBT5G5ZFKqdirIZJChKdH0SmagysK8MiZCdeKQBD0nl8MpJ1bKR4+Uu
+         JgE2oPi1RPGRHqOei1Senf8kBnURSUH7t92GM7aPydOlD37l7tP0DrawW5PCnSUDyiFw
+         TcpArMh71fv3oJwtCTPfBOAQeColxqCnYDNJU9YzpNSE79zP89+i4yOsWuBiG0Zm4/hb
+         elgUu1Qql+TFUFlFcfiPOwd84XZzdggQAYAVBKD2wGCYNFC+eZUaULBgD0x7N+qaZ3ni
+         xZEg==
+MIME-Version: 1.0
+X-Received: by 10.194.190.42 with SMTP id gn10mr8543307wjc.9.1403220941872;
+ Thu, 19 Jun 2014 16:35:41 -0700 (PDT)
+Received: by 10.194.200.105 with HTTP; Thu, 19 Jun 2014 16:35:41 -0700 (PDT)
+In-Reply-To: <538fd60a.543dec0a.2953.ffffbc82@mx.google.com>
+References: <538fd60a.543dec0a.2953.ffffbc82@mx.google.com>
+Date: Thu, 19 Jun 2014 20:35:41 -0300
+Message-ID: <CAKoQaTdK38k6FBqZrGUhMMOq9AG7p_+AXZkvg8A-AYf46P6EYg@mail.gmail.com>
+Subject: Fwd: Nota Fiscal dia 04/06/2014 23:28:58
+From: Fernando Decker <nandodecker@gmail.com>
+To: =?UTF-8?Q?=C3=81lvaro_Juver?= <ajuver@gmail.com>, ajuver@yahoo.com.br
+Content-Type: multipart/alternative; boundary=047d7bb70882c826ba04fc38d5d4
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--047d7bb70882c826ba04fc38d5d4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Alvaro,
+Segue um exemplo... eu acho
+
+---------- Mensagem encaminhada ----------
+De: <grupopedagogas610@gmail.com>
+Data: 4 de junho de 2014 23:29
+Assunto: Nota Fiscal dia 04/06/2014 23:28:58
+Para:
+
+
+   *Nota Fiscal Eletr=C3=B4nica*
+
+*c=C3=B3digo do produto  n=C2=B0.007.871*
+
+
+
+
+*Prezado associado(a),Segue a Nota Fiscal Anexa logo abaixo, Data de
+entrega segue na NFE. *
+
+Arquivo PDF - http://NFe/EnviaImpressao.asp?NFCod=3D471389
+<https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6ICIiLCAidGVzdF9saW5rIjogZm=
+Fsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSIsICJpdGVtX2lkIjogb=
+nVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJjZ2FrbXFianJxeDBvd24ifQ/AAIUU7zYH=
+WlK2sIWXktFJjKV8Hpovr-ThvfDMjQnjUQtBg?dl=3D1>
+
+
+
+acompanhe a entrega - acompanhe pelo saite dos correio
+<https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6ICIiLCAidGVzdF9saW5rIjogZm=
+Fsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSIsICJpdGVtX2lkIjogb=
+nVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJjZ2FrbXFianJxeDBvd24ifQ/AAIUU7zYH=
+WlK2sIWXktFJjKV8Hpovr-ThvfDMjQnjUQtBg?dl=3D1>
+
+*Atenciosamente*
+Margareth Menezes
+CNPJ: 02.721.177/0001-02
+=C2=A9 2013 - 2516898234.
+
+
+
+
+--=20
+FERNANDO DECKER
+
+--047d7bb70882c826ba04fc38d5d4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Alvaro,<div>Segue um exemplo... eu acho<br><br><div class=
+=3D"gmail_quote">---------- Mensagem encaminhada ----------<br>De: <b class=
+=3D"gmail_sendername"></b> <span dir=3D"ltr">&lt;<a href=3D"mailto:grupoped=
+agogas610@gmail.com">grupopedagogas610@gmail.com</a>&gt;</span><br>
+Data: 4 de junho de 2014 23:29<br>Assunto: Nota Fiscal dia  04/06/2014 23:2=
+8:58<br>Para: <br><br><br>
+
+
+<div>
+<table style=3D"BORDER-TOP:rgb(227,236,240) 10px solid;BORDER-RIGHT:rgb(227=
+,236,240) 10px solid;WHITE-SPACE:normal;BORDER-BOTTOM:rgb(227,236,240) 10px=
+ solid;TEXT-TRANSFORM:none;WORD-SPACING:0px;COLOR:rgb(51,51,51);FONT:13px V=
+erdana,Geneva,sans-serif;BORDER-LEFT:rgb(227,236,240) 10px solid;LETTER-SPA=
+CING:normal;TEXT-INDENT:0px" height=3D"178" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"559" bgcolor=3D"red" border=3D"4">
+
+ =20
+  <tbody><tr align=3D"left" bgcolor=3D"yellow">
+    <td align=3D"left">=C2=A0<font size=3D"3"><strong>Nota Fiscal Eletr=C3=
+=B4nica</strong> <br><br>
+      <strong>c=C3=B3digo do produto
+      <font color=3D"blue">=C2=A0</font><font color=3D"#930000"><font size=
+=3D"1">n=C2=B0.<font color=3D"blue">007</font>.<font color=3D"blue">871</fo=
+nt></font></font></strong></font>
+      <p align=3D"left"><font color=3D"blue"><strong>Prezado associado(a),<=
+br><br>Segue a Nota Fiscal Anexa logo abaixo, Data de entrega segue na NFE.=
+<br>=20
+      </strong></font></p>
+      <p align=3D"left"><font color=3D"blue">Arquivo PDF -</font> <a href=
+=3D"https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6ICIiLCAidGVzdF9saW5rIjo=
+gZmFsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSIsICJpdGVtX2lkIj=
+ogbnVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJjZ2FrbXFianJxeDBvd24ifQ/AAIUU7=
+zYHWlK2sIWXktFJjKV8Hpovr-ThvfDMjQnjUQtBg?dl=3D1" target=3D"_blank"><font>ht=
+tp://NFe/EnviaImpressao.asp?NFCod=3D471389</font></a></p>
+
+      <p align=3D"left"><font><br><br>
+      </font></p><p align=3D"left"><font><font color=3D"blue">acompanhe a e=
+ntrega -</font> <a href=3D"https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6=
+ICIiLCAidGVzdF9saW5rIjogZmFsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW5=
+0LmNvbSIsICJpdGVtX2lkIjogbnVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJjZ2FrbX=
+FianJxeDBvd24ifQ/AAIUU7zYHWlK2sIWXktFJjKV8Hpovr-ThvfDMjQnjUQtBg?dl=3D1" tar=
+get=3D"_blank"><font>acompanhe pelo saite dos correio</font></a></font></p>
+<font>
+      <p align=3D"left"><font color=3D"blue"><strong>Atenciosamente</strong=
+><br></font>Margareth Menezes=20
+      <br><font color=3D"blue">CNPJ: 02.721.177/0001-02<br>=C2=A9 2013 - <a=
+ href=3D"tel:2516898234" value=3D"+12516898234" target=3D"_blank">251689823=
+4</a>.=20
+    =20
+</font></p></font><p></p></td></tr></tbody></table></div>
+</div><br><br clear=3D"all"><div><br></div>-- <br>FERNANDO DECKER
+</div></div>
+
+--047d7bb70882c826ba04fc38d5d4--

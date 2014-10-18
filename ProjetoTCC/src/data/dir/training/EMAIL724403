@@ -1,0 +1,164 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp218545icc;
+        Tue, 9 Sep 2014 04:55:41 -0700 (PDT)
+X-Received: by 10.194.75.138 with SMTP id c10mr42688816wjw.9.1410263740964;
+        Tue, 09 Sep 2014 04:55:40 -0700 (PDT)
+Return-Path: <vendas@promocaoagora.net>
+Received: from server1.promocaoagora.net (server1.promocaoagora.net. [195.154.65.62])
+        by mx.google.com with ESMTP id bl1si16827291wjb.144.2014.09.09.04.55.40
+        for <ajuver@gmail.com>;
+        Tue, 09 Sep 2014 04:55:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of vendas@promocaoagora.net designates 195.154.65.62 as permitted sender) client-ip=195.154.65.62;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of vendas@promocaoagora.net designates 195.154.65.62 as permitted sender) smtp.mail=vendas@promocaoagora.net;
+       dkim=neutral (body hash did not verify) header.i=@;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=promocaoagora.net
+Received: by mail.promocaoagora.net (Postfix, from userid 0)
+	id B38943813AE; Tue,  9 Sep 2014 08:55:30 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=promocaoagora.net;
+	s=dkim; t=1410263730;
+	bh=H0WtSPACzo2Z6Cak19YyAkMgT+DPQSeM5LncYJ3F0mI=;
+	h=To:Subject:Message-ID:Date:MIME-Version:List-Unsubscribe:
+	 Content-Type:Content-Transfer-Encoding:From:Reply-To;
+	b=N/nIQrZ0aZMcgBJQl9DpybVQ+i4wZ0ukhpgCmkjmWLv708eF0YKSbExwgGjqRrUzG
+	 vXUbzMdhI32ud3cCvDbPUgmDZy+wV0pcX5/ktL9oWzHUXuxsYPOJqH3A1xzSS22wRb
+	 dKL/jV8mZgK9plf1B9cMzGEYJQnjA3GWeM40m8sE=
+To: ajuver@gmail.com
+Subject: =?UTF-8?B?VW0gbcOpdG9kbyBub3ZvIGUgaW5mYWzDrXZlbCBwYXJhIGRlZmluaXIgbyBhYmTDtG1lbiEg?=
+X-PHP-Originating-Script: 0:email.php
+Message-ID: <4e9158e17efda659696b7473f25d071d@promocaoagora.net>
+Date: Mon, 08 Sep 2014 23:24:08 -0300
+MIME-Version: 1.0
+X-Mailer-LID: 48
+List-Unsubscribe: <http://promocaoagora.net/envio/unsubscribe.php?M=8285600&C=02172ca8eb6c3f05449ab6fbf0daa5dd&L=48&N=120>
+X-Mailer-RecptId: 8285600
+X-Mailer-SID: 120
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_3f68c42f2b8fe9e6ce97cf6510e48826"
+Content-Transfer-Encoding: 8bit
+From: "Amanda Amaral" <amanda_amaral@promocaoagora.net>
+Reply-To: amanda_amaral@promocaoagora.net
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--b1_3f68c42f2b8fe9e6ce97cf6510e48826
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Ola, tenho algo para lhe mostrar que é surpreendente…
+
+Tiago Bastos, é estudante de medicina e desenvolveu em parceria 
+com um personal trainer, um plano de 47 dias focado para a 
+queima de gorduras, ganho de massa muscular, e definição do abdômen…
+…sim, tudo ao mesmo tempo…
+
+http://hotmart.net.br/show.html?a=T2114801R&ap=3c6f
+
+Este método foi baseado na rotina de treino dos atletas profissionais
+ do mundo fitness, e por isso funciona tão bem.
+
+Eu recomendo para você que quer dar aquela secada na barriga, 
+e ficar muito mais definido!
+
+http://hotmart.net.br/show.html?a=T2114801R&ap=3c6f
+
+Um grande abraço,
+
+PS: Este vídeo não vai ficar muito tempo online, e por isso eu 
+sugiro que você clique no link abaixo agora mesmo. É sério!
+
+http://hotmart.net.br/show.html?a=T2114801R&ap=3c6f
+
+
+http://promocaoagora.net/envio/unsubscribe.php?M=8285600&C=02172ca8eb6c3f05449ab6fbf0daa5dd&L=48&N=120
+
+ 
+
+--b1_3f68c42f2b8fe9e6ce97cf6510e48826
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><p>&nbsp;</p>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">Aqui &eacute; o {seu nome}, e
+tenho algo para lhe mostrar que &eacute; surpreendente&hellip;</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">Tiago Bastos, um amigo meu,
+&eacute; estudante de medicina e desenvolveu em parceria com um personal
+trainer, um plano de 47 dias focado para a queima de gorduras, ganho de
+massa muscular, e defini&ccedil;&atilde;o do abd&ocirc;men&hellip;</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">&hellip;sim, tudo ao mesmo
+tempo&hellip;</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">{Link: V&iacute;deo De Venda
+1}</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">Este m&eacute;todo foi baseado
+na rotina de treino dos atletas profissionais do mundo fitness, e por isso
+funciona t&atilde;o bem.</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">Eu recomendo para voc&ecirc;
+que quer dar aquela secada na barriga, e ficar muito mais definido!</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">{Link: V&iacute;deo De Venda
+1}</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">Um grande abra&ccedil;o,</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">{seu nome}</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">PS: Este v&iacute;deo
+n&atilde;o vai ficar muito tempo online, e por isso eu sugiro que
+voc&ecirc; clique no link abaixo agora mesmo. &Eacute; s&eacute;rio!</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;"></div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px;
+width: 1px; height: 1px; overflow: hidden;">{Link: V&iacute;deo De Venda
+1}</div>
+Ola, &nbsp;tenho algo para lhe mostrar que &eacute;
+surpreendente&hellip;<br /><br />Tiago Bastos, &eacute; estudante de
+medicina e desenvolveu em parceria com um personal trainer, um plano de 47
+dias focado para a queima de gorduras, ganho de massa muscular, e
+defini&ccedil;&atilde;o do abd&ocirc;men&hellip;<br />&hellip;sim, tudo ao
+mesmo tempo&hellip;<br /><br /><a
+href="http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f">http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f</a><br
+/><br />Este m&eacute;todo foi baseado na rotina de treino dos atletas
+profissionais do mundo fitness, e por isso funciona t&atilde;o bem.<br
+/><br />Eu recomendo para voc&ecirc; que quer dar aquela secada na barriga,
+e ficar muito mais definido!<br /><br /><a
+href="http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f">http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f</a><br
+/><br />Um grande abra&ccedil;o,<br /><br />PS: Este v&iacute;deo
+n&atilde;o vai ficar muito tempo online, e por isso eu sugiro que
+voc&ecirc; clique no link abaixo agora mesmo. &Eacute; s&eacute;rio!<br
+/><br />
+<p>&nbsp;</p>
+<a
+href="http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f">http://hotmart.net.br/show.html?a=T2114801R&amp;ap=3c6f</a><br
+/><br /><br /><br /><br /><br /><br /> Respeitamos a sua privacidade. Caso
+n&atilde;o queira mais receber       nossos informativos, acesse este link
+e cancele sua inscri&ccedil;&atilde;o<br />
+<p><a
+href="http://promocaoagora.net/envio/unsubscribe.php?M=8285600&C=02172ca8eb6c3f05449ab6fbf0daa5dd&L=48&N=120">Clique
+aqui para deixar de receber estes e-mails</a></p><img
+src="http://promocaoagora.net/envio/open.php?M=8285600&L=48&N=120&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_3f68c42f2b8fe9e6ce97cf6510e48826--
+

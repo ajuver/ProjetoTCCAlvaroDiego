@@ -1,0 +1,120 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.43.101.67 with SMTP id cz3csp90420icc;
+        Mon, 19 Aug 2013 13:56:02 -0700 (PDT)
+X-Received: by 10.42.83.84 with SMTP id g20mr3488078icl.10.1376945761847;
+        Mon, 19 Aug 2013 13:56:01 -0700 (PDT)
+DomainKey-Status: bad format
+Received-SPF: neutral (google.com: 208.84.242.161 is neither permitted nor denied by best guess record for domain of localhost) client-ip=208.84.242.161;
+Received: by 10.64.9.202 with POP3 id c10mf65488ieb.3;
+        Mon, 19 Aug 2013 13:56:01 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.138.88.170; Mon, 19 Aug 2013 13:42:31 -0700
+Received-SPF: pass (domain of terra.com.br designates 208.84.243.22 as permitted sender)
+X-YMailISG: x1CBM2kWLDuW6_bSETxqUxJATkRMN.JxNASOYVsuoAvrAEH9
+ BY.xIhG0XNnSKFxyEEEWipBy9supZ8DhFjP1TQGGPu_hU360l6vlS7Sdu.yU
+ Ltr.s.IgW7Uk.Qi2dUUW.zKRVj2gAnMtPDVAzPrTvjFQtKNvFzpPZnuVzWru
+ HLtTi02Yi5gMW4dR0ezSL_Zz6mafqP0SY7ggGEbO4SsV8wpr5bXROYbYD7QY
+ 5Qu.bOKKNe_J7ySr5v2hEwsAVSlWIewn2pNqDta0oNlhtvLxYukGA0vyX.KA
+ khN3M9ddPcS8l0MUdPs5txb3kI6VuFVkuW.xHyavBTHkpDE6SAtGd4_SymRS
+ FY8MqfMyGHlre8Sw5PsRNcl_FbcVcA7HvK_5yOm9ye6z_H1WUe0vX6DuJc8t
+ 3C0.Ep1e7yVAlkG6zKlPaDV.aGSOUPXotymd7Tv3qBEOserNJXH6elJ8d72a
+ 91MZKDlYeB4QFG0zf3qFWcRNJpR6uGuovAPgw.NLzYd487wy3hLMiSRToF7E
+ DeNywYNzyuhetm2u2vEUtmvsNxpJeK23RzaoQXJz1ukCJlgP9iUWU0gl7Kj3
+ oBL4py.r.9sM23whhjIlhdFfUGr.2XWGvXizFbq1GNFB7pCZMgUuhOiSEtx2
+ nnr55sd10nzAvZrHhkcv3BIDFdQqp8Fn7RsXw4mw1tqPrZabN1EcYLfv8_XH
+ fbQFI3g614DAf1Z6rpmYhQpnJghvE8H4RuPt4iezihcOyR0vW_UIDip2djAf
+ YHN5zI6Pe5PNmaCi.4ruJ5zn1cKUQxSGedds7vwT3MXYJ3cwbDZzCpGNlgdg
+ rSvRcJaxW78lsnNW56OvQ1tCQcvWkjXFV_0DOy2OjNL9BuEjBXQKpUHe3bDW
+ PpFpso6u5QtI7NVmkrJ9mLPNQhGTNcdrml_1wQsVuVCQsw1Q418U0SijKdFJ
+ aKK2qfjfRZofIWdm1gMOFbwxiQDpHlDjKSHVy4vm3Hn9viCbzhpVknpAauK9
+ vGkQwnHBxm0H6MP98yPk9UykIH1.fqAVzJEL.jOZs1XG8Rw58EgihqgIeFt6
+ OCtMclWBZkn89DV37guSqAZndtDQVwfMapH83Ul0aYaeS9S0Gvv2OrcMah.G
+ 2m.UrB5itN34ht3RFd_UX.Y.RFW3nsih2UK60YPzSGfE..ASRNbKUIp7wn7H
+ jDSrhXailb_j4kX7WM.Pm8j0OMz9MkFLMOnWcim6AFb5yVKzmX0z1XF6b1Lt
+ PAB5MirvDo8DB9du2BnnXOJSBnNCiiM.LpFlQiGrxDx8mdD6PdWXPkc-
+X-Originating-IP: [208.84.243.22]
+Authentication-Results: mta1268.mail.bf1.yahoo.com  from=terra.com.br; domainkeys=neutral (no sig);  from=terra.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO if01-mail-sr05-mia.mta.terra.com) (208.84.243.22)
+  by mta1268.mail.bf1.yahoo.com with SMTP; Mon, 19 Aug 2013 13:42:31 -0700
+Received: from 1w8.tpn.terra.com (unknown [10.235.200.60])
+	by mail-sr05-mia.tpn.terra.com (Postfix) with ESMTP id 2F6982002366
+	for <ajuver@yahoo.com.br>; Mon, 19 Aug 2013 20:42:31 +0000 (UTC)
+X-Terra-Karma:         -2%
+X-Terra-Hash: 562f46e2eb8fd9a41b8da05eb330ef87
+Received: from localhost (1n2.terra.com [208.84.242.161])
+	(authenticated user bestsul.naura!terra)
+	by 1w8.tpn.terra.com (Postfix) with ESMTPA id 17E1DC0000200
+	for <ajuver@yahoo.com.br>; Mon, 19 Aug 2013 20:42:31 +0000 (UTC)
+reply-to: bestsul.naura@terra.com.br
+date: Mon, 19 Aug 13 20:42:31 +0000
+in-reply-to: <OID_1376944668268096_0bestsul.naura@terra.com.br> <20130815181614.2CA263C09F1@1xj.tpn.terra.com> <E1VA0Nf-00084o-Gg@linux.nrserver20.net>
+references: <OID_1376944668268096_0bestsul.naura@terra.com.br> <20130815181614.2CA263C09F1@1xj.tpn.terra.com> <E1VA0Nf-00084o-Gg@linux.nrserver20.net>
+subject: =?UTF-8?B?IFJlOiBFbmM6IFNvbGljaXRhw6dhbyBkZSBPcsOnYW1lbnRvIFR1cg==?=
+ =?UTF-8?B?w61zdGljbyBhdHJhdmVzIGRvIG5vdm8gU2l0ZSEhIQ==?=
+message_id: <OID_1376944914685666_0bestsul.naura@terra.com.br>
+to: ajuver@yahoo.com.br
+X-Priority: 3
+x-msmail-priority: normal
+importance: normal
+priority: normal
+x-origin: 187.54.151.253
+from: =?UTF-8?B?ImJlc3RzdWwubmF1cmEi?= <bestsul.naura@terra.com.br>
+content-type: text/html; charset=utf-8
+content-transfer-encoding: QUOTED-PRINTABLE
+mime-version: 1.0
+Message-Id: <20130819204231.17E1DC0000200@1w8.tpn.terra.com>
+X-Milter-Version: master.39-g1fd3ecd+
+X-CLX-Rate-Response: fh=1w8; fi=10.235.200.248:2001; rg=B; GT=0; fs=1011;
+	sc=; st=BDS; id=a133GLF8y5uG0VH-7J2042V;
+	rv=master.90-g31d4ebe/208.84.242.248:14051; ts=JSCfS; fl=FAA;
+	ip=208.84.242.161; ho=IQhDn28RPy1; hd=C7Kebad4cDT; hf=EcvFUBn8GX/;
+	hF=Bf2BjiNNgQ9; hj=KNgi67vsUn0; hr=BosneIpNWe; ZM=DYsjOF8P5+v;
+	ZB=FnXhjpWZXSZ; ZB=G2gAHXfQ03o; ZB=FT7FMG3VPFD; ZB=HP41ipG8uGY;
+	ZB=FS1LCJdHqqb; ZU=MxlsrRZDnKw; Zu=EhEyP58OQmb; ZM=e3v1iBmwsb;
+	ZM=HEOuPM99WCK; ZM=FhVkd+w1+YR; ZM=IOOuElQ4e9o; ZF=DpSxyE1jMuR;
+X-CLX-ID: a133GLF8y5uG0VH-7J2042V
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<br><br><div><span style=3D"font-size: 12px;">Boa tarde Alvaro.</span></div=
+><bestsul.naura@terra.com.br><p><br></p><p>Conforme solicitado, segue abaix=
+o valor para transporte:</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp;&nbsp;<strong>PORTO ALEGRE / CAPELA DE SANTANA / PORTO ALEGRE</strong><=
+/p><p>Data: 24/08/2013</p><p>Sa=C3=ADda: 09 horas &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ret=
+orno: 17 horas</p><p>Embarque/desembarque:&nbsp;<span style=3D"font-size: 1=
+2px;">Rua Hon=C3=B3rio Silveira Dias, 740</span></p><p><span style=3D"font-=
+size: 12px;">Micro =C3=B4nibus - 20 lugares - R$ 600,00</span></p><div><p><=
+strong>* </strong><strong>Valor calculado para deslocamento acima descrito,=
+ com pagamento a vista. Demais deslocamentos ser=C3=A3o cobrados =C3=A0 par=
+te </strong></p><p><strong>* No valor or=C3=A7ado ser=C3=A1 permitido embar=
+que e desembarque em 01 s=C3=B3 local.&nbsp; Havendo necessidade de embarqu=
+e e desembarque em mais locais, favor informar para refazermos o or=C3=A7am=
+ento.</strong></p><p><strong>* Hospedagem do motorista por conta da contrat=
+ante,</strong></p><p><strong>* </strong><strong>Informamos que o ve=C3=ADcu=
+lo or=C3=A7ado n=C3=A3o trafega em estrada de ch=C3=A3o batido.</strong></p=
+><p><br>Pagamento:<br>30% no agendamento<br>Saldo =E2=80=93 at=C3=A9 02 dia=
+s =C3=BAteis antecedentes a data do in=C3=ADcio da viagem.<br><br></p><p>Ag=
+uardamos confirma=C3=A7=C3=A3o para agendamento.<br><br>Att.</p><p><strong>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;Naura Sato,</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&n=
+bsp;EK </strong>&nbsp;<strong>Best Sul</strong> Transporte e Turismo<br>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (51) 3347.04.06 / 3085.98=
+.00</p>&nbsp;&nbsp;&nbsp;Visite nosso site:&nbsp; <a data-cke-saved-target=
+=3D"_blank" data-cke-saved-href=3D"http://www.bestsulturismo.com.br/" href=
+=3D"http://www.bestsulturismo.com.br/" target=3D"_blank"><strong>www.bestsu=
+lturismo.com.br</strong></a></div><p><br><br><span style=3D"font-size: 12px=
+;">NOME: =C3=81lvaro Juver</span></p><p><bestsul@terra.com.br><span style=
+=3D"font-size: 12px;">EMAIL: ajuver@yahoo.com.br</span></bestsul@terra.com.=
+br></p><bestsul@terra.com.br><blockquote>TELEFONE: 5198373177<br>ONDEIR: Ca=
+pela de Santana, RS<br>DATA: 24/07/2013<br>HORASAIDA: 09:30<br>LOCALSAIDA: =
+Rua Hon=C3=B3rio Silveira Dias, 740, Porto Alegre<br>TODOSLOCAL: Sim<br>OND=
+EOUTROS:<br>CHAOBATIDO: Nao<br>KMCHAOBATIDO:<br>DATARETORNO: 24/07/2013<br>=
+QTDPVIAGEM: 15<br>NCARROESCOLHIDO: --------<br>NOMECONTATO: =C3=81lvaro<br>=
+HORASCONTATO: 08:00<br>submit2: Enviar<br><br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+<br><br><br><br></blockquote></bestsul@terra.com.br> </bestsul.naura@terra.=
+com.br>

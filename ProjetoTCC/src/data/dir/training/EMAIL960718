@@ -1,0 +1,337 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp219757icc;
+        Sun, 17 Aug 2014 07:13:22 -0700 (PDT)
+X-Received: by 10.224.4.133 with SMTP id 5mr47751834qar.25.1408284802715;
+        Sun, 17 Aug 2014 07:13:22 -0700 (PDT)
+Return-Path: <bounce-8059303@bounce.getresponse.com>
+Received: from mta-12a.getresponse.com (mta-12a.getresponse.com. [207.8.203.49])
+        by mx.google.com with ESMTP id x8si20283900qam.87.2014.08.17.07.13.22
+        for <ajuver@gmail.com>;
+        Sun, 17 Aug 2014 07:13:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-8059303@bounce.getresponse.com designates 207.8.203.49 as permitted sender) client-ip=207.8.203.49;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-8059303@bounce.getresponse.com designates 207.8.203.49 as permitted sender) smtp.mail=bounce-8059303@bounce.getresponse.com;
+       dkim=pass header.i=@getresponse.com
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+Date: Sun, 17 Aug 2014 14:12:47 +0000
+Feedback-Id: c=uzj42:u=l66fc:broadcast:getresponse
+Return-Path: <bounce-8059303@bounce.getresponse.com>
+Subject: =?UTF-8?B?UHJvZ3JhbWEgRm9ybWHDp8OjbyBlbSBDb25zdGVsYcOnw6NvIEZhbWlsaWFyIFNpc3TDqm1pY2EgZGUgMjMgYSAzMSBkZSBBZ29zdG8gZW0gUG9ydG8gQWxlZ3Jl?=
+Reply-To: contato@interativeproducoes.com
+X-Complaints-To: abuse@getresponse.com
+To: "Friend" <ajuver@gmail.com>
+Sender: jornadaperu@getresponse.com
+From: =?UTF-8?B?SW50ZXJhdGl2ZSAtIFByb2R1w6fDtWVzIEludGVncmF0aXZhcw==?= <contato@interativeproducoes.com>
+X-Serial: s56bjeOrIkQ/a1lF1xE7FgZ6Lj7HKwHA74Ukn2FbKsQu+qCJgBskS9x0EEJIMFh68ZZfESOdv7/OcdUYitBb/WAZ6ihn66mgOl55YyDJI54mnTA=
+List-Unsubscribe: <mailto:listunsubscribe@getresponse.com?subject=s56bjeOrIkQ%2Fa1lF1xE7FgZ6Lj7HKwHA74Ukn2FbKsQu%2BqCJgBskS9x0EEJIMFh68ZZfESOdv7%2FOcdUYitBb%2FWAZ6ihn66mgOl55YyDJI54mnTA%3D>, <http://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=GWGi6&s=h3J6f6&y=A&>
+X-Postmaster-Msgtype: uzj42
+Require-Recipient-Valid-Since: ajuver@gmail.com; Tue, 22 Jul 2014 07:36:48 +0000
+Message-Id: <1408284767.419061@getresponse.com>
+X-Mailer: GetResponse 6.0
+Dkim-Signature: a=rsa-sha256; b=NB+ZsTgCdchlQGa5wEWVb50pXJPYHQ+K7O6QPcIWGHZYB0QyYGS2Rl++hDioTvewdhzoEc8cGSwN+p0p+H/0qT7wXnpmH0bU1Q6bUdhlA9caLRkEZyI/thildguV89sVPxbmKddd7hUsJn4ehrdbA7xqOCAOEOWQJpZjcLnPkqI=; bh=YupcUwbihSIvbv+77ZCKkoEM9qH67Zbd1SnRstobq9M=; c=relaxed/simple; d=getresponse.com; h=sender:from:to:subject; s=k1024c; v=1;
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1">
+<style type=3D"text/css">
+<!--
+.ReadMsgBody {width: 100%;background-color: #ffffff;}
+.ExternalClass {width: 100%;background-color: #ffffff;}
+html {width: 100%;padding: 0px;margin: 0px;}
+body {width: 100% !important;-webkit-text-size-adjust:100%;-ms-text-size-ad=
+just:100%;margin: 0px;padding: 0px;background-color: #ffffff;transform: sca=
+le(1, 1);zoom: 1;}
+.wrap {width: 100% !important;padding: 0px;margin: 0px;}
+img {display: block;-ms-interpolation-mode: bicubic;margin: 0 !important;pa=
+dding: 0 !important;-webkit-box-sizing: border-box;-moz-box-sizing: border-=
+box;box-sizing: border-box;}
+table font {background-color: inherit;}
+table {border-collapse: collapse;border-spacing: 0px;padding: 0px;empty-cel=
+ls: hide;mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+tr {border-collapse: collapse;border-spacing: 0px;}
+td {display: table-cell !important;border-collapse: collapse;border-spacing=
+: 0px;}
+td.column { min-width: 0 !important; }
+body[data-getresponse] td.column {display: table-cell !important;float: non=
+e !important;min-width: auto;max-width: auto;}
+table.wrapper {width: 602px !important;max-width: 602px;font-size: 16px;}
+@media all and (max-width: 480px) {
+body {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing=
+: border-box;}
+table {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizin=
+g: border-box;}
+table td {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-si=
+zing: border-box;}
+table.wrapper {width: 100% !important;max-width: 100% !important;}
+table[data-mobile-width=3D"1"] {max-width: 100% !important;width: 100% !imp=
+ortant;}
+table[data-mobile-width=3D"0"] {max-width: 100% !important;}
+table[data-mobile-width=3D"0"] td {padding-left: 10px !important;padding-ri=
+ght: 10px !important;}
+table[data-editable=3D"image"] img {width: 100%;max-width: 100% !important;=
+height: auto !important;-webkit-box-sizing: border-box;-moz-box-sizing: bor=
+der-box;box-sizing: border-box;}
+table[data-mobile-width=3D"1"] {width: 100% !important;}
+table[data-mobile-width=3D"1"] img {width: 100% !important;max-width: 100% =
+!important;height: auto !important;}
+body[data-getresponse] table td {display: block !important;width: 100% !imp=
+ortant;height: auto !important;}
+body[data-getresponse] td.column {display: inline-block !important;max-widt=
+h: 100% !important;width: auto !important;}
+table[data-editable=3D"text"] table[data-editable=3D"button"] {float: none;}
+table[data-mobile-width=3D"1"] td {padding-left: 0 !important; padding-righ=
+t: 0 !important;}
+table[data-editable=3D"text"] {padding-left: 10px !important;padding-right:=
+ 10px !important;}
+table[data-editable=3D"text"] table[data-editable=3D"image"] {max-width: 10=
+0% !important;margin: 0px;float: none;}
+table[data-editable=3D"text"] table[data-mobile-width] td {padding: 0 !impo=
+rtant;padding-bottom: 10px !important;}
+table[data-editable=3D"socialmedia"] table {text-align: center !important;}
+tr[data-columns=3D"no"] { text-align: center; }
+tr[data-columns=3D"no"] > td {display: inline-block !important;width: auto =
+!important;margin: auto;padding: 5px;}
+body[data-getresponse] table.nowrap td { display: table-cell !important; wi=
+dth: auto !important; }tfoot .wrapper table { float: none !important; margi=
+n: auto !important; width: 100% !important; }
+tfoot .wrapper table td { text-align: center !important; }
+tfoot .wrapper table td img { margin: auto !important; }
+.pl_image { width: 100% !important; }
+body[data-getresponse] tr[data-columns=3D"no"] > td {display: inline-block =
+!important;width: auto !important;margin: auto !important;padding: 5px;}}
+.pl_image, .outline .editable .imagemask div {vertical-align: middle;text-a=
+lign: center;font-family: Arial,Helvetica,sans-serif;color: #ffffff;font-si=
+ze: 20px;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: =
+6px;background: #dedede url(/images/common/templates/messages/elements/plac=
+eholders/image.png) no-repeat 50% 50%;width: 100%;height: 100%;overflow: hi=
+dden;}
+--></style>
+<!--[if gte mso 9]><style type=3D"text/css"></style><![endif]--></head>
+<body data-getresponse=3D"true" style=3D"margin: 0; padding: 0;">
+<div class=3D"wrap"><style type=3D"text/css"><!-- table.wrapper {width: 602=
+px;max-width: 602px !important;font-size: 16px;}
+td.column { min-width: 0 !important; }=20
+body[data-getresponse] td.column { float: none !important; }body[xx-iframe]=
+ td.column { display: table-cell !important; float: none !important; }--></=
+style>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" data=
+-mobile=3D"true" dir=3D"ltr" data-width=3D"602" style=3D"font-size: 16px; b=
+ackground-color: rgb(255, 255, 255);">
+    <tbody><tr>
+        <td align=3D"center" valign=3D"top" style=3D"margin:0;padding:0;">
+            <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"602" bgcolor=3D"#fffede" class=3D"wrapper" style=3D"width:=
+ 602px; margin: 0px;">
+                <tbody><tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table align=3D"center" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" data-editable=3D"text" style=3D"margin=
+-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding: 25px 0px 28px; margin: 0px; font-family: 'Trebuchet MS', sans-=
+serif; color: rgb(54, 54, 54);">
+                                    <span style=3D"font-family: 'Trebuchet =
+MS', sans-serif; font-size: 39px; font-weight: bold; color: rgb(98, 22, 5);=
+">Programa Forma=C3=A7=C3=A3o em Constela=C3=A7=C3=A3o Familiar Sist=C3=AAm=
+ica</span></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td valign=3D"top" align=3D"center" style=3D"padding:0;=
+margin:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" data-editable=3D"image" data-mobile-width=3D"1" sty=
+le=3D"margin-right: auto;" width=3D"83%">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"center" style=
+=3D"margin: 0px; padding: 3px; border-bottom-width: 32px; border-bottom-sty=
+le: solid; border-bottom-color: rgb(255, 254, 222); background-color: rgb(2=
+36, 234, 177);"><img src=3D"https://app.getresponse.com/images/common/templ=
+ates/messages/54/3/img/01.jpg" alt=3D"" width=3D"494" border=3D"0" data-ori=
+gsrc=3D"https://app.getresponse.com/images/common/templates/messages/54/3/i=
+mg/01.jpg" data-src=3D"https://app.getresponse.com/images/common/templates/=
+messages/54/3/img/01.jpg|494|181|494|181|0|0|1" style=3D"border: 0px none t=
+ransparent; display: block; width: 100%; max-width: 100% !important;"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table align=3D"center" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" data-editable=3D"text" style=3D"margin=
+-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td align=3D"left" valign=3D"top" style=3D"=
+padding: 0px 53px 20px; margin: 0px; font-family: Arial, Verdana, Helvetica=
+; color: rgb(147, 147, 5); background-color: rgb(243, 243, 111);"><div styl=
+e=3D"text-align: center;"><span style=3D"font-family: Verdana, sans-serif; =
+font-size: 14px; color: rgb(98, 22, 5); font-weight: bold;">METAFORUM INTER=
+NACIONAL PORTO ALEGRE&nbsp;</span></div><div style=3D"text-align: center;">=
+<span style=3D"font-family: Verdana, sans-serif; font-size: 14px; color: rg=
+b(98, 22, 5); font-weight: bold;">DE 23 A 31 DE AGOSTO</span></div><div sty=
+le=3D""><span style=3D"font-family: Arial, Verdana, Helvetica; font-size: 1=
+4px;"><br><span style=3D"color: rgb(36, 36, 33);">Todos n=C3=B3s estamos co=
+nectados aos nossos sistemas de refer=C3=AAncia, sejam eles nossas fam=C3=
+=ADlias, grupos, comunidades ou institui=C3=A7=C3=B5es a que pertencemos. M=
+uitas vezes, estes nossos v=C3=ADnculos ocorrem de forma disfuncional e som=
+os influenciados no presente, com limita=C3=A7=C3=B5es, dificuldades, confl=
+itos e at=C3=A9 adoecimentos. <br>=C3=80s vezes, estamos fora de nosso verd=
+adeiro lugar em nossas fam=C3=ADlias, em um papel que n=C3=A3o =C3=A9 realm=
+ente o nosso; como por exemplo, irm=C3=A3o que toma o lugar de pai, filha q=
+ue toma o lugar de mulher do pai (tudo isso no inconsciente) , m=C3=A3e que=
+ se comporta como filha da filha; filhos que tomam as cren=C3=A7as e o fard=
+o dos pais para si, ficando assim impossibilitados de seguir seu pr=C3=B3pr=
+io caminho. <br>Repeti=C3=A7=C3=A3o de padr=C3=B5es negativos, doen=C3=A7as=
+ psicossom=C3=A1ticas, disfun=C3=A7=C3=B5es sexuais, filhos que n=C3=A3o "c=
+rescem" por terem medo de n=C3=A3o serem mais amados pelos pais, c=C3=B4nju=
+ge que n=C3=A3o se independe da influ=C3=AAncia dos pais depois de se casar=
+, identifica=C3=A7=C3=A3o excessiva com algum ente querido que j=C3=A1 morr=
+eu impossibilitando a pessoa de olhar para seu trabalho e sua vida,etc. <br=
+>Estamos inseridos dentro de um grande sistema cont=C3=ADnuo, de diversos e=
+lementos que se interagem e de certa forma s=C3=A3o interdependentes uns co=
+m os outros. <br>Nascemos dentro de um sistema familiar, que existe h=C3=A1=
+ muitos anos e onde n=C3=A3o sabemos direito o seu hist=C3=B3rico por compl=
+eto. Foram gera=C3=A7=C3=B5es atr=C3=A1s de gera=C3=A7=C3=B5es, com muitas =
+hist=C3=B3rias, acontecimentos, e situa=C3=A7=C3=B5es felizes e tr=C3=A1gic=
+as. <br>E com isso herdamos dos nossos pais e ancestrais toda a carga morfo=
+gen=C3=A9tica (morfo=3Dforma) e n=C3=A3o damos conta dos padr=C3=B5es, das =
+cren=C3=A7as e at=C3=A9 mesmo das repeti=C3=A7=C3=B5es de est=C3=B3rias den=
+tro da nossa fam=C3=ADlia.</span></span></div><div style=3D""><span style=
+=3D"font-family: Arial, Verdana, Helvetica; font-size: 14px;"><span style=
+=3D"color: rgb(36, 36, 33);"><br><span style=3D"font-weight: bold; font-sty=
+le: italic;">A Constela=C3=A7=C3=A3o Sist=C3=AAmica Familiar</span> quebra =
+os c=C3=ADrculos viciosos. Revela os mecanismos inconscientes do nosso comp=
+ortamento e as influ=C3=AAncias externas. <br>Atrav=C3=A9s da T=C3=A9cnica =
+de Constela=C3=A7=C3=A3o o cliente pode trabalhar temas de rela=C3=A7=C3=B5=
+es familiares e afetivas, problemas de sa=C3=BAde ou dificuldades profissio=
+nais, proporcionando transforma=C3=A7=C3=B5es profundas e maior compreens=
+=C3=A3o nas situa=C3=A7=C3=B5es problem=C3=A1ticas vivenciadas.&nbsp;</span=
+></span></div><div style=3D""><span style=3D"font-family: Arial, Verdana, H=
+elvetica; font-size: 14px;"><span style=3D"color: rgb(36, 36, 33);"><br>O t=
+rabalho de constela=C3=A7=C3=A3o familiar =C3=A9 uma oportunidade de identi=
+ficarmos de forma consciente o que est=C3=A1 acontecendo com o nosso sistem=
+a, dissolvendo conflitos familiares (pais, filhos, irm=C3=A3os, tios, av=C3=
+=B3s), conflitos entre casais, dificuldade em lidar com perdas de parentes,=
+ pessoas queridas ou parceiros, dificuldade em relacionar-se de uma forma g=
+eral, dificuldade em comunicar-se, problemas de sa=C3=BAde, conflitos entre=
+ s=C3=B3cios, funcion=C3=A1rios e clientes, problemas financeiros, entre ou=
+tras coisas.</span></span></div><div style=3D""><span style=3D"font-family:=
+ Arial, Verdana, Helvetica; font-size: 14px;"><span style=3D"color: rgb(36,=
+ 36, 33);"><br>=E2=80=A2 Voc=C3=AA aprender=C3=A1 o pensamento sist=C3=AAmi=
+co e princ=C3=ADpios que movimentam sistemas, nessa semana em especial o si=
+stema familiar. Para n=C3=B3s o pensamento sist=C3=AAmico =C3=A9 a base par=
+a o uso da ferramenta de constela=C3=A7=C3=A3o sist=C3=AAmica e constela=C3=
+=A7=C3=A3o familiar<br>A constela=C3=A7=C3=A3o sist=C3=AAmica/familiar =C3=
+=A9 um procedimento que possibilita uma simula=C3=A7=C3=A3o e uma modifica=
+=C3=A7=C3=A3o de padr=C3=B5es relacionais em diferentes sistemas, tais como=
+ familiares, contextos psicossom=C3=A1ticos, organizacionais.<br><br>=C3=89=
+ um procedimento onde grupos de pessoas modelam e modificam estruturas e di=
+n=C3=A2micas de um sistema. Uma base da constela=C3=A7=C3=A3o sist=C3=AAmic=
+a =C3=A9 a capacidade maravilhosa da percep=C3=A7=C3=A3o representativa. Po=
+demos usar essa ferramenta em terapia, consultoria, coaching, media=C3=A7=
+=C3=A3o e supervis=C3=A3o, como tamb=C3=A9m em processos criativos.</span><=
+/span></div><div style=3D""><span style=3D"font-family: Arial, Verdana, Hel=
+vetica; font-size: 14px; color: rgb(36, 36, 33);"><br><span style=3D"text-d=
+ecoration: underline;">Nesse curso, voc=C3=AA vai aprender=C3=A1: </span><b=
+r>=E2=80=A2	entender as for=C3=A7as nas quais se baseiam e ordenam sistemas=
+ de relacionamentos<br>=E2=80=A2	perceber processos  e efeitos dos destinos=
+ familiares e de grupos maiores nas rela=C3=A7=C3=B5es e como atuem em situ=
+a=C3=A7=C3=B5es e vidas<br>=E2=80=A2	ter consci=C3=AAncia sobre o lugar ade=
+quado no sistema familiar e consequentemente sentir a for=C3=A7a e as possi=
+bilidades que surgem de a=C3=AD<br>=E2=80=A2	abrir m=C3=A3o a rejei=C3=A7=
+=C3=A3o da vida e do amor dos pais para ficar livre e poder concordar com o=
+ pr=C3=B3prio destino e o dar e receber na vida, para poder amar o parceiro=
+, os outros e a vida em si<br>=E2=80=A2	dar se consci=C3=AAncia de ilus=C3=
+=B5es, emaranhamentos e bloqueios em rela=C3=A7=C3=B5es amorosas  e saber d=
+esfaze- las.<br>=E2=80=A2	achar novas possibilidades em quest=C3=B5es dif=
+=C3=ADceis na educa=C3=A7=C3=A3o e em certas situa=C3=A7=C3=B5es familiares=
+<br>=E2=80=A2	gram=C3=A1ticas da constela=C3=A7=C3=A3o<br>=E2=80=A2	exerc=
+=C3=ADcios na percep=C3=A7=C3=A3o representativa e de constela=C3=A7=C3=B5e=
+s</span></div><div style=3D""><span style=3D"font-family: Arial, Verdana, H=
+elvetica; font-size: 14px; color: rgb(36, 36, 33);"><br>Saiba mais sobre es=
+te curso =E2=80=93 Acesse o link e veja o v=C3=ADdeo: http://www.youtube.co=
+m/watch?v=3DaZDQxKuQBvU</span></div><div style=3D""><span style=3D"font-fam=
+ily: Arial, Verdana, Helvetica; font-size: 14px; color: rgb(36, 36, 33);"><=
+br></span></div><div style=3D""><span style=3D"font-family: Arial, Verdana,=
+ Helvetica; font-size: 14px; color: rgb(36, 36, 33);">Facilitador: Luciano =
+Alves - Natural de Salvador/BA =C3=A9 Master Trainer em Coach (Alemanha), T=
+rainer em Constela=C3=A7=C3=A3o Familiar Sist=C3=AAmica e Organizacional (B=
+rasil e Alemanha), Palestrante Internacional, Consultor Individual e Organi=
+zacional de equipes, Psic=C3=B3logo com Especializa=C3=A7=C3=A3o em <br>Neu=
+ropsicologia, Sist=C3=AAmica e Familiar, Acupuntura, Farmacologia e <br>Fit=
+oterapia Chinesa com extens=C3=A3o da Beijing University of Chinese <br>Med=
+icine =E2=80=93 BUCM/China<br><br><span style=3D"font-weight: bold;">Inform=
+a=C3=A7=C3=B5es:<br>Thais da Silva<br>Interative Produ=C3=A7=C3=B5es Integr=
+ativas</span><br>thais@interative8.com<br>051) 9654.6615 Vivo/ 8313.6611 Ti=
+m/ 8903.5251 Claro/ 7814.4950 Nextel ID:14*563098<br>facebook.com/thais.d.s=
+ilva.7 <br>https://www.facebook.com/interative.producoesintegrativas<br>www=
+.interative8.com</span></div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+            <tr><td><table cellpadding=3D"0" cellspacing=3D"0" align=3D"cen=
+ter" data-editable=3D"image" data-mobile-width=3D"1" style=3D"margin-right:=
+ auto;" width=3D"54%"><tbody><tr><td valign=3D"top" align=3D"center" style=
+=3D"margin: 0px; padding: 10px 0px;"><img src=3D"https://multimedia.getresp=
+onse.com/203/4463203/photos/34075003.png?img1408151287011" width=3D"325" st=
+yle=3D"border: 0px none transparent; display: block; width: 100%; max-width=
+: 100% !important;" data-src=3D"https://multimedia.getresponse.com/203/4463=
+203/photos/34075003.png|325|220|314|220|0|0|1" data-origsrc=3D"https://mult=
+imedia.getresponse.com/203/4463203/photos/25320003.png"></td></tr></tbody><=
+/table></td></tr></tbody></table>
+        </td>
+    </tr>
+</tbody><tfoot><tr><td align=3D"left" style=3D"margin: 0px; padding: 15px 0=
+px; background-color: rgb(255, 255, 255);"><table cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"left" border=3D"0" class=3D"wrapper" width=3D"602" styl=
+e=3D"width: 602px; margin: 0px;"><tbody><tr><td valign=3D"top" align=3D"cen=
+ter"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" align=3D"cen=
+ter" border=3D"0" class=3D"wrapper"><tr><td valign=3D"top" align=3D"center"=
+ class=3D"column" width=3D"auto" style=3D"float: left; min-width: 320px; ma=
+x-width: 100% !important; margin: 0px; padding: 0px;"><table border=3D"0" a=
+lign=3D"left" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"margin:0=
+;padding:0 0 10px 0;" valign=3D"middle" align=3D"left"><span style=3D"font-=
+family: Arial, Helvetica, sans-serif;color: #939598;font-size: 10px;"></spa=
+n></td></tr><tr><td style=3D"margin:0;padding:0;" valign=3D"middle" align=
+=3D"left"><span style=3D"font-family: Arial, Helvetica, sans-serif;color: #=
+939598; font-size: 10px;">Voc=C3=AA pode <a href=3D"http://app.getresponse.=
+com/me.html?x=3Da62b&m=3DGWGi6&s=3Dh3J6f6&u=3DrcGM&y=3Dy&" style=3D"color:#=
+0985f5; text-decoration: underline;"><span style=3D"color:#0985f5;">cancela=
+r sua assinatura</span></a> ou <a href=3D"http://app.getresponse.com/me.htm=
+l?x=3Da62b&m=3DGWGi6&s=3Dh3J6f6&u=3DrcGM&y=3Dy&" style=3D"color:#0985f5; te=
+xt-decoration: underline;"><span style=3D"color:#0985f5;">alterar os seus d=
+ados de contato</span></a> a qualquer momento.</span></td></tr></table></td=
+><td valign=3D"top" align=3D"center" class=3D"column" width=3D"150" style=
+=3D"float: left; min-width: 100%; max-width: 100% !important; margin: 0px; =
+padding: 15px 0px;"><table border=3D"0" align=3D"right" cellpadding=3D"0" c=
+ellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" style=3D"margin:0;=
+padding:0;"><a href=3D"http://app.getresponse.com/referral.html?x=3Da62b&c=
+=3Dm38s&u=3DrcGM&y=3Dn&"></a></td></tr></table></td></tr></table></td></tr>=
+</tbody></table></td></tr></tfoot></table>
+
+
+</div></body>
+</html><img src=3D"http://app.getresponse.com/open.html?x=3Da62b&m=3DGWGi6&=
+mc=3Dhc&s=3Dh3J6f6&u=3DrcGM&y=3D7&" width=3D"0" height=3D"0" border=3D"0" a=
+lt=3D"open" />=
+

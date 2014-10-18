@@ -1,0 +1,301 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp566461icc;
+        Fri, 22 Aug 2014 11:09:11 -0700 (PDT)
+X-Received: by 10.50.143.73 with SMTP id sc9mr101151igb.29.1408730950431;
+        Fri, 22 Aug 2014 11:09:10 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.64.148.102 with POP3 id tr6mf2199567ieb.14;
+        Fri, 22 Aug 2014 11:09:10 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br via 98.139.244.175; Fri, 22 Aug 2014 18:03:34 +0000
+Received-SPF: none (domain of vps.virtualshopping.net.br does not designate permitted sender hosts)
+X-YMailISG: uFenQVAWLDtN0.onATEnwyig.m203qYdwus0qgkUJ9nFbO_g
+ wc8AfnrxIaOs8YcEtSFn9ssoKXUWF3ZG9KTKaB4OxIxnb65qp6TFm7y4944Q
+ pYoUUy7j4m9nCzoPP7.bRz.NH2mGLKOLDnZDPOzNUCtNbetKEt33hiC1hutx
+ h0UHSudc1prvn9_DVgiFOJ51EjKRazhhJD0jZfUmbCYBftrmZun.l4fHDThU
+ 6qSln2QzZ_yi3puTxdyOzumN1bvjuYLvg2OV765FmwQ_Y.wMYjO_HrqZ3W7Y
+ N.pzhfEhhYgaw4iS13aPAUDRftzTKMLHXvhg2GGJMKQybsdLy3RwiRPmC0kL
+ m8qfXlRDb.6rMQVA4aJOHzrJj9LM3oAD3zGaiNUyONQgDkCFoO46kFyYZbIQ
+ fSGrwdWa7j48rX8A.BBupmQy8G6Wa8trQAKxL8FjF65eupyYlm0_31F5LqUh
+ xm.aCLgyIG.6WwFWFJxsl1wLug1pBIfcUem.kzoaUAsgYvMKMKikl_iUicfT
+ J.s189Oiqu3VIDBHYcilZJiGaKLo0OTVAwEncmK1vfKZTUU_b37OFTm1YgB3
+ m2JIAjFJ89hciNHp71S56IcL1ZXW6keUhVLFV6QJZaaCLHutQimC72XcMZ3H
+ XvQWHJoviGTC0uInfCCRyJwU7Jmf1eWs5cwAfz1gcSz5TLribzGvgal9iJJM
+ r_c4ChvmNgYsZUJvK9jPCMVpzJY5pbj4dG62y_Qe0BMp7vgH5o9_LhwIJzSO
+ CmUda5_Ke.XV2TjQoVG7uLw3nC8ovLsF4eFbuEM9iMihG92LedLi_mhW9I8n
+ qNKdtLoE98gf5TV4hp_tbzuXi8w.dpfDMeiz3cYCx_lYgZWSkfbD2wEEcUMz
+ TqrF5NE8rU1LE2IQ0qOwsr1tt6w5M5gqX1xkU7_yQFiDRrYG9Ju1wYqR6u.C
+ I3e2OV3FZs3XaeLrPIgal93ZOi0p0Xmc8E8FnpfxId.PrMXWw78pAqNnU9kj
+ 7sWZ0i.kTRtBDbjO_aVkQe3PuXgJs3gJl0A5Zbb570DwbCCIil.L8.rll7B0
+ w1CV8aFfxap8YTOUCV9CHHZR9QC.EF9LA1q3wPqzhLjlD69sT.NDoe68E4tW
+ .sQQ016l42wThyvy_5f3guH.FSOZ0wd15ArgsaFvH9fRd2.Ghs6aNls713pg
+ 2SgAwDcR4TY9uGxstZDQZafPhFa5HVI3ZNZgAylxa9B_.kwqLVv0yjF5_eNM
+ EANrSYwXlPfex5_Yi85p9mzUT1Kif7mgscscXOdZgNTIzWjj8wSvxH2XSrle
+ UWNSj45J3KYgdLX_IEj4hHcZE3LQsrCLogwlcX.N5h2uCX6KlEMp3buJ4s0I
+ At9JA032VRKaU.muafPN_A--
+X-Originating-IP: [192.185.218.50]
+Authentication-Results: mta1006.mail.ne1.yahoo.com  from=mettacapitalhumano.com.br; domainkeys=neutral (no sig);  from=mettacapitalhumano.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO vps.virtualshopping.net.br) (192.185.218.50)
+  by mta1006.mail.ne1.yahoo.com with SMTPS; Fri, 22 Aug 2014 18:03:34 +0000
+Received: from virtuals by vps.virtualshopping.net.br with local (Exim 4.82)
+	(envelope-from <virtuals@vps.virtualshopping.net.br>)
+	id 1XKtBV-0000wL-9v
+	for ajuver@yahoo.com.br; Fri, 22 Aug 2014 15:03:33 -0300
+To: ajuver@yahoo.com.br
+Subject: - Nova oportunidade para você!
+From: Metta Capital Humano <mettacapitalhumano@mettacapitalhumano.com.br>
+Content-Type: text/html; charset=iso-8859-1
+MIME-Version: 1.0
+X-Priority: 1
+Message-Id: <E1XKtBV-0000wL-9v@vps.virtualshopping.net.br>
+Date: Fri, 22 Aug 2014 15:03:33 -0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps.virtualshopping.net.br
+X-AntiAbuse: Original Domain - yahoo.com.br
+X-AntiAbuse: Originator/Caller UID/GID - [502 501] / [47 12]
+X-AntiAbuse: Sender Address Domain - vps.virtualshopping.net.br
+X-Get-Message-Sender-Via: vps.virtualshopping.net.br: authenticated_id: virtuals/only user confirmed/virtual account not confirmed
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<HTML>
+
+			
+
+<HEAD>
+
+<TITLE>..:: Metta Capital Humano - Agregando Valores. Desenvolvendo Pessoas. ::..</TITLE>
+
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=iso-8859-1'>
+
+<link href='http://www.mettaestagios.com.br/adm/formatacao.css' rel='stylesheet' type='text/css'>
+
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+
+<!-- ImageReady Slices (Folder Eletronico.psd) -->
+
+<TABLE WIDTH=719 BORDER=0 align='center' CELLPADDING=0 CELLSPACING=0>
+
+	<TR>
+
+		<TD COLSPAN=2>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/folder_logo.gif' WIDTH=180 HEIGHT=194 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/folder_02.gif' WIDTH=188 HEIGHT=194 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/folder_03.gif' WIDTH=180 HEIGHT=194 ALT=''></TD>
+
+		<TD COLSPAN=2>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/folder_04.gif' WIDTH=171 HEIGHT=194 ALT=''></TD>
+
+	</TR>
+
+	<TR>
+
+		<TD background='http://www.mettaestagios.com.br/adm/Folder/images/folder_05.gif'>&nbsp;</TD>
+
+		<TD COLSPAN=4><table width='100%' border='0'>
+
+  
+
+  <tr>
+
+    <td colspan='2' class='title'>&nbsp;</td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan='2' class='title'>Caro(a) ÁLVARO JUVER </td>
+
+  </tr>
+
+  <tr>
+
+    <td width='25%'>&nbsp;</td>
+
+    <td width='75%'>&nbsp;</td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan='2'><div align='left'>A Metta Capital Humano tem uma nova oportunidade para você: </div></td>
+
+  </tr>
+
+  <tr>
+
+    <td>&nbsp;</td>
+
+    <td>&nbsp;</td>
+
+  </tr>
+
+  <tr>
+
+    <td><div align='right'><b>C&oacute;digo da vaga:</b> </div></td>
+
+    <td>13627</td>
+
+  </tr>
+
+  <tr>
+
+    <td><div align='right'><b>Vaga: </b></div></td>
+
+    <td>PROFISSIONAL - TÉCNICO EM INFORMÁTICA</td>
+
+  </tr>
+
+  <tr>
+
+    <td valign='top'><div align='right'><b>Cidade:</b></div></td>
+
+    <td>PORTO ALEGRE</td>
+
+  </tr>
+
+  <tr>
+
+    <td valign='top'><div align='right'><b>Bairro:</b></div></td>
+
+    <td>RIO BRANCO</td>
+
+  </tr>
+
+  <tr>
+
+    <td valign='top'><div align='right'><b>Atividades:</b></div></td>
+
+    <td>REALIZAR MANUTENÇÃO DE REDE, INSTALAÇÃO DE PROGRAMAS, MANUTENÇÃO EM BANCO DE DADOS E DEMAIS ATIVIDADES DA ÁREA. NECESSÁRIO POSSUIR CONHECIMENTO EM BANCO DE DADOS, REDES E INSTALAÇÃO DE PROGRAMAS. .</td>
+
+  </tr>
+
+  <tr>
+
+    <td><div align='right'><b>Hor&aacute;rio:</b></div></td>
+
+    <td>08:30 até 12:00 | 13:00 até 18:30</td>
+
+  </tr>
+
+  <tr>
+
+    <td><div align='right'><b>Bolsa-aux&iacute;lio:</b> </div></td>
+
+    <td>R$ 902,00 por mês</td>
+
+  </tr>
+
+  <tr>
+
+		<td valign='top'><div align='right'><b>Benef&iacute;cios:</b></div></td>
+
+		<td>Vale-transporte: SIM (INDIFERENTE)<br> Passagem Grande Porto Alegre: SIM<br>  Vale-refeição: SIM (17,00)<br> Assistência Médica: SIM<br> Assistência Odontológica: SIM<br></td>
+
+	  </tr>
+
+<tr>
+
+		<td valign='top'><div align='right'><b>Outros benef&iacute;cios:</b></div></td>
+
+		<td>EMPRESA DISPONIBILIZA ASSISTÊNCIA MÉDICA E ODONTOLÓGICA. </td>
+
+	  </tr>
+
+  <tr>
+
+    <td><div align='right'><b>Semestre:</b></div></td>
+
+    <td>1 º até 10 º</td>
+
+  </tr>
+
+  <tr>
+
+    <td valign='top'><div align='right'><b>Obs.:</b></div></td>
+
+    <td>ENVIAR CURRÍCULO PARA EFETIVOS2@METTACAPITALHUMANO.COM.BR MENCIONANDO NO ASSUNTO O CÓD. DA VAGA </td>
+
+  </tr>
+
+  <tr>
+
+    <td>&nbsp;</td>
+
+    <td>&nbsp;</td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan='2'>Se você tem interesse na vaga acima, por favor siga o procedimento informado no campo Observações. </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan='2'>Acesse nosso site: <a href='http://www.mettacapitalhumano.com.br' target='_blank'>http://www.mettacapitalhumano.com.br </a></td>
+
+  </tr>
+
+</table></TD>
+
+		<TD background='http://www.mettaestagios.com.br/adm/Folder/images/folder_07.gif'>&nbsp;</TD>
+
+	</TR>
+
+	<TR>
+
+		<TD COLSPAN=6>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/folder_08.gif' WIDTH=719 HEIGHT=34 ALT=''></TD>
+
+	</TR>
+
+	<TR>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=8 HEIGHT=1 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=172 HEIGHT=1 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=188 HEIGHT=1 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=180 HEIGHT=1 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=162 HEIGHT=1 ALT=''></TD>
+
+		<TD>
+
+			<IMG SRC='http://www.mettaestagios.com.br/adm/Folder/images/spacer.gif' WIDTH=9 HEIGHT=1 ALT=''></TD>
+
+	</TR>
+
+</TABLE>
+
+<!-- End ImageReady Slices -->
+
+</BODY>
+
+</HTML>

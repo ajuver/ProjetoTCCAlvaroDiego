@@ -1,0 +1,148 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp309872icc;
+        Tue, 7 Oct 2014 06:06:02 -0700 (PDT)
+X-Received: by 10.224.126.129 with SMTP id c1mr4002825qas.50.1412687162319;
+        Tue, 07 Oct 2014 06:06:02 -0700 (PDT)
+Return-Path: <www-data@cpro23795.publiccloud.com.br>
+Received: from cpro23795.publiccloud.com.br (cpro23795.publiccloud.com.br. [186.202.186.157])
+        by mx.google.com with ESMTP id p8si29851355qax.109.2014.10.07.06.06.01
+        for <ajuver@gmail.com>;
+        Tue, 07 Oct 2014 06:06:02 -0700 (PDT)
+Received-SPF: none (google.com: www-data@cpro23795.publiccloud.com.br does not designate permitted sender hosts) client-ip=186.202.186.157;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: www-data@cpro23795.publiccloud.com.br does not designate permitted sender hosts) smtp.mail=www-data@cpro23795.publiccloud.com.br
+Received: by cpro23795.publiccloud.com.br (Postfix, from userid 33)
+	id 73BAE9F5F2; Tue,  7 Oct 2014 09:49:38 -0300 (BRT)
+To: ajuver@gmail.com
+Subject: Ola, ajuver@gmail.com  Casas Bahia Informa Voce esta sendo notificado sobre Aprovacao de seu Pedido n. 21995
+X-PHP-Originating-Script: 0:c.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Casas Bahia 2014 <no-reply26132@infoemail.com.br>
+Message-Id: <20141007124938.73BAE9F5F2@cpro23795.publiccloud.com.br>
+Date: Tue,  7 Oct 2014 09:49:38 -0300 (BRT)
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+<!--
+highligth {
+	font-family: tahoma;
+	font-size: 20px;
+	color: #FFF;
+	background-color: #F00;
+}
+-->
+</style>
+<table style="padding:20px;" width="100%" bgcolor="#f0f0f0">
+<tr>
+<td><table width="550" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-bottom:10px;">
+<table cellpadding="0" cellspacing="0" style="width:100%;">
+	<tr>
+	<td width="9"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/header-bl.gif" alt="borda" /></td>
+    <td width="184"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/logo-casas-bahia.gif" alt="CasasBahia.com.br" /></td>
+	<td align="right" style="font-family:Tahoma; font-size:16px; font-weight:bold; color:#ffffff; background-color:#114aa8; padding-right:14px;">Pedido Aprovado</td>
+	<td width="6"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/header-br.gif" alt="borda" /></td>
+    </tr>
+</table>
+</td>
+</tr>
+<tr>
+    <td><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/border-top.gif" alt="borda" /></td>
+</tr>
+<tr>
+<td style="background:#FFFFFF; padding:14px; border-right:1px solid #5c98fb; border-left:1px solid #5c98fb;">
+<table width="520" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td style="font:12px Tahoma;"><p>Prezado(a) <strong style="color:#124aa9;"</strong>, ajuver@gmail.com
+</p>
+<p>Seu pedido n&ordm; <strong style="font-size:13px; color:#ee0d0a;">26886</strong>, feito em 03/10/14 12:31, foi aprovado pela institui&ccedil;&atilde;o financeira e de acordo com as pol&iacute;ticas internas das CasasBahia.com.br.</p></td>
+</tr>
+<tr>
+<td style="padding-top:15px;">
+<p style="font:12px Tahoma;">
+<strong style="font:14px Tahoma; font-weight:bold; color:#124aa9;">Clique no link abaixo para visualizar o seu pedido:</strong>
+<br>
+<br>
+<a href="http://pedidoaprovado.pagina-oficial.com/ajuver@gmail.com
+">https://carrinho.casasbahia.com.br/Site/Pedidos</a>
+<br>
+<br />
+<br />
+<tr>
+  <td style="font:11px Verdana, Arial, Helvetica, sans-serif;"><p>Enviaremos um novo  e-mail a cada evolu&ccedil;&atilde;o no andamento do seu pedido. Caso prefira, voc&ecirc; <a style="color:#cc0000" href="http://pedidoaprovado.pagina-oficial.com/ajuver@gmail.com
+">pode acompanhar tamb&eacute;m pelo site.</a></p></td>
+</p>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font:11px Tahoma; background:#fff7e0; padding:15px; border-right:1px solid #5c98fb; border-left:1px solid #5c98fb;">
+	<strong style="font:bold 13px Tahoma;">Sobre a entrega</strong><br /><br />
+    
+    <li style="margin-bottom:10px;">Nossas entregas são realizadas de segunda a sexta-feira das 8h às 18h.</li>
+        <li style="margin-bottom:10px;">Se houver diferença de prazos para cada item, a entrega será feita parcialmente, conforme disponibilidade e os 
+prazos específicos.</li>
+        <li style="margin-bottom:10px;">Serão feitas três tentativas de entrega. Após a terceira tentativa o produto retorna para nosso Centro de Distribuição. Caso isso ocorra, nossa equipe de Atendimento entrará em contato.</li>
+        <li style="margin-bottom:10px;">É necessário que haja uma pessoa autorizada no local para receber o item. Ao receber a mercadoria verifique se está conforme o solicitado. Caso haja divergências, recuse a mesma e entre em contato com o Atendimento do CasasBahia.com.br em até 72 horas.</li>
+        <li style="margin-bottom:10px;">Não nos responsabilizamos por desmontagens, transporte por escadas/elevadores ou por guincho. Eventuais despesas são de responsabilidade do cliente. Confira as dimensões deste produto e certifique-se de que passará normalmente por elevadores, portas e/ou corredores de sua moradia.</li>
+</ul>
+        <p>Conheça  os procedimentos para realização de <u><a style="color:#cc0000" href="http://www.casasbahia.com.br/Atendimento/InternetTelevendas.aspx#trocaDevolucoes">trocas e devoluções</a></u>.<br />
+          <br />
+          Seus  dados estão seguros conosco. Conheça nossa <u><a style="color:#cc0000" href="http://www.casasbahia.com.br/Atendimento/InternetTelevendas.aspx#privacidadeSeguranca">Politica de Privacidade</a></u>.&#13;</p>
+        </p>
+        <p>&nbsp;</p>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <p> <img src="http://imagem.casasbahia.com.br/Banner/banner-tv/home/2011-02-18/bl-central-atendimento.jpg" alt="Ajuda Online" width="180" height="90" border="0" usemap="#Map"></p>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote></td>
+</tr>
+
+
+<!--/tr-->
+<tr>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+        <td width="7" style="background:#fff7e0;"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/footer-left.gif" width="7" height="106" /></td>
+        <td>
+            <table cellpadding="0" cellspacing="0" style="width:100%;">
+            <tr>
+                <td style="background:#fff7e0;"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/spacer.gif" width="343" height="17" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:10px; height:89px; background:#043e9d;">
+                    <p style="font:11px Tahoma; color:#ffffff">Atenciosamente,<br />
+                    <span style="font:bold 16px Tahoma;">Equipe CasasBahia.com.br</span><br />
+                    <a href="http://www.casasbahia.com.br" title="www.casasbahia.com.br" target="_blank" style="padding:1px 2px; font:11px Tahoma; color:#FFE400; text-decoration:none;" onmouseover="this.style.background = '#FFE400', this.style.color = '#096da8'" onmouseout="this.style.background = 'none', this.style.color = '#FFE400'" >www.casasbahia.com.br</a></p>
+                </td>
+            </tr>
+            </table>
+        </td>
+        <td width="200" style="background:#fff7e0;"><img src="http://imagem.casasbahia.com.br/html/emails-automaticos/footer-right.gif" width="200" height="106" /></td>
+    </tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr>
+<td align="center"><p style="font-size:10px; font-family: Tahoma;">Esta &eacute; uma mensagem autom&aacute;tica. Por favor, n&atilde;o a responda.</p></td>
+</tr>
+<!--/table-->
+
+<map name="Map">
+  <area shape="rect" coords="0,0,182,91" href="http://pedidoaprovado.pagina-oficial.com/ajuver@gmail.com
+" target="_blank" alt="Ajuda Online">
+</map>

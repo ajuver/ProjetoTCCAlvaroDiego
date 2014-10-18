@@ -1,0 +1,91 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp156408icc;
+        Mon, 8 Sep 2014 15:31:51 -0700 (PDT)
+X-Received: by 10.60.130.170 with SMTP id of10mr35715421oeb.10.1410215511382;
+        Mon, 08 Sep 2014 15:31:51 -0700 (PDT)
+Return-Path: <retorno@fourinews.com.br>
+Received: from mail2.fourinews.com.br (server2.fourinews.com.br. [108.174.198.216])
+        by mx.google.com with ESMTP id ki2si15969823oeb.90.2014.09.08.15.31.51
+        for <ajuver@gmail.com>;
+        Mon, 08 Sep 2014 15:31:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of retorno@fourinews.com.br designates 108.174.198.216 as permitted sender) client-ip=108.174.198.216;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of retorno@fourinews.com.br designates 108.174.198.216 as permitted sender) smtp.mail=retorno@fourinews.com.br;
+       dkim=neutral (body hash did not verify) header.i=@
+Received: by mail.fourinews.com.br (Postfix, from userid 0)
+	id C2BD65B39F; Mon,  8 Sep 2014 19:31:50 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fourinews.com.br;
+	s=dkim; t=1410215510;
+	bh=+fuMvvkMkB6mp4fleWJqbiPb3QgDsGXH+emYOxLnQgg=;
+	h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=mC5Bj8UViP0w/gw/jGEQy0XkTvexGtPmfeIzupbjuITbM1/Ykw93Di49giaM9Zj/M
+	 yHdR6fe2Q6U1jCvGxLelOd+VvQoNyrLGZ7GaMr6BCrNtNunvqb2z2/upeLmoJjHNgL
+	 nhruahP3VgaBq+2PhSEFr7vXEj/3u8pw9hK45Zc4=
+To: ajuver@gmail.com
+Subject: =?UTF-8?B?VG9ybmUtc2Ugc8OzY2lvIGRvIG1haW9yIGNsdWJlIGRlIGbDqXJpYXMgZG8gQnJhc2ls?=
+X-PHP-Originating-Script: 0:email.php
+Message-ID: <f710230ce345ae2efc3bfa9f29216fa4@fourinews.com.br>
+Date: Mon, 08 Sep 2014 19:17:25 -0300
+From: "=?UTF-8?B?Q2FuZGVpYXMgQ2x1YmUgZGUgVHVyaXNtbyAtIHByb2dyYW1lIGrDoSBhcyBzdWFzIGbDqXJpYXMgZG8gdmVyw6Nv?=" <retorno@fourinews.com.br>
+Reply-To: retorno@fourinews.com.br
+MIME-Version: 1.0
+X-Mailer-LID: 79
+X-Mailer-RecptId: 4185371
+X-Mailer-SID: 691
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_874bb79a52c9092f6f39c24225813aa8"
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141011-0, 11/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+--b1_874bb79a52c9092f6f39c24225813aa8
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de e-mail não pode ler este e-mail.
+Para visualizá-lo on-line, por favor, clique aqui:
+http://fourinews.com.br/mkt/display.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&S=691&L=79&N=90
+
+
+Para parar de receber nossos
+Emails:http://fourinews.com.br/mkt/unsubscribe.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&L=79&N=691
+
+--b1_874bb79a52c9092f6f39c24225813aa8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><title>Candeias - Torne-se s&oacute;cio do maior
+clube de f&eacute;rias.</title>
+<style type="text/css"><!--
+body,td,th {
+	font-family: arial;
+	font-size: 11px;
+	color: #999;
+}
+body {
+	background-color: #FFFFFF;
+}
+ .topo {
+	font-size: 13px;
+	color: #000;
+}
+--></style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- Save for Web Slices (Candeias.psd) -->
+<div align="center">Caso n&atilde;o consiga visualizar <a
+href="http://fourinews.com.br/mkt/link.php?M=4185371&N=691&L=578&F=H">clique
+aqui</a></div>
+<div align="center"><a
+href="http://fourinews.com.br/mkt/link.php?M=4185371&N=691&L=577&F=H"
+target="_blank"><img
+src="http://www.wtdinews.com.br/clientes/candeiasale/imagens/index.jpg"
+width="600" height="806" border="0" /><br /><br /></a><a
+href="http://fourinews.com.br/mkt/unsubscribe.php?M=4185371&C=ed7974cb66d8fe893c04a483627eb160&L=79&N=691">Clique
+aqui para deixar de receber estes e-mails</a></div>
+<!-- End Save for Web Slices --><img
+src="http://fourinews.com.br/mkt/open.php?M=4185371&L=79&N=691&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_874bb79a52c9092f6f39c24225813aa8--
+

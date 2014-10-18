@@ -1,0 +1,696 @@
+Delivered-To: ajuver@gmail.com
+Received: by 10.42.29.135 with SMTP id r7csp376714icc;
+        Tue, 14 Oct 2014 07:31:56 -0700 (PDT)
+X-Received: by 10.107.148.200 with SMTP id w191mr2611965iod.28.1413297115884;
+        Tue, 14 Oct 2014 07:31:55 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender) smtp.mail=;
+       dkim=pass header.i=@newsletter.lojascolombo.com.br
+Received-SPF: softfail (google.com: best guess record for domain of transitioning unknown does not designate <unknown> as permitted sender)
+Received: by 10.50.33.138 with POP3 id r10mf7342791igi.2;
+        Tue, 14 Oct 2014 07:31:55 -0700 (PDT)
+X-Gmail-Fetch-Info: ajuver@yahoo.com.br 2 pop.mail.yahoo.com.br 995 ajuver
+X-Apparently-To: ajuver@yahoo.com.br; Tue, 14 Oct 2014 14:19:03 +0000
+Received-SPF: pass (domain of envfrm.rsys5.com designates 199.7.204.123 as permitted sender)
+X-YMailISG: jt1KJIAWLDuE89IwmfvqUw7PH2Ub6c5aDETewaumPiOwZE_m
+ jSjfAjahzZyQJsMlsxb57.fEnyMcEhq5oTBzLVVamFUPueLc6vgMicHhUFvD
+ EbcinoOhHkksL6u7NxO6Ar.l1WfLRhLN9LvXiGFIVjPsA3JVhlJvMKLIsOf0
+ W2NsskXbsZWEMbdSci.bMtQSO3ZBd0ExCEuPM31PHmNziZ0Nsj3WuhJUU_9X
+ 642AVrf0QyhG1xte7FW7yRmdrrLcmUlLtcXEjvHcRLJg5XBp3ImWQPH512h5
+ gnjfxPdj5T08gln.0tI6VBeYasoHKzSZecjARHLIJ2Rq3fPvztQMssjOSHSV
+ knXTAU7QY6iYXfpC4xZyB.fdlP2DmZhrKfmVn9_PNqK7iHGT_8rszB6zjrua
+ cD4lAlNYs5EQM9mehuCCrrPs6hB2YcDgEXU8bd.zadwMa2U57yCElEjo50Up
+ KaU11mQpKFaVAEBo7wKRDTOhJoYDsmcgQaUfmKjfqARVqg5oX6Z2l.dXWhpo
+ Tgq0y32OF6BcsDpOvNaRNkaolG2xR5VV_wKxrUDUJx6wpeFqaD1iSdmGbbjM
+ wEUS2rSRg2P1OvNnW1NHAqBYNmVAMcbN_hI9PiioJaeZN_5JKc18eTK4hDB1
+ 8Ut_B1vt8TWTLwf8JUeFfrq22Uy_0lMlhVMtNf3WHHn1k8gmMrxTpbW_7z8w
+ 3fXl_Adc77S5DxY1.ekHSHlJnjW4PSx1p82IGejFAYMenaEy6_rn.5clSU6u
+ DnbB_zwX3jp_zgR6dV46Eo3.GZWBvIDTfdNYKZy9uV8MgCzqh5WqBOBOsz5z
+ tgciwWAQxgYpCvSbpAcr43hFCHWSC.xUTSvCfPzRlZfITD6_crD6U55oFltb
+ rHgXrOC1od8y0iQKCdpk8m3AiJGPHJGhPxJnBq5HuqL5JRRhetg_1MX4q6rt
+ 0iei2fyzWMDhNQueOJrcA.4_FHDAeKPXJ7vcF.3yrPoJ.VUSVhXBAJwjxWCD
+ JM6LiIso2u98T9bRezvGiZ8hXxs0MA0nirBMZSDBRowvpgqhXTy4zM3ant0E
+ DG6bGhRV1aV2TQ9.gr.FPAozC3F.uKWWwHBxh17xARzmD_q4b3qe4AM69D9M
+ bqaszk68jt7.5CUOGN367ifjZL.nzp0BJBxgrX.Jp1jWGgZKpu_rlW.ZnnxT
+ ioKGipqB97RkI58S8D2zUTc1ZTA6DXGaKjTHniy96XXSiHEBoXwdfm6463ry
+ BSjEkLhS6_8uLt4WpR7EfMucg8.8FDUQXhonZsA1Hs2JSqqo6hNZJR4iMDRQ
+ GwtrBXTfG9DE9EN4ub1X3M1G1ONT3ETOyyLXpfco67nLYTbkkGY_KAnUPtT3
+ GmQhH24CH7gyDNjldmuV.5UFTDlqNDD893Xy0wVDtBsnEZqhHg._kaPijVO9
+ _sEWd1X6o_.IVNSin47.tsTCxQ0uSIa1ZYwXzbW3lxEO1QgWiQDZU5LUizKQ
+ XvfYERwJc9jbEpLZ09p5.ak34FW.CqfxKwes7xazJbJNk13yiRAu2bbzPFOj
+ RmatvNxsIZsBNuJqf2wxhgyvIuI2tmP.eHXixGslMauqN6Mh.JAdZgteV8Hb
+ tocAojH7CYhOBpg.YSH7FhPJxzz7_mQg6t1ZWJtorClHBTbfMiBeJfg3_pPL
+ 4r0cF31KVtcaY0A8l6ovEmxYAjufqT411upUw3isgCvgKnJU379MNVk9blk0
+ VXxeg5g0SP2zN0pAC.fpeK0lKDF8RdZXh6UDCpst2pPgNch.4BZNpBjLg0Qv
+ W.Cwoa58hFMiBscg2IM6Cyi4WYbNXWf4amDE.bAmhIzJqbie.Ol5NCiXnD8m
+ x.56jsUonwUxQTI-
+X-Originating-IP: [199.7.204.123]
+Authentication-Results: mta1579.mail.ne1.yahoo.com  from=newsletter.lojascolombo.com.br; domainkeys=pass (ok);  from=newsletter.lojascolombo.com.br; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO omp.newsletter.lojascolombo.com.br) (199.7.204.123)
+  by mta1579.mail.ne1.yahoo.com with SMTP; Tue, 14 Oct 2014 14:19:02 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=lojascolombo; d=newsletter.lojascolombo.com.br;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=info@newsletter.lojascolombo.com.br;
+ bh=xUisT3kZvNx4g+ipshPPXnXLupw=;
+ b=KheNUFBM0u5VHVDf1svdi7083h1CrYfrAIq8fFV+X+nQxPadMEYN1pnG+WsAkgBa2iCPCILF3pjF
+   bwCFFH4Eh2GkJgZBdfsNBK2PLfj4LLcB+3bsZrfHFzFeGwvD7a+ozJmna6ArIxLZ2cSmJFmURrQt
+   xqWZLLUI58cOXiwTbxE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=lojascolombo; d=newsletter.lojascolombo.com.br;
+ b=SfpNo8uDDy0sGGkSt7IURYtstPIHJyEF+ztrkB7ZQ/W2xQpSIkmgNpS43rZwcDb6BOeotLNgFF+e
+   WwuMxCT+FyV3FQFjMXY/yBVkTNi3IuiOf0To0pqq+7gfRbfAEPLje7Mg/ta4SGnez6VOCtgpKYba
+   2bBUDYngnPH+MGJcI20=;
+Received: by omp.newsletter.lojascolombo.com.br id h7kodc1615kc for <ajuver@yahoo.com.br>; Tue, 14 Oct 2014 06:12:54 -0700 (envelope-from <lojcol.52733@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 14 Oct 2014 06:12:54 -0700
+To: ajuver@yahoo.com.br
+From: "Colombo.com.br" <info@newsletter.lojascolombo.com.br>
+Reply-To: "Colombo.com.br" <info@lojascolombo.com.br>
+Subject: Comemore com a gente! \o/
+List-Unsubscribe: <http://newsletter.lojascolombo.com.br/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9&_ei_=EolaGGF4SNMvxFF7KucKuWPvXxmbjn65vhFIRO_7N573vU32gqK1Zf-QYvJpyFYGbnL2bY-GKrmf4g>, <mailto:unsubscribe-WQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: HrmNLjxPHohhQJhuQIj
+X-rext: 4.interact5.Eg9TVFdaVN8dGDZ_dc-jse6OLRB_0H_xvMoD
+X-cid: lojcol.10016202
+Message-ID: <0.0.4D.46E.1CFE7B09085D3A2.0@omp.newsletter.lojascolombo.com.br>
+X-Antivirus: avast! (VPS 141014-1, 14/10/2014), Inbound message
+X-Antivirus-Status: Clean
+
+=EF=BB=BF<=21doctype html>
+<html>
+<head>
+<meta charset=3D=22UTF-8=22>
+<title>Colombo=2Ecom=2Ebr</title>
+<style type=3D=22text/css=22>
+body =7B
+	background-color: =23EEE;
+=7D</style>=20
+</head>
+
+<body leftmargin=3D=220=22 topmargin=3D=220=22 marginwidth=3D=220=22 margin=
+height=3D=220=22 bgcolor=3D=22=23EEE=22>
+
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+<tr><td align=3D=22center=22 bgcolor=3D=22=23EEEEEE=22><table width=3D=2266=
+9=22 height=3D=2220px=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=
+=3D=220=22>
+<tr>
+  <td width=3D=22461=22 height=3D=2225px=22 bgcolor=3D=22=23EEEEEE=22><stro=
+ng><span style=3D=22font-family:'Trebuchet MS'; color:=23153967; font-size:=
+12px=22>Muitas Ofertas para Comemorar=21</span></strong></font></td>
+  <td width=3D=2288=22 align=3D=22right=22 ><span style=3D=22font-family:'T=
+rebuchet MS'; color:=23153967; font-size:12px=22><a href=3D=22http://newsle=
+tter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezg=
+KHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWR&_ei_=3DEn8vvhP5L0jyQLjKE=
+8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 style=
+=3D=22color: =23F98400=22>Ver online</a></span></td>
+  <td width=3D=2231=22 align=3D=22center=22><span style=3D=22font-family:'T=
+rebuchet MS'; color:=23153967; font-size:12px=22>=7C</span></td>
+  <td width=3D=2289=22 align=3D=22right=22><span style=3D=22font-family:'Tr=
+ebuchet MS'; color:=23153967; font-size:12px=22><a href=3D=22http://newslet=
+ter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgK=
+HzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWS&_ei_=3DEn8vvhP5L0jyQLjKE8=
+x1jpjBDQxSE4I1-ItIFgAZ9q1FuJArbz1gGXWo2D3UajpJabtA3O91LgC6Dg=2E=22 style=3D=
+=22color: =23F98400=22>Descadastre-se</a></span></td>
+</tr>
+</table></td></tr>
+  <tr>
+    <td align=3D=22center=22 bgcolor=3D=22=23EEEEEE=22><table width=3D=2250=
+5=22 height=3D=2247px=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=
+=3D=220=22>
+  <tr>
+    <td colspan=3D=222=22><a href=3D=22http://newsletter=2Elojascolombo=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07=
+XRaXzfNfh9VXtpKX%3DSRRYDTWT&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyU=
+bqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 rilt=3D=22Colombo=2Ecom=2Ebr=
+=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/topo-gen_=
+=2Epng=22 width=3D=22670=22 height=3D=2212=22 style=3D=22display: block; bo=
+rder: 0;=22/></a></td>
+    </tr>
+  <tr>
+    <td width=3D=22298=22 rowspan=3D=222=22 bgcolor=3D=22=23133C68=22><a hr=
+ef=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3=
+DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWT&_ei=
+_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgk=
+nMcHugg=2E=22 rilt=3D=22Colombo=2Ecom=2Ebr=22><img src=3D=22http://www=2Eco=
+lombo=2Ecom=2Ebr/email/14out14m/x_logo_colombo=2Epng=22 width=3D=22298=22 h=
+eight=3D=2238=22 alt=3D=22Colombo=2Ecom=2Ebr=22 style=3D=22display: block; =
+border: 0; color: =23133C68;=22/></a></td>
+    <td width=3D=22372=22 valign=3D=22middle=22 bgcolor=3D=22=23133C68=22><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D=22middle=22 bgcolor=3D=22=23133C68=22 style=3D=22margin-t=
+op:10px=22><span style=3D=22font-family:'Trebuchet MS'; color:=23FFFFFF; fo=
+nt-size:17px=22>=E2=80=A2 <a href=3D=22http://newsletter=2Elojascolombo=2Ec=
+om=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07=
+XRaXzfNfh9VXtpKX%3DSRRYDTWU&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyU=
+bqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=
+=22menu-topo-eletrodomesticos=22 style=3D=22text-decoration: none; color: =
+=23FFFFFF=22>Eletro</a> =E2=80=A2 <a href=3D=22http://newsletter=2Elojascol=
+ombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJq=
+rkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWW&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TK=
+TrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 style=3D=22text-decora=
+tion: none; color: =23FFFFFF=22 rilt=3D=22menu-topo-telefonia=22>Telefonia<=
+/a> =E2=80=A2 <a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/=
+cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VX=
+tpKX%3DSRRYDTWY&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBg=
+In1LDASR0Kr0nP5BSgknMcHugg=2E=22 style=3D=22text-decoration: none; color: =
+=23FFFFFF=22 rilt=3D=22menu-topo-moveis=22>M=C3=B3veis</a> =E2=80=A2 <a hre=
+f=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3D=
+WQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWA&_ei_=
+=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgkn=
+McHugg=2E=22 style=3D=22text-decoration: none; color: =23FFFFFF=22 rilt=3D=
+=22menu-topo-som-e-video=22>Som e V=C3=ADdeo</a></span></td>
+  </tr>
+    </table>
+</td>
+  </tr>
+</table>
+<=21--fim topo-->
+<=21--whiteline-1px-->
+<table width=3D=22670px=22 height=3D=221px=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23EEE=
+=22>
+<tr>
+<td height=3D=221px=22 bgcolor=3D=22=23EEE=22>
+</td></tr></table><=21--fim-whiteline-1px--><=21--inicio modulos produtos-->
+<center><table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22text-align:center; text=
+-align:-webkit-center; text-align:-moz-center;=22 bgcolor=3D=22=23EEE=22>
+<tr>
+<td width=3D=22670px=22 align=3D=22center=22 bgcolor=3D=22=23EEE=22><table =
+width=3D=22670=22 height=3D=22150=22 border=3D=220=22 a cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+
+		<tr>
+			<td align=3D=22center=22>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTWB&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22topo-aniversario=
+=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__1=2Ejpg=
+=22 width=3D=22670=22 height=3D=22182=22 alt=3D=22topo-aniversario=22 style=
+=3D=22DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTWC&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Smartphone-Samsun=
+g-Galaxy-Core-2-Duos-Android-4-4-3G-Dual-Chip-Preto-G355M=22><img src=3D=22=
+http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__2=2Ejpg=22 width=3D=22670=
+=22 height=3D=22347=22 alt=3D=22Smartphone-Samsung-Galaxy-Core-2-Duos-Andro=
+id-4-4-3G-Dual-Chip-Preto-G355M=22 style=3D=22DISPLAY: block=22 border=3D=
+=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTWD&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Lava-e-Seca-LG-8-=
+5-Kg-Automatica-com-Aquecimento-de-agua-Refresh-WD-1485AT=22><img src=3D=22=
+http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__3=2Ejpg=22 width=3D=22670=
+=22 height=3D=22351=22 alt=3D=22Lava-e-Seca-LG-8-5-Kg-Automatica-com-Aqueci=
+mento-de-agua-Refresh-WD-1485AT=22 style=3D=22DISPLAY: block=22 border=3D=
+=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYR&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Ar-Condicionado=
+=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__4=2Ejpg=
+=22 width=3D=22670=22 height=3D=22187=22 alt=3D=22Ar-Condicionado=22 style=
+=3D=22DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYS&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Roupeiro-6-Portas=
+-2-Gavetas-S347-Kappesberg=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr=
+/email/14out14m/__5=2Ejpg=22 width=3D=22335=22 height=3D=22454=22 alt=3D=22=
+Roupeiro-6-Portas-2-Gavetas-S347-Kappesberg=22 style=3D=22DISPLAY: block=22=
+ border=3D=220=22/></a>
+				</td>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYT&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22TV-LED-32-LG-HDTV=
+-HDMI-USB-32LB550B=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/1=
+4out14m/__6=2Ejpg=22 width=3D=22335=22 height=3D=22454=22 alt=3D=22TV-LED-3=
+2-LG-HDTV-HDMI-USB-32LB550B=22 style=3D=22DISPLAY: block=22 border=3D=220=
+=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYU&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Micro-ondas-Brast=
+emp-de-Embutir-20-Litros-em-Inox-Gourmand-BME25BR=22><img src=3D=22http://w=
+ww=2Ecolombo=2Ecom=2Ebr/email/14out14m/__7=2Ejpg=22 width=3D=22335=22 heigh=
+t=3D=22454=22 alt=3D=22Micro-ondas-Brastemp-de-Embutir-20-Litros-em-Inox-Go=
+urmand-BME25BR=22 style=3D=22DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYW&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22ipad-mini=22><img=
+ src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__8=2Ejpg=22 width=
+=3D=22335=22 height=3D=22454=22 alt=3D=22ipad-mini=22 style=3D=22DISPLAY: b=
+lock=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYY&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Smart-TV-3D-LED-4=
+2-LG-Full-HD-Wi-Fi-3-HDMI-e-4-Oculos-42LB6500=22><img src=3D=22http://www=
+=2Ecolombo=2Ecom=2Ebr/email/14out14m/__9=2Ejpg=22 width=3D=22335=22 height=
+=3D=22452=22 alt=3D=22Smart-TV-3D-LED-42-LG-Full-HD-Wi-Fi-3-HDMI-e-4-Oculos=
+-42LB6500=22 style=3D=22DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYA&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Smart-TV-LED-4K-5=
+0-Samsung-4-HDMI-3-USB-UN50HU7000G=22><img src=3D=22http://www=2Ecolombo=2E=
+com=2Ebr/email/14out14m/__10=2Ejpg=22 width=3D=22335=22 height=3D=22453=22 =
+alt=3D=22Smart-TV-LED-4K-50-Samsung-4-HDMI-3-USB-UN50HU7000G=22 style=3D=22=
+DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYB&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22TV-LED=22><img sr=
+c=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__11=2Ejpg=22 width=
+=3D=22670=22 height=3D=22190=22 alt=3D=22TV-LED=22 style=3D=22DISPLAY: bloc=
+k=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYC&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Aspirador-de-Agua=
+-e-Po-Flex-S-Electrolux=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/em=
+ail/14out14m/__12=2Ejpg=22 width=3D=22335=22 height=3D=22455=22 alt=3D=22As=
+pirador-de-Agua-e-Po-Flex-S-Electrolux=22 style=3D=22DISPLAY: block=22 bord=
+er=3D=220=22/></a>
+				</td>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTYD&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Colchao-MolaBlack=
+-Hibridovisco-158x198-Castor=22><img src=3D=22http://www=2Ecolombo=2Ecom=2E=
+br/email/14out14m/__13=2Ejpg=22 width=3D=22335=22 height=3D=22455=22 alt=3D=
+=22Colchao-MolaBlack-Hibridovisco-158x198-Castor=22 style=3D=22DISPLAY: blo=
+ck=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTAR&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Cozinha-Compacta-=
+Decibal-Veneza-com-10-Portas-e-1-Gaveta=22><img src=3D=22http://www=2Ecolom=
+bo=2Ecom=2Ebr/email/14out14m/__14=2Ejpg=22 width=3D=22335=22 height=3D=2245=
+2=22 alt=3D=22Cozinha-Compacta-Decibal-Veneza-com-10-Portas-e-1-Gaveta=22 s=
+tyle=3D=22DISPLAY: block=22 border=3D=220=22/></a>
+				</td>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTAS&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22Notebook-Positivo=
+-Stilo-Intel-Celeron-2GB-RAM-500GB-HD-Windows-8-1-XR3010=22><img src=3D=22h=
+ttp://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__15=2Ejpg=22 width=3D=22335=
+=22 height=3D=22452=22 alt=3D=22Notebook-Positivo-Stilo-Intel-Celeron-2GB-R=
+AM-500GB-HD-Windows-8-1-XR3010=22 style=3D=22DISPLAY: block=22 border=3D=22=
+0=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+			<tr>
+			<td>
+				<table width=3D=22670=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22>
+					<tr>
+				<td>
+					<a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTAT&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDAS=
+R0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 rilt=3D=22promo-walita=22><=
+img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/__16=2Ejpg=22 w=
+idth=3D=22670=22 height=3D=22191=22 alt=3D=22promo-walita=22 style=3D=22DIS=
+PLAY: block=22 border=3D=220=22/></a>
+				</td>
+						</tr>
+					</table>
+				</td>
+			</tr>=09
+	=09
+</table></td></tr></table></center><=21--final modulos produtos-->
+<=21--inicio footer-->
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 bgcolor=3D=22=23EEE=22>
+  <tr>
+    <td align=3D=22center=22 bgcolor=3D=22=23EEE=22><table width=3D=22669=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td width=3D=22192=22 bgcolor=3D=22=23133C68=22><a href=3D=22http:/=
+/newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+nD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTWT&_ei_=3DEn8vvhP5L0=
+jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 =
+rilt=3D=22Colombo=2Ecom=2Ebr=22><img src=3D=22http://www=2Ecolombo=2Ecom=2E=
+br/email/14out14m/z_colombo_footer=2Egif=22 width=3D=22192=22 height=3D=229=
+3=22 alt=3D=22Colombo=2Ecom=2Ebr=22 style=3D=22display:block; border:0=22/>=
+</a></td>
+        <td width=3D=22143=22 bgcolor=3D=22=23133C68=22><a href=3D=22http:/=
+/newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+nD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAU&_ei_=3DEn8vvhP5L0=
+jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 =
+rilt=3D=22frete-gratis-regulamento=22><img src=3D=22http://www=2Ecolombo=2E=
+com=2Ebr/email/14out14m/z_frete_gratis=2Egif=22 width=3D=22143=22 height=3D=
+=2293=22 alt=3D=22Frete Gr=C3=A1tis=22 style=3D=22display:block; border:0=
+=22/></a></td>
+        <td width=3D=22129=22 bgcolor=3D=22=23133C68=22><a href=3D=22http:/=
+/newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+nD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAW&_ei_=3DEn8vvhP5L0=
+jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 =
+rilt=3D=22montagem-gratis-regulamento=22><img src=3D=22http://www=2Ecolombo=
+=2Ecom=2Ebr/email/14out14m/z_montagem_gratis=2Egif=22 width=3D=22129=22 hei=
+ght=3D=2293=22 alt=3D=22Montagem Gr=C3=A1tis=22 style=3D=22display:block; b=
+order:0=22/></a></td>
+        <td width=3D=2273=22 bgcolor=3D=22=23133C68=22><a href=3D=22http://=
+newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGn=
+D2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAY&_ei_=3DEn8vvhP5L0j=
+yQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 r=
+ilt=3D=22facebook=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14=
+out14m/z_facebook=2Egif=22 width=3D=2273=22 height=3D=2293=22 alt=3D=22Face=
+book=22 style=3D=22display:block; border:0=22/></a></td>
+        <td width=3D=2257=22 bgcolor=3D=22=23133C68=22><a href=3D=22http://=
+newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGn=
+D2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAA&_ei_=3DEn8vvhP5L0j=
+yQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 r=
+ilt=3D=22twitter=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14o=
+ut14m/z_twitter=2Egif=22 width=3D=2257=22 height=3D=2293=22 alt=3D=22Twitte=
+r=22 style=3D=22display:block; border:0=22/></a></td>
+        <td width=3D=2275=22 bgcolor=3D=22=23133C68=22><a href=3D=22http://=
+newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGn=
+D2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAB&_ei_=3DEn8vvhP5L0j=
+yQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 r=
+ilt=3D=22Blog=22><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out1=
+4m/z_blog=2Egif=22 width=3D=2276=22 height=3D=2293=22 alt=3D=22Blog=22 styl=
+e=3D=22display:block; border:0=22/></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+  <tr>
+    <td align=3D=22center=22 bgcolor=3D=22=23EEE=22><table width=3D=22669=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td bgcolor=3D=22=23133C68=22><img src=3D=22http://www=2Ecolombo=2E=
+com=2Ebr/email/14out14m/z_departamentos=2Egif=22 width=3D=22670=22 height=
+=3D=2232=22 alt=3D=22=22 style=3D=22display:block; border:0=22/></td>
+        </tr>
+      <tr>
+        <td bgcolor=3D=22=23133C68=22><table width=3D=22639=22 border=3D=22=
+0=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 style=
+=3D=22font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; color: =23=
+FFFFFF; text-align: left; line-height: 1=2E7em; font-size: 14px;=22>
+          <tr>
+            <td width=3D=22174=22 height=3D=2296=22 valign=3D=22top=22><spa=
+n style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=22http://newsletter=
+=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHze=
+vCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAC&_ei_=3DEn8vvhP5L0jyQLjKE8x1j=
+pgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 target=3D=
+=22_blank=22 style=3D=22text-decoration: none; color: =23C2E5E5;=22 rilt=3D=
+=22menu-acessorios=22> Acess&oacute;rios</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTAD&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-automotivo=22> Automotivo</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBR&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-bazar=22> Bazar</a><br />
+              <span style=3D=22color:=23E55E2E=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBS&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-brinquedos=22> Brinquedos</a> <br /></td>
+            <td width=3D=22205=22 valign=3D=22top=22><span style=3D=22color=
+:=23E55E2E=22>&bull;</span><a href=3D=22http://newsletter=2Elojascolombo=2E=
+com=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe0=
+7XRaXzfNfh9VXtpKX%3DSRRYDTBT&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZy=
+UbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 style=3D=22text-decoration: n=
+one; color: =23C2E5E5;=22 rilt=3D=22menu-cine-e-foto=22 target=3D=22_blank=
+=22> Cine e Foto</a><br />
+              <span style=3D=22color:=23E55E2E=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBU&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 style=3D=22text-decoration: none; color: =23C2E5E5;=22 rilt=3D=22m=
+enu-eletrodomesticos=22 target=3D=22_blank=22> Eletrodom&eacute;sticos</a> =
+<br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBW&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-esporte-e-lazer=22> Esporte e Lazer</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBY&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-ferramentas=22> Ferramentas</a> <br /></td>
+            <td width=3D=22155=22 valign=3D=22top=22><span style=3D=22color=
+:=23E55F2D=22>&bull;</span><a href=3D=22http://newsletter=2Elojascolombo=2E=
+com=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe0=
+7XRaXzfNfh9VXtpKX%3DSRRYDTBA&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZy=
+UbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =23C2E5E5;=22 rilt=3D=22menu-informatic=
+a=22> Inform=C3=A1tica</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBB&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-moveis=22> M&oacute;veis</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBC&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-portateis=22> Port&aacute;teis</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTBD&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5;=22 rilt=3D=22menu-saude-e-beleza=22> Sa&uacute;de e Beleza</a></td>
+            <td width=3D=22116=22 valign=3D=22top=22 style=3D=22color:=23B3=
+C8D4; font-size:12px; text-align:left;=22><p><span style=3D=22color:=23E55F=
+2D=22>&bull;</span><a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr=
+/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfN=
+fh9VXtpKX%3DSRRYDTCR&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrE=
+tBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22 target=3D=22_blank=22 style=3D=22text=
+-decoration: none; color: =23C2E5E5; font-size: 14px;=22 rilt=3D=22menu-som=
+-e-video=22> Som e V&iacute;deo</a><br />
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTCS&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5; font-size: 14px;=22 rilt=3D=22menu-telefonia=22> Telefonia</a><br>
+              <span style=3D=22color:=23E55F2D=22>&bull;</span><a href=3D=
+=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=3DX0Gzc2X%3DWQpg=
+lLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3DSRRYDTCT&_ei_=3DE=
+n8vvhP5L0jyQLjKE8x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHu=
+gg=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =23=
+C2E5E5; font-size: 14px;=22 rilt=3D=22menu-games=22> Games</a></p>
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor=3D=22=23133C68=22><img src=3D=22http://www=2Ecolombo=2E=
+com=2Ebr/email/14out14m/x_=2Egif=22 width=3D=22670=22 style=3D=22display:bl=
+ock; border:0=22/></td>
+      </tr>
+      <tr>
+        <td height=3D=22113=22 align=3D=22center=22 valign=3D=22top=22 bgco=
+lor=3D=22=23133C68=22><table width=3D=22640=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+          <tr>
+            <td height=3D=22112=22 valign=3D=22top=22><p align=3D=22justify=
+=22 style=3D=22font-family:'Trebuchet MS'; color:=23FFFFFF; font-size:12px=
+=22>E-mail v=C3=A1lido at=C3=A9 <span style=3D=22color:=23EF8413;=22> 14/10=
+/2014</span>, somente para  Internet e Televendas, sujeita =C3=A0 altera=C3=
+=A7=C3=A3o de pre=C3=A7o, condi=C3=A7=C3=B5es de pagamento=03e disponibilid=
+ade de estoque sem aviso pr=C3=A9vio=2E Fotos meramente ilustrativas=2E Ite=
+ns decorativos n=C3=A3o acompanham os produtos=2E
+Parcelamento apenas nas compras feitas com cart=C3=A3o de cr=C3=A9dito com =
+taxa de juros de at=C3=A9 1,99% ao m=C3=AAs e 26,88% ao ano=2E Parcela m=C3=
+=ADnima de 19,90=2E  N=C3=A3o responda este e-mail,  <strong>Fale Conosco</=
+strong> atrav=C3=A9s do telefone <span style=3D=22color:=23EF8413;=22>0800 =
+642 3333</span> ou acesse a Central de Atendimento=2E Para garantir que nos=
+sos comunicados cheguem em sua caixa de entrada, adicione ao seu cat=C3=A1l=
+ogo de endere=C3=A7os o e-mail: <span style=3D=22color:=23EF8413;=22>info=
+=40lojascolombo=2Ecom=2Ebr</span>=2E Este e-mail foi enviado para: <span st=
+yle=3D=22color:=23EF8413;=22>ajuver=40yahoo=2Ecom=2Ebr</span>=2E</span><br>
+            </p></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src=3D=22http://www=2Ecolombo=2Ecom=2Ebr/email/14out14m/z_=
+line=2Epng=22 width=3D=22670=22 height=3D=229=22 style=3D=22display:block; =
+border:0=22/></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+  <tr>
+    <td>
+      <table width=3D=22670=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22><span style=3D=22font-family: 'Trebuchet=
+ MS'; color: =23153967; font-size: 12px; text-align: center;=22>N=C3=B3s re=
+speitamos sua privacidade, se voc=C3=AA deseja n=C3=A3o receber nossas mens=
+agens <a href=3D=22http://newsletter=2Elojascolombo=2Ecom=2Ebr/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGnD2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXtpKX%3D=
+SRRYDTWS&_ei_=3DEn8vvhP5L0jyQLjKE8x1jpjBDQxSE4I1-ItIFgAZ9q1FuJArbz1gGXWo2D3=
+UajpJabtA3O91LgC6Dg=2E=22><span style=3D=22color:=23EF8413=22>cancele sua i=
+nscri=C3=A7=C3=A3o</span></a>=2E</span></td>
+        </tr>
+    </table></td>
+  </tr>
+</table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+newsletter=2Elojascolombo=2Ecom=2Ebr/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGn=
+D2zezgKHzevCKE9zdXKJqrkLAwe07XRaXzfNfh9VXHkMX%3Dw&_ei_=3DEn8vvhP5L0jyQLjKE8=
+x1jpgjP4FUh6TKTrjmqZyUbqkIQrEtBeBgIn1LDASR0Kr0nP5BSgknMcHugg=2E=22>
+
+
+
+
+</body>
+</html>
+
+
