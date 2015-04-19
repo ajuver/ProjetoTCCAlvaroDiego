@@ -5,7 +5,7 @@ import weka.core.OptionHandler;
 import weka.core.converters.TextDirectoryLoader;
 
 public class TestTextDir {
-
+  private String Log;
   public static void main(String[] args) {
     if (args.length > 0) {
       try {
